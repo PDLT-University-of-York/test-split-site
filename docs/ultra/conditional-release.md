@@ -1,0 +1,70 @@
+---
+tags:
+# Delete to leave only relevant tags
+    - Advanced
+    - Administration
+    - Ultra
+---
+
+# Content availability - conditional release
+
+!!! Summary
+
+    Items in your Ultra site can be set to become **Visible to students** or **Hidden from students** based on certain conditions, such as on a particular date, or according to individual student performance.
+
+
+## Quick Start Guide
+
+
+### Video Steps
+
+Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Text Steps
+
+<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
+<!-- Use **bold** to highight key tasks and features -->
+
+To set up conditional availability based on date/time:
+
+1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow that appears.
+2. Click on **Release conditions**.
+3. Under **Set additional conditions**, click on the checkbox labelled **Date/Time**.
+4. To set a content item to only be visible after a certain date/time, click on the checkbox labelled **Show on**, then select the date and time.
+5. To set a content item to be hidden after a certain date/time, click on the checkbox labelled **Hide after**, then select the date and time.
+6. If you want students to be able to see the item in the content list without being able to open it, prior to the time defined in step 4, under **When will content appear?** click on the radio button labelled **Show**. Otherwise, if you want the item to be invisible until the time defined in step 4, leave this set to **Hide**.
+
+Note that it is not possible to set up conditional availability for multiple items simultaneously.
+
+![Accessing the Release Conditions menu for an item in the Course Content area](images/conditional-release-visibility-menu.png)
+![Setting the date and time an item will become visible to students and hidden from students in the Set Additional Conditions menu](images/conditional-release-date-and-time.png)
+![Selecting whether content will be visible but not accessible to studnets before course members meet the release conditions](images/conditional-release-when-will-content-appear.png)
+
+!!! Warning
+
+    Please keep in mind that it is best practice not to restrict content week by week.
+
+To set up conditional availability based on student performance:
+
+1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow that appears.
+2. Click on **Release conditions**.
+3. Click the checkbox labelled **Performance** under **Set additional conditions**.
+4. Select from the drop down menu the marked item (e.g. a quiz) that will qualify a student to view this content item.
+5. Select the mark requirement from the drop down menu.
+6. Click on **Save**.
+
+![Accessing the Release Conditions menu for an item in the Course Content area](images/conditional-release-visibility-menu.png)
+![Selecting specific members or groups for release conditions to be applied to](images/conditional-release-select-groups.png)
+
+
+!!! Warning
+
+    It is important to check that all the correct content items are visible or hidden before students are enrolled on the course. To check, click on Student Preview in the top right corner of the page.
+
+## More Details and Troubleshooting 
+
+Please note that this guide only covers conditional release. To adjust item visibility permanently please refer to the [Content Availability](https://pdlt-university-of-york.github.io/vle-help/ultra/content-availability/) guide.

@@ -1,0 +1,29 @@
+Using the templates:
+1. Choose the button-pressing or contextual template
+2. No guide file yet: 
+    - Right click on the relevant template file name and click 'Copy'
+    - Right click on product folder name (Ultra, Panopto etc.) and click 'Paste'
+    - Open the folder and find the copied file.
+    - Right click on the file name and click 'Rename'. Enter guide file name (eg. using-a-template)
+3. Guide file already exists:
+    - Open the relevant template file and copy all the text.
+    - Open your new guide file and paste in the text.  
+6. Right click on the file name to open the file.
+7. Add content. ALL TEXT CAPS is to replace, eg: LINK URL. <!-- commented out text --> is instructions for you - either delete or leave commented. Use the Style Guide.
+8. Save file.
+9. In GitHub desktop, commit and push to origin.
+10. Celebrate with a biscuit (round, of course!)
+
+Key syntax:
+- headings: # H1, ## H2, ## H3 etc.
+- bold text: **bold text**
+- link: [LINK TEXT](LINK URL)
+- image: ![ALT TEXT](images/IMAGE FILE NAME "OPTIONAL IMAGE TITLE")
+- ordered list (numbered): 1. item one / 2. item two etc. (don't have to be in numerical order)
+- unordered list (bullet): - item one / - item two etc. Don't use for process steps.
+- admonition: !!! ADMONITION TITLE (eg, !!! Summary)
+
+Useful resources
+- style guide: https://docs.google.com/document/d/1aTLUaiPiNXckyyRH9e9FTk__0DsMhu5ZsyI90pHZDe0/edit?usp=sharing
+- more markdown syntax: https://www.markdownguide.org/basic-syntax
+- MKDocs reference materials: https://squidfunk.github.io/mkdocs-material/reference/
