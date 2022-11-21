@@ -7,14 +7,14 @@ tags:
     - Ultra
 ---
 
-# Adding Basic Content to a Document
+# Adding text to a Document
 
 !!! Summary
 
     Most Ultra content must be added straight into a Document. Files can be uploaded directly with quick previews available for students, images need alternative text or to be marked as decorative.
 
 
-## Adding Text and Images
+## Adding Text
 To add **text** to an Ultra site, create or open a Document and click “Add Content”. This will open up a text editor at the top of the Document similar to Original but slightly more streamlined. The text editor includes easy access to text formatting features such as styles, fonts, and colours. You can also add bullet-pointed or numbered lists, tables, or other content like MathType input and YouTube videos.
 
 To see how to upload images from your computer, see the section below about **Uploading Files and Images**.
@@ -49,31 +49,7 @@ Below is an embedded video detailing how to add images to a Document. Alternativ
 
 
 
-## Uploading Files and Images
 
-As well as uploading files and images using the text editor (see above), you can upload them directly between blocks of text in a Document:
-
-### Video steps
-
-### Text steps
-
-1. If you're uploading files/images to a Document with pre-existing content, click the small plus icon - otherwise skip to Step 2
-![A gif showing the small plus icon between blocks of text, and the drop-down menu that appears when you click on it](images/adding-content-between-sections.gif)
-2. Select **Upload from Computer**
-![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
-3. Find the item you would like to upload, select it, and click **Open**
-![An annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)]
-4. When **uploading an image** add a brief description of the image in the alternative text box (eg "Cartoon image of a coffee cup") or mark it as decorative, select the appropriate file options, and then click **Save**
-![An annotated screenshot highlighting the image options, alternative text box, and Save button](images/adding-content-image-options.png)
-5. When **uploading a file** select a descriptive display name (eg "Week 4 Seminar Materials.docx"), choose the appropriate file options, and then click **Save**
-![An annotated screenshot highlighting the file options and Save button](images/adding-content-file-options.png)
-6. **Files** can be previewed inline within Ultra Documents, example below
-![A gif showing the expansion and previewing of a file](images/adding-content-file-preview.gif)
-
-
-!!! Note
-
-    These steps are also applicable when using the Attachment tool within the text editor, but the uploaded file will often display slightly off-centre.
 
 
 ## YouTube Videos
