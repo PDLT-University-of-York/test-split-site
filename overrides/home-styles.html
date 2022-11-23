@@ -1,0 +1,212 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+
+<!-- Additional styles for landing page -->
+<style>
+
+    .md-header {
+        position: initial
+    }
+
+    .md-main__inner {
+        margin: 0
+    }
+
+    .md-footer-copyright {
+        display: none
+    }
+
+    .md-footer-nav__inner {
+        display: none
+    }
+
+    .md-content {
+        display: none
+    }
+
+    .md-footer-meta__inner {
+        align-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    /*
+     Table of content font color
+    */
+    a.md-tabs__link {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    a.md-tabs__link:hover,
+    a.md-tabs__link:focus {
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    /* hero styles */
+    .tx-container-hero {
+        height: fit-content;
+        padding-top: 0rem;
+        background: linear-gradient(to bottom, var(--md-primary-fg-color), #2a978d 99%, #fff 99%)
+    }
+
+    .tx-hero {
+        color: var(--md-primary-bg-color);
+        display: flex;
+        flex-wrap: wrap-reverse;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .tx-hero > * {
+        padding: 1rem;
+    }
+
+    .tx-hero h1 {
+        margin-bottom: 0rem;
+        color: currentColor;
+        font-weight: 700
+    }
+
+    .tx-hero__content {
+        flex: 1 1 0;
+        min-width: 250px;
+    }
+
+    .tx-hero__content > p > a {
+        padding: 0.15rem;
+        color: #fff;
+        text-decoration: underline;
+        transition: transform .25s cubic-bezier(.1,.7,.1,1), background-color .4s;
+    }
+
+    .tx-hero__content > p > a:hover,
+    .tx-hero__content > p > a:focus {
+        background-color: #fff;
+        color: var(--md-primary-fg-color);
+    }
+
+    /* .tx-hero__content_small {
+        justify-content: left;
+        padding-right: 3rem;
+    } */
+
+    .tx-hero__image {
+        flex: 1 1 0;
+        max-width: 40%;
+        min-width: 250px;
+        max-height: 100%;
+    }
+
+    /* tools links styles */
+    .tx-container-tools {
+        padding: 0rem;
+        margin-bottom: 0px;
+    }
+
+    .tx-tools {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .tx-tools__content {
+        display: flex;
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+        width: 45%;
+        min-width: 280px;
+        padding: 1rem;
+    }
+
+    .tx-tools__content__inner {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex: 1 1 0;
+        min-width: 250px;
+    }
+
+    .tx-tools__content h2 {
+        margin: 0;
+        color: var(--md-primary-fg-color);
+        font-weight: 600;
+    }
+
+    .tx-tools__content p {
+        font-size: 17px;
+        line-height: 1.8em;
+        text-rendering: optimizeLegibility;
+    }
+
+    .tx-tools .md-button {
+       align-self: center;
+    }
+
+    .tx-tools .md-button a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .tx-tools__image {
+        flex: 1 1 0;
+        max-width: 30%;
+        min-width: 200px;
+        max-height: 100%;
+    }
+
+    /* .tx-tools .md-button--primary {
+        background-color: var(--md-primary-bg-color);
+        color: hsla(280deg, 37%, 48%, 1);
+        border-color: var(--md-primary-bg-color);
+    } */
+
+    /* .tx-tools .md-button:focus,
+    .tx-tools .md-button:hover {
+        background-color: var(--md-accent-fg-color);
+        color: var(--md-default-bg-color);
+        border-color: var(--md-accent-fg-color);
+    } */
+
+    /* .tx-hero__content-2 a:link {
+        color: #2a978d;
+    }
+
+    .tx-hero__content-2 a:visited {
+        color: #2a978d;
+    } */
+
+
+
+    .tx-footer {
+        margin: 0px 0rem;
+        background-color: white;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .tx-hero__content-footer {
+        justify-content: left;
+        color: #2a978d;
+        font-weight: 300;
+        padding: 0 0px;
+        word-break: break-word;
+        float: left;
+    }
+
+    .tx-footer p {
+        font-size: 12px;
+        line-height: 1.8em;
+        text-rendering: optimizeLegibility;
+        color: black;
+        display: block;
+        font-family: inherit;
+    }
+</style>
+{% endblock %}
