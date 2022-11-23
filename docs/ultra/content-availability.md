@@ -18,10 +18,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to adjust content availability in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/kw7X3APbs7w).
+Below is an embedded video detailing how to adjust content availability in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/P1lNK0ob2ho).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kw7X3APbs7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1lNK0ob2ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Text Steps
