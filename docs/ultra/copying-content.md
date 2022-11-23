@@ -18,10 +18,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
+Below is an embedded video detailing how to copy content in Ultra. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=BHbPKdtqTyQ).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHbPKdtqTyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Text Steps
@@ -41,7 +41,7 @@ To copy content items:
 
 !!! Warning
 
-	While it is possible to copy content within and between Ultra sites, it is **not possible** to directly copy content from a Learn Original site to an Ultra site. 
+	 It is **not recommended** to directly copy content from a Blackboard Original site to an Ultra site, as this can cause problems with the content.
 
 ![Accessing the Copy Content menu in the Course Content area of an Ultra site](images/copying-content-plus-icon-menu.gif)
 ![Searching for a Course in the Copy Items pane and selecting the Course in the list of search results](images/copying-content-selecting-course.png)
