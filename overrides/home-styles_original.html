@@ -1,0 +1,293 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+
+<!-- Additional styles for landing page -->
+<style>
+
+    .md-header {
+        position: initial
+    }
+
+    .md-main__inner {
+        margin: 0
+    }
+
+    .md-footer-copyright {
+        display: none
+    }
+
+    .md-footer-nav__inner {
+        display: none
+    }
+
+    .md-content {
+        display: none
+    }
+
+    .md-footer-meta__inner {
+        align-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    /*
+     Table of content font color
+    */
+    a.md-nav__link {
+        color: #303C55;
+        text-decoration: none;
+    }
+
+    .tx-container {
+        height: fit-content;
+        padding-top: 0rem;
+        background: linear-gradient(to bottom, var(--md-primary-fg-color), #2a978d 99%, #fff 99%)
+    }
+
+    .tx-hero {
+        color: var(--md-primary-bg-color);
+        justify-content: right;
+    }
+
+    .tx-hero h1 {
+        margin-bottom: 0rem;
+        color: currentColor;
+        font-weight: 700
+    }
+
+    .tx-hero__content {
+        padding-bottom: 9rem;
+        justify-content: left;
+        padding-right: 3rem;
+    }
+
+    .tx-hero__content_small {
+        justify-content: left;
+        padding-right: 3rem;
+    }
+
+    .tx-hero__image {
+        max-width: 100%;
+        max-height: 100%;
+        order: 1;
+        padding-right: 2.5rem;
+    }
+
+    .tx-hero .md-button {
+        margin-top: .5rem;
+        margin-right: .5rem;
+        color: var(--md-primary-bg-color)
+    }
+
+    .tx-hero .md-button--primary {
+        background-color: var(--md-primary-bg-color);
+        color: hsla(280deg, 37%, 48%, 1);
+        border-color: var(--md-primary-bg-color)
+    }
+
+    .tx-hero .md-button:focus,
+    .tx-hero .md-button:hover {
+        background-color: var(--md-accent-fg-color);
+        color: var(--md-default-bg-color);
+        border-color: var(--md-accent-fg-color)
+    }
+
+    .tx-container-2 {
+        padding: 0rem;
+        margin-bottom: 0px;
+    }
+
+    .tx-hero__image-2 {
+        max-width: 100%;
+        max-height: 100%;
+        order: 1;
+        padding-right: 0.5rem;
+        padding-left: 0rem;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        float: left;
+    }
+
+    .tx-hero__content-2 {
+        padding-bottom: 3rem;
+        justify-content: left;
+        padding-right: 3rem;
+        /* margin-left: 50px;
+        justify-content: left;
+        color: #2a978d;
+        font-weight: 300;
+        padding: 0 0px;
+        padding-bottom: 40px;
+        word-break: break-word;
+        float: right; */
+    }
+
+    .tx-hero__content-2 h2 {
+        /* margin-top: 50px; */
+        color: var(--md-default-fg-color);
+        /* font-weight: 600;
+        font-size: 36px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: normal; */
+        /*font-family: inherit;*/
+    }
+
+    .tx-hero__content-2 p {
+        font-size: 17px;
+        line-height: 1.8em;
+        text-rendering: optimizeLegibility;
+        color: var(--md-default-fg-color);
+        display: block;
+    }
+
+    .tx-hero__content-2 a:link {
+        color: #2a978d;
+    }
+
+    .tx-hero__content-2 a:visited {
+        color: #2a978d;
+    }
+
+
+
+    .tx-footer {
+        margin: 0px 0rem;
+        background-color: white;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .tx-hero__content-footer {
+        justify-content: left;
+        color: #2a978d;
+        font-weight: 300;
+        padding: 0 0px;
+        word-break: break-word;
+        float: left;
+    }
+
+    .tx-footer p {
+        font-size: 12px;
+        line-height: 1.8em;
+        text-rendering: optimizeLegibility;
+        color: black;
+        display: block;
+        font-family: inherit;
+    }
+
+    /**/
+    /*Adjusting Mobile UI */
+    /**/
+    @media screen and (max-width: 30em) {
+        .tx-hero h1 {
+            font-size: 1.4rem
+        }
+
+        .tx-hero__content {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        .tx-hero__content_small {
+            margin-bottom: 50px;
+            margin-left: 20px;
+            margin-right: 20px;
+            font-size: 1.1rem;
+        }
+
+        .tx-hero__content-2 {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        .tx-hero__content-3 {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        .md-typeset .md-button {
+            font-size: 14px;
+        }
+    }
+
+    @media screen and (min-width: 60em) {
+        .md-sidebar--secondary {
+            display: none
+        }
+
+        .tx-hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .tx-hero__content {
+            max-width: 28rem;
+            margin-top: 3.5rem;
+            margin-bottom: 3.5rem;
+            margin-left: 1.0rem;
+            margin-right: 4.0rem;
+            align-items: center;
+        }
+    }
+
+    @media screen and (min-width: 76.25em) {
+        .md-sidebar--primary {
+            display: none
+        }
+
+        .top-hr {
+            width: 100%;
+            display: flex;
+            max-width: 61rem;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 0 .2rem;
+        }
+
+        .bottom-hr {
+            margin-top: 10px;
+            width: 100%;
+            display: flex;
+            max-width: 61rem;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 0 .2rem;
+        }
+    }
+
+    .text-center {
+        text-align: center;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 15px;
+        font-size: 23px;
+        font-weight: 300;
+        padding-bottom: 10px;
+    }
+
+    .logos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: row wrap;
+        margin: 0 auto;
+    }
+
+    .logos img {
+        flex: 1 1 auto;
+        padding: 25px;
+        max-height: 130px;
+        vertical-align: middle;
+    }
+</style>
+
+{% endblock %}
