@@ -19,10 +19,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
+Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](https://youtu.be/O0B4R8RyBYU).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0B4R8RyBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Text Steps
@@ -41,13 +41,16 @@ To set up your Ultra site's Course Image:
 3. Select the desired image from the browser.
 4. Position the image as required, adjusting the zoom if necessary. Note that if your image is sized correctly at 1200 × 240 there should be no need to adjust the position or zoom.
 5. Click **Done**.
-6. Add a description of the image to the **Image description** box.
-7. Click **Save**.
+6. Ensure that the **Course Image** toggle is set to the **On** position.
+7. Add a description of the image to the **Image description** box.
+8. Click **Save**.
 
 ![The Edit display settings link in the Details & Actions menu](images/course-images-edit-display-settings.png)
 ![Clicking Upload new image and selecting an image from the browser](images/course-images-upload-new-image.png)
 ![Adjusting position, crop and zoom on the new course image and then clicking done](images/course-images-position-and-crop.png)
-![Adding alt text to the course image and clicking save](images/course-images-alt-text-and-save.png)
+![Ensuring the Course Image toggle is set to on](images/course-images-toggle-on.png)
+![Adding alt text to the Image description box and clicking save](images/course-images-alt-text-and-save.png)
+
 
 
 ## More Details and Troubleshooting 
