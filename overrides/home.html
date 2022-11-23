@@ -2,13 +2,10 @@
 
 {% extends "home-styles.html" %}
 
-<!-- Navigation tabs -->
+<!-- Render hero under tabs -->
 {% block tabs %}
 {{ super() }}
-{% endblock %}
 
-<!-- main content -->
-{% block content %}
 <!-- header/hero section -->
 <section class="tx-container-hero">
   <div class="md-grid md-typeset">
@@ -129,9 +126,9 @@
     </div>
   </div>
 </section>
-{% endblock %}
 
-<!-- footer -->
+{% endblock %}
+{% block content %}{% endblock %}
 {% block footer %}
   {{ super() }}
   <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">
