@@ -15,7 +15,7 @@ tags:
 
 Benefits of the principles include:
 
-- centreing **accessible and inclusive design** as a key aspect of site and online materials development.
+- centring **accessible and inclusive design** as a key aspect of site and online materials development.
 - facilitating a **consistent experience** and **easy navigation** across sites.
 - **assisting staff** in developing effective sites through guidance on implementing principles.
 - informing **VLE site templates**, which reduce staff workload and cognitive effort to set up sites.
@@ -48,7 +48,7 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "1.1 Essential: Module overview and learning outcomes are easy to find."
     
-    - Link to the relevant [Module Catalogue](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module) page or include key information directly on the site, eg. which semester the module runs in, the module leader and award level. 
+    - Link to the relevant [Module Catalogue](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module)  page for students to access key module information and learning outcomes. This link automatically provides up-to-date information each year.
     - Provide an overview of the module and/or the syllabus. This could be a short introduction video from the module leader and/or a text summary. 
     - Placeholders for this information are provided in site templates.
 
@@ -60,11 +60,11 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "1.3 Essential: Provide module staff details and communication expectations."
 
-    - Staff contact details are given, including email and office/drop-in hours and appointment booking details where applicable.
-    - The desired communication method is given, eg. *Staff will use Announcements to communicate course updates* or *Students should use the Q&A forum for questions about the module* along with an expected response time.
+    - Give staff contact details, including email and office/drop-in hours and appointment booking details where applicable.
+    - Give the desired communication method, eg. *Staff will use Announcements to communicate course updates* or *Students should use the Q&A forum for questions about the module* along with an expected response time.
     - A placeholder for this information is provided in site templates.
 
-??? recommended "1.4 Recommended: Site title contains the SITS code and official module name."
+??? essential "1.4 Essential: Site title contains the SITS code and official module name."
 
     - The SITS code (eg. ABC00001C) and official module name are listed on the [Module Catalogue](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module).
     - This helps users find correct sites easily.
@@ -72,13 +72,12 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? recommended "1.5 Recommended: Provide links to relevant departmental or support information."
 
-    - Relevant links may include:
+    - This information is largely pre-provided in departmental templates, and may include:
         - departmental accessibility statement and disability officer/rep contact information
         - the Assist VLE area, which collates UoY-wide support information
         - departmental or programme webpages or sites (eg. a study skills or employability site)
         - location of the programme handbook
         - relevant [Skills Guides](https://subjectguides.york.ac.uk/skills) or [Practical Guides](https://subjectguides.york.ac.uk/practical-guides) content
-    - Links or placeholders for this information are provided in site templates.
 
 ## 2. Site structure & design
 
@@ -91,22 +90,20 @@ Click each principle to show details, examples and guidance on implementing the 
     - This provides a consistent experience across modules, helping students navigate the site and locate items easily.
     - This structure is provided in site templates.
 
-??? essential "2.2 Essential: Module materials are organised within sections and easy to navigate."
+??? essential "2.2 Essential: Materials within sections are organised and easy to navigate."
     
     - Clear navigation is supported by steps including:
-        - using a consistent structure within module material sections. 
-        - giving pages, items and couments meaningful titles (see 3.7).
-        - if possible for that VLE item, adding short descriptions also gives useful context.
+        - using a consistent structure within module material sections (see 3.1).
+        - giving pages, items and documents meaningful titles (see 3.6). Short descriptions also give useful context.
         - only including content and documents relevant to the module and avoiding superfluous or duplicated content.
         - removing unused and out-of-date content and files.
-    - Also see 3.1 for information on module material sections.
 
-??? recommended "2.3 Recommended: Design and images look professional and adhere to UoY branding."
+??? recommended "2.3 Recommended: Design and images adhere to the UoY brand."
 
-    - Images and banners are the required dimensions and of high quality. These may be provided in site templates, but can be updated by staff. 
-    - Text in images may not scale well and so should be avoided in most cases.
-    - Photography should come from the [UoY Image Library](https://brand.york.ac.uk/media/) where possible.
+    - Site images and banners are the required dimensions (see the tool). Images used are of high quality, preferably from the [UoY Image Library](https://www.york.ac.uk/staff/external-relations/image-library/). 
+    - Text in course images does not scale well and so should be avoided in most cases. If non-decorative text is used images, provide this in ALT text (see 3.4).
     - Design (colour, typography etc.) adheres to [UoY branding](https://www.york.ac.uk/staff/external-relations/brand/)
+    - Course images and banners are provided in site templates, but can be updated by staff.
 
 ## 3. Module materials & site content
 
@@ -116,48 +113,47 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "3.1 Essential: Organise module materials in sections aligned with the module structure."
 
-    - For example, weekly or topic-based sections containing lecture slides, seminar or practical tasks, pre-recorded videos and essential Reading List items.
+    - If the module is not structured weekly, use other appropriate sections (eg. topic-based).
+    - Include all relevant weekly materials, eg. lecture slides, seminar or practical tasks, pre-recorded videos and links to essential Reading List items (see 3.2).
+    - Organise sections consistently, eg. lecture materials are always included first.
     - This helps students locate materials and ensure they complete necessary tasks.
     - Site templates guide staff to set up appropriate sections for their module content.
 
-??? essential "3.2 Essential: Students can see and access module materials and content."
-
-    - Items are visible to students (note, items may be hidden by default). Conditional release may be used to show items or site areas at particular times or only to particular students.
-    - Sharing permissions are correct so students can access all materials (particularly important for re-used Panopto recordings and Google materials). 
-
-??? essential "3.3 Essential: Provide module readings using the Reading List tool."
+??? essential "3.2 Essential: Provide module readings using the Reading List tool."
 
     - Using the [Reading List](https://subjectguides.york.ac.uk/readinglists/home) lets the Library ensure appropriate stock levels and manage [copyright compliance](https://subjectguides.york.ac.uk/copyright/coursereading). Students can also directly access items without signing in or navigating external websites, giving a more seamless and accessible experience.
-    - Structure the Reading List using the same sections as the module site structure to aid navigation and label each reading as Essential, Recommended or Background.
-    - To collate module materials in one location (see 3.1), Reading List items can also be added into weekly sections. [Instructions to be added when available]
+    - Structure the Reading List using weekly sections (or other sections matching module site structure) to aid navigation.
+    - Label each item as Essential, Recommended or Background to help students plan workload.
+    - To collate module materials in one location (see 3.1), direct links to Reading List sections or items can be included in weekly materials sections. [Instructions to be added when available]
     - Don’t directly upload PDFs or other documents, and especially not scans of printed material. Authors are not compensated, it may violate copyright and materials are likely to be inaccessible. Instead, include items in the Reading List. The Library may be able to [digitise print content](https://subjectguides.york.ac.uk/readinglists/digitisation) for you.
 
-??? essential "3.4 Essential: Documents are up-to-date and in an appropriate file format."
+??? essential "3.3 Essential: Provide up-to-date documents in an appropriate file format."
 
-    - The correct document version is provided, and old versions are removed from the site. If documents are updated during the module, this is clearly communicated to students.
-    - Microsoft Office or Google materials are preferable as they allow students to adapt the file presentation to their own needs (eg., changing text colour or appearance).
+    - Include only the correct document version and remove old versions from the site. If documents are updated during the module, communicate this clearly to students.
+    - Microsoft Office or Google materials are preferable as they allow students to adapt the file presentation to their own needs (eg, changing text colour or appearance). Both formats can be previewed within the VLE site without downloading the file.
     - Avoid PDFs as they often have poor accessibility. Printed materials should not be scanned and uploaded (see 3.3).
 
-??? essential "3.5 Essential: Site and materials content is accessible."
+??? essential "3.4 Essential: Site and materials content is accessible."
 
     - Text content is easily readable and accessible: structured with Heading Styles, bulleted lists to break up content, left-aligned text, sufficient colour contrast, legible font and text size, tables only for data etc. [More information on accessible text](https://elearningyork.wpcomstaging.com/learning-design-and-development/technology-enhanced-learning-handbook/1-baseline-use-of-the-vle/1-2-key-accessibility-guidelines/).
     - Meaningful images and figures have appropriate ALT text or other descriptions to allow screenreader users to access the information. Guidance on [writing good ALT](https://docs.google.com/presentation/d/1r1ZELb3LEIPA9c3pcmwtpgxm8U69PQ-UxPISkSEk7oA/edit#slide=id.p) text and adding ALT text to the VLE or documents [UPDATE LINK].
-    - An accessibility checker is used for all text and materials to identify errors and receive guidance on how to fix them (eg. Blackboard Ally within Blackboard, Grackle for Google Docs/Slides, Microsoft Accessibility Checker).
+    - An accessibility checker is used for all text and materials to identify errors and receive guidance on how to fix them (eg. [Blackboard Ally](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor/Quick_Start) within Blackboard, [Grackle](https://www.grackledocs.com/) for Google Docs/Slides, [Microsoft Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)).
 
-??? essential "3.6 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately."
+??? essential "3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately."
 
     - For example, Panopto for your own at-desk recordings and YouTube for external videos.
-    - Do not upload video files directly to the site. This may not support captions, can give a poor user experience and may violate copyright.
-    - Pre-recorded video (UoY-created and external content) must have accurate captions synched to the audio and/or an equivalent text alternative such as a transcript. [Guide: Panopto recordings and captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit?usp=sharing).
+    - Do not upload video files directly to the site, or to documents provided (eg. PowerPoint slides). This may not support appropriate captions, can give a poor user experience and may violate copyright.
+    - Pre-recorded video (UoY-created and external content) must have accurate captions synched to the audio and/or an equivalent text alternative such as a transcript. Users must be able to choose whether or not to display captions. [Guide: Panopto recordings and captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit?usp=sharing).
 
-??? essential "3.7 Essential: Links and materials titles describe the destination or content."
+??? essential "3.6 Essential: Links and materials titles describe the destination or content."
 
     - Link text describes where the link goes or the content, eg. [how to write better link text](https://bighack.org/how-to-write-better-link-text-for-accessibility/). Don’t use non-descriptive text like ‘click here’ or ‘find out more’. Don’t paste the full URL (eg. *https://www.link.com*). 
     - Document titles describe the content without having to open the file. This could include the week, type of materials, key word(s) relating to the topic, and a short module identifier. For example, material titles for the module ‘Mythical Creatures in Literature’ could use the format *Week 3_Slides_Dragons_MCL*.
+    - Use any naming conventions consistently across the site and module materials.
     - This is very important for screenreader users, and makes links and documents more usable for everyone.
 
 
-??? essential "3.8 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen."
+??? essential "3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen."
 
     - This makes content easier to access on smaller screens or with some assistive tools.
     - The link provides a fallback in case of problems with the embedded item.
@@ -207,6 +203,10 @@ Click each principle to show details, examples and guidance on implementing the 
 <button class="md-button closed toggle">
     Open all principles
 </button>
+??? essential "3.2 Essential: Students can see and access module materials and content."
+
+    - Items are visible to students (note, items may be hidden by default). Conditional release may be used to show items or site areas at particular times or only to particular students.
+    - Sharing permissions are correct so students can access all materials (particularly important for re-used Panopto recordings and Google materials). 
 
 ??? recommended "5.1 Recommended: Complete the Site Readiness Checklist before releasing the site to students."
 
