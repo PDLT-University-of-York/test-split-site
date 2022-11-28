@@ -170,16 +170,15 @@ Click each principle to show details, examples and guidance on implementing the 
     - If assignment submission points are not included in the module site, their location is made clear or linked to from this section (note that this link will need to be manually updated in each future site). 
     - An assessment section with placeholder information is included in site templates.
 
-??? essential "4.2 Essential: Assessment instructions are clear and concise."
+??? essential "4.2 Essential: Assessment instructions are easy to find and understand."
 
-    - Instructions can be included directly in the site and/or in an attatched assessment brief document.
-    - Consider including an FAQ document or discussion where students can ask questions.
-    - Use bullet points instead of long blocks of text.
+    - Instructions are clearly labelled and explain the task and requirements. This can be provided directly in the site and/or in an attached assessment brief document.
+    - Instructions should be clear and concise: avoid long blocks of text and use bullet points and/or headings where possible. See 3.4 for more information on accessible text.
+    - Consider including an FAQ document or discussion where students can ask questions about the assessment instructions.
 
 ??? essential "4.3 Essential: Provide marking criteria or other grading policies showing how work is marked."
 
     - This could be a rubric linked to an assignment within the site or a linked document. A link to central [advice on using assessment criteria and feedback](https://subjectguides.york.ac.uk/academic-writing/assessment) may also be provided.
-    - This has been identified as an area for improvement in National Student Survey results.
     - A placeholder for this information is provided in site templates, and relevant marking criteria may be included in departmental templates.
 
 ??? essential "4.4 Essential: Assessment deadlines are set within working hours."
@@ -194,7 +193,7 @@ Click each principle to show details, examples and guidance on implementing the 
     - If past exam papers are available, provide these through the Library’s collection of [digitised past exam papers](https://yorsearch.york.ac.uk/primo-explore/collectionDiscovery?vid=44YORK-NUI&collectionId=81340096600001381).
     - Placeholders for this content are provided in site templates.
 
-??? recommended "4.6 Recommended: Signpost students to where they can get help with the assessment or submission."
+??? recommended "4.6 Recommended: Signpost students to where they can get help with the assessment task or submission."
 
     This information can be included in departmental templates.
 
@@ -203,19 +202,19 @@ Click each principle to show details, examples and guidance on implementing the 
 <button class="md-button closed toggle">
     Open all principles
 </button>
-??? essential "3.2 Essential: Students can see and access module materials and content."
+??? recommended "5.1 Recommended: Ensure that students can see and access module materials and content."
 
-    - Items are visible to students (note, items may be hidden by default). Conditional release may be used to show items or site areas at particular times or only to particular students.
-    - Sharing permissions are correct so students can access all materials (particularly important for re-used Panopto recordings and Google materials). 
+    - Items are visible to students (note that items may be hidden by default). Conditional release may be used to show items or site areas at particular times or only to particular students.
+    - Sharing permissions are correct so students can access all materials (particularly important for re-used Panopto recordings and Google materials).
 
-??? recommended "5.1 Recommended: Complete the Site Readiness Checklist before releasing the site to students."
+??? recommended "5.2 Recommended: Complete the Site Readiness Checklist before releasing the site to students."
 
-    - This helps identify and correct any issues in areas such as site/material visibility, accessibility and enrollments.
+    - This helps identify and correct any issues in areas such as accessibility, site/material visibility and student/staff enrollments.
     - The Site Readiness Checklist [Link when updated for Ultra] is also included in site templates.
 
-??? recommended "5.2 Recommended: Take future proofing steps to make the site easier to maintain and update"
+??? recommended "5.3 Recommended: Take future proofing steps to make the site easier to maintain and update"
 
     Useful steps include:
         - Linking to ongoing webpages instead of year-based links or documents. For example, the webpage where current handbooks are provided, not a specific handbook document. This avoids manually updating links and means content stays up to date.
         - Using relative dates (eg. Friday of Week 7) instead of specific dates in site text or documents so that dates don’t need to be manually updated.
-        - Identifying materials or items that need to be updated in future sites to maintain item access (eg. links to assignment submission sites, Reading List links, embedded Panopto videos for specific cohorts) or provide up to date information.
+        - Identifying materials or items that need to be updated in future sites to maintain item access (eg. links to assignment submission sites, Reading List links, embedded Panopto videos for specific cohorts) or provide up-to-date information.
