@@ -11,7 +11,7 @@ tags:
 
 !!! Summary
 
-    Most Ultra content must be added straight into a Document. Files can be uploaded directly with quick previews available for students, images need alternative text or to be marked as decorative.
+    Most Ultra content must be added into a Document. Files can be uploaded directly with quick previews available for students, images need alternative text or to be marked as decorative.
 
 
 ## Adding Text

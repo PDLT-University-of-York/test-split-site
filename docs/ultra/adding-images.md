@@ -21,11 +21,11 @@ tags:
 ### Text steps
 
 1. If you're uploading images to a Document with pre-existing content, click the small plus icon - otherwise skip to Step 2
-![A gif showing the small plus icon between blocks of text, and the drop-down menu that appears when you click on it](images/adding-content-between-sections.gif)
+![A gif showing the small plus icon between blocks of text, and the drop-down menu that appears when you click on it](images/adding-images-plus-icon.gif)
 2. Select **Upload from Computer**
 ![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
 3. Find the item you would like to upload, select it, and click **Open**
-![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)]
+![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)
 4. Add a brief description of the image in the alternative text box (eg "Cartoon coffee cup") or mark it as decorative, select the appropriate file options, and then click **Save**
 ![Annotated screenshot highlighting the image options, alternative text box, and Save button](images/adding-content-image-options.png)
 

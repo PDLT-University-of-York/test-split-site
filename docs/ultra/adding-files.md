@@ -11,7 +11,7 @@ tags:
 
 !!! Summary
 
-    Short summary here
+    Files can be uploaded into Documents or directly to the Course Content area. Most common file types can be previewed in a Document.
 
 
 ## Uploading Files
@@ -23,7 +23,7 @@ Files can be uploaded directly into Ultra Documents. Uploaded files can be previ
 ### Text steps
 
 1. If you're uploading files to a Document with pre-existing content, click the small plus icon - otherwise skip to Step 2
-![A gif showing the small plus icon between blocks of text, and the drop-down menu that appears when you click on it](images/adding-content-between-sections.gif)
+![A gif showing the small plus icon between blocks of text, and the drop-down menu that appears when you click on it](images/adding-images-plus-icon.gif)
 2. Select **Upload from Computer**
 ![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
 3. Find the item you would like to upload, select it, and click **Open**
