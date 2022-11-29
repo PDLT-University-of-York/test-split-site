@@ -33,7 +33,6 @@ Items in the **Course Content** area can be set to **Visible to students** or **
 
 To change an item’s visibility:
 
-
 1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow that appears.
 2. Click on the required visibility option - e.g. if you want to make an item visible to students, click **Visible to students**.
 
@@ -59,6 +58,6 @@ To do this for multiple items simultaneously:
 
 ## More Details and Troubleshooting 
 
-It is possible to set items to become visible to or hidden from students based on certain conditions, e.g. date and time. For more information on this, please see the [Conditional Release](https://pdlt-university-of-york.github.io/vle-help/ultra/conditional-release/) guide. 
+It is possible to set items to become visible to or hidden from students based on certain conditions, e.g. date and time. For more information on this, please see the [Conditional Availability](https://vle-support.york.ac.uk/ultra/conditional-release/) guide. 
 
 <!-- More info here as needed. -->

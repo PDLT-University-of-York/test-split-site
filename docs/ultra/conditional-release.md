@@ -6,7 +6,7 @@ tags:
     - Ultra
 ---
 
-# Content availability - conditional release
+# Content availability - conditional availability
 
 !!! Summary
 
@@ -18,7 +18,7 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to set up conditional release in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/D8AMqszCkms).
+Below is an embedded video detailing how to set up conditional availability in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/D8AMqszCkms).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D8AMqszCkms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ You can set up conditional availability so that certain content items are only a
 
 !!! Tip
 
-    For more information on setting up groups in Ultra, please refer to the Groups user guide.
+    For more information on setting up groups in Ultra, please refer to the Groups guide.
 
 
 To set up conditional availability based on date/time:
@@ -88,6 +88,6 @@ To set up conditional availability based on student performance:
 
 ## More Details and Troubleshooting 
 
-Please note that this guide only covers conditional release. To adjust item visibility permanently please refer to the [Content Availability](https://pdlt-university-of-york.github.io/vle-help/ultra/content-availability/) guide.
+To adjust item visibility without conditions please refer to the [Content Availability](https://pdlt-university-of-york.github.io/vle-help/ultra/content-availability/) guide.
 
 It is not possible to set up conditional availability for multiple items simultaneously.
