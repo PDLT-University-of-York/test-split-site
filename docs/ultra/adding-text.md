@@ -33,17 +33,7 @@ Below is an embedded video detailing how to add images to a Document. Alternativ
 <!-- PASTE YOUTUBE EMBED -->
 
 
-### Text Steps
 
-1. Select the “Insert content” drop-down menu
-2. Click **Image**
-3. Paste in the URL for the image you’d like to add - you can find this by right-clicking an image and selecting **copy image address**
-4. Add a brief description of the image in the alternative text box (i.e. cartoon image of a coffee cup)
-5. Click **Insert**
-
-!!! Warning
-
-    Images added via static URL cannot currently be marked as decorate. Instead, please provide a basic description of the image in the alternative text.
 
 
 
@@ -61,13 +51,13 @@ To embed a YouTube video using the built-in tool:
 ### Text steps
 
 1. In the text editor, open the "Insert content" drop-down menu and select **YouTube video**
-![An annotated screenshot highlighting the Insert Content drop-down and YouTube option](images/adding-content-finding-youtube.png)
+![Annotated screenshot highlighting the Insert Content drop-down and YouTube option](images/adding-content-finding-youtube.png)
 2. Search for the video you'd like to embed and press **Select**
-![An annotated screenshot highlighting the search and select buttons](images/adding-content-search-youtube.png)
+![Annotated screenshot highlighting the search and select buttons](images/adding-content-search-youtube.png)
 3. Choose the appropriate display option and press **Insert**
-![An annotated screenshot highlighting the display options and insert button](images/adding-content-insert-youtube.png)
+![Annotated screenshot highlighting the display options and insert button](images/adding-content-insert-youtube.png)
 4. Make sure to save this section of the Document by clicking **Save**
-![An annotated screenshot highlighting the Save button](images/adding-content-save-youtube.png)
+![Annotated screenshot highlighting the Save button](images/adding-content-save-youtube.png)
 
 !!! Note
 
