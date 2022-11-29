@@ -78,7 +78,7 @@ nav:
       # - Integrated tools (Panopto, Leganto): ultra/placeholder.md
       # - Site availability: ultra/placeholder.md
       # - Site readiness checklist: ultra/placeholder.md
-      # - Course image: ultra/placeholder.md
+      - Course image: ultra/course-images.md
       # - Calendar: ultra/placeholder.md
     - Content creation:
       # - Structuring module content: ultra/placeholder.md
@@ -91,10 +91,10 @@ nav:
       # - Adding readings: ultra/placeholder.md
       # - Embedding content: ultra/placeholder.md
       - Editing, moving & deleting content: ultra/edit-delete-move-content.md
-      # - Copying or reusing content: ultra/placeholder.md
+      - Copying or reusing content: ultra/copying-content.md
       - Batch edit: ultra/batch-edit.md
       - Content availability: ultra/content-availability.md
-      # - Conditional Availability (previously Adaptive Release): ultra/placeholder.md
+      - Conditional Availability (previously Adaptive Release): ultra/conditional-release.md
     - Communication & interaction:
       - Announcement: ultra/announcement.md
     #   - Placeholder article: ultra/placeholder.md
