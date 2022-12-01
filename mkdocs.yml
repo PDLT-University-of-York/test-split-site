@@ -85,7 +85,9 @@ nav:
       - Content types: ultra/content-types.md
       # - Accessible content: ultra/placeholder.md
       - Creating course content: ultra/creating-course-content.md
-      - Adding document content: ultra/adding-content.md
+      - Adding text: ultra/adding-text.md
+      - Adding images: ultra/adding-images.md
+      - Adding files: ultra/adding-files.md
       - Future proofing content: ultra/future-proof-content.md
       - Folders vs Learning Modules: ultra/folder-learning-module.md
       # - Adding readings: ultra/placeholder.md
