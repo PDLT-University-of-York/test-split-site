@@ -1,7 +1,7 @@
 # Panopto
 
 !!! Summary
-    Panopto is a tool to create and share video content. It powers the Replay lecture capture system and allows staff to create recordings on their own devices.
+    Panopto is York's tool to create, share and manage video content. It powers the Replay lecture capture system and also allows staff to create recordings on their own devices using the Panopto self-recorder.
 
 <!-- Find the guide you need by:
 

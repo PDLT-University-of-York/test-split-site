@@ -120,6 +120,11 @@ nav:
       # - Purge & archive policy: ultra/placeholder.md
   - Panopto:
     - panopto/index.md
+    - Using Replay in teaching rooms: panopto/lecture-capture.md
+    # - Using the Panopto self-recorder: panopto/self-recorder.md
+    # - Managing Panopto videos in the VLE: panopto/panopto-in-the-vle.md
+    # - Editing Panopto videos: panopto/eding-panopto-videos.md
+
   - Reading List:
     - readinglist/index.md
   - Canvas:
