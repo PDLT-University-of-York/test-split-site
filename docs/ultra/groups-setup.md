@@ -14,7 +14,7 @@ tags:
     - Mentimeter
 ---
 
-# Guide title (short and to the point)
+# Groups - Setup
 
 !!! Summary
 
