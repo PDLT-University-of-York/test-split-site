@@ -19,10 +19,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
+Below is an embedded video detailing how to set up discussions in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/Q404ODzUS5w).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q404ODzUS5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Text Steps
