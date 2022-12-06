@@ -51,12 +51,10 @@ To create a Discussion board in your Ultra site:
 ![Discussion settings pane showing the post first checkbox](images/discussions-setup-set-post-first.png)
 ![Discussion settings pane showing the Assign to groups option and the save button](images/discussions-setup-groups-and-save.png)
 
-!!! Tip
-
-	For more information on setting up groups, refer to the guide on setting up groups in Ultra. ADD A LINK HERE!
-
 ## More Details and Troubleshooting
 
 For guidance on creating meaningful conversations in your course’s discussion boards, and information on the different uses of discussion boards, please refer to the Discussions - uses guide. ADD A LINK HERE!
+
+For more information on setting up groups, refer to the [Groups - Setup](https://vle-support.york.ac.uk/ultra/groups-setup/) guide.
 
 <!-- More info here as needed. -->
