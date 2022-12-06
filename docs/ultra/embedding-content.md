@@ -65,6 +65,13 @@ To embed a Panopto/Replay video on your Ultra site:
 6. Press Ctrl + V to paste the embed code into the HTML editor.
 7. Click Save.
 
+![Clicking the share icon while viewing a Panopto video](images/embedding-content-panopto-share.png)
+![Clicking the embed option in the share options in Panopto](images/embedding-content-panopto-embed-menu.png)
+![Clicking copy embed code in the share options in Panopto](images/embedding-content-panopto-copy-embed-code.png)
+![Clicking the plus icon to add content in an Ultra document](images/embedding-content-padlet-add-content.png)
+![Clicking the Add HTML option in an Ultra document](images/embedding-content-padlet-add-html.png)
+![Pasting an embed code into Ultra's HTML editor and clicking save](images/embedding-content-padlet-save-html.png)
+
 To add a YouTube video to your Ultra site:
 
 1. Open a Document in your Ultra site, then click Add Content.
@@ -74,6 +81,16 @@ To add a YouTube video to your Ultra site:
 5. Click Select next to the video you would like to embed.
 6. Add Alternative Text that describes the video.
 7. Click Insert.
+
+!!! Tip
+
+    If you already know the URL for the YouTube video you want to embed, you can paste this URL into the search box at stage 4 in the above guide.
+
+![Clicking add content in an empty document in Ultra](images/embedding-content-add-content.png)
+![Clicking the plus icon in the Ultra text editor and then clicking YouTube Video](images/embedding-content-add-youtube-video.png)
+![Using the YouTube search box in Ultra to search for a video](images/embedding-content-search-youtube.png)
+![Selecting a video to add to the Ultra site from the YouTube search results](images/embedding-content-select-youtube-video.png)
+![Adding alt text to describe the YouTube video and then clicking save](images/embedding-content-youtube-alt-text-and-insert.png)
 
 ## More Details and Troubleshooting 
 
