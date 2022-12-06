@@ -47,7 +47,7 @@ You can set up conditional availability so that certain content items are only a
 
 !!! Tip
 
-    For more information on setting up groups in Ultra, please refer to the Groups guide.
+    For more information on setting up groups in Ultra, please refer to the [Groups - Setup](https://vle-support.york.ac.uk/ultra/groups-setup/) guide.
 
 
 To set up conditional availability based on date/time:
@@ -89,5 +89,7 @@ To set up conditional availability based on student performance:
 ## More Details and Troubleshooting 
 
 To adjust item visibility without conditions please refer to the [Content Availability](https://pdlt-university-of-york.github.io/vle-help/ultra/content-availability/) guide.
+
+For more information on setting up groups in Ultra, please refer to the [Groups - Setup](https://vle-support.york.ac.uk/ultra/groups-setup/) guide.
 
 It is not possible to set up conditional availability for multiple items simultaneously.
