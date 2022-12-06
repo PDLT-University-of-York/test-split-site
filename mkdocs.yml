@@ -103,10 +103,10 @@ nav:
     # - Assessment and assignments:
     #   - Placeholder article: ultra/placeholder.md
     #   - Placeholder article: ultra/placeholder.md
-    - Users & access: 
-      - Enrolling a user: 'ultra/enrol-user.md'
-      - Unenrolling a user: 'ultra/unenrol-user.md'
-      - Course Roles in Learn Ultra: 'ultra/course-roles.md'
+    # - Users & access: 
+    #   - Enrolling a user: 'ultra/enrol-user.md'
+    #   - Unenrolling a user: 'ultra/unenrol-user.md'
+    #   - Course Roles in Learn Ultra: 'ultra/course-roles.md'
     # - Data & evaluation:
     #   - Placeholder article: ultra/placeholder.md
     #   # - Placeholder article: ultra/placeholder.md
