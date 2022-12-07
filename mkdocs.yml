@@ -97,6 +97,8 @@ nav:
       - Batch edit: ultra/batch-edit.md
       - Content availability: ultra/content-availability.md
       - Conditional Availability (previously Adaptive Release): ultra/conditional-release.md
+      - Discussions - setup: ultra/discussions-setup.md
+      - Groups - setup: ultra/groups-setup.md
     - Communication & interaction:
       - Announcement: ultra/announcement.md
     #   - Placeholder article: ultra/placeholder.md
