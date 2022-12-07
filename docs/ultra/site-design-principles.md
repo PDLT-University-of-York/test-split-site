@@ -46,16 +46,16 @@ Click each principle to show details, examples and guidance on implementing the 
     Open all principles
 </button>
 
-??? essential "1.1 Essential: Module overview and learning outcomes are easy to find."
+??? essential "1.1 Essential: Module orientation information and learning outcomes are easy to find."
     
     - Link to the relevant [Module Catalogue](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module)  page for students to access key module information and learning outcomes. This link automatically provides up-to-date information each year.
-    - Provide an overview of the module and/or the syllabus. This could be a short introduction video from the module leader and/or a text summary. 
+    - Provide an overview of the module. This could be a short introduction video from the module leader and/or a text summary. 
     - Placeholders for this information are provided in site templates.
 
 ??? essential "1.2 Essential: Provide details of specialist software or equipment required."
 
     - Required: the name of the software, how to download it and/or which university computers it is available on, where to get help with the software. 
-    - If available: accessibility information, compatible Operating Systems 
+    - If available: accessibility information, compatible Operating Systems.
     - A placeholder for this information is provided in site templates.
 
 ??? essential "1.3 Essential: Provide module staff details and communication expectations."
@@ -72,12 +72,13 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? recommended "1.5 Recommended: Provide links to relevant departmental or support information."
 
-    - This information is largely pre-provided in departmental templates, and may include:
-        - departmental accessibility statement and disability officer/rep contact information
-        - the Assist VLE area, which collates UoY-wide support information
-        - departmental or programme webpages or sites (eg. a study skills or employability site)
-        - location of the programme handbook
-        - relevant [Skills Guides](https://subjectguides.york.ac.uk/skills) or [Practical Guides](https://subjectguides.york.ac.uk/practical-guides) content
+    This information is largely pre-provided in departmental templates, and may include:
+
+    - departmental accessibility statement and disability officer/rep contact information
+    - the Assist VLE area, which collates UoY-wide support information
+    - departmental or programme webpages or sites (eg. a study skills or employability site)
+    - location of the programme handbook
+    - relevant [Skills Guides](https://subjectguides.york.ac.uk/skills) or [Practical Guides](https://subjectguides.york.ac.uk/practical-guides) content
 
 ## 2. Site structure & design
 
@@ -90,19 +91,21 @@ Click each principle to show details, examples and guidance on implementing the 
     - This provides a consistent experience across modules, helping students navigate the site and locate items easily.
     - This structure is provided in site templates.
 
-??? essential "2.2 Essential: Materials within sections are organised and easy to navigate."
-    
-    - Clear navigation is supported by steps including:
-        - using a consistent structure within module material sections (see 3.1).
-        - giving pages, items and documents meaningful titles (see 3.6). Short descriptions also give useful context.
-        - only including content and documents relevant to the module and avoiding superfluous or duplicated content.
-        - removing unused and out-of-date content and files.
+??? essential "2.2 Essential: Materials within sections are clearly organised so content is easy to find."
+    This can be done by:
+    - using a consistent structure within repeated module materials sections (see 3.1).
+    - giving pages and items meaningful titles (see 3.6).
+    - avoiding nesting so it’s easier to navigate content.
+    - only including content relevant to the module.
+    - removing unused and out-of-date content and files (see 3.3).
+    - avoiding duplicating information in different areas of the site, or information from another site.
 
-??? recommended "2.3 Recommended: Design and images adhere to the UoY brand."
+??? essential "2.3 Essential: Design and images adhere to the UoY brand."
 
-    - Site images and banners are the required dimensions (see the tool). Images used are of high quality, preferably from the [UoY Image Library](https://www.york.ac.uk/staff/external-relations/image-library/). 
+    - Where branding is used (logo, colour, typography etc.) it must align with the [UoY branding](https://www.york.ac.uk/staff/external-relations/brand/) and identity guidelines.
+    - Images are used according to tool specifications, eg. fit any dimension requirements.
+    - Images are high quality, preferably from the [UoY Image Library](https://www.york.ac.uk/staff/external-relations/image-library/). 
     - Text in course images does not scale well and so should be avoided in most cases. If non-decorative text is used images, provide this in ALT text (see 3.4).
-    - Design (colour, typography etc.) adheres to [UoY branding](https://www.york.ac.uk/staff/external-relations/brand/)
     - Course images and banners are provided in site templates, but can be updated by staff.
 
 ## 3. Module materials & site content
@@ -111,32 +114,35 @@ Click each principle to show details, examples and guidance on implementing the 
     Open all principles
 </button>
 
-??? essential "3.1 Essential: Organise module materials in sections aligned with the module structure."
+??? essential "3.1 Essential: Organise module materials in sections that support student progress through the module."
 
-    - If the module is not structured weekly, use other appropriate sections (eg. topic-based).
+    - For most modules, materials should be structured in weekly sections. Other structures (eg. topic-based) should only be used where a weekly structure is not appropriate.
     - Include all relevant weekly materials, eg. lecture slides, seminar or practical tasks, pre-recorded videos and links to essential Reading List items (see 3.2).
-    - Organise sections consistently, eg. lecture materials are always included first.
+    - Organise repeated sections consistently, eg. lecture materials followed by workshop information.
     - This helps students locate materials and ensure they complete necessary tasks.
     - Site templates guide staff to set up appropriate sections for their module content.
+
 
 ??? essential "3.2 Essential: Provide module readings using the Reading List tool."
 
     - Using the [Reading List](https://subjectguides.york.ac.uk/readinglists/home) lets the Library ensure appropriate stock levels and manage [copyright compliance](https://subjectguides.york.ac.uk/copyright/coursereading). Students can also directly access items without signing in or navigating external websites, giving a more seamless and accessible experience.
     - Structure the Reading List using weekly sections (or other sections matching module site structure) to aid navigation.
     - Label each item as Essential, Recommended or Background to help students plan workload.
-    - To collate module materials in one location (see 3.1), direct links to Reading List sections or items can be included in weekly materials sections. [Instructions to be added when available]
-    - Don’t directly upload PDFs or other documents, and especially not scans of printed material. Authors are not compensated, it may violate copyright and materials are likely to be inaccessible. Instead, include items in the Reading List. The Library may be able to [digitise print content](https://subjectguides.york.ac.uk/readinglists/digitisation) for you.
+    - To collate module materials in one location (see 3.1), direct links to Reading List sections or items can be included in weekly materials sections.
+    - Don’t provide readings by uploading PDFs, scans of printed material or other documents because this may violate copyright and is likely to be inaccessible. The Library may be able to [digitise print content](https://subjectguides.york.ac.uk/readinglists/digitisation) for you.
 
-??? essential "3.3 Essential: Provide up-to-date documents in an appropriate file format."
+??? essential "3.3 Essential: Provide up-to-date documents in an accepted file format."
 
     - Include only the correct document version and remove old versions from the site. If documents are updated during the module, communicate this clearly to students.
-    - Microsoft Office or Google materials are preferable as they allow students to adapt the file presentation to their own needs (eg, changing text colour or appearance). Both formats can be previewed within the VLE site without downloading the file.
-    - Avoid PDFs as they often have poor accessibility. Printed materials should not be scanned and uploaded (see 3.3).
+    - Microsoft Office or Google files are preferable as they allow students to adapt the document presentation to their own needs (eg, changing text colour or appearance). Both formats can be previewed within the VLE site without downloading the file.
+    - Avoid PDFs as they often have poor accessibility. Print materials should not be scanned and uploaded (see 3.2).
+    - Don’t use Mac-only file types such as Pages or Keynote.
+
 
 ??? essential "3.4 Essential: Site and materials content is accessible."
 
-    - Text content is easily readable and accessible: structured with Heading Styles, bulleted lists to break up content, left-aligned text, sufficient colour contrast, legible font and text size, tables only for data etc. [More information on accessible text](https://elearningyork.wpcomstaging.com/learning-design-and-development/technology-enhanced-learning-handbook/1-baseline-use-of-the-vle/1-2-key-accessibility-guidelines/).
-    - Meaningful images and figures have appropriate ALT text or other descriptions to allow screenreader users to access the information. Guidance on [writing good ALT](https://docs.google.com/presentation/d/1r1ZELb3LEIPA9c3pcmwtpgxm8U69PQ-UxPISkSEk7oA/edit#slide=id.p) text and adding ALT text to the VLE or documents [UPDATE LINK].
+    - Text content is easily readable and accessible: structured with Heading Styles, bulleted lists to break up content, left-aligned text, sufficient colour contrast, legible font and text size, tables only for data etc. More information on [readable text](https://readable.com/) and [accessible text](https://elearningyork.wpcomstaging.com/learning-design-and-development/technology-enhanced-learning-handbook/1-baseline-use-of-the-vle/1-2-key-accessibility-guidelines/).
+    - Meaningful images and figures have appropriate ALT text or other descriptions to allow screenreader users to access the information. Guidance on [writing good ALT](https://docs.google.com/presentation/d/1r1ZELb3LEIPA9c3pcmwtpgxm8U69PQ-UxPISkSEk7oA/edit#slide=id.p) text and [adding ALT text to the VLE or documents](https://docs.google.com/document/d/1TMWZaHMafuIkLKMPXcIlvIOehzOCxJGkDZzwG4iVU94/edit?usp=sharing).
     - An accessibility checker is used for all text and materials to identify errors and receive guidance on how to fix them (eg. [Blackboard Ally](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor/Quick_Start) within Blackboard, [Grackle](https://www.grackledocs.com/) for Google Docs/Slides, [Microsoft Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)).
 
 ??? essential "3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately."
@@ -167,13 +173,14 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "4.1 Essential: The assessment section contains all information about module assessments."
 
+    - This may include an overview of formative and summative assessments, information on specific assessments, submission points and materials required to complete assessments.
     - If assignment submission points are not included in the module site, their location is made clear or linked to from this section (note that this link will need to be manually updated in each future site). 
     - An assessment section with placeholder information is included in site templates.
 
-??? essential "4.2 Essential: Assessment instructions are easy to find and understand."
+??? essential "4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements."
 
-    - Instructions are clearly labelled and explain the task and requirements. This can be provided directly in the site and/or in an attached assessment brief document.
-    - Instructions should be clear and concise: avoid long blocks of text and use bullet points and/or headings where possible. See 3.4 for more information on accessible text.
+    - This information can be provided directly in the site and/or in an attached assessment brief document.
+    - Instruction text for assessments is readable and accessible: uses plain language, only includes necessary information, avoids long blocks of text, uses bullet points and/or headings where possible (see 3.4).
     - Consider including an FAQ document or discussion where students can ask questions about the assessment instructions.
 
 ??? essential "4.3 Essential: Provide marking criteria or other grading policies showing how work is marked."
@@ -181,11 +188,10 @@ Click each principle to show details, examples and guidance on implementing the 
     - This could be a rubric linked to an assignment within the site or a linked document. A link to central [advice on using assessment criteria and feedback](https://subjectguides.york.ac.uk/academic-writing/assessment) may also be provided.
     - A placeholder for this information is provided in site templates, and relevant marking criteria may be included in departmental templates.
 
-??? essential "4.4 Essential: Assessment deadlines are set within working hours."
+??? essential "4.4 Essential: Signpost students to where they can get help with the assessment task or submission."
 
-    - As stipulated in the [Guide to Assessment](https://www.york.ac.uk/staff/teaching/learning-design/assessment/guide/) (14.3.b).
-    - Deadlines must be set on weekdays (not bank holidays) during core working hours (10:00 - 16:00). Take any SSPs into account when setting deadlines.
-    - This is important to let students access technical or departmental assistance with submissions if required.
+    - This helps students access departmental or technical assistance if required.
+    - This information can be included in departmental templates.
 
 ??? recommended "4.5 Recommended: Provide exemplars of representative work and/or past exam papers."
 
@@ -193,9 +199,6 @@ Click each principle to show details, examples and guidance on implementing the 
     - If past exam papers are available, provide these through the Library’s collection of [digitised past exam papers](https://yorsearch.york.ac.uk/primo-explore/collectionDiscovery?vid=44YORK-NUI&collectionId=81340096600001381).
     - Placeholders for this content are provided in site templates.
 
-??? recommended "4.6 Recommended: Signpost students to where they can get help with the assessment task or submission."
-
-    This information can be included in departmental templates.
 
 ## 5. Site readiness
 
@@ -205,16 +208,17 @@ Click each principle to show details, examples and guidance on implementing the 
 ??? recommended "5.1 Recommended: Ensure that students can see and access module materials and content."
 
     - Items are visible to students (note that items may be hidden by default). Conditional release may be used to show items or site areas at particular times or only to particular students.
-    - Sharing permissions are correct so students can access all materials (particularly important for re-used Panopto recordings and Google materials).
+    - Sharing permissions are correct so students can access all materials (particularly important for re-recording Panopto recordings and Google materials).
 
-??? recommended "5.2 Recommended: Complete the Site Readiness Checklist before releasing the site to students."
+??? recommended "5.2 Recommended: Complete the Site Readiness Checklist before making the site available to students."
 
     - This helps identify and correct any issues in areas such as accessibility, site/material visibility and student/staff enrollments.
-    - The Site Readiness Checklist [Link when updated for Ultra] is also included in site templates.
+    - The Site Readiness Checklist is also included in site templates.
 
-??? recommended "5.3 Recommended: Take future proofing steps to make the site easier to maintain and update"
+??? recommended "5.3 Recommended: Take steps to make the site easier to maintain and update."
 
     Useful steps include:
-        - Linking to ongoing webpages instead of year-based links or documents. For example, the webpage where current handbooks are provided, not a specific handbook document. This avoids manually updating links and means content stays up to date.
-        - Using relative dates (eg. Friday of Week 7) instead of specific dates in site text or documents so that dates don’t need to be manually updated.
-        - Identifying materials or items that need to be updated in future sites to maintain item access (eg. links to assignment submission sites, Reading List links, embedded Panopto videos for specific cohorts) or provide up-to-date information.
+
+    - Linking to ongoing webpages instead of year-based links or documents. This avoids manually updating links each year and means content stays up to date. For example, link to the webpage or departmental VLE site where current handbooks are provided, not a specific handbook document.
+    - Using relative dates (eg. Friday of Week 7) instead of specific dates in site text or documents so that dates don’t need to be manually updated.
+    - Identifying materials or items that need to be updated in future sites to maintain item access (eg. links to assignment submission sites, Reading List links, embedded Panopto videos for specific cohorts) or provide up-to-date information.
