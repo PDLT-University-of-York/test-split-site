@@ -64,6 +64,8 @@ nav:
   - Index: tag-index.md
   - Learn Ultra:
     - ultra/index.md
+    - Moving to Ultra:
+      - Moving to Ultra for module staff: ultra/move-to-ultra.md
     # - Getting started:
     #   - VLE site design principles: ultra/site-design-principles.md
       # - Building an Ultra site from a template: ultra/placeholder.md
