@@ -1,17 +1,12 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
     - Advanced
     - Teaching
-    - Administration
     - Ultra
     - Panopto
-    - Reading List
-    - Canvas
     - Xerte
     - Padlet
-    - Mentimeter
 ---
 
 # Embedding Content
@@ -55,6 +50,19 @@ To embed a Padlet on your Ultra site:
 ![Clicking the Add HTML option in an Ultra document](images/embedding-content-padlet-add-html.png)
 ![Pasting an embed code into Ultra's HTML editor and clicking save](images/embedding-content-padlet-save-html.png)
 
+To embed a Xerte object on your Ultra site:
+
+1. Copy the embed code for your Xerte object from the **Project Details** section of the Xerte homepage.
+2. Navigate to the Document in your Ultra site where you want to embed the Xerte object, then click the plus icon.
+3. Click **Add HTML**.
+4. Press Ctrl + V to paste the embed code into the HTML editor.
+5. Click Save.
+
+![Copying a Xerte object's HTML embed code from the Project Details section of the Xerte homepage](images/embedding-content-xerte-copy-embed.png)
+![Clicking the plus icon to add content to an Ultra document and then clicking the Add HTML option](images/embedding-content-xerte-add-html.png)
+![Pasting a Xerte embed code into Ultra's HTML editor and clicking save](images/embedding-content-xerte-paste-and-save.png)
+
+
 To embed a Panopto/Replay video on your Ultra site:
 
 1. Open the desired Panopto video in your web browser, then click Share in the menu at the top of the screen.
@@ -91,7 +99,3 @@ To add a YouTube video to your Ultra site:
 ![Using the YouTube search box in Ultra to search for a video](images/embedding-content-search-youtube.png)
 ![Selecting a video to add to the Ultra site from the YouTube search results](images/embedding-content-select-youtube-video.png)
 ![Adding alt text to describe the YouTube video and then clicking save](images/embedding-content-youtube-alt-text-and-insert.png)
-
-## More Details and Troubleshooting 
-
-<!-- More info here as needed. -->
