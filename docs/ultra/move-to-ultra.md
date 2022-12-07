@@ -18,9 +18,9 @@ tags:
 There are some  structural differences that may affect how you present your module materials:
 
 1. The Original left-hand navigation menu is replaced in Ultra by a **central Course Content area**.
-    ![Ultra central Course Content area with containers titled staff area, module information, assessment and reading list](images\move-to-ultra-new-course-content.png)
+    ![Ultra central Course Content area with containers titled staff area, module information, assessment and reading list](images/move-to-ultra-new-course-content.png)
 2. In Ultra, items can include a short description on the Course Content area. Users then **open the item to see its content**.
-    ![Document with short description, then opened to show full text content](images\move-to-ultra-open-item.png)
+    ![Document with short description, then opened to show full text content](images/move-to-ultra-open-item.png)
 3. Ultra allows **two levels of nesting** (folders within folders), compared to unlimited nesting in Original. 
 
 
@@ -34,7 +34,7 @@ Instead of direct copy of this year's Original site, you'll receive a **departme
     This only affects module sites created for 23/24. Existing Original module sites do not need to change to Ultra and will still be available for staff and students.
 
 Here's a preview of the Course Content area in an Ultra template site:
-![Overall structure with areas for module information, assessment and weekly content](images\move-to-ultra-template.png)
+![Overall structure with areas for module information, assessment and weekly content](images/move-to-ultra-template.png)
 
 Departmental template sites:
 
@@ -58,7 +58,7 @@ You can easily:
 - use the built in tool to quickly add Google Drive files (coming soon), Panopto videos, YouTube videos and more.
 - set up discussion boards.
 
-![Add content to an Ultra site](images\move-to-ultra-add-content.png)
+![Add content to an Ultra site](images/move-to-ultra-add-content.png)
 
 **Copying or importing content from an Original site doesn't work well**. It is possible, but structural differences mean that content will need very careful rearranging and restructuring.
 
