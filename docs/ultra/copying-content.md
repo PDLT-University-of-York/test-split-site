@@ -10,7 +10,7 @@ tags:
 
 !!! Summary
 
-    Content items and containers can be copied within Ultra sites and also across Ultra sites.
+    Content items and containers can be copied within Ultra sites and also across different Ultra sites.
 
 
 ## Quick Start Guide
@@ -33,17 +33,19 @@ To copy content items:
 
 1. Hover your mouse over the grey divider where you want your content to appear, then click the plus icon.
 2. Click **Copy Content**.
-3. Type in the title or course ID of the Ultra site you want to copy content from.
-4. Click on the site in the list of search results.
+3. In the box labelled **Search by course name or ID**, type in the title or course ID of the Ultra site you want to copy content from.
+4. Click on the site you want to copy from in the list of search results.
 5. Click **Content**.
 6. Select the content items you want to copy using the checkboxes next to each item’s name.
-7. Click **Copy selected content**.
+7. At this point you can click **Courses** and repeat steps 5-6 if you want to copy items from multiple sites.
+8. When you have selected all the items you want to copy, click **Start Copy**.
 
 !!! Warning
 
 	 It is **not recommended** to directly copy content from a Blackboard Original site to an Ultra site, as this can cause problems with the content.
 
 ![Accessing the Copy Content menu in the Course Content area of an Ultra site](images/copying-content-plus-icon-menu.gif)
-![Searching for a Course in the Copy Items pane and selecting the Course in the list of search results](images/copying-content-selecting-course.png)
-![Selecting the Content folder within a Course in the Copy Items pane](images/copying-content-selecting-content.png)
-![Selecting content items in the Copy Items pane and then clicking Copy selected content](images/copying-content-selecting-items.png)
+![Searching for a Course in the Copy Items pane and selecting the Course in the list of search results](images/copying-content-new-search-select.png)
+![Selecting the Content folder within a Course in the Copy Items pane](images/copying-content-new-content-select.png)
+![Selecting content items in the Copy Items pane and optionally clicking Courses to repeat steps 5 and 6](images/copying-content-new-select-items-courses.png)
+![Clicking Start Copy in the Copy Items pane](images/copying-content-new-start-copy.png)
