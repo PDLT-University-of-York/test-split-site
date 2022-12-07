@@ -7,6 +7,10 @@ tags:
     - Ultra
 ---
 
+!!! Warning
+
+    This guide is a work in progress, and should not be considered complete.
+
 # Adding images to a Document
 
 !!! Summary
@@ -14,7 +18,7 @@ tags:
     Images can be added into Documents to break up text or visually distinguish one Document from another.
 
 
-## Uploading Files and Images
+## Uploading Images
 
 ### Video steps
 
