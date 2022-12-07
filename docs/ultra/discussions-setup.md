@@ -9,6 +9,8 @@ tags:
 
 # Discussions - setup
 
+<!-- This guide needs a link to the Discussions - Uses guide which is currently WIP -->
+
 !!! Summary
 
     Discussion boards in Ultra provide a public forum for students to communicate directly with teaching staff and also with each other.
@@ -53,7 +55,7 @@ To create a Discussion board in your Ultra site:
 
 ## More Details and Troubleshooting
 
-For guidance on creating meaningful conversations in your course’s discussion boards, and information on the different uses of discussion boards, please refer to the Discussions - uses guide. ADD A LINK HERE!
+<!-- For guidance on creating meaningful conversations in your course’s discussion boards, and information on the different uses of discussion boards, please refer to the Discussions - uses guide. ADD A LINK HERE! -->
 
 For more information on setting up groups, refer to the [Groups - Setup](https://vle-support.york.ac.uk/ultra/groups-setup/) guide.
 
