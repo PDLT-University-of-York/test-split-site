@@ -92,7 +92,9 @@ Click each principle to show details, examples and guidance on implementing the 
     - This structure is provided in site templates.
 
 ??? essential "2.2 Essential: Materials within sections are clearly organised so content is easy to find."
+    
     This can be done by:
+    
     - using a consistent structure within repeated module materials sections (see 3.1).
     - giving pages and items meaningful titles (see 3.6).
     - avoiding nesting so it’s easier to navigate content.

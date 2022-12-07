@@ -61,7 +61,7 @@ markdown_extensions:
       title: On this page
 
 nav:
-  - Index: tag-index.md
+  # - Index: tag-index.md
   - Learn Ultra:
     - ultra/index.md
     - Moving to Ultra:
@@ -128,7 +128,6 @@ nav:
     # - Using the Panopto self-recorder: panopto/self-recorder.md
     # - Managing Panopto videos in the VLE: panopto/panopto-in-the-vle.md
     # - Editing Panopto videos: panopto/eding-panopto-videos.md
-
   - Reading List:
     - readinglist/index.md
   - Canvas:
