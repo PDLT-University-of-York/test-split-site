@@ -13,7 +13,7 @@ tags:
 
     Each Ultra site has an optional course image that displays as a banner above the **Course Content** area and as a thumbnail in the **Courses** section of the VLE homepage.
 
-!!! principle "Relevant [VLE site design principles](vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
     - 2.3 Essential: Design and images adhere to the UoY brand.
 
