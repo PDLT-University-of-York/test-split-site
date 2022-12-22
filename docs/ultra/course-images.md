@@ -50,24 +50,25 @@ To set up your Ultra site's Course Image:
 ![The Edit display settings link in the Details & Actions menu](images/course-images-edit-display-settings.png)
 ![Clicking Upload new image and selecting an image from the browser](images/course-images-upload-new-image.png)
 ![Adjusting position, crop and zoom on the new course image and then clicking done](images/course-images-position-and-crop.png)
-![Ensuring the Course Image toggle is set to on](images/course-images-toggle-on.png)
-![Adding alt text to the Image description box and clicking save](images/course-images-alt-text-and-save.png)
+![Ensuring the Course Image toggle is set to on, adding alt text and clicking save](images/course-images-toggle-on-alt-text-save.png)
 
 
 
 ## More Details and Troubleshooting 
 
-Any content that needs to be always visible should be restricted to a 550 × 150 pixel area in the centre of the course image. Anything outside of this area will not be visible when the course image is displayed as a thumbnail, and may be cropped on certain displays.
+Any content that needs to be always visible should be restricted to a 550 × 150 pixel area in the centre of the course image - see below.
 
-!!! Tip
-
-	You may wish to use a course image larger than 1200 × 240 pixels. If you do this, it is a good idea to maintain the same 5:1 aspect ratio - for example, 2400 × 480 pixels.
-
-A template course image sized at 1200 × 240 pixels, with the central 550 × 150 pixel area highlighted, is shown below. You can download this as a PNG file by right clicking on the image and clicking on **Save image as**.
+You can download this as a PNG file by right clicking on the image and clicking on **Save image as**.
 
 ![A template course image sized at 1200 × 240 showing the area that will always be visible](images/course-images-template.png)
 
-Avoid using any copyrighted material when creating your site’s course image. You can use the [university’s photo library](https://brand.york.ac.uk/account/dashboard/) to download images owned by the university, or [Unsplash](https://unsplash.com/) for copyright-free images.
+!!! Tip
+
+	If you want to use a course image larger than 1200 × 240 pixels, maintain the same 5:1 aspect ratio.
+
+Avoid using any copyrighted material when creating your site’s course image.
+
+You can use the [university’s photo library](https://brand.york.ac.uk/account/dashboard/) to download images owned by the university, or [Unsplash](https://unsplash.com/) for copyright-free images.
 
 Download images at a resolution that meets the minimum requirements for Ultra. The **Web Image gallery** size on the photo library meets these requirements.
 
