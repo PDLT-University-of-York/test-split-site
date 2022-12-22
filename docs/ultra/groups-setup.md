@@ -25,7 +25,7 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY).
+Below is an embedded video detailing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdaSl74psNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,6 +35,8 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
+
+### Randomly assigning students to groups
 
 You can randomly assign students to groups of equal size. To do this:
 
@@ -61,7 +63,7 @@ You can randomly assign students to groups of equal size. To do this:
 ![Clicking Save in the group set pane](images/groups-setup-save.png)
 ![Making a group set visible to students using the visibility drop down menu in the Course Groups pane](images/groups-setup-make-visible.png)
 
-To manually assign students to groups:
+### Manually assigning students to groups
 
 1. Open your Ultra site and click on **View sets & groups** under **Course Groups** in the left hand menu.
 2. Click **New Group Set**
@@ -83,7 +85,7 @@ To manually assign students to groups:
 ![Clicking Save in the group set pane](images/groups-setup-manual-save.png)
 ![Making a group set visible to students using the visibility drop down menu in the Course Groups pane](images/groups-setup-manual-group-visibility.png)
 
-Groups can also be set up to allow students to self-enrol. To do this:
+### Self enrol groups
 
 1. Open your Ultra site and click on **View sets & groups** under **Course Groups** in the left hand menu.
 2. Click **New Group Set**
@@ -108,7 +110,7 @@ Groups can also be set up to allow students to self-enrol. To do this:
 
 	If you set the **Maximum members per group** for a self-enrol group set to a value lower than the default, remember to create enough extra groups so that all students can enrol themselves into a group.
 
-To move a student from one group to another:
+### Moving students to different groups
 
 1. In the Course Groups pane, click the **Group set** you want to change.
 2. Locate the student you want to move, then click the three dots icon next to their name.
