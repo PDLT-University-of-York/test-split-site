@@ -29,7 +29,7 @@ Below is an embedded video detailing how to set up conditional availability in U
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-You can set up conditional availability so that certain content items are only available to specific users or groups. To do this:
+### Conditional release for specific users or groups
 
 1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow that appears.
 2. Click on **Release conditions**.
@@ -50,7 +50,7 @@ You can set up conditional availability so that certain content items are only a
     For more information on setting up groups in Ultra, please refer to the [Groups - Setup](https://vle-support.york.ac.uk/ultra/groups-setup/) guide.
 
 
-To set up conditional availability based on date/time:
+### Conditional release based on date/time
 
 1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow that appears.
 2. Click on **Release conditions**.
@@ -69,7 +69,7 @@ To set up conditional availability based on date/time:
 
     Please keep in mind that it is best practice not to restrict content week by week.
 
-To set up conditional availability based on student performance:
+### Conditional release based on student performance
 
 1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow that appears.
 2. Click on **Release conditions**.

@@ -6,7 +6,7 @@ tags:
     - Ultra
 ---
 
-# Copying and reusing content WORK IN PROGRESS
+# Copying and reusing content
 
 !!! Summary
 
