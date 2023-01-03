@@ -36,7 +36,7 @@ Below is an embedded video detailing how to set up Groups in Ultra. Alternativel
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-### Randomly assigning students to groups
+#### Randomly assigning students to groups
 
 You can randomly assign students to groups of equal size. To do this:
 
@@ -63,7 +63,7 @@ You can randomly assign students to groups of equal size. To do this:
 ![Clicking Save in the group set pane](images/groups-setup-save.png)
 ![Making a group set visible to students using the visibility drop down menu in the Course Groups pane](images/groups-setup-make-visible.png)
 
-### Manually assigning students to groups
+#### Manually assigning students to groups
 
 1. Open your Ultra site and click on **View sets & groups** under **Course Groups** in the left hand menu.
 2. Click **New Group Set**
@@ -85,7 +85,7 @@ You can randomly assign students to groups of equal size. To do this:
 ![Clicking Save in the group set pane](images/groups-setup-manual-save.png)
 ![Making a group set visible to students using the visibility drop down menu in the Course Groups pane](images/groups-setup-manual-group-visibility.png)
 
-### Self enrol groups
+#### Self enrol groups
 
 1. Open your Ultra site and click on **View sets & groups** under **Course Groups** in the left hand menu.
 2. Click **New Group Set**
@@ -110,7 +110,7 @@ You can randomly assign students to groups of equal size. To do this:
 
 	If you set the **Maximum members per group** for a self-enrol group set to a value lower than the default, remember to create enough extra groups so that all students can enrol themselves into a group.
 
-### Moving students to different groups
+#### Moving students to different groups
 
 1. In the Course Groups pane, click the **Group set** you want to change.
 2. Locate the student you want to move, then click the three dots icon next to their name.

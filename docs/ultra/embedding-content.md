@@ -33,6 +33,8 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
+#### Padlet
+
 To embed a Padlet on your Ultra site:
 
 1. Open the Padlet in your web browser, then click Share in the right hand menu.
@@ -50,6 +52,8 @@ To embed a Padlet on your Ultra site:
 ![Clicking the Add HTML option in an Ultra document](images/embedding-content-padlet-add-html.png)
 ![Pasting an embed code into Ultra's HTML editor and clicking save](images/embedding-content-padlet-save-html.png)
 
+#### Xerte
+
 To embed a Xerte object on your Ultra site:
 
 1. Copy the embed code for your Xerte object from the **Project Details** section of the Xerte homepage.
@@ -62,6 +66,7 @@ To embed a Xerte object on your Ultra site:
 ![Clicking the plus icon to add content to an Ultra document and then clicking the Add HTML option](images/embedding-content-xerte-add-html.png)
 ![Pasting a Xerte embed code into Ultra's HTML editor and clicking save](images/embedding-content-xerte-paste-and-save.png)
 
+#### Panopto/Replay
 
 To embed a Panopto/Replay video on your Ultra site:
 
@@ -74,11 +79,13 @@ To embed a Panopto/Replay video on your Ultra site:
 7. Click Save.
 
 ![Clicking the share icon while viewing a Panopto video](images/embedding-content-panopto-share.png)
-![Clicking the embed option in the share options in Panopto](images/embedding-content-panopto-embed-menu.png)
+
 ![Clicking copy embed code in the share options in Panopto](images/embedding-content-panopto-copy-embed-code.png)
 ![Clicking the plus icon to add content in an Ultra document](images/embedding-content-padlet-add-content.png)
 ![Clicking the Add HTML option in an Ultra document](images/embedding-content-padlet-add-html.png)
 ![Pasting an embed code into Ultra's HTML editor and clicking save](images/embedding-content-padlet-save-html.png)
+
+#### YouTube video
 
 To add a YouTube video to your Ultra site:
 
