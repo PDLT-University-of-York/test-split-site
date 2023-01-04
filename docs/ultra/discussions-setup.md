@@ -37,11 +37,11 @@ To create a Discussion board in your Ultra site:
 1. Hover over the grey divider where you want your discussion to appear, then click the purple plus icon.
 2. Click on **Create**.
 3. Click on **Discussion** under **Participation and Engagement**.
-4. Click on the discussion title at the top of the page and add a title for your Discussion board.
+4. Click on the discussion title and add a title for your Discussion board.
 5. Make an initial post to start the discussion in the box labelled **What do you want to talk about?**
 6. Click **Save**.
 7. Click on the **Gear** icon labelled **Discussion Settings**.
-8. If you want existing discussion posts to be invisible to students until they have posted, click on the checkbox labelled **Post first**.
+8. If you want existing discussion posts to be invisible to students until they have posted, click the checkbox labelled **Post first**.
 9. If you want to assign the discussion to particular groups of students, click **Assign to groups**.
 10. Click **Save**.
 

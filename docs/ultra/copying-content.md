@@ -33,7 +33,7 @@ To copy content items:
 
 1. Hover your mouse over the grey divider where you want your content to appear, then click the plus icon.
 2. Click **Copy Content**.
-3. In the box labelled **Search by course name or ID**, type in the title or course ID of the Ultra site you want to copy content from.
+3. In the box labelled **Search by course name or ID**, type the title or course ID of the Ultra site you want to copy content from.
 4. Click on the site you want to copy from in the list of search results.
 5. Click **Content**.
 6. Select the content items you want to copy using the checkboxes next to each item’s name.

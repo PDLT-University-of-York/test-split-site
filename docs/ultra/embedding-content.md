@@ -37,13 +37,13 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 
 To embed a Padlet on your Ultra site:
 
-1. Open the Padlet in your web browser, then click Share in the right hand menu.
-2. Click Embed in your blog or your website.
-3. Click Copy.
-4. Navigate to a Document in your Ultra site where you want to embed the Padlet, then click the plus icon. 
-5. Click Add HTML.
+1. Open the Padlet in your web browser, then click the **Share** icon in the right hand menu.
+2. Click **Embed in your blog or your website**.
+3. Click **Copy**.
+4. Navigate to the Document in your Ultra site where you want to embed the Padlet, then click the plus icon. 
+5. Click **Add HTML**.
 6. Press Ctrl + V to paste the embed code into the HTML editor.
-7. Click Save.
+7. Click **Save**.
 
 ![Opening a Padlet in the web browser and clicking Share in the right hand menu](images/embedding-content-padlet-share.png)
 ![Selecting Embed in your blog or website from the Padlet share menu](images/embedding-content-padlet-share-menu.png)
@@ -60,7 +60,7 @@ To embed a Xerte object on your Ultra site:
 2. Navigate to the Document in your Ultra site where you want to embed the Xerte object, then click the plus icon.
 3. Click **Add HTML**.
 4. Press Ctrl + V to paste the embed code into the HTML editor.
-5. Click Save.
+5. Click **Save**.
 
 ![Copying a Xerte object's HTML embed code from the Project Details section of the Xerte homepage](images/embedding-content-xerte-copy-embed.png)
 ![Clicking the plus icon to add content to an Ultra document and then clicking the Add HTML option](images/embedding-content-xerte-add-html.png)
@@ -70,13 +70,13 @@ To embed a Xerte object on your Ultra site:
 
 To embed a Panopto/Replay video on your Ultra site:
 
-1. Open the desired Panopto video in your web browser, then click Share in the menu at the top of the screen.
-2. Click Embed.
-3. Click Copy Embed Code.
+1. Open the desired Panopto video in your web browser, then click the **Share** icon in the menu at the top of the screen.
+2. Click **Embed**.
+3. Click **Copy Embed Code**.
 4. Navigate to the Document in your Ultra site where you want to embed the Panopto video, then click the plus icon.
-5. Click Add HTML.
+5. Click **Add HTML**.
 6. Press Ctrl + V to paste the embed code into the HTML editor.
-7. Click Save.
+7. Click **Save**.
 
 ![Clicking the share icon while viewing a Panopto video](images/embedding-content-panopto-share.png)
 
@@ -89,17 +89,17 @@ To embed a Panopto/Replay video on your Ultra site:
 
 To add a YouTube video to your Ultra site:
 
-1. Open a Document in your Ultra site, then click Add Content.
-2. Click the plus icon (Insert Content) button in the text editor.
-3. Click YouTube video.
-4. Type your search terms into the box labelled Search for a video, then click Search.
-5. Click Select next to the video you would like to embed.
-6. Add Alternative Text that describes the video.
-7. Click Insert.
+1. Open a Document in your Ultra site, then click **Add Content**.
+2. Click the plus icon (**Insert Content**) button in the text editor.
+3. Click **YouTube video**.
+4. Type your search terms into the box labelled **Search for a video**, then click **Search**.
+5. Click **Select** next to the video you would like to embed.
+6. Add **Alternative Text** that describes the video.
+7. Click **Insert**.
 
 !!! Tip
 
-    If you already know the URL for the YouTube video you want to embed, you can paste this URL into the search box at stage 4 in the above guide.
+    If you already know the URL for the YouTube video you want to embed, you can paste this URL into the search box at step 4 below.
 
 ![Clicking add content in an empty document in Ultra](images/embedding-content-add-content.png)
 ![Clicking the plus icon in the Ultra text editor and then clicking YouTube Video](images/embedding-content-add-youtube-video.png)

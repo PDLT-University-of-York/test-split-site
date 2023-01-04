@@ -56,7 +56,7 @@ To set up your Ultra site's Course Image:
 
 ## More Details and Troubleshooting 
 
-Any content that needs to be always visible should be restricted to a 550 × 150 pixel area in the centre of the course image - see below.
+Any content that needs to be always visible should be restricted to a 550 × 150 pixel area in the centre of the course image - see template below.
 
 You can download this as a PNG file by right clicking on the image and clicking on **Save image as**.
 
