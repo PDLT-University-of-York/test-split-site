@@ -93,13 +93,13 @@ nav:
       - Future proofing content: ultra/future-proof-content.md
       - Folders vs Learning Modules: ultra/folder-learning-module.md
       # - Adding readings: ultra/placeholder.md
-      # - Embedding content: ultra/embedding-content.md
+      - Embedding content: ultra/embedding-content.md
       - Editing, moving & deleting content: ultra/edit-delete-move-content.md
-      # - Copying or reusing content: ultra/copying-content.md
+      - Copying or reusing content: ultra/copying-content.md
       - Batch edit: ultra/batch-edit.md
       - Content availability: ultra/content-availability.md
       - Conditional Availability (previously Adaptive Release): ultra/conditional-release.md
-      # - Discussions - setup: ultra/discussions-setup.md
+      - Discussions - setup: ultra/discussions-setup.md
       - Groups - setup: ultra/groups-setup.md
     - Communication & interaction:
       - Announcement: ultra/announcement.md
