@@ -13,6 +13,9 @@ tags:
 
     Ultra sites allow staff to set content as visible to students or hidden from students.
 
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+
+    - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
 ## Quick Start Guide
 

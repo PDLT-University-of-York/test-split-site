@@ -9,13 +9,15 @@ tags:
     - Padlet
 ---
 
-# Embedding Content
+# Embedding Content - WORK IN PROGRESS
 
 !!! Summary
 
     Ultra allows video to be embedded from YouTube. Content from external sources such as Panopto/Replay, Padlet and Xerte can be added to your site using HTML. 
 
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
+    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
 ## Quick Start Guide
 
@@ -37,20 +39,24 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 
 To embed a Padlet on your Ultra site:
 
-1. Open the Padlet in your web browser, then click the **Share** icon in the right hand menu.
-2. Click **Embed in your blog or your website**.
-3. Click **Copy**.
-4. Navigate to the Document in your Ultra site where you want to embed the Padlet, then click the plus icon. 
-5. Click **Add HTML**.
-6. Press Ctrl + V to paste the embed code into the HTML editor.
-7. Click **Save**.
+1. Open the Padlet in your web browser, click the **Share** icon in the right hand menu, then click **Embed in your blog or your website**.
+2. Click **Copy**.
+3. Navigate to the Document in your Ultra site where you want to embed the Padlet, click the plus icon, then click **Add HTML**.
+4. Press Ctrl + V to paste the embed code into the HTML editor, then click **Save**.
+5. Open the Padlet in your web browser, click the **Share** icon in the right hand menu, then click **Copy link to clipboard**.
+6. Return to your Ultra Document, click the plus icon above your embedded Padlet, then click **Add content**.
+7. Click the **Insert link** icon. 
+8. Paste the URL in the **Link URL** box. Type descriptive link text into the **Link text** box, then click **Insert**.
 
-![Opening a Padlet in the web browser and clicking Share in the right hand menu](images/embedding-content-padlet-share.png)
-![Selecting Embed in your blog or website from the Padlet share menu](images/embedding-content-padlet-share-menu.png)
-![Copying the Padlet embed code](images/embedding-content-padlet-copy-embed.png)
-![Clicking the plus icon to add content in an Ultra document](images/embedding-content-padlet-add-content.png)
-![Clicking the Add HTML option in an Ultra document](images/embedding-content-padlet-add-html.png)
-![Pasting an embed code into Ultra's HTML editor and clicking save](images/embedding-content-padlet-save-html.png)
+
+![Opening a Padlet in a web browser and clicking Share in the right hand menu, then clicking Embed in your blog or your website](images/embedding-content-padlet-share-embed.png)
+![Clicking Copy in the Embed this padlet pane](images/embedding-content-padlet-copy-embed-code.png)
+![Clicking the plus icon and Adding HTML to a Document in Ultra](images/embedding-content-padlet-add-html.png)
+![Pasting the Padlet embed code into the Ultra HTML editor and clicking save](images/embedding-content-padlet-paste-and-save-html.png)
+![Opening a Padlet in a web browser and clicking Share in the right hand menu, then clicking Copy link to clipboard](images/embedding-content-padlet-copy-url.png)
+![Returning to the Ultra document and clicking the plus icon and then Add Content](images/embedding-content-padlet-add-content.png)
+![Clicking the Insert Link button in the Ultra text editor](images/embedding-content-padlet-insert-link.png)
+![Pasting the Padlet URL into the Link URL box, adding descriptive link text to the Link text box, then clicking insert](images/embedding-content-padlet-link-url-text-insert.png)
 
 #### Xerte
 
@@ -61,29 +67,36 @@ To embed a Xerte object on your Ultra site:
 3. Click **Add HTML**.
 4. Press Ctrl + V to paste the embed code into the HTML editor.
 5. Click **Save**.
+6. Return to the **Project Details** section of the Xerte homepage and copy the Xerte object's URL.
+7. In your Ultra Document, click the plus icon above your embedded Xerte object, then click **Add content**.
+8. Click the **Insert link** icon. 
+9. Paste the URL in the **Link URL** box. Type descriptive link text into the **Link text** box, then click **Insert**.
 
 ![Copying a Xerte object's HTML embed code from the Project Details section of the Xerte homepage](images/embedding-content-xerte-copy-embed.png)
 ![Clicking the plus icon to add content to an Ultra document and then clicking the Add HTML option](images/embedding-content-xerte-add-html.png)
 ![Pasting a Xerte embed code into Ultra's HTML editor and clicking save](images/embedding-content-xerte-paste-and-save.png)
+![Pasting a Xerte object's URL from the Project Details section of the Xerte homepage](images/embedding-content-xerte-copy-url.png)
+![Returning to the Ultra document and clicking the plus icon and then Add Content](images/embedding-content-xerte-add-content.png)
+![Clicking the Insert Link button in the Ultra text editor](images/embedding-content-xerte-insert-link.png)
+![Pasting the Xerte URL into the Link URL box, adding descriptive link text to the Link text box, then clicking insert](images/embedding-content-xerte-link-text.png)
 
 #### Panopto/Replay
 
 To embed a Panopto/Replay video on your Ultra site:
 
 1. Open the desired Panopto video in your web browser, then click the **Share** icon in the menu at the top of the screen.
-2. Click **Embed**.
-3. Click **Copy Embed Code**.
-4. Navigate to the Document in your Ultra site where you want to embed the Panopto video, then click the plus icon.
-5. Click **Add HTML**.
-6. Press Ctrl + V to paste the embed code into the HTML editor.
-7. Click **Save**.
+2. Click **Embed**, then click **Copy Embed Code**.
+3. Navigate to the Document in your Ultra site where you want to embed the Panopto video, then click the plus icon.
+4. Click **Add HTML**.
+5. Press Ctrl + V to paste the embed code into the HTML editor, then click **Save**.
+6. Return to Panopto and click the **Share** icon in the menu at the top of the screen.
+7. Click **Link** and then **Copy Link**.
+8. In your Ultra Document, click the plus icon above your embedded Panopto video, then click **Add content**.
+9. Click the **Insert link** icon. 
+10. Paste the URL in the **Link URL** box. Type descriptive link text into the **Link text** box, then click **Insert**.
 
 ![Clicking the share icon while viewing a Panopto video](images/embedding-content-panopto-share.png)
 
-![Clicking copy embed code in the share options in Panopto](images/embedding-content-panopto-copy-embed-code.png)
-![Clicking the plus icon to add content in an Ultra document](images/embedding-content-padlet-add-content.png)
-![Clicking the Add HTML option in an Ultra document](images/embedding-content-padlet-add-html.png)
-![Pasting an embed code into Ultra's HTML editor and clicking save](images/embedding-content-padlet-save-html.png)
 
 #### YouTube video
 

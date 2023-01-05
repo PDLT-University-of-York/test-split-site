@@ -12,6 +12,10 @@ tags:
 
     Items in your Ultra site can be set to become **Visible to students** or **Hidden from students** based on certain conditions; to specified students or groups, on a particular date, or according to individual student performance.
 
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+
+    - 5.1 Recommended: Ensure that students can see and access module materials and content.
+
 
 ## Quick Start Guide
 
