@@ -86,12 +86,14 @@ nav:
       # - Structuring module content: ultra/placeholder.md
       - Content types: ultra/content-types.md
       # - Accessible content: ultra/placeholder.md
-      - Creating course content: ultra/creating-course-content.md
+      - Future proofing content: ultra/future-proof-content.md
+      - Folders vs Learning Modules: ultra/folder-learning-module.md
+      - Adding documents: ultra/adding-documents.md
+      - Adding links: ultra/adding-links.md
       #- Adding text: ultra/adding-text.md
       #- Adding images: ultra/adding-images.md
       #- Adding files: ultra/adding-files.md
-      - Future proofing content: ultra/future-proof-content.md
-      - Folders vs Learning Modules: ultra/folder-learning-module.md
+      #- Creating course content: ultra/creating-course-content.md
       # - Adding readings: ultra/placeholder.md
       - Embedding content: ultra/embedding-content.md
       - Editing, moving & deleting content: ultra/edit-delete-move-content.md
