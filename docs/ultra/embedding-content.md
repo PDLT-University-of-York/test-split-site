@@ -24,10 +24,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to embed content in an Ultra site. Alternatively, you can [open the video in a new browser tab](https://youtu.be/HxQHXfG41WU).
+Below is an embedded video detailing how to embed content in an Ultra site. Alternatively, you can [open the video in a new browser tab](https://youtu.be/HI9D7IhNLi0).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HxQHXfG41WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HI9D7IhNLi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Text Steps
