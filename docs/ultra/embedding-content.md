@@ -9,7 +9,7 @@ tags:
     - Padlet
 ---
 
-# Embedding Content - WORK IN PROGRESS
+# Embedding Content
 
 !!! Summary
 
@@ -24,7 +24,7 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](https://youtu.be/HxQHXfG41WU).
+Below is an embedded video detailing how to embed content in an Ultra site. Alternatively, you can [open the video in a new browser tab](https://youtu.be/HxQHXfG41WU).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HxQHXfG41WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -96,7 +96,14 @@ To embed a Panopto/Replay video on your Ultra site:
 10. Paste the URL in the **Link URL** box. Type descriptive link text into the **Link text** box, then click **Insert**.
 
 ![Clicking the share icon while viewing a Panopto video](images/embedding-content-panopto-share.png)
-
+![Clicking embed and then Copy Embed Code in the Panopto share options](images/embedding-content-panopto-embed-copy.png)
+![Clicking the plus icon and then Add HTML in an Ultra document](images/embedding-content-panopto-add-html.png)
+![Pasting a Panopto embed code into Ultra's HTML editor and clicking Save](images/embedding-content-panopto-embed-paste-save.png)
+![Clicking the share icon while viewing a Panopto video](images/embedding-content-panopto-share-menu-2.png)
+![Clicking embed and then Copy Embed Code in the Panopto share options](images/embedding-content-panopto-copy-link.png)
+![Clicking the plus icon and then Add Content above a Panopto embed in an Ultra document](images/embedding-content-panopto-add-content.png)
+![Clicking the Insert Link icon in Ultra's text editor](images/embedding-content-panopto-add-link.png)
+![Pasting the URL of a Panopto video into the Link URL box and adding descriptive link text, then clicking save](images/embedding-content-panopto-link-url-insert.png)
 
 #### YouTube video
 
