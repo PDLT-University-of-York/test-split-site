@@ -7,7 +7,7 @@ tags:
     - Ultra
 ---
 
-# Adding links
+# Adding link items
 
 !!! Summary
 
@@ -23,17 +23,17 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to add links. Alternatively, you can [open the video in a new browser tab](https://youtu.be/yC8dvJsoC4g).
+Below is an embedded video detailing how to add link items. Alternatively, you can [open the video in a new browser tab](https://youtu.be/yC8dvJsoC4g).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yC8dvJsoC4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Text Steps
 
-1. Click container to show content options or click the plus icon.
+1. Hover over where you want to add the link and click the plus icon.
 2. Choose **Create**, select **Link**.
 ![Annotated screenshots highlighting the buttons to create a link](images/adding-links-creating.png)
-3. Edit title, make visible to students, copy & paste the relevant URL, add a brief description, and click **Save**.
+3. Edit the title to show the link name, make it visible to students, copy & paste the relevant URL, add a brief description, and click **Save**.
 ![Annotated screenshot showing the different settings and save button in the Link editor](images/adding-links-new-link.png)
 
 ## More Details and Troubleshooting 

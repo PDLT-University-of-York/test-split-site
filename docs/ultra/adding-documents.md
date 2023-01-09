@@ -33,9 +33,9 @@ Below is an embedded video detailing how to create documents. Alternatively, you
 
 1. Click container to show content options or click the plus icon.
 2. Choose **Create**, select **Document**.
-![Annotated screenshots highlighting the buttons to create a document within a folder](images/creating-course-content-create-document.png)
+![Annotated screenshots highlighting the buttons to create a document within a folder](images/adding-documents-content-create-document.png)
 3. Edit title, make visible to students, click cog icon to add description.
-![Screenshot of the top of a new document in Ultra; document name, visibility, and the settings cog](images/creating-course-content-document-name-visibility-cog.png)
+![Screenshot of the top of a new document in Ultra; document name, visibility, and the settings cog](images/adding-documents-name-visibility-cog.png)
 
 
 
