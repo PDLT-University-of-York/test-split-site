@@ -39,27 +39,6 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 3. Step 3
 
 
-## Creating Documents
-
-Documents can be created inside Learning Modules and Folders, or created directly within the **Course Content** area.
-
-### Video Steps
-
-Below is an embedded video detailing how to create documents. Alternatively, you can [open the video in a new browser tab](https://youtu.be/qUl2fAfqCrg).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qUl2fAfqCrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-### Text Steps
-
-1. Click container to show content options or click the plus icon.
-2. Choose **Create**, select **Document**.
-![Annotated screenshots highlighting the buttons to create a document within a folder](images/creating-course-content-create-document.png)
-3. Edit title, make visible to students, click cog icon to add description.
-![Screenshot of the top of a new document in Ultra; document name, visibility, and the settings cog](images/creating-course-content-document-name-visibility-cog.png)
-
-
 
 ## More Details and Troubleshooting 
 

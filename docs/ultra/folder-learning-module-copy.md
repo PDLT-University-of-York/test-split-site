@@ -37,9 +37,6 @@ Below is an embedded video detailing **how to differentiate Folders vs Learning 
 
 
 
-
-
-
 ## **To create a learning module/folder**
 
 ### Video Steps
