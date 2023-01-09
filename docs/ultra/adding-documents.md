@@ -16,6 +16,7 @@ tags:
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
+    - 3.3 Essential: Provide up-to-date documents in an accepted file format.
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 5.1 Recommended: Ensure that students can see and access module materials and content.

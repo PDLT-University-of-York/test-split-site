@@ -16,6 +16,7 @@ tags:
 
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
+    - 2.3 Essential: Design and images adhere to the UoY Brand.
     - 3.4 Essential: Site and materials content is accessible.
 
 

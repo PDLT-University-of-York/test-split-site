@@ -38,4 +38,4 @@ Below is an embedded video detailing how to add link items. Alternatively, you c
 
 ## More Details and Troubleshooting 
 
-For information on using the content collection, or adding LTIs and SCORMs, please see the relevant advanced guide on this site (coming soon). Contact vle-support@york.ac.uk if you run into issues following these steps.
+If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).
