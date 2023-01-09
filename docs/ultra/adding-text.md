@@ -6,10 +6,7 @@ tags:
     - Administration
     - Ultra
 ---
-!!! Warning
 
-    This guide is a work in progress, and should not be considered complete.
-    
 # The Text Editor
 
 !!! Summary
@@ -22,8 +19,8 @@ tags:
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
 
-The Text Editor in Ultra has the standard formatting options you'd find in Gmail, as well as extra tools to add 
-![A screenshot of the text editor in Ultra](images/adding-content-text-editor.png)
+
+<!-- ![A screenshot of the text editor in Ultra](images/adding-content-text-editor.png) -->
 
 ## Adding Text
 
