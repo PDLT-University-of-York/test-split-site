@@ -37,7 +37,7 @@ Below is an embedded video detailing how to add YouTube videos. Alternatively, y
 ![Annotated screenshot highlighting the search and select buttons](images/adding-youtube-search-select.png)
 3. Choose the appropriate display options and press **Insert**
 ![Screenshot of the display settings in the YouTube tool](images/adding-youtube-settings.png)
-4. Open the video in a new tab, then copy the URL to add a hyperlink
+4. Open the video in a new tab, then copy the URL of the video
 ![Annotated screenshot highlighting the YouTube button in the embedded video player](images/adding-youtube-opening-youtube.png)
 5. Add in text above the embedded video, including a hyperlink to open the video in a new browser tab. See our [guide on adding text](https://vle-support.york.ac.uk/ultra/adding-text) to see a guide on adding hyperlinks.
 ![Screenshot of an embedded YouTube video with a hyperlink above](images/adding-youtube-hyperlink.png)

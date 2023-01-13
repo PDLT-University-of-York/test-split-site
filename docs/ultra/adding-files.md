@@ -52,4 +52,4 @@ Below is an embedded video detailing how to upload files. Alternatively, you can
 
 ## More Details and Troubleshooting 
 
-<!-- More info here as needed. -->
+If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).

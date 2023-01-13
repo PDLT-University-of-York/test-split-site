@@ -11,7 +11,7 @@ tags:
 
 !!! Summary
 
-    Documents can be created inside Learning Modules and Folders, or created directly within the **Course Content** area.
+    Documents can be created inside Learning Modules and Folders, or created directly within the **Course Content** area. Images and text must be added to a Document to be viewed.
 
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
