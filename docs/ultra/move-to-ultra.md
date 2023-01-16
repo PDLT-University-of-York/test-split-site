@@ -10,31 +10,30 @@ tags:
 
 !!! Summary
 
-    Module sites will run as new Ultra sites from September 2023.
-    This overview explains what this means for module staff and how you'll be supported.
+    Module sites will run as new Ultra sites from September 2023. This overview explains what this means for module staff and how you'll be supported.
 
 
 ## Key differences between Original & Ultra sites
 There are some  structural differences that may affect how you present your module materials:
 
 1. The Original left-hand navigation menu is replaced in Ultra by a **central Course Content area**.
-    ![Ultra central Course Content area with containers titled staff area, module information, assessment and reading list](images/move-to-ultra-new-course-content.png)
+    ![Annotated screenshots displaying different layouts between Original and Ultra](images/move-to-ultra-new-course-content.png)
 2. In Ultra, items can include a short description on the Course Content area. Users then **open the item to see its content**.
-    ![Document with short description, then opened to show full text content](images/move-to-ultra-open-item.png)
+    ![Two screenshots of a closed and then opened Document in Ultra](images/move-to-ultra-open-item.png)
 3. Ultra allows **two levels of nesting** (folders within folders), compared to unlimited nesting in Original. 
 
 
-## Rollover for 23/24: Ultra template sites
-These structural differences between Original and Ultra sites (and Modularisation & Semerisation changes) means that **rollover will work differently for 23/24**.
+## The VLE in 23/24: Ultra template sites
+These structural differences between Original and Ultra sites (and Modularisation & Semerisation changes) means that **rollover will not happen for 23/24**.
 
-Instead of direct copy of this year's Original site, you'll receive a **departmental Ultra template site** to populate with module materials.
+Instead of a direct copy of this year's Original site, you'll receive a blank **departmental Ultra template site** to populate with module materials.
 
 !!! Note
 
-    This only affects module sites created for 23/24. Existing Original module sites do not need to change to Ultra and will still be available for staff and students.
+    This only affects module sites created for 23/24. Existing Original module sites do not need to move to Ultra and will still be available for staff and students.
 
 Here's a preview of the Course Content area in an Ultra template site:
-![Overall structure with areas for module information, assessment and weekly content](images/move-to-ultra-template.png)
+![Screenshot of the institutional Ultra template](images/move-to-ultra-template.png)
 
 Departmental template sites:
 
@@ -42,8 +41,8 @@ Departmental template sites:
 - are flexible so you can adapt them to fit your module's needs.
 - contain resources and guides to help you build the site.
 
-[Explore the Ultra template in this video tour](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=74a9ff89-81ad-4041-bb13-af2a00ee7abb):
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=74a9ff89-81ad-4041-bb13-af2a00ee7abb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+[Explore the Ultra template in this video tour](https://youtu.be/dkLWyI1UuRE):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkLWyI1UuRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Adding your content to an Ultra template site
 Ultra is more streamlined, so it's easier to create and organise content. Our Ultra training covers how to add content, and there will be a step-by-step guide to walk you through using the template to build your module site.
@@ -52,17 +51,16 @@ It's generally **quickest to build content within the Ultra site** because of th
 
 You can easily:
 
-- add and format text content; it's easy to copy/paste from an Original site.
-- upload images and files from your computer. Most documents will display within the site without needing to be downloaded.
-- embed interactive tools such as Padlet or Xerte.
-- use the built in tool to quickly add Google Drive files (coming soon), Panopto videos, YouTube videos and more.
-- set up discussion boards.
+- [add and format text content](https://vle-support.york.ac.uk/ultra/adding-text).
+- [upload images](https://vle-support.york.ac.uk/ultra/adding-images) and [files from your computer](https://vle-support.york.ac.uk/ultra/adding-files). Most documents will preview within a Document without needing to be downloaded.
+- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embedding-content) such as Padlet or Xerte.
+- use the built in tool to quickly [add YouTube videos](https://vle-support.york.ac.uk/ultra/adding-youtube)
+- [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions-setup).
 
-![Add content to an Ultra site](images/move-to-ultra-add-content.png)
 
-**Copying or importing content from an Original site doesn't work well**. It is possible, but structural differences mean that content will need very careful rearranging and restructuring.
+**Copying or importing content from an Original site doesn't work well**. It is possible to copy content directly from an Original site, but structural differences mean that content will need very careful rearranging and restructuring - this generally takes longer than building content directly, so we don't recommend it in most cases.
 
-This generally takes longer than building content directly, so we don't recommend it in most cases. However, copying content might be useful for Tests and some other specialised content types.
+However, copying content might be useful for Tests and some other specialised content types. See our [guide on copying content](https://vle-support.york.ac.uk/ultra/copying-content) for more information.
 
 ## Make moving to Ultra easier
 There are some steps you can take now to make it easier for you to prepare your Ultra site for 23/24.
