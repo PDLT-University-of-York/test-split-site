@@ -7,11 +7,11 @@ tags:
     - Ultra
 ---
 
-# Content availability
+# Content availabivisibilitylity
 
 !!! Summary
 
-    Ultra sites allow staff to set content as visible to students or hidden from students.
+    Content can be set as visible to students or hidden from students.
 
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 

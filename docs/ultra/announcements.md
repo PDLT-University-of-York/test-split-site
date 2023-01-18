@@ -6,15 +6,20 @@ tags:
     - Ultra
 ---
 
-# Announcement
+# Announcements
 
 !!! Summary
 
-    Announcement is a one-way channel for important news such as key dates and events. Typical types of announcement may include due dates for projects, changes to exam schedules, corrections of materials, or weekly activity summaries…etc. The guides provides you key steps to utilise the tool for communication in class.
+    Announcements is a one-way channel for important news such as key dates and events.
 
 
 ## Quick Start Guide
 
+Typical types of announcement may include:
+
+- reminders of assessment due dates
+- changes to exam schedules
+- corrections of materials
 
 ### Video Steps
 
