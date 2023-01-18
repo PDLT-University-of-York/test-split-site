@@ -41,8 +41,9 @@ Departmental template sites:
 - are flexible so you can adapt them to fit your module's needs.
 - contain resources and guides to help you build the site.
 
-[Explore the Ultra template in this video tour](https://youtu.be/dkLWyI1UuRE):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dkLWyI1UuRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Explore the Ultra template further:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkLWyI1UuRE" title="Ultra template introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video: Ultra template introduction](https://youtu.be/dkLWyI1UuRE)
 
 ## Adding your content to an Ultra template site
 Ultra is more streamlined, so it's easier to create and organise content. Our Ultra training covers how to add content, and there will be a step-by-step guide to walk you through using the template to build your module site.
@@ -58,9 +59,9 @@ You can easily:
 - [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions-setup).
 
 
-**Copying or importing content from an Original site doesn't work well**. It is possible to copy content directly from an Original site, but structural differences mean that content will need very careful rearranging and restructuring - this generally takes longer than building content directly, so we don't recommend it in most cases.
+**Copying or importing content from an Original site doesn't work well**. It is possible to copy content directly from an Original site, but structural differences mean that content will need very careful rearranging and restructuring - this generally takes longer than building content directly and can be very fiddly, so we don't recommend it in most cases.
 
-However, copying content might be useful for Tests and some other specialised content types. See our [guide on copying content](https://vle-support.york.ac.uk/ultra/copying-content) for more information.
+However, copying content might be useful for Tests and some other specialised content types. Guides will be available for this.
 
 ## Make moving to Ultra easier
 There are some steps you can take now to make it easier for you to prepare your Ultra site for 23/24.
