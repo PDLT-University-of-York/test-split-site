@@ -52,11 +52,11 @@ It's generally **quickest to build content within the Ultra site** because of th
 
 You can easily:
 
-- [add and format text content](https://vle-support.york.ac.uk/ultra/adding-text).
-- [upload images](https://vle-support.york.ac.uk/ultra/adding-images) and [files from your computer](https://vle-support.york.ac.uk/ultra/adding-files). Most documents will preview within a Document without needing to be downloaded.
-- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embedding-content) such as Padlet or Xerte.
-- use the built in tool to quickly [add YouTube videos](https://vle-support.york.ac.uk/ultra/adding-youtube)
-- [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions-setup).
+- [add and format text content](https://vle-support.york.ac.uk/ultra/text).
+- [upload images](https://vle-support.york.ac.uk/ultra/images) and [files from your computer](https://vle-support.york.ac.uk/ultra/files). Most documents will preview within a Document without needing to be downloaded.
+- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embedded-content) such as Padlet or Xerte.
+- use the built in tool to quickly [add YouTube videos](https://vle-support.york.ac.uk/ultra/youtube)
+- [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions).
 
 
 **Copying or importing content from an Original site doesn't work well**. It is possible to copy content directly from an Original site, but structural differences mean that content will need very careful rearranging and restructuring - this generally takes longer than building content directly and can be very fiddly, so we don't recommend it in most cases.
