@@ -22,10 +22,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to set up conditional availability in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/D8AMqszCkms).
-
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D8AMqszCkms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video: [Conditional availability in Ultra](https://youtu.be/D8AMqszCkms)
 
 
 ### Text Steps
@@ -54,7 +54,7 @@ Below is an embedded video detailing how to set up conditional availability in U
 
     It is best practice not to restrict content week by week. Once made available, content should always remain available.
 
-#### Conditional release based on student performance
+#### Student performance
 
 1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to change, click the arrow, then click **Release conditions**. ![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png)
 2. Click **Performance** under **Set additional conditions**.
@@ -66,7 +66,7 @@ Below is an embedded video detailing how to set up conditional availability in U
 
     It is important to check that all the correct content items are visible or hidden before students are enrolled on the course. To check, click on Student Preview in the top right corner of the page.
 
-## More Details and Troubleshooting 
+## More Details
 
 To adjust item visibility without conditions please refer to the [Content Availability](https://pdlt-university-of-york.github.io/vle-help/ultra/content-availability/) guide.
 
