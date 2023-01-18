@@ -65,16 +65,10 @@ Below is an embedded video detailing how to link images using an image address. 
 1. Select the “Insert content” drop-down menu in the text editor and click **Image**
 ![An annotated screenshot of the Ultra text editor, highlighting the Image option in the Insert Content menu](images/adding-images-text-editor.png)
 2. Locate your image on the internet, right-click it, and select **copy image address**
-![Annotated screenshot showing the right-click menu on a web image, highlighting the copy image address button](images/adding-images-copy-url)
+![Annotated screenshot showing the right-click menu on a web image, highlighting the copy image address button](images/adding-images-copy-url.png)
 3. Paste in the URL for the image you’d like to add, add a brief description of the image in the alternative text box (i.e. cartoon image of a coffee cup) and click **Insert**
 ![Annotated screenshot of the image insert tool, highlighting the Insert button](images/adding-images-url.png)
 
 !!! Warning
 
     Images added via static URL cannot currently be marked as decorative. Instead, please provide a concise description of the image in the alternative text box.
-
-
-
-## More Details and Troubleshooting 
-
-If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).
