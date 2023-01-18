@@ -95,8 +95,8 @@ nav:
       - Copy or reuse content: ultra/copy-content.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
-      - Discussions: ultra/discussions-setup.md
-      - Groups: ultra/groups-setup.md
+      - Discussions: ultra/discussions.md
+      - Groups: ultra/groups.md
     # - Assessment and assignments:
     #   - Tests: ultra/tests.md
     # - Site access & users: 
