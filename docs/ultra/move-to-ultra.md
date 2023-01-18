@@ -41,8 +41,9 @@ Departmental template sites:
 - are flexible so you can adapt them to fit your module's needs.
 - contain resources and guides to help you build the site.
 
-[Explore the Ultra template in this video tour](https://youtu.be/dkLWyI1UuRE):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dkLWyI1UuRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Explore the Ultra template further:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkLWyI1UuRE" title="Ultra template introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video: Ultra template introduction](https://youtu.be/dkLWyI1UuRE)
 
 ## Adding your content to an Ultra template site
 Ultra is more streamlined, so it's easier to create and organise content. Our Ultra training covers how to add content, and there will be a step-by-step guide to walk you through using the template to build your module site.
@@ -51,16 +52,16 @@ It's generally **quickest to build content within the Ultra site** because of th
 
 You can easily:
 
-- [add and format text content](https://vle-support.york.ac.uk/ultra/adding-text).
-- [upload images](https://vle-support.york.ac.uk/ultra/adding-images) and [files from your computer](https://vle-support.york.ac.uk/ultra/adding-files). Most documents will preview within a Document without needing to be downloaded.
-- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embedding-content) such as Padlet or Xerte.
-- use the built in tool to quickly [add YouTube videos](https://vle-support.york.ac.uk/ultra/adding-youtube)
-- [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions-setup).
+- [add and format text content](https://vle-support.york.ac.uk/ultra/text).
+- [upload images](https://vle-support.york.ac.uk/ultra/images) and [files from your computer](https://vle-support.york.ac.uk/ultra/files). Most documents will preview within a Document without needing to be downloaded.
+- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embedded-content) such as Padlet or Xerte.
+- use the built in tool to quickly [add YouTube videos](https://vle-support.york.ac.uk/ultra/youtube)
+- [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions).
 
 
-**Copying or importing content from an Original site doesn't work well**. It is possible to copy content directly from an Original site, but structural differences mean that content will need very careful rearranging and restructuring - this generally takes longer than building content directly, so we don't recommend it in most cases.
+**Copying or importing content from an Original site doesn't work well**. It is possible to copy content directly from an Original site, but structural differences mean that content will need very careful rearranging and restructuring - this generally takes longer than building content directly and can be very fiddly, so we don't recommend it in most cases.
 
-However, copying content might be useful for Tests and some other specialised content types. See our [guide on copying content](https://vle-support.york.ac.uk/ultra/copying-content) for more information.
+However, copying content might be useful for Tests and some other specialised content types. Guides will be available for this.
 
 ## Make moving to Ultra easier
 There are some steps you can take now to make it easier for you to prepare your Ultra site for 23/24.
