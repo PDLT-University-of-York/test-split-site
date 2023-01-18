@@ -33,54 +33,22 @@ Below is an embedded video detailing how to set up conditional availability in U
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-#### Conditional release for specific users or groups
+#### Specific users or groups
 
-1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow.
-
-![Clicking the arrow next to Visible to students for an item in the Course Content area](images/conditional-release-current-visibility.png)
-
-2. Click on **Release conditions**.
-
-![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png)
-
-3. Under **Select members**, click the button labelled **Specific members or groups**.
-
-![Clicking the Specific Members or Groups radio button in the Release Conditions pane](images/conditional-release-specific-members-groups.png)
-
-4. To make the content item available to a particular student, click the box labelled **Individual members**, type name of the student, then click the student's name. 
-
-![Typing a student's name in the Individual Members box and selecting the student from the list of search results](images/conditional-release-type-select-student.png)
-
-5. To make the content item available to a particular group, click the box labelled **Groups** and select the desired group from the drop down menu.
-
-![Selecting a Group from the Groups drop down menu in the Release Conditions pane](images/conditional-release-select-group.png)
-
-6. Click **Save**.
+1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to change, click the arrow, then click **Release conditions**. ![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png) 
+2. Under **Select members**, click **Specific members or groups**. ![Clicking the Specific Members or Groups radio button in the Release Conditions pane](images/conditional-release-specific-members-groups.png)
+3. To make the content item available to a particular student, click **Individual members**, type the name of the student, then click the student's name. ![Typing a student's name in the Individual Members box and selecting the student from the list of search results](images/conditional-release-type-select-student.png)
+4. To make the content item available to a particular group, click **Groups** and select the desired group from the drop down menu. ![Selecting a Group from the Groups drop down menu in the Release Conditions pane](images/conditional-release-select-group.png)
+5. Click **Save**.
 
 
-#### Conditional release based on date/time
+#### Date and time
 
-1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow.
-
-![Clicking the arrow next to Visible to students for an item in the Course Content area](images/conditional-release-current-visibility.png)
-
-2. Click on **Release conditions**.
-
-![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png)
-
-3. Under **Set additional conditions**, click the checkbox labelled **Date/Time**.
-
-![Clicking the Date/Time checkbox in the Release Conditions pane](images/conditional-release-date-time.png)
-
-4. To set a content item to only be visible after a certain date/time, click the checkbox labelled **Show on**, then select the date and time.
-
-![Setting the date and time for content to appear](images/conditional-release-show-after.png)
-
-5. If you want students to be able to see the item in the content list, prior to the time defined in step 4, without being able to open it, under **When will content appear?** click the button labelled **Show**. Otherwise, if you want the item to be invisible until the time defined in step 4, leave this set to **Hide**.
-
-![Setting whether or not content will be visible before students can access it](images/conditional-release-appears-when.png)
-
-6. Click **Save**.
+1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to change, click the arrow, then click **Release conditions**. ![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png)
+2. Under **Set additional conditions**, click **Date/Time**. ![Clicking the Date/Time checkbox in the Release Conditions pane](images/conditional-release-date-time.png)
+3. To set a content item to only be visible after a certain date/time, click **Show on**, then select the date and time. ![Setting the date and time for content to appear](images/conditional-release-show-after.png)
+4. If you want students to be able to see the item in the content list prior to the time defined in step 3 without being able to open it, under **When will content appear?** click **Show**. Otherwise, if you want the item to be invisible until the time defined in step 3, leave this set to **Hide**. ![Setting whether or not content will be visible before students can access it](images/conditional-release-appears-when.png)
+5. Click **Save**.
 
 !!! Warning
 
@@ -88,24 +56,11 @@ Below is an embedded video detailing how to set up conditional availability in U
 
 #### Conditional release based on student performance
 
-1. Mouse over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to modify, then click the down arrow.
-
-![Clicking the arrow next to Visible to students for an item in the Course Content area](images/conditional-release-current-visibility.png)
-
-2. Click on **Release conditions**.
-
-![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png)
-
-3. Click the checkbox labelled **Performance** under **Set additional conditions**.
-4. From the drop down menu labelled **Marked item**, select the marked item (e.g. a quiz) that will qualify a student to view this content item.
-
-![Clicking the Peformance checkbox and selecting a marked item from the drop down menu](images/conditional-release-performance.png)
-
-5. Select the mark requirement from the drop down menu labelled **Mark requirement**.
-
-![Selecting the required mark from the mark requirement drop down menu](images/conditional-release-mark-requirement.png)
-
-6. Click **Save**.
+1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to change, click the arrow, then click **Release conditions**. ![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png)
+2. Click **Performance** under **Set additional conditions**.
+3. From the **Marked item** drop down menu, select the marked item (e.g. a quiz) that will qualify a student to view this content item. ![Clicking the Peformance checkbox and selecting a marked item from the drop down menu](images/conditional-release-performance.png)
+4. Select the mark requirement from the **Mark requirement** drop down menu. ![Selecting the required mark from the mark requirement drop down menu](images/conditional-release-mark-requirement.png)
+5. Click **Save**.
 
 !!! Warning
 
