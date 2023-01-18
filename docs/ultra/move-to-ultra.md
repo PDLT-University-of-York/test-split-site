@@ -24,7 +24,7 @@ There are some  structural differences that may affect how you present your modu
 
 
 ## The VLE in 23/24: Ultra template sites
-These structural differences between Original and Ultra sites (and Modularisation & Semerisation changes) means that **rollover will not happen for 23/24**.
+These structural differences between Original and Ultra sites (and Modularisation & Semesterisation changes) mean that **rollover will happen differently for 23/24**.
 
 Instead of a direct copy of this year's Original site, you'll receive a blank **departmental Ultra template site** to populate with module materials.
 

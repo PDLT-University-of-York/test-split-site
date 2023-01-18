@@ -35,7 +35,3 @@ Below is an embedded video detailing how to add link items. Alternatively, you c
 ![Annotated screenshots highlighting the buttons to create a link](images/adding-links-creating.png)
 3. Edit the title to show the link name, make it visible to students, copy & paste the relevant URL, add a brief description, and click **Save**.
 ![Annotated screenshot showing the different settings and save button in the Link editor](images/adding-links-new-link.png)
-
-## More Details and Troubleshooting 
-
-If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).

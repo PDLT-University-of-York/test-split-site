@@ -37,9 +37,4 @@ Below is an embedded video detailing how to create documents. Alternatively, you
 ![Annotated screenshots highlighting the buttons to create a document within a folder](images/adding-documents-content-create-document.png)
 3. Edit title, make visible to students, click cog icon to add description.
 ![Screenshot of the top of a new document in Ultra; document name, visibility, and the settings cog](images/adding-documents-name-visibility-cog.png)
-
-
-
-## More Details and Troubleshooting 
-
-For information on using the content collection, or adding LTIs and SCORMs, please see the relevant advanced guide on this site (coming soon). Contact vle-support@york.ac.uk if you run into issues following these steps.
+4. You can then add content to a Document such as text, files, and embedded websites. See our other guides for this informtation.

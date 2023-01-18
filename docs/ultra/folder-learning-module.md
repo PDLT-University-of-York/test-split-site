@@ -10,7 +10,7 @@ tags:
 
 !!! Summary
 
-    In Ultra, **Learning Modules** and **Folders** are the two types of containers you can use to organise course content. Although the interfaces might look similar to you, there are key differences for the student experience. The guide provides instructions on creating Learning Modules/Folders and the key navigating differences for the students.
+    In Ultra, **Learning Modules** and **Folders** are the two types of containers you can use to organise course content.
 
 
 ## **Which to use when**
@@ -70,8 +70,3 @@ Below is an embedded video detailing how to **Create Learning Modules in the Ult
 7. Click **Save**.
 
     ![click save](images/folder-learning-module-save.png "Click save")
-
-
-## Further Help
-* [Blackboard Help: Learning Modules](https://help.blackboard.com/Learn/Student/Ultra/Content/Learning_Modules)
-* [Blackboard Help: Types of Course Content](https://help.blackboard.com/Learn/Student/Ultra/Content/Types_of_Course_Content)

@@ -47,9 +47,3 @@ Below is an embedded video detailing how to add YouTube videos. Alternatively, y
 
    For more control and customisation, you can also embed YouTube videos directly via HTML. Please see the advanced guide [Embedding content with HTML](https://pdlt-university-of-york.github.io/vle-help/ultra/) for more information.
 -->
-
-
-
-## Further information and troubleshooting
-
-If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).

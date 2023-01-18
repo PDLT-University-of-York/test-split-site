@@ -39,7 +39,7 @@ Below is an embedded video detailing how to upload files. Alternatively, you can
 1. In a Document click the plus icon to add content and/or click **Upload from Computer**
 ![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
 2. Find the item you would like to upload, select it, and click **Open**
-![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)]
+![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)
 3. Select a descriptive display name (eg "Week 4 Seminar Materials"), choose the appropriate file options, and then click **Save**
 ![Annotated screenshot highlighting the file options and Save button](images/adding-content-file-options.png)
 4. Files can be previewed inline within Ultra Documents if "View" is allowed in the file options
@@ -49,7 +49,3 @@ Below is an embedded video detailing how to upload files. Alternatively, you can
 !!! Note
 
     These steps are also applicable when using the Attachment tool within the text editor.
-
-## More Details and Troubleshooting 
-
-If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).

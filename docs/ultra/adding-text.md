@@ -67,7 +67,3 @@ Below is an embedded video detailing how to add a hyperlink to a Document. Alter
 ## YouTube Videos
 
 Details on adding YouTube videos using the built-in tool are in a separate guide - see our [adding YouTube videos](https://vle-support.york.ac.uk/ultra/adding-youtube) guide.
-
-## Further information and troubleshooting
-
-If you encounter difficulties following this guide, please contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).
