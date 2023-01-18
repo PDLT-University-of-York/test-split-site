@@ -6,7 +6,7 @@ tags:
     - Ultra
 ---
 
-# Release conditions (onditional availability)
+# Release conditions (conditional availability)
 
 !!! Summary
 
