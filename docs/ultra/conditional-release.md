@@ -23,7 +23,7 @@ tags:
 ### Video Steps
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D8AMqszCkms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D8AMqszCkms" title="Conditional availability in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Video: [Conditional availability in Ultra](https://youtu.be/D8AMqszCkms)
 
