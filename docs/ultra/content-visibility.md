@@ -54,6 +54,6 @@ Items in the **Course Content** area can be set to **Visible to students** or **
 
 ## More Details and Troubleshooting 
 
-It is possible to set items to become visible to or hidden from students based on certain conditions, e.g. date and time. For more information on this, please see the [Conditional Availability](https://vle-support.york.ac.uk/ultra/conditional-release/) guide. 
+It is possible to set items to become visible to or hidden from students based on certain conditions, e.g. date and time. For more information on this, please see the [Release Conditions](https://vle-support.york.ac.uk/ultra/release-conditions/) guide. 
 
 <!-- More info here as needed. -->

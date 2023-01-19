@@ -23,11 +23,10 @@ tags:
 
 ### Video Steps
 
-Below is an embedded video detailing how to set up Course Images in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/O0B4R8RyBYU).
-
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O0B4R8RyBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0B4R8RyBYU" title="Course images in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Video: [Course images in Ultra](https://youtu.be/O0B4R8RyBYU)
 
 ### Text Steps
 
@@ -38,27 +37,20 @@ Course images need to be at least 1200 × 240 pixels.
 
 To set up your Ultra site's Course Image:
 
-1. Open your Ultra site and click **Edit display settings** under **Course Image** in the left hand menu.
+1. Open your Ultra site and click **Edit display settings** under **Course Image** in the left hand menu. <br> ![Clicking Edit display settings in the Details & Actions menu](images/course-images-display-settings.png)
 2. Click **Upload new image**.
-3. Select the desired image from the browser.
+3. Select the desired image from the browser. <br> ![Clicking Upload new image and selecting an image from the browser](images/course-images-upload-images.png)
 4. Position the image as required, adjusting the zoom if necessary.
-5. Click **Done**.
+5. Click **Done**. <br> ![Adjusting position, crop and zoom on the new course image and then clicking done](images/course-images-pan-zoom-done.png)
 6. Ensure that the **Course Image** toggle is set to the **On** position.
 7. Add a description of the image to the **Image description** box.
-8. Click **Save**.
+8. Click **Save**. <br> ![Ensuring the Course Image toggle is set to on, adding alt text and clicking save](images/course-images-alt-text-save.png)
 
-![The Edit display settings link in the Details & Actions menu](images/course-images-edit-display-settings.png)
-![Clicking Upload new image and selecting an image from the browser](images/course-images-upload-new-image.png)
-![Adjusting position, crop and zoom on the new course image and then clicking done](images/course-images-position-and-crop.png)
-![Ensuring the Course Image toggle is set to on, adding alt text and clicking save](images/course-images-toggle-on-alt-text-save.png)
+## Technical details
 
+Any content that needs to be always visible should be restricted to a 550 × 150 pixel area in the centre of the image, regardless of overall image size - see template below.
 
-
-## More Details and Troubleshooting 
-
-Any content that needs to be always visible should be restricted to a 550 × 150 pixel area in the centre of the course image - see template below.
-
-You can download this as a PNG file by right clicking on the image and clicking on **Save image as**.
+You can download this template as a PNG file by right clicking on the image and clicking **Save image as**.
 
 ![A template course image sized at 1200 × 240 showing the area that will always be visible](images/course-images-template.png)
 
@@ -66,11 +58,15 @@ You can download this as a PNG file by right clicking on the image and clicking 
 
 	If you want to use a course image larger than 1200 × 240 pixels, maintain the same 5:1 aspect ratio.
 
-Avoid using any copyrighted material when creating your site’s course image.
+## Sourcing images
 
-You can use the [university’s photo library](https://brand.york.ac.uk/account/dashboard/) to download images owned by the university, or [Unsplash](https://unsplash.com/) for copyright-free images.
+You must not use copyrighted material when creating your site’s course image.
 
-Download images at a resolution that meets the minimum requirements for Ultra. The **Web Image gallery** size on the photo library meets these requirements.
+Images should be high quality; preferably taken by a professional photographer. You can use the [University’s photo library](https://brand.york.ac.uk/account/dashboard/) to download professional photographs owned by the University. 
+
+You can also use [Unsplash.com](https://unsplash.com/) to source copyright-free images.
+
+Download images at a resolution that meets the minimum requirements for Ultra. The **Web Image gallery** size on the University's photo library meets these requirements.
 
 ![The university photo library download options menu showing the correct resolution to use when downloading an image to use as a course image](images/course-images-photo-library.png)
 
