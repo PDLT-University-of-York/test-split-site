@@ -7,7 +7,7 @@ tags:
     - Ultra
 ---
 
-# Content availabivisibilitylity
+# Content visibility
 
 !!! Summary
 
@@ -37,18 +37,17 @@ Items in the **Course Content** area can be set to **Visible to students** or **
 #### Single item
 
 1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to change, then click the arrow.
-2. Click on the required visibility option.
-![Selecting a visibility state for one item in the Course Content area](images/content-availability-single-item.png) 
+2. Click on the required visibility option. <br> ![Selecting a visibility state for one item in the Course Content area](images/content-availability-single-item.png) 
 
 #### Muliple items
 
 1. Click on the three dots icon to the right of the **Course Content** heading.
-2. Select **Batch Edit**. ![Clicking the three dots icon to the right of the Course Content heading and then Batch edit](images/content-availability-batch-edit-menu.png) 
+2. Select **Batch Edit**. <br> ![Clicking the three dots icon to the right of the Course Content heading and then Batch edit](images/content-availability-batch-edit-menu.png) 
 3. Select the content items whose visibility you want to change by clicking the checkboxes.
 4. Click **Options** in the bottom right corner of the screen.
-5. Click **Edit visibility**. ![Selecting items, clicking on Options and then clicking edit visibility](images/content-availability-batch-edit-select.png) 
+5. Click **Edit visibility**. <br> ![Selecting items, clicking on Options and then clicking edit visibility](images/content-availability-batch-edit-select.png) 
 6. Select the required visibility state, e.g. **Hidden from students**.
-7. Click **Save visibility**. ![Changing the visibility setting and then clicking save visibility](images/content-availability-batch-edit-save.png) 
+7. Click **Save visibility**. <br> ![Changing the visibility setting and then clicking save visibility](images/content-availability-batch-edit-save.png) 
 
 !!! Warning 
     It is important to check that all the correct content items are visible or hidden before students are enrolled on the course. To check, click on Student Preview in the top right corner of the page.
