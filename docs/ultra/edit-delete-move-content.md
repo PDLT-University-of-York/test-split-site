@@ -10,67 +10,43 @@ tags:
 
 !!! Summary
 
-    In Ultra, you can easily make changes to existing content and change where they appear on your **Course Content page**. This guide will show you simple ways to do such tasks.
+    You can edit, move, or delete items in your Ultra site from the **Course Content** area.
 
 
 ## Quick Start Guide
 
 ### Video Steps
 
-Below is an embedded video detailing **how to edit, delete and move items**. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=oEH0Z2ptpqk).
-
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oEH0Z2ptpqk" title="YouTube video Editing, deleting and moving items" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEH0Z2ptpqk" title="Editing, deleting and moving items in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video: [Editing, Moving and Deleting Items in Ultra](https://www.youtube.com/watch?v=oEH0Z2ptpqk)
 
 ### Text Steps
 
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-#### **Edit items**
+#### Editing items
 
-1. Click **the three dots icon** on the right hand side of the item.
-2. Click **Edit**.
+1. Click **three dots icon** on the right hand side of the item.
+2. Click **Edit**. <br> ![Click the three dots and edit](images/edit-move-delete-three-dots-edit.png)
+3. Edit your item.
+4. Click **Save**.
 
-    ![Click the three dots and edit](images/edit-delete-move-edit.png "Click edit")
+#### Deleting items
 
-3. **Edit** your item.
-4. Confirm by clicking **Save** at the end of the box that appears.
-
-    ![Click save](images/edit-delete-move-save.png "Click save")
-
-
-#### **Delete items**
-1. Click **the three dots icon** on the right hand side of the item.
-2. Click **Delete**.
-
-    ![Click delete](images/edit-delete-move-delete.png "Click delete")
-
+1. Click the **three dots icon** on the right hand side of the item.
+2. Click **Delete**. <br> ![Click the three dots and delete](images/edit-move-delete-three-dots-delete.png)
 3. Confirm by clicking **Delete** in the box that appears.
-
-    ![Confirm delete](images/edit-delete-move-confirm-delete.png "Confirm delete") 
-
-!!! Tip
-
-    If you want to preserve the information but don’t want the student to see it yet, use **“Hidden from students”** in the visibility control, instead of deleting it. Students can't access hidden items on the Course Content page. 
 
 !!!Warning
 
-    If you delete a folder or learning module that has content, the content is also removed from the Course Content page.
+    If you delete a folder or learning module the items within will also be deleted.
 
-#### **Move items**
-1. Hover your mouse next to the three dots icon on the item you want to move, you will see** the Move button with up-side-down arrows**.
+#### Moving items
 
-    ![Click move button](images/edit-delete-move-move.png "Click move") 
-
-2. **Press the Move icon and move it to a new location.** You can also move content into a folder. Expand the folder and move the item to the area below the folder's title.
-
-!!! Tip
-
-    With your keyboard, you can move an item to a new location:
-
-    1. Tab to an item's move icon.
-    2. Press Enter to activate move mode.
-    3. Use the arrow keys to choose a location.
-    4. Press Enter to drop the item in the new location.
+1. Hover your mouse over the item you want to move, then click and hold the **up/down arrows** that appear.<br> ![Clicking the arrows to pick up an item in order to move it](images/edit-move-delete-move.png "Click move") 
+2. Move the item up or down as desired by dragging with your mouse.
+3. Release the mouse button to drop the item.
