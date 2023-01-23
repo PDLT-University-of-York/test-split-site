@@ -6,104 +6,66 @@ tags:
     - Ultra
 ---
 
-# Navigating an Ultra site (comparing to original)
+# Navigating an Ultra site
 
 !!! Summary
 
-    The transition to Ultra site provides a number of advantages for different users. Staff benefit from new simpler workflows designed to make it easier to manage a VLE site. Students have a more activity based learner experience and are also able to access and use the VLE on any sized screen, such as mobile phone, tablet or computer. The guide gives you an overview on the key differences between the Ultra site and the Original site.
+    Blackboard Ultra has a new user interface designed to make sites easy to use and accessible.
 
+## Quick guidance
 
-## Quick Guidance
-<!-- Summary/key considerations -->
+### Course Content
 
-### Video Steps
+Content is created and accessed in the **Course Content** area.
 
-Below is an embedded video detailing **how to differente an Original site and an Ultra site**. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=zO1UCI92b_8).
+To open an item, click the item in the **Course Content** area.
 
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+To close the item and return to the **Course Content** area, click **X**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zO1UCI92b_8" title="YouTube video How to differente an Original site and an Ultra site?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Clicking on an item in the course content area to open it and then clicking the X to close it](images/navigate-ultra-site-open-close-item.png)
 
-Below is an embedded video detailing **how to navigate an Ultra site**. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=2y5NQCYidiI).
+Items can also be organised in content containers such as **Folders** or **Learning Modules**.
 
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+Click a content container to expand it. You will see a list of all the items in the content container. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2y5NQCYidiI" title="YouTube video Navigating an Ultra site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You can open any of the items in a content container by clicking on them. You can collapse the Learning Module or Folder by clicking on it again.
 
-### Text Guide
+![Clicking on a Learning Module to expand it and then clicking on an item within the Learning Module to open it](images/navigate-ultra-site-learning-module.png)
 
-#### **How to differentiate?**
+!!! Tip
 
-1. When you log onto Ultra, select **Courses** in the left-hand side menu to see all the courses you are enrolled in.
+    For more information on Folders and Learning Modules, please refer to the [Folders vs Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/) guide.
 
-    ![Click Course on homepage](images/navigate-ultra-site-course.png "Click Course")
+### Details & Actions
 
-2. You may then need to **identify** which courses were created in Original Blackboard and which were created in Ultra. You can differentiate via the **colour bars** immediately to the left of each course. **Coloured bars typically indicate an Ultra site, while grey coloured bars indicate Original sites.** You can also differentiate Original sites from Ultra because Original sites will have states “**Original Course View**”.
+This menu on the left hand side of the screen gives access to a number of different tools.
 
-    ![Differentiate original and ultra through bar colours](images/navigate-ultra-site-original-ultra-bar.png "bar colours")
+| Menu item | Description |
+| ----------- | ----------- |
+| Class register | List of everyone enrolled on the site, including staff members |
+| [Course Groups](https://vle-support.york.ac.uk/ultra/groups/) | Create and manage student groups |
+| [Course Image](https://vle-support.york.ac.uk/ultra/course-image/) | Upload, edit or remove the site's Course Image |
+| Course is open / Course is private | Set the course as visible or invisible to students |
+| Class Collaborate | Not used at York |
+| Attendance | Not used at York |
+| [Announcements](https://vle-support.york.ac.uk/ultra/announcements/) | Create announcements and view previous announcements  |
+| Books & Tools | Access LTI tools such as Reading Lists and Panopto/Replay |
+| Question banks | Build and manage sets of questions shared between tests |
 
-3. Once you select a course, differentiate Original sites from Ultra ones by looking at the navigation panel located to the left of the page. An Original site’s navigation panel is typically **grey and lacks icons**. When you select a Ultra site, the navigation panel on the left-hand side is typically **white in colour and organised with icons**.
+### Top menu
 
-    ![Differentiate original and ultra through panel](images/navigate-ultra-site-original-ultra-panel.png "panel differences")
+The menu above the **Course Content** area gives access to a number of course tools.
 
-#### **Ultra site**
+| Menu item | Description |
+| ----------- | ----------- |
+| Content | Return to the **Course Content** area |
+| Calendar | View the Blackboard Calendar for this course |
+| [Discussions](https://vle-support.york.ac.uk/ultra/discussions/) | Quick access all of the course's discussion boards |
+| Gradebook | Quick access grade information for all of the marked items in a course |
+| Messages | Send private messages to individual students or groups |
+| Analytics | Not currently used at York |
+| Student Preview | View the course as it appears to a student |
 
-In the Ultra site, you have simplified workflows, a modern look and feel, and a fully responsive interface divided into three sections.
+!!! Warning
 
-![Three sections of Ultra site](images/navigate-ultra-site-ultra-overview.png "three sections")
-
-A: On the upper navigation bar, you can select the keywords to **open frequently used tools**, such as calendar, discussions or gradebook. Access frequently used tools quickly within your module via the upper navigation bar. 
-
-B: You also have a left-hand side menu with icons. This is where you can **view module enrolments, create and manage groups, add a module banner image, set the module availability, post announcements, manage test question banks and add a module schedule.**
-
-C: Finally, the middle part is the **Course Content area**. Select **the plus icon** wherever you want to create content. This is the area where you add your module information, learning materials and assessments as required for your module.
-
-After selecting **the plus icon**, you are able to create items, such as documents or videos, through a new layer page on your right-hand side. You can also **copy content** from your past courses. All of your course items appear in the main part of the page.
-
-![Create items in course content area](images/navigate-ultra-site-ultra-create-items.png "create items")
-
-#### **Learning Modules vs Folders in Ultra**
-
-In Ultra site, **Learning Modules** and **Folders** are the two types of containers you can use to organise course content. You can distinguish the two by the folder icon.
-
-![Differentiate folders and learning modules on course content area](images/navigate-ultra-site-module-folder.png "Differentiate folders and learning modules")
-
-**1. Two-level structure**
-
-When you build content, Ultra allows you to create 2 levels of structure. It is important to think about how you want to structure your module before adding content, especially when you copy content from the Original site. Although the interfaces might look similar to you, there are key differences for the student experience.
-
-![two level structure in Ultra](images/navigate-ultra-site-two-level.gif "two level")
-
-**2. Nesting**
-
-In Original, you type the details of the content out on the learning module itself.
-
-![nesting in otiginal](images/navigate-ultra-site-original-nesting.png "original nesting")
-
-
-In the new Ultra nesting design, you get a much simpler interface with only a short description on the learning module. You can use a document to deliver the details, which provides students a better learning flow.
-
-![nesting in ultra](images/navigate-ultra-site-ultra-nesting.png "ultra nesting")
-
-![document in ultra](images/navigate-ultra-site-ultra-document.gif "ultra document")
-
-**3. Differences in student experience**
-
-If contents are created within a **learning module**, students are able to **navigate the order of the contents** through the forward/backward arrows in sequence.
-
-![student experience in learning module](images/navigate-ultra-site-module-student-experience.png "student experience in learning module")
-
-
-
-If contents are created within a **folder**, students have to click **the exit button** on the upper left-hand side to choose another content within the folder.
-
-![student experience in folder](images/navigate-ultra-site-folder-student-experience.png "student experience in folder")
-
-
-If you need more information on how to add content to a learning module/folder, please go to [Folders vs Learning Modules](https://pdlt-university-of-york.github.io/vle-help/ultra/folder-learning-module/) guide.
-
-
-## Further Help
-
-* [Blackboard Help: Course View Options](https://help.blackboard.com/Learn/Administrator/SaaS/Courses/About_Courses_in_Ultra_Experience/Course_View_Options#ultra)
-* [Folders vs Learning Modules](https://pdlt-university-of-york.github.io/vle-help/ultra/folder-learning-module/)
+    The Blackboard Calendar is not currently integrated with Google Calendar or the University's timetabling system.
