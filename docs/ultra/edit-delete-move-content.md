@@ -19,9 +19,9 @@ tags:
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oEH0Z2ptpqk" title="Editing, deleting and moving items in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j01vTLdXef8" title="Editing, moving and deleting items in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video: [Editing, Moving and Deleting Items in Ultra](https://www.youtube.com/watch?v=oEH0Z2ptpqk)
+Video: [Editing, Moving and Deleting Items in Ultra](https://www.youtube.com/watch?v=j01vTLdXef8)
 
 ### Text Steps
 
