@@ -14,7 +14,7 @@ tags:
 
 ## Overview
 
-You can access all of the tools needed for site construction and administration through the following menus:
+There are three menus used to navigate an Ultra site:
 
 1. **[Top Menu](#top-menu)**: access course tools including the **Gradebook** and **Messages**.
 2. **[Course Content](#course-content) area**: course content is created and accessed here.
