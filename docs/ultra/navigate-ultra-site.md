@@ -18,7 +18,7 @@ You can access all of the tools needed for site construction and administration 
 
 1. **[Top Menu](#top-menu)**: access course tools including the **Gradebook** and **Messages**.
 2. **[Course Content](#course-content) area**: course content is created and accessed here.
-3. **[Details & Actions](#details--actions)**: access site tools including the **Class Register** and **Announcements**.
+3. **[Details & Actions](#details--actions)** access site tools including the **Class Register** and **Announcements**.
 
 ![Clicking on a Learning Module to expand it and then clicking on an item within the Learning Module to open it](images/navigate-ultra-site-template.png)
 
@@ -62,7 +62,7 @@ To close the item and return to the **Course Content** area, click **X**.
 
     For more information on Folders and Learning Modules, please refer to the [Folders vs Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/) guide.
 
-### Details & Actions
+### Details & Actions {#details--actions}
 
 This menu on the left hand side of the screen gives access to a number of different tools.
 
