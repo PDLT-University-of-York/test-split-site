@@ -39,7 +39,7 @@ tags:
 
 !!! Warning
 
-    It is important to add text structure through the Styles feature in the Text Editor instead of relying on different font sizes, as the latter information is not conveyed accurately through most screen readers. For more information on creating accessible content, see (the subject guide on Accessibility)[https://subjectguides.york.ac.uk/skills/accessibility].
+    It is important to add text structure through the Styles feature in the Text Editor instead of relying on different font sizes, as the latter information is not conveyed accurately through most screen readers. For more information on creating accessible content, see [the subject guide on Accessibility](https://subjectguides.york.ac.uk/skills/accessibility).
 
 
 ### Video Steps
