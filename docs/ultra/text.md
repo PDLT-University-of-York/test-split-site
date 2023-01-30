@@ -51,12 +51,18 @@ Video: [Adding text in Ultra](https://youtu.be/NDFTG9wd23k).
 ### Text Steps
 
 1. To add text to an Ultra site, create or open a Document (see our [adding documents guide](https://vle-support.york.ac.uk/ultra/adding-documents)) and click **Add Content**
+
 ![Annotated screenshot of a blank Document, highlighting the add content button](images/adding-text-add-content.png)
+
 2. Add a heading by clicking the **Styles** tool and clicking **Title** (starting a new line will automatically revert to the paragraph style).
 
 ![Screenshot of the Styles tool](images/adding-text-title.png)
+
 3. Continue adding your text, using the **Styles** tool to add section headings.
+
 ![Screenshot of a block of lorem ipsum text with various heading levels](images/adding-text-all-styles.png)
+
 4. You can insert standard LaTeX into text within double dollar signs, and it will render when the text chunk is saved.
+
 ![Two screenshots above one another. The top shows raw LaTeX input and the bottom shows it rendered into a mathematical expression](images/adding-text-latex.png)
 
