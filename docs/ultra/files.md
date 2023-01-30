@@ -30,9 +30,9 @@ This method is almost identical to uploading images - see our [guide on adding i
 
 ### Video steps
 
-Below is an embedded video detailing how to upload files. Alternatively, you can [open the video in a new browser tab](https://youtu.be/nUcweeCfcvU).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nUcweeCfcvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Video: [Adding files in Ultra](https://youtu.be/nUcweeCfcvU).
 
 ### Text steps
 

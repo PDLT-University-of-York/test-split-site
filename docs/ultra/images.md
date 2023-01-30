@@ -28,10 +28,9 @@ The preferred way to add images is to upload them directly in the same way as fi
 
 ### Video steps
 
-Below is an embedded video detailing how to upload images. Alternatively, you can [open the video in a new browser tab](https://youtu.be/dQOaGmi6u0E).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQOaGmi6u0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Video: [Adding images in Ultra (via upload)](https://youtu.be/dQOaGmi6u0E)
 
 ### Text steps
 
@@ -56,9 +55,9 @@ We recommend downloading images onto your devide and uploading them using the ab
 
 ### Video Steps
 
-Below is an embedded video detailing how to link images using an image address. Alternatively, you can [open the video in a new browser tab](https://youtu.be/KmzGYW2cO0g).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmzGYW2cO0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Video: [Adding images to Ultra (via URL)](https://youtu.be/KmzGYW2cO0g).
 
 ### Text Steps
 
