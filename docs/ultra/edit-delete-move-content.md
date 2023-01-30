@@ -19,7 +19,7 @@ tags:
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j01vTLdXef8" title="Editing, moving and deleting items in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j01vTLdXef8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Video: [Editing, Moving and Deleting Items in Ultra](https://www.youtube.com/watch?v=j01vTLdXef8)
 
