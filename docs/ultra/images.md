@@ -47,7 +47,6 @@ Video: [Adding images in Ultra (via upload)](https://youtu.be/dQOaGmi6u0E)
 
 
 
-
 ## Linking Images
 Images can also be added to Documents by uploading them from a static source on the internet. Make sure you have the appropriate rights to use an image in this way, and that the source address will not be changed while the image is in use.
 

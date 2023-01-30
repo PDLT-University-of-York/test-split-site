@@ -24,8 +24,6 @@ tags:
 
 ### Video steps
 
-Below is an embedded video detailing how to add YouTube videos. Alternatively, you can [open the video in a new browser tab](https://youtu.be/oDeLtobi36E).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDeLtobi36E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Video: (Adding YouTube videos in Ultra)[https://youtu.be/oDeLtobi36E].
