@@ -22,19 +22,19 @@ tags:
     - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
 
-### Video Steps
-
-Below is an embedded video detailing how to create documents. Alternatively, you can [open the video in a new browser tab](https://youtu.be/qUl2fAfqCrg).
+## Video Steps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUl2fAfqCrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Video: [Creating Documents in Ultra](https://youtu.be/qUl2fAfqCrg).
 
 
-### Text Steps
+
+## Text Steps
 
 1. Click container to show content options or click the plus icon.
 2. Choose **Create**, select **Document**.
 ![Annotated screenshots highlighting the buttons to create a document within a folder](images/adding-documents-content-create-document.png)
 3. Edit title, make visible to students, click cog icon to add description.
 ![Screenshot of the top of a new document in Ultra; document name, visibility, and the settings cog](images/adding-documents-name-visibility-cog.png)
-4. You can then add content to a Document such as text, files, and embedded websites. See our other guides for this informtation.
+4. You can then add content to a Document such text [(adding text guide)](https://vle-support.york.ac.uk/ultra/text), files [(adding files guide)](https://vle-support.york.ac.uk/ultra/files), and images [(adding images guide)](https://vle-support.york.ac.uk/ultra/images).

@@ -6,11 +6,14 @@ tags:
     - Ultra
 ---
 
+!!! Warning
+    This guide is a work in progress.
+
 # Create future proofing content
 
 !!! Summary
 
-    It is important to make sure that your students have access to the most-up-to-date information, especially after site rollover each year. To future-proof your course content in Ultra site, focus on producing quality content from the start. It may take a bit longer up front, but it will pay off in the long run. This guide provides simple strategies you can take to make your site rollover next year easier and less cognitively demanding. 
+    This guide provides simple strategies you can take to make your site rollover next year easier and less cognitively demanding.
 
 
 ## Quick Guidance

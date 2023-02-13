@@ -24,9 +24,9 @@ tags:
 
 ### Video steps
 
-Below is an embedded video detailing how to add YouTube videos. Alternatively, you can [open the video in a new browser tab](https://youtu.be/oDeLtobi36E).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDeLtobi36E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Video: [Adding YouTube videos in Ultra](https://youtu.be/oDeLtobi36E).
 
 
 ### Text steps
@@ -39,11 +39,11 @@ Below is an embedded video detailing how to add YouTube videos. Alternatively, y
 ![Screenshot of the display settings in the YouTube tool](images/adding-youtube-settings.png)
 4. Open the video in a new tab, then copy the URL of the video
 ![Annotated screenshot highlighting the YouTube button in the embedded video player](images/adding-youtube-opening-youtube.png)
-5. Add in text above the embedded video, including a hyperlink to open the video in a new browser tab. See our [guide on adding text](https://vle-support.york.ac.uk/ultra/adding-text) to see a guide on adding hyperlinks.
+5. Add in text above the embedded video, including a hyperlink to open the video in a new browser tab. See our [guide on adding text](https://vle-support.york.ac.uk/ultra/links) to see a guide on adding hyperlinks.
 ![Screenshot of an embedded YouTube video with a hyperlink above](images/adding-youtube-hyperlink.png)
 
-<!--
-!!! Note
 
-   For more control and customisation, you can also embed YouTube videos directly via HTML. Please see the advanced guide [Embedding content with HTML](https://pdlt-university-of-york.github.io/vle-help/ultra/) for more information.
--->
+## More details
+
+For more control and customisation, you can embed YouTube videos directly via HTML. Please see our [embedded content guide](https://pdlt-university-of-york.github.io/vle-help/ultra/) for more information.
+

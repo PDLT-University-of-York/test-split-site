@@ -13,6 +13,13 @@ tags:
     In Ultra, **Learning Modules** and **Folders** are the two types of containers you can use to organise course content.
 
 
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+
+    - 3.1 Essential: Organise module materials in sections that support student progress through the module.
+    - 3.4 Essential: Site and materials content is accessible.
+
+
+
 ## **Which to use when**
 
 * If you want students to proceed through the container viewing each item in sequence, use **Learning Modules**.
