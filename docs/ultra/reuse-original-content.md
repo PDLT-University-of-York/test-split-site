@@ -18,21 +18,19 @@ tags:
 
 There are some structural differences between Original (‘old’) and Ultra (‘new’) sites that have implications for how content can be reused between the site types.
 
-### Nesting
+### Reduced nesting
 
-Original sites could contain unlimited levels of content nesting (folder within folder within folder within folder…). This often made it difficult for students to navigate sites and find the content they needed.
-
-Ultra sites have a maximum of two levels of nesting (folder within folder), so it’s a lot easier for users to find their way around a site.
+Original sites could contain unlimited levels of content nesting (folder within folder within folder within folder…). This often made it hard to find specific content. Ultra sites have a maximum of two levels of nesting (folder within folder), so aites are easier to navigate.
 
 To reuse content, if your Original site used more than two levels of nesting you’ll need to restructure this to fit the new Ultra structure. The new Ultra template will help you do this.
 
 ![A Learning module (nesting level 1) containing a folder (nesting level 2), which contains a document (content only at this level).](images/reuse-content-ultra-nesting.png)
 
-### Displaying site content
+### Site content displays differently
 
-Original pages could display site content like text, images, uploaded files and embedded items mixed together with folders and links to other items (eg. Discussions, Tests). This could get quite cluttered, again making it hard to navigate the site. 
+Original displayed simple site content like text, images, uploaded files and embedded items on the same page with folders and links to other items (eg. Discussions, Tests). This could get quite cluttered and make the site hard to navigate.
 
-Ultra displays site content in separate Document items. These are similar to Original pages, but only contain text, images, files, embedded items and similar site content. Documents can be organised in containers with other items, but users won’t see the actual content until they open it. This improves navigation and makes it easier to view content, particularly on a small screen or mobile device. However, it's now not possible to display contextual text on the Course Content area or directly within a container.
+Ultra displays site content in separate Document items. These are similar to Original pages, but only contain text, images, files, embedded items and similar content. This content isn't displayed directly on the Course Content area or within a container; instead users open the Document to view the content. This makes it much easier to navigate the site, especially on a small screen or mobile device.
 
 To reuse content, you may need adapt Original pages so that the information displays appropriately in Ultra.
 
@@ -45,7 +43,7 @@ To reuse content, think about how your Original content fits into the Ultra temp
 
 ![Central content area with sections for Module information, Assessment and weekly content](images/move-to-ultra-template.png)
 
-### Content that can't be reused
+### Some content can't be reused
 
 Some Original content types aren't available in Ultra or work differently. These are generally features that were not commonly used, so most content will be unaffected. 
 
@@ -59,7 +57,7 @@ Original content types/features that aren't available in Ultra:
 
 ## Bulk copying from Original to Ultra: NOT recommended
 
-These structural differences mean that while it is technically possible to copy content in bulk from Original to Ultra sites, it generally creates quite a mess.
+These differences mean that while it is technically possible to copy content in bulk from Original to Ultra sites, it usually creates quite a mess.
 
 Each individual item on an Original page is copied into Ultra as separate pages, nesting can be very disrupted, and you’ll also copy over any old content that isn’t needed anymore. Bulk copied content will also appear outside of the template structure.
 
@@ -89,20 +87,22 @@ With a bit of planning, you can reuse most content from an Original site in an U
 
 ### Build content in Ultra
 
-For simple Original pages, it’s generally quickest and easiest to build this content directly in a Document in the relevant Ultra site location. This is particularly useful to:
+For simple Original site content or if information needs to be restructured to display appropriately, it’s generally quickest and easiest to build this content directly in a Document in the relevant Ultra site location. This is particularly useful to:
 
-- [add text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original
-- [upload images](https://vle-support.york.ac.uk/ultra/images/) from your computer
-- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer
-- [embed items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte)
+- [add text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
+- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer. Uploaded files now preview within the Ultra Document.
+- [upload images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
+- [embed items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to include a direct link to open the item.
 
-Building content directly avoids copying Original page content into Ultra as lots of separate Documents/items that you have to restructure (ie, still copy/paste text, just within Ultra), and gives you complete control over which content goes where. We've tested methods and found it quicker and less stressful to build these simple pages directly in Ultra rather than using the Copy Content tool.
+We recognise that this *sounds* like more work than copying Original pages. However, we've compared methods and found it quicker and less stressful to build these simple pages directly in Ultra rather than using the Copy Content tool.
+
+Building content directly avoids copying Original page content into Ultra as lots of separate Documents/items that you have to restructure (ie, still copy/paste text, just within Ultra), and gives you complete control over which content goes where.
 
 (Add example image)
 
 ### Copy Content tool
 
-For more complex content items, use the Copy Content tool in the relevant Ultra site location to quickly reuse content. 
+For more complex Original content items, you can quickly reuse these with the Copy Content tool in the relevant Ultra site location. 
 
 The Copy Content tool is especially useful to reuse:
 
