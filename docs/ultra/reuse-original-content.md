@@ -76,7 +76,7 @@ With a bit of planning, you can reuse most content from an Original site in an U
     </br>If your Original site has more than two levels of nesting, think about how to fit this in new Ultra site structure.
 2. **Step 2: set up your Ultra site structure**
     </br>Reusing Original content is much easier if the Ultra structure is ready. The ready-built template structure will work well for most modules, but if you need to adapt it or [add more Folders or Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/) to hold content items do that as the first step.
-3. **Step 3: use the best method to reuse content**
+3. **Step 3: select the best method to reuse content**
     </br>You're now ready to start reusing content. To control where content appears, work through the Ultra site section by section at the lowest level of nesting. This could be within a Document, or choosing other content to add to a folder. 
     </br>Within the Ultra section, identify the specific content from the Original site to put here. Consider the particular content type and choose the best method to reuse it; build it directly in Ultra or use the Copy Content tool (see below).
     </br>If the content type isn't available in Ultra, choose an alternative method to replicate it.
@@ -87,18 +87,20 @@ With a bit of planning, you can reuse most content from an Original site in an U
 
 ### Build content in Ultra
 
-For simple Original site content or if information needs to be restructured to display appropriately, it’s generally quickest and easiest to build this content directly in a Document in the relevant Ultra site location. This is particularly useful to:
+For simple Original site content or if you need to adapt content to fit the Ultra structure, it’s generally quickest and easiest to build this content directly in a Document in the relevant Ultra site location.
+
+This is particularly useful to:
 
 - [add text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
-- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer. Uploaded files now preview within the Ultra Document.
+- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). If you upload files in a Document, you can choose where in the text it appears, and it will display directly in the Document.
 - [upload images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
 - [embed items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to include a direct link to open the item.
 
-We recognise that this *sounds* like more work than copying Original pages. However, we've compared methods and found it quicker and less stressful to build these simple pages directly in Ultra rather than using the Copy Content tool.
+We recognise that this *sounds* like more work than copying Original pages. However, we've compared methods and found that it's quicker and less stressful to build these simple pages directly in Ultra rather than using the Copy Content tool.
 
 Building content directly avoids copying Original page content into Ultra as lots of separate Documents/items that you have to restructure (ie, still copy/paste text, just within Ultra), and gives you complete control over which content goes where.
 
-(Add example image)
+[video demonstration to come]
 
 ### Copy Content tool
 
@@ -111,6 +113,3 @@ The Copy Content tool is especially useful to reuse:
 - Discussions
 
 Make sure to check after copying that the content is as you expected and address any issues. Copied content is also hidden from students by default, so you will need to [make it visible](https://vle-support.york.ac.uk/ultra/content-visibility).
-
-(Add example image)
-(link to guide for using Copy Content tool)
