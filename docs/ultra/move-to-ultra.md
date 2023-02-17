@@ -33,7 +33,7 @@ Instead of a direct copy of this year's Original site, you'll receive a blank **
     This only affects module sites created for 23/24. Existing Original module sites do not need to move to Ultra and will still be available for staff and students.
 
 Here's a preview of the Course Content area in an Ultra template site:
-![Screenshot of the institutional Ultra template](images/move-to-ultra-template.png)
+![Central content area with sections for Module information, Assessment and weekly content](images/move-to-ultra-template.png)
 
 Departmental template sites:
 
