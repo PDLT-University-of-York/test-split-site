@@ -11,16 +11,16 @@ tags:
 
 !!! Summary
 
-    Bulk copying from Original to Ultra doesn't work well. However, with a little planning you can reuse most Original content in your new Ultra site.
+    **Bulk copying from Original to Ultra is strongly not recommended**. However, with a little planning you can reuse most Original content in your new Ultra site.
     This guide explains how to prepare and select the best method to reuse your content.
 
 ## Considerations for reusing Original content
 
-There are some structural differences between Original (‘old’) and Ultra (‘new’) sites that have implications for how content can be reused between the site types.
+Some differences between Original (‘old’) and Ultra (‘new’) sites have implications for reusing content between the site types.
 
 ### Reduced nesting
 
-Original sites could contain unlimited levels of content nesting (folder within folder within folder within folder…). This often made it hard to find specific content. Ultra sites have a maximum of two levels of nesting (folder within folder), so aites are easier to navigate.
+Original sites could contain unlimited levels of content nesting (folder within folder within folder within folder…). This often made it hard to find specific content. Ultra sites have a maximum of two levels of nesting (folder within folder), so sites are easier to navigate.
 
 To reuse content, if your Original site used more than two levels of nesting you’ll need to restructure this to fit the new Ultra structure. The new Ultra template will help you do this.
 
@@ -32,73 +32,75 @@ Original displayed simple site content like text, images, uploaded files and emb
 
 Ultra displays site content in separate Document items. These are similar to Original pages, but only contain text, images, files, embedded items and similar content. This content isn't displayed directly on the Course Content area or within a container; instead users open the Document to view the content. This makes it much easier to navigate the site, especially on a small screen or mobile device.
 
-To reuse content, you may need adapt Original pages so that the information displays appropriately in Ultra.
+To reuse content, you may need to adapt Original pages so that the information displays appropriately in Ultra.
 
 ![Within a folder, only the item title is displayed. Users must open the Document to display site content (text and slides shown).](images/reuse-content-ultra-display-content.png)
 
 ### New Ultra module site templates
 New departmental Ultra module site templates have a ready-built structure with sections for module information, assessment and weekly/topic materials. 23/24 sites will be a copy of this template ready for staff to populate with module content.
 
-To reuse content, think about how your Original content fits into the Ultra template structure. Within template sections, you can adapt the structure to meet your module’s needs. However, sites should maintain the overall structure to give students a consistent experience across modules.
+To reuse content, consider how your Original content fits into the Ultra template structure. Within template sections, you can adapt the structure to meet your module’s needs, but sites should maintain the overall structure to give students a consistent experience across modules.
 
 ![Central content area with sections for Module information, Assessment and weekly content](images/move-to-ultra-template.png)
 
 ### Some content can't be reused
 
-Some Original content types aren't available in Ultra or work differently. These are generally features that were not commonly used, so most content will be unaffected. 
+A few Original content types aren't available or work differently in Ultra. To reuse affected content in Ultra, you will need to use an alternative method; PDLT can advise if needed.
 
-To reuse affected content in Ultra, you will need to use an alternative method. PDLT can offer advice on this if needed.
+Affected Original content types/features:
 
-Original content types/features that aren't available in Ultra:
-
-- **Blog**: alternatives include Padlet (for shared and/or collaborative work) or the Ultra Journal (for private work).
-- certain **Test questions**: other question types may be a good alternative
-- **Wiki**: depending on the purpose of the Wiki, alternatives coudl include Padlet, Google Docs or a Google Site.
+- **Blog**: alternatives include [Padlet](https://vle-support.york.ac.uk/padlet/) (for shared and/or collaborative work) or the Ultra Journal (for private work).
+- some **Test question** types: other question types may be a good alternative. See teh Summary table below for more details.
+- **Wiki**: depending on the purpose of the Wiki, alternatives could include [Padlet](https://vle-support.york.ac.uk/padlet/), Google Docs or a Google Site.
+- **Learning Modules**: these are available in Ultra, but functionality is very different to in Original so this content may need some restructuring.
 
 ## Bulk copying from Original to Ultra: NOT recommended
 
-These differences mean that while it is technically possible to copy content in bulk from Original to Ultra sites, it usually creates quite a mess.
+These considerations mean that while it is technically possible to copy content in bulk from Original to Ultra sites, it usually creates quite a mess.
 
-Each individual item on an Original page is copied into Ultra as separate pages, nesting can be very disrupted, and you’ll also copy over any old content that isn’t needed anymore. Bulk copied content will also appear outside of the template structure.
+Each individual content item on an Original page is copied into Ultra as separate pages, nesting can be very disrupted, and you’ll also copy over any old content that isn’t needed anymore. Bulk copied content will also appear outside of the template structure.
 
-This means copying content in bulk requires a lot of restructuring and ‘fixing’ to make the site usable, which can be extremely time-consuming and fiddly.
+This means copying content in bulk requires a lot of restructuring and ‘fixing’ to make the site usable, which can be extremely time-consuming and fiddly. We've tried it, it's painful.
 
 !!! Warning
 
-    Copying content in bulk from Original to Ultra is **very strongly NOT recommended**.
-    We’ve tested it out, believe us, it’s painful!
+    Copying content in bulk from Original to Ultra is **very strongly NOT recommended**. Particularly, do not export/import or copy whole modules.
 
 ## How to reuse content
 With a bit of planning, you can reuse most content from an Original site in an Ultra site.
 
-1. **Step 1: prepare content in the Original site**
-    </br>Identify the Original content to reuse. Make sure it's all up to date, accessible and relevant to the 23/24 module. It may be helpful to download files and images that you don't already have on your computer.
-    </br>If your Original site has more than two levels of nesting, think about how to fit this in new Ultra site structure.
+1. **Step 1: prepare Original content**
+    </br>Identify the Original content to reuse. We recommend downloading files and images that aren't already on your computer. Make sure it's all up to date, accessible and relevant to the 23/24 module. 
+    </br>If your Original site has more than two levels of nesting, plan how this will fit in the new Ultra site structure.
 2. **Step 2: set up your Ultra site structure**
     </br>Reusing Original content is much easier if the Ultra structure is ready. The ready-built template structure will work well for most modules, but if you need to adapt it or [add more Folders or Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/) to hold content items do that as the first step.
 3. **Step 3: select the best method to reuse content**
     </br>You're now ready to start reusing content. To control where content appears, work through the Ultra site section by section at the lowest level of nesting. This could be within a Document, or choosing other content to add to a folder. 
-    </br>Within the Ultra section, identify the specific content from the Original site to put here. Consider the particular content type and choose the best method to reuse it; build it directly in Ultra or use the Copy Content tool (see below).
-    </br>If the content type isn't available in Ultra, choose an alternative method to replicate it.
+    </br>Within the Ultra section, identify the specific content from the Original site to put here. Consider the particular content type and choose the best method to reuse it; build it directly in Ultra or use the Copy Content tool.
+    </br>If the content type isn't available in Ultra, choose an alternative method to replicate it (see Summary table below).
 
 !!! Tip
 
-    When reusing content, always work within the specific Ultra section where individual content items should appear. Don't copy whole folders or pages with sub-items or nested content from Original.
+    Always work within the specific Ultra section where individual content items should appear. Copy only individual itesm; don't copy whole folders or nested content from Original.
 
 ### Build content in Ultra
 
-For simple Original site content or if you need to adapt content to fit the Ultra structure, it’s generally quickest and easiest to build this content directly in a Document in the relevant Ultra site location.
+For most simple site content we recommend building content directly in a Document in the relevant Ultra site location. We recognise this *sounds* like more work than using the Copy Content tool, but we've compared the methods generally find it quicker and easier to build this content directly in Ultra.
 
-This is particularly useful to:
+Building content directly in Ultra is particularly recommended for:
 
+- Original pages with a single content item: if it's just one page, it's likely quicker to copy/paste text than use the Copy Content tool.
+- Original pages with multiple content items: the Copy Content tool would create each item as a separate Document which will then need restructuring (ie. copy/pasting) back into a single Document.
+- [Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/): the functionality is very different to in Original, so we recommend building in Ultra.
+- [Discussions](https://vle-support.york.ac.uk/ultra/discussions/): generally quicker and much simpler to create a new Discussion in the right location and copy/paste the thread starter text.
+
+This will likely only require a few different tasks:
+
+- [create Documents](https://vle-support.york.ac.uk/ultra/documents/) to hold site content, or edit exising placeholder Documents in the template.
 - [add text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
-- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). If you upload files in a Document, you can choose where in the text it appears, and it will display directly in the Document.
+- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). You can now choose where in the text the file appears, and most file formats will display directly in the Document instead of requiring download.
 - [upload images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
-- [embed items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to include a direct link to open the item.
-
-We recognise that this *sounds* like more work than copying Original pages. However, we've compared methods and found that it's quicker and less stressful to build these simple pages directly in Ultra rather than using the Copy Content tool.
-
-Building content directly avoids copying Original page content into Ultra as lots of separate Documents/items that you have to restructure (ie, still copy/paste text, just within Ultra), and gives you complete control over which content goes where.
+- [embed items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
 
 [video demonstration to come]
 
@@ -106,10 +108,10 @@ Building content directly avoids copying Original page content into Ultra as lot
 
 For more complex Original content items, you can quickly reuse these with the Copy Content tool in the relevant Ultra site location. 
 
-The Copy Content tool is especially useful to reuse:
+Using the Copy Content tool is particularly recommended for:
 
-- Tests: most question types and question banks copy well
-- Journals
-- Discussions
+- Tests: most question types and question banks copy well.
+- Journals: copies with Journal prompt.
+- Rubrics: note, no-points rubrics are not (yet) available in Ultra
 
-Make sure to check after copying that the content is as you expected and address any issues. Copied content is also hidden from students by default, so you will need to [make it visible](https://vle-support.york.ac.uk/ultra/content-visibility).
+After copying, check that the content is as you expected and address any issues. Copied content is also hidden from students by default, so you will need to [make it visible](https://vle-support.york.ac.uk/ultra/content-visibility).
