@@ -66,9 +66,10 @@ nav:
     - ultra/index.md
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
-      - Moving to Ultra for module staff: ultra/move-to-ultra.md
-      - Reuse Original site content in Ultra: ultra/reuse-original-content.md
       - Frequently asked questions: ultra/ultra-faq.md
+    - Moving to Ultra for 23/24:
+      - Moving to Ultra for module staff: ultra/move-to-ultra.md
+      - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       # - Building an Ultra site from a template: ultra/placeholder.md
       # - Ultra for teaching staff: ultra/placeholder.md
       # - Ultra for administrators: ultra/placeholder.md
@@ -78,7 +79,7 @@ nav:
       # - Effective Ultra site structure: ultra/placeholder.md
       - Folders vs Learning Modules: ultra/folder-learning-module.md
     - Creating content:
-      - Reuse Original site content in Ultra: ultra/reuse-original-content.md
+      - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       - Content types: ultra/content-types.md
       - Course image: ultra/course-image.md
       - Documents: ultra/documents.md
