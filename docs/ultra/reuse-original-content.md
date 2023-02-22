@@ -57,22 +57,22 @@ For most simple site content we recommend building content directly in a Documen
 
 Building content directly in Ultra is particularly recommended for:
 
-- Original pages with a single content item: it's likely quicker to copy/paste text than use the Copy Content tool.
+- **Original pages with a single content item**: it's likely quicker to copy/paste text than use the Copy Content tool.
 </br>
 ![Page with text in a single content item](images/reuse-content-original-single-item-page.png)
-- Original pages with multiple content items: each item would be copied as a separate Document which then needs restructuring (ie. copy/pasting) back into a single Document, so it's quicker to build directly.
+- **Original pages with multiple content items**: each item would be copied as a separate Document which then needs restructuring (ie. copy/pasting) back into a single Document, so it's quicker to build directly.
 </br>
 ![Page with the same content split across three content items](images/reuse-content-original-multiple-item-page.png)
-- [Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/): the functionality is very different to in Original, so we recommend building in Ultra.
-- [Discussions](https://vle-support.york.ac.uk/ultra/discussions/): can copy strangely and are very easy to set up in Ultra, so generally quicker to create a new Discussion in the right location and copy/paste the thread starter text.
+- **Learning Modules**: the functionality is very different to in Original, so we recommend building the content in Ultra.
+- **Discussions**: can copy strangely and are very easy to set up in Ultra, so it's generally quicker to [create a new Discussion](https://vle-support.york.ac.uk/ultra/discussions/) in the right location and copy/paste the thread starter text.
 
-Building simple content only requires a few different tasks:
+The most useful tasks for building content are:
 
-- [create Documents](https://vle-support.york.ac.uk/ultra/documents/) to hold site content, or edit exising placeholder Documents in the template.
-- [add text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
-- [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). You can now choose where in the text the file appears, and most file formats will display directly in the Document instead of requiring download.
-- [upload images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
-- [embed external items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
+- [creating Documents](https://vle-support.york.ac.uk/ultra/documents/) to hold site content, or edit exising placeholder Documents in the template.
+- [adding text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
+- [uploading files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). You can now choose where in the text the file appears, and most file formats will display directly in the Document instead of requiring download.
+- [uploading images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
+- [embedding external items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
 
 ### Copy Content tool
 
@@ -80,8 +80,8 @@ For more complex Original content items, you can quickly reuse these with the Co
 
 Using the Copy Content tool is particularly recommended for:
 
-- Tests: most question types and question banks copy well.
-- Journals: copies with Journal prompt.
-- Rubrics: note, no-points rubrics are not (yet) available in Ultra
+- **Tests**: most question types and question banks copy well.
+- **Journals**: copies with the Journal prompt.
+- **Rubrics**: note, no-points rubrics are not (yet) available in Ultra
 
-After copying, check that the content is as you expected and address any issues. Copied content is also hidden from students by default, so you will need to [make it visible](https://vle-support.york.ac.uk/ultra/content-visibility).
+After copying, check that the content is as you expected and address any issues. Copied content is also hidden from students by default, so you will need to [make this content visible](https://vle-support.york.ac.uk/ultra/content-visibility).
