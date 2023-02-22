@@ -11,17 +11,17 @@ tags:
 
 !!! Summary
 
-    **Bulk copying from Original to Ultra is strongly not recommended**. However, with a little planning you can reuse most Original content in your new Ultra site.
+    **Bulk copying from Original to Ultra sites is strongly not recommended**. However, with a little planning you can reuse most Original content in your new Ultra site.
     This guide explains how to prepare and select the best method to reuse your content.
 
 ## Considerations for reusing content
 
 Some differences between Original (‘old’) and Ultra (‘new’) sites have implications for reusing content between the site types. These are summarised here; for more detail, see our [guide to key differences between Original and Ultra](https://vle-support.york.ac.uk/ultra/differences-original-ultra). 
 
-- **Unavailable content types**: Some rarely-used Original content types aren't available in Ultra; Blog, some **Test question** types (Jumbled sentence, Either/Or, File Response, Opinion Scale, Likert, Ordering, Quiz Bowl, Short Answer), Wiki, Survey. To reuse this content, alternatives are required.
+- **Unavailable content types**: Some rarely-used Original content types aren't available in Ultra; Blogs, some Test question types (Jumbled sentence, Either/Or, File Response, Opinion Scale, Likert, Ordering, Quiz Bowl, Short Answer), Wikis, Surveys. To reuse this content, alternatives are required.
 - **Nesting**: Original allowed unlimited nesting, but Ultra is restricted to two levels of nesting. To reuse nested  Orginal content, you’ll need to restructure this to fit the new Ultra structure. The new Ultra template will help you do this.
 - **Content display**: Original displays simple site content like text, images, uploaded files and embedded items directly on the same page with folders and more complex content. Ultra displays this simple content in separate Document items that users must open to view the content. To reuse content, Original content may need restructuring to display appropriately in Ultra.
-- **Ultra module site templates**: 23/24 sites will be created from new departmental Ultra module site templates based on [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles/). These have a pre-built overall structure ready for staff to populate with module content. To reuse content, you should retain the overall template structure, but can adapt the structure within sections to meet your module’s needs.
+- **Ultra module site templates**: 23/24 sites will use new departmental Ultra module site templates based on [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles/). These have a pre-built overall structure ready for staff to populate with module content. To reuse content, you should retain the overall template structure, but can adapt the structure within sections to meet your module’s needs.
 
 ## Bulk copying from Original to Ultra: NOT recommended
 
@@ -58,7 +58,11 @@ For most simple site content we recommend building content directly in a Documen
 Building content directly in Ultra is particularly recommended for:
 
 - Original pages with a single content item: it's likely quicker to copy/paste text than use the Copy Content tool.
+</br>
+![Page with text in a single content item](images/reuse-content-original-single-item-page.png)
 - Original pages with multiple content items: each item would be copied as a separate Document which then needs restructuring (ie. copy/pasting) back into a single Document, so it's quicker to build directly.
+</br>
+![Page with the same content split across three content items](images/reuse-content-original-multiple-item-page.png)
 - [Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/): the functionality is very different to in Original, so we recommend building in Ultra.
 - [Discussions](https://vle-support.york.ac.uk/ultra/discussions/): can copy strangely and are very easy to set up in Ultra, so generally quicker to create a new Discussion in the right location and copy/paste the thread starter text.
 
@@ -69,8 +73,6 @@ Building simple content only requires a few different tasks:
 - [upload files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). You can now choose where in the text the file appears, and most file formats will display directly in the Document instead of requiring download.
 - [upload images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
 - [embed external items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
-
-[video demonstration to come]
 
 ### Copy Content tool
 
