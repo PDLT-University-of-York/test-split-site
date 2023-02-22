@@ -11,7 +11,7 @@ tags:
 # VLE site design principles
 
 !!! summary
-    These principles highlight best design practice to guide staff in developing effective VLE sites and minimise workload.
+    These principles highlight best design practice to guide staff in developing effective VLE sites and minimise workload. Ultra module site templates align with these principles.
 
 Benefits of the principles include:
 
@@ -35,6 +35,11 @@ Principles are categorised as essential or recommended:
 
     Recommended principles help to **implement good design practice** and give a **good student experience**.
     Sites should aim to meet these principles.
+
+**It is the module convener's responsibility to apply these design principles in their site** or ensure that other staff working on the site do so.
+
+!!! note
+    Professional programmes (nursing, midwifery, social work, PGCE, apprenticeships, CPD courses) are currently exempt from these site design principles, pending review. However, accessibility and copyright legislation still apply.
 
 ***
 
@@ -143,6 +148,7 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "3.4 Essential: Site and materials content is accessible."
 
+    - We have a legal responsibility to comply with accessibility legislation regarding online content.
     - Text content is easily readable and accessible: structured with Heading Styles, bulleted lists to break up content, left-aligned text, sufficient colour contrast, legible font and text size, tables only for data etc. More information on [readable text](https://readable.com/) and [accessible text](https://elearningyork.wpcomstaging.com/learning-design-and-development/technology-enhanced-learning-handbook/1-baseline-use-of-the-vle/1-2-key-accessibility-guidelines/).
     - Meaningful images and figures have appropriate ALT text or other descriptions to allow screenreader users to access the information. Guidance on [writing good ALT](https://docs.google.com/presentation/d/1r1ZELb3LEIPA9c3pcmwtpgxm8U69PQ-UxPISkSEk7oA/edit#slide=id.p) text and [adding ALT text to the VLE or documents](https://docs.google.com/document/d/1TMWZaHMafuIkLKMPXcIlvIOehzOCxJGkDZzwG4iVU94/edit?usp=sharing).
     - An accessibility checker is used for all text and materials to identify errors and receive guidance on how to fix them (eg. [Blackboard Ally](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor/Quick_Start) within Blackboard, [Grackle](https://www.grackledocs.com/) for Google Docs/Slides, [Microsoft Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)).
@@ -151,7 +157,8 @@ Click each principle to show details, examples and guidance on implementing the 
 
     - For example, Panopto for your own at-desk recordings and YouTube for external videos.
     - Do not upload video files directly to the site, or to documents provided (eg. PowerPoint slides). This may not support appropriate captions, can give a poor user experience and may violate copyright.
-    - Pre-recorded video (UoY-created and external content) must have accurate captions synched to the audio and/or an equivalent text alternative such as a transcript. Users must be able to choose whether or not to display captions. [Guide: Panopto recordings and captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit?usp=sharing).
+    - Pre-recorded video (UoY-created at-desk captures, reused lecture capture recordings from previous years and external content) must have accurate captions synched to the audio and/or an equivalent text alternative such as a transcript. Users must be able to choose whether or not to display captions. [Guide: Panopto recordings and captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit?usp=sharing).
+    - Lecture capture recordings are automatically captioned in Panopto. For the current year's recordings, it is not required to review these for accuracy but lecture staff are encouraged to do so where practical. Staff must respond to requests for caption corrections if errors represent significant challenges for students in accessing the content. More information on [captioning lecture capture recordings](https://docs.google.com/document/d/1N0xn4W14D2DAjMDXRYlo_I3zobThft7Atc3JHdcXQpQ/edit?usp=sharing).
 
 ??? essential "3.6 Essential: Links and materials titles describe the destination or content."
 
