@@ -18,11 +18,7 @@ tags:
 
 Some differences between Original (‘old’) and Ultra (‘new’) sites have implications for reusing content between the site types. These are summarised here; for more detail, see our [guide to key differences between Original and Ultra](https://vle-support.york.ac.uk/ultra/differences-original-ultra). 
 
-- **Unavailable content types**: Some rarely-used Original content types aren't available in Ultra.
-    - **Blog**: alternatives include the Journal tool or [Padlet](https://vle-support.york.ac.uk/padlet/).
-    - some **Test question** types: Jumbled sentence, Either/Or, File Response, Opinion Scale, Likert, Ordering, Quiz Bowl and Short Answer questions are not available in Ultra. Alternatives include other question types and Google Forms.
-    - **Wiki**: alternatives include [Padlet](https://vle-support.york.ac.uk/padlet/), Google Docs or a Google Site.
-    - **Survey**: alternatives include Google Forms or Qualtrics.
+- **Unavailable content types**: Some rarely-used Original content types aren't available in Ultra; Blog, some **Test question** types (Jumbled sentence, Either/Or, File Response, Opinion Scale, Likert, Ordering, Quiz Bowl, Short Answer), Wiki, Survey. To reuse this content, alternatives are required.
 - **Nesting**: Original allowed unlimited nesting, but Ultra is restricted to two levels of nesting. To reuse nested  Orginal content, you’ll need to restructure this to fit the new Ultra structure. The new Ultra template will help you do this.
 - **Content display**: Original displays simple site content like text, images, uploaded files and embedded items directly on the same page with folders and more complex content. Ultra displays this simple content in separate Document items that users must open to view the content. To reuse content, Original content may need restructuring to display appropriately in Ultra.
 - **Ultra module site templates**: 23/24 sites will be created from new departmental Ultra module site templates based on [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles/). These have a pre-built overall structure ready for staff to populate with module content. To reuse content, you should retain the overall template structure, but can adapt the structure within sections to meet your module’s needs.
