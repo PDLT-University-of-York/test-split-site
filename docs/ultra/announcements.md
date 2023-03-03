@@ -10,10 +10,9 @@ tags:
 
 !!! Summary
 
-    Announcements is a one-way channel for important news such as key dates and events.
+    Announcements are a one-way channel for important news such as key dates and events.
 
 
-## Quick Start Guide
 
 Typical types of announcement may include:
 
@@ -21,7 +20,7 @@ Typical types of announcement may include:
 - changes to exam schedules
 - corrections of materials
 
-### Video Steps
+## Video Steps
 
 Below is an embedded video detailing how to **Create Announcements in the Ultra Course View**. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=h5IrqfVswb0&t=).
 
@@ -30,12 +29,12 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5IrqfVswb0" title="YouTube video Create Announcements in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Text Steps
+## Text Steps
 
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-#### **Create an announcement**
+### **Create an announcement**
 
 1. In the **Details & Actions** panel on the left hand side, click **Create Announcement**.
 
@@ -64,7 +63,8 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 
     ![select Post Now](images/announcement-post.png "Post Now")
 
-#### **Edit, copy or delete an announcement**
+
+### **Edit, copy or delete an announcement**
 
 1. Find the announcement you want to edit, copy or delete. On the right, click the **three dots > Edit/Copy/Delete.**
 
@@ -74,7 +74,8 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 
     If you post an announcement and forget to choose the email copy check box, you’ll need to create a new announcement. If you edit the announcement and select an email copy and post it again, the email will not be sent.
 
-#### **What do students see?**
+
+### **What do students see?**
 
 * **Pop-up window**
 
@@ -99,6 +100,3 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
     In the email, embedded content appears as **links**. Students can select the links to view the announcement.
 
     ![View announcement link in email](images/announcement-email-link.png "Email announcement")
-
-## Further Help
-* [Blackboard Help: Announcements](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Announcements)
