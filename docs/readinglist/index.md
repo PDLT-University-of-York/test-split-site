@@ -5,6 +5,8 @@
 
 ## Reading list benefits
 
+The Reading List team have compiled [Reading Lists: a Practical Guide](https://subjectguides.york.ac.uk/readinglists) to help colleagues guide themselves through the steps of setting up and using Reading Lists.
+
 - The Library ensure appropriate stock levels and manage copyright compliance. 
 - All module readings are collated in an easily accessible location rather than needing to navigate through the site.
 - Items are directly accessible through single-sign-on, giving a more seamless and accessible experience.
