@@ -44,8 +44,9 @@ With a bit of planning, you can reuse most content from an Original site in an U
     </br>If your Original site has more than two levels of nesting, plan how this will fit in the new Ultra site structure.
 2. **Set up your Ultra site structure**
     </br>Reusing Original content is much easier if the Ultra structure is ready. The ready-built template structure will work well for most modules, but if you need to adapt it or [add more Folders or Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/) to hold content items do that at this point.
-3. **Select the best method to reuse content**
+3. **Always work in a specific Ultra section**
     </br>To control where content appears, work through the Ultra site section by section at the lowest level of nesting. This will mostly be within a Document, or sometimes you might add content to a container. 
+4. **Select the best method to reuse content**
     </br>Within the Ultra section, identify the specific content from the Original site to put here. Consider the particular content type and choose the best method to reuse it; build it directly in Ultra or use the Copy Content tool. If the content type isn't available in Ultra, choose an alternative method to replicate it (see Summary table below).
 
 !!! Tip
@@ -63,7 +64,7 @@ Building content directly in Ultra is particularly recommended for:
 ![Page with text in a single content item](images/reuse-content-original-single-item-page.png)
 - **Original pages with multiple content items**: each content item would be copied as a separate Document which then needs restructuring (ie. copy/pasting) back into a single Document, so it may be easier to build this Document directly. Copied items will also be hidden from students by default.
 </br>
-![Original page with the same content split across three content items. In ULtra this becomes three Documents with only titles visible](images/reuse-content-original-multiple-item-page.png)
+![Original page with the same content split across three content items. In Ultra this becomes three Documents with only titles visible](images/reuse-content-original-multiple-item-page.png)
 - **Learning Modules**: the functionality is very different to in Original, so we recommend building this in Ultra.
 - **Discussions**: can copy strangely and are very easy to set up in Ultra, so it's generally quicker to [create a new Discussion](https://vle-support.york.ac.uk/ultra/discussions/) in the right location and copy/paste the thread starter text.
 
