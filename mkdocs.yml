@@ -22,6 +22,7 @@ theme:
       Advanced: material/stairs-up
       Teaching: octicons/mortar-board-16
       Administration: fontawesome/regular/clipboard
+      Workshop: fontawesome/solid-school
   # favicon: img/favicon.jpg
   # palette:
   #   - media: "(prefers-color-scheme: light)" 
@@ -161,6 +162,7 @@ extra:
     Advanced: Advanced
     Teaching: Teaching
     Administration: Administration
+    Workshop: Workshop
 
 extra_css:
   - css/extra.css
@@ -184,3 +186,4 @@ plugins:
         - Xerte
         - Padlet
         - Mentimeter
+        - Workshop

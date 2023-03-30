@@ -4,6 +4,7 @@ tags:
     - Foundation
     - Teaching
     - Ultra
+    - Workshop
 ---
 
 # Workshop: Ultra Essentials for teaching staff
