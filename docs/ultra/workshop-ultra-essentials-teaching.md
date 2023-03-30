@@ -6,7 +6,7 @@ tags:
     - Ultra
 ---
 
-# Training: Ultra Essentials for teaching staff
+# Workshop: Ultra Essentials for teaching staff
 
 !!! Summary
 
