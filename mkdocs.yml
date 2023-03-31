@@ -67,9 +67,10 @@ nav:
     - ultra/index.md
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
-      - Frequently asked questions: ultra/ultra-faq.md
+      
       - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
     - Moving to Ultra for 23/24:
+      - Frequently asked questions: ultra/ultra-faq.md
       - Moving to Ultra for module staff: ultra/move-to-ultra.md
       - Differences Original - Ultra: ultra/differences-original-ultra.md
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md

@@ -1,6 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Foundation
     - Teaching
     - Ultra
@@ -23,7 +22,7 @@ This workshop covers four key aspects of developing a module site in Learn Ultra
 
 The training contains tasks where you can explore an Ultra site both as a student and as an editor. 
 
-To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'll receive a sandpit site if you sign up to a workshop session (through your department or a centrally bookable session). However, you can work through the training content without a sandpit site to learn the basics of using Ultra.
+To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'll receive a sandpit site if you sign up to a synchronous workshop session (through your department or a centrally bookable session). However, you can work through the training content without a sandpit site to learn the basics of using Ultra.
 
 ## Materials
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh1FJTiiqako5JQGCa3zKZTVBEluQ5P-bJOev_GGclQN7pCcKCHUiZhW7uYitCVHrvp3SAqmOdxpyh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
