@@ -67,7 +67,7 @@ nav:
     - ultra/index.md
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
-      
+      - Site readiness checklist: ultra/site-readiness-checklist.md
       - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
     - Moving to Ultra for 23/24:
       - Frequently asked questions: ultra/ultra-faq.md
@@ -75,9 +75,6 @@ nav:
       - Differences Original - Ultra: ultra/differences-original-ultra.md
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       # - Building an Ultra site from a template: ultra/placeholder.md
-      # - Ultra for teaching staff: ultra/placeholder.md
-      # - Ultra for administrators: ultra/placeholder.md
-      # - Ultra for students: ultra/placeholder.md
     - Site structure:
       - Navigating an Ultra site: ultra/navigate-ultra-site.md
       # - Effective Ultra site structure: ultra/placeholder.md
@@ -117,8 +114,8 @@ nav:
     # - Accessibility:
     #   - Placeholder article: ultra/placeholder.md
     #   # - Placeholder article: ultra/placeholder.md
-    # - Regular activities:
-      # - Site readiness checklist: ultra/placeholder.md
+    - Regular activities:
+      - Site readiness checklist: ultra/site-readiness-checklist.md
       # - CAP readiness checklist: ultra/placeholder.md
       # - Rollover: ultra/placeholder.md
       # - Purge & archive policy: ultra/placeholder.md
