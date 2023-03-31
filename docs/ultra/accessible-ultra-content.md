@@ -6,13 +6,6 @@ tags:
     - Teaching
     - Administration
     - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
 ---
 
 # Accessible Ultra content
