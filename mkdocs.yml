@@ -67,6 +67,7 @@ nav:
     - ultra/index.md
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
+      - Using the Ultra template: ultra/ultra-template.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
       - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
     - Moving to Ultra for 23/24:
