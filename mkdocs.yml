@@ -83,6 +83,7 @@ nav:
     - Creating content:
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       - Content types: ultra/content-types.md
+      - Accessible Ultra content: ultra/accessible-ultra-content.md
       - Course image: ultra/course-image.md
       - Documents: ultra/documents.md
       - Links: ultra/links.md
@@ -112,9 +113,6 @@ nav:
     #   - Course Roles in Ultra: 'ultra/course-roles.md'
     # - Data & evaluation:
     #   - Placeholder article: ultra/placeholder.md
-    # - Accessibility:
-    #   - Placeholder article: ultra/placeholder.md
-    #   # - Placeholder article: ultra/placeholder.md
     - Regular activities:
       - Site readiness checklist: ultra/site-readiness-checklist.md
       # - CAP readiness checklist: ultra/placeholder.md
