@@ -160,6 +160,9 @@ extra:
     Teaching: Teaching
     Administration: Administration
     Workshop: Workshop
+  analytics:
+    provider: google
+    property: G-Q6B3RZT1K0
 
 extra_css:
   - css/extra.css
