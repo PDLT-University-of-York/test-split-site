@@ -1,17 +1,17 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
+    # - Foundation
+    # - Advanced
+    # - Teaching
+    # - Administration
+    # - Ultra
+    # - Panopto
+    # - Reading List
+    # - Canvas
+    # - Xerte
+    # - Padlet
+    # - Mentimeter
 ---
 
 # Tests WORK IN PROGRESS

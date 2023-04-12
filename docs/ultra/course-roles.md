@@ -1,8 +1,8 @@
 ---
 tags:
-  - Ultra 
-  - Advanced
-  - Administration
+#   - Ultra 
+#   - Advanced
+#   - Administration
 ---
 
 # Course roles in Learn Ultra UPDATE FOR ULTRA

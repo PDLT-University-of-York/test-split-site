@@ -62,7 +62,7 @@ markdown_extensions:
       title: On this page
 
 nav:
-  # - Index: tag-index.md
+  - Index: tag-index.md
   - Learn Ultra:
     - ultra/index.md
     - Getting started with Ultra:

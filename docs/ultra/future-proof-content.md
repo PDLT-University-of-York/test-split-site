@@ -1,9 +1,9 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Teaching
-    - Ultra
+    # - Foundation
+    # - Teaching
+    # - Ultra
 ---
 
 !!! Warning
