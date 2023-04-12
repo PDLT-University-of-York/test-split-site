@@ -1,18 +1,10 @@
----
+<!-- ---
 tags:
-# Delete to leave only relevant tags
-    # - Foundation
-    # - Advanced
-    # - Teaching
-    # - Administration
-    # - Ultra
-    # - Panopto
-    # - Reading List
-    # - Canvas
-    # - Xerte
-    # - Padlet
-    # - Mentimeter
----
+    - Advanced
+    - Teaching
+    - Administration
+    - Ultra
+--- -->
 
 # Tests WORK IN PROGRESS
 
