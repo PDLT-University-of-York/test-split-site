@@ -1,30 +1,21 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Advanced
     - Teaching
     - Administration
     - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
 ---
 
 # Groups - Setup
 
 !!! Summary
 
-    It is possible to set up groups in Ultra and assign students to these groups, randomly or manually, for the purposes of group work or conditional content release.
-
-
+    You can assign students to groups in Ultra for collaborative work or to release content to specific students.
 
 
 ## Video Steps
 
-Below is an embedded video detailing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY).
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdaSl74psNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
