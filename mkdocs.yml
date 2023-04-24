@@ -66,6 +66,7 @@ nav:
   - Learn Ultra:
     - ultra/index.md
     - Getting started with Ultra:
+      - Personalising your notifications: ultra/notifications.md
       - VLE site design principles: ultra/site-design-principles.md
       - Using the Ultra template: ultra/ultra-template.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
