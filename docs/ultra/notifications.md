@@ -12,7 +12,7 @@ tags:
 
 !!! Summary
 
-    The default notification settings in Blackboard Ultra can result in a significant number of unnecessary emails being sent to your inbox - particularly for those enrolled on many modules. You can also configure 
+    The default notification settings in Blackboard Ultra can result in a significant number of unnecessary emails being sent to your inbox - particularly for those enrolled on many modules. You can also configure the frequency and type of notifications you receive, as well as those that appear in your Activity Stream.
 
 
 
@@ -40,9 +40,9 @@ Watch this section of our brief video [Blackboard Learn - Navigation](https://yo
 <br> ![Annotated screenshot highlighting the cog icon in the Activity Stream panel of the VLE](images/notifications-stream-cog.png)<br>
 <br> ![Annotated screenshots highlighting the menu icon, the Activity Stream in the menu, and the cog icon in the Activity Stream](images/notifications-stream-thin.png) <br>
 4. In the **Notification Settings** pane that appears, select which events you want to receive notifications about.
-    a. **Stream Notifications:** in this tab you can configure the notifications that appear in your **Activity Stream**. You can enable/disable entire categories of notifications (e.g. **Journal Activity**). You can also enable/disable specific types of notifications within categories (e.g. **Journal entry posted**) by clicking the down arrow icon next to the category.
-    b. **Email Notifications:** in this tab you can configure which activities you will receive email notifications about, as well as how often to receive these email notifications.
-    c. **Push Notifications:** in this tab you can configure whihc events will trigger notifications on your phone, if you have the Blackboard App installed and set up.
+    1. **Stream Notifications:** in this tab you can configure the notifications that appear in your **Activity Stream**. You can enable/disable entire categories of notifications (e.g. **Journal Activity**). You can also enable/disable specific types of notifications within categories (e.g. **Journal entry posted**) by clicking the down arrow icon next to the category.
+    2. **Email Notifications:** in this tab you can configure which activities you will receive email notifications about, as well as how often to receive these email notifications.
+    3. **Push Notifications:** in this tab you can configure whihc events will trigger notifications on your phone, if you have the Blackboard App installed and set up.
 5. When you have finished editing your notification settings, be sure to click **Save** to save your changes.
 
 
