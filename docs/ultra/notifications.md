@@ -12,7 +12,7 @@ tags:
 
 !!! Summary
 
-    The default notification settings in Blackboard Ultra can result in a significant number of unnecessary emails being sent to your inbox - particularly for those enrolled on many modules. You can also configure the frequency and type of notifications you receive, as well as those that appear in your Activity Stream.
+    You can adjust the type and frequency of email notifications you receive from Learn Ultra, as well as those that appear in your Activity Stream.
 
 
 
