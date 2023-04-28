@@ -48,7 +48,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ## 1. Module orientation & support
 
 <button class="md-button closed toggle">
-    Open all principles
+    Open all sections
 </button>
 
 ??? essential "1.1 Essential: Module orientation information and learning outcomes are easy to find."
@@ -88,7 +88,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ## 2. Site structure & design
 
 <button class="md-button closed toggle">
-    Open all principles
+    Open all sections
 </button>
 
 ??? essential "2.1 Essential: Site structure includes sections for module information, assessment, Reading List, Replay Content and module materials."
@@ -118,7 +118,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ## 3. Module materials & site content
 
 <button class="md-button closed toggle">
-    Open all principles
+    Open all sections
 </button>
 
 ??? essential "3.1 Essential: Organise module materials in sections that support student progress through the module."
@@ -177,7 +177,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ## 4. Assessment
 
 <button class="md-button closed toggle">
-    Open all principles
+    Open all sections
 </button>
 
 ??? essential "4.1 Essential: The assessment section contains all information about module assessments."
@@ -212,7 +212,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ## 5. Site readiness
 
 <button class="md-button closed toggle">
-    Open all principles
+    Open all sections
 </button>
 ??? recommended "5.1 Recommended: Ensure that students can see and access module materials and content."
 

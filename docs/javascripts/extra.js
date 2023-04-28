@@ -10,7 +10,7 @@ const openDetails = () => {
         allToggles.forEach((toggle) => {
             toggle.classList.remove("closed");
             toggle.classList.add("open");
-            toggle.innerHTML = "Close all principles"
+            toggle.innerHTML = "Close all sections"
         });
 }
 
@@ -20,7 +20,7 @@ const closeDetails = () => {
     allToggles.forEach((toggle) => {
         toggle.classList.remove("open");
         toggle.classList.add("closed");
-        toggle.innerHTML = "Open all principles"
+        toggle.innerHTML = "Open all sections"
     });
 }
 
