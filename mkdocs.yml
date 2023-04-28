@@ -70,13 +70,15 @@ nav:
       - VLE site design principles: ultra/site-design-principles.md
       - Using the Ultra template: ultra/ultra-template.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
-      - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
     - Moving to Ultra for 23/24:
       - Frequently asked questions: ultra/ultra-faq.md
       - Moving to Ultra for module staff: ultra/move-to-ultra.md
       - Differences Original - Ultra: ultra/differences-original-ultra.md
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       # - Building an Ultra site from a template: ultra/placeholder.md
+    - VLE Ultra training:
+      # - Workshop calendar: ultra/workshop-calendar
+      - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
     - Site structure:
       - Navigating an Ultra site: ultra/navigate-ultra-site.md
       # - Effective Ultra site structure: ultra/placeholder.md
