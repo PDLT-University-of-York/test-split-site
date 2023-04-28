@@ -222,7 +222,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ??? recommended "5.2 Recommended: Complete the Site Readiness Checklist before making the site available to students."
 
     - This helps identify and correct any issues in areas such as accessibility, site/material visibility and student/staff enrollments.
-    - The Site Readiness Checklist is also included in site templates.
+    - The [Site Readiness Checklist](https://vle-support.york.ac.uk/ultra/site-readiness-checklist/) appears on this site and is also included in site templates.
 
 ??? recommended "5.3 Recommended: Take steps to make the site easier to maintain and update."
 
