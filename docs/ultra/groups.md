@@ -156,7 +156,7 @@ Copy groups and student assignments from another group set.
 
 ### Import groups or members
 
-1. 
+1. You must create and save a group set.
 
 
 ## Managing groups
