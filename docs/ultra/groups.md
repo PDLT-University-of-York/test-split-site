@@ -12,7 +12,7 @@ tags:
 
 !!! Summary
 
-    Use Groups to manage teaching and administration activities in your course. There are various ways to allocate groups, incluidng randomly, manually or imported from a file.
+    Use Groups to manage teaching and administration activities in your course. There are various ways to assign members to groups.
 
 ## Video Steps
 
@@ -41,7 +41,7 @@ Within a group set, students can only belong to one group; Presentation group 1 
 Across group sets, students can belong to multiple groups; Presentation group 1 AND Marking group 2.
 
 ### Group set visibility
-Each group set can be visible to or hidden from students depending on the set's purpose. The default is hidden from students. If the group set is visibile, students will only see their specific group.
+Each group set can be hidden from (default) or visible to students depending on the set's purpose. If the group set is visibile, students will only see their specific group.
 
 For example, the Presentation group set should be visible so that students can see their group details, but the Marking group should be hidden as students don't need access to this information.
 
@@ -54,15 +54,15 @@ There are two ways to set group set visibility:
 
 ### Create a group set
 
-1. Under **Details & Actions**, click **Course Groups**. You'll see "Create and manage groups" here if you don't have any groups yet, or "View sets & groups" if you have existing groups.</br>
+1. Under **Details & Actions**, click **Course Groups**. You'll see "Create and manage groups" here if you don't have any group sets yet, or "View sets & groups" if you have an existing group set.</br>
 ![Selecting the View Sets & Groups option in the Details & Actions area](images/groups-course-groups.png)
 2. Click **New Group Set** with the plus icon in the top right (on a small screen you'll only see the plus icon).</br>
 ![Selecting New Group Set in the Course Groups pane](images/groups-new-group-set.png)
 3. Click the default 'New group set' name and input your desired name, e.g. "Presentation groups".</br>
 ![Changing the group set name from default](images/groups-edit-group-set-name.png)
-4. Click **Save** or create groups and assign students using one of the methods below.
+4. Click **Save** or create groups and assign students now using one of the methods below.
 
-### Import a group set
+### Import a group set (and empty groups)
 
 You can import a CSV file with details of the group set and names of the groups to create (not student allocations at this point). However, unless you have a lot of groups to create, it's usually quicker to create the group set manually.
 
@@ -70,9 +70,9 @@ You can import a CSV file with details of the group set and names of the groups 
 ![Selecting the View Sets & Groups option in the Details & Actions area](images/groups-course-groups.png)
 2. Click **Import Group Set** with the arrow icon near the top right (on a small screen you'll only see the arrow icon).</br>
 ![Selecting Import Group Set in the Course Groups pane](images/groups-import-group-set.png)
-3. **Upload** your CSV file according to the format in the template given.
+3. **Upload** your CSV file according to the format in the groups template given.
 4. Click **Import**.
-5. Allocate students using one of the methods below.
+5. Click **Save** or assign students to groups now using one of the methods below.
 
 ## Assign students to groups
 
@@ -82,17 +82,13 @@ There are numerous ways to assign students to groups:
 - custom (manual) assignment
 - self-enrol
 - reuse groups
-- import assignments
+- import groups and assignments
 
 For each method, start by opening the Group Set: under **Details & Actions**, click **Course Groups** and select a group set. If you don't have a group set yet, follow the steps above.
 </br>
 ![Selecting the Presentation groups set on the Course groups page](images/groups-select-group-set.png)
 
 Then follow one of the methods below.
-
-!!! Tip
-	
-	To unassign students from all groups and start over, open the Group Set and click **Unassign all** in the upper right corner of the screen.
 
 ### Custom (manual) assignment
 
@@ -114,7 +110,7 @@ Manually choose which students are assigned to each group.
 
 ### Random assignment
 
-Automatically assign students at random to evenly-sized groups.
+Randomly assign students to evenly-sized groups.
 
 1. Next to **Group students**, select **Randomly assign** from the drop-down menu.</br>
 ![Randomly assign is the second option in the group students drop down menu](images/groups-randomly-assign.png)
@@ -129,7 +125,7 @@ Automatically assign students at random to evenly-sized groups.
 
 ### Self enrol
 
-Students choose which group to join (eg. choose the project topic they want to do).
+Students choose which group to join (eg. the project topic they want to do).
 
 1. Use the **visibility menu** in the top right to make the group set visible to students.</br>
 ![Visibility drop-down menu showing default hidden from students setting](images/groups-visibility-group-set.png)
@@ -137,42 +133,70 @@ Students choose which group to join (eg. choose the project topic they want to d
 ![Self-enrolment is the third option in the group students drop down menu](images/groups-self-enrolment.png)
 3. In the Advanced options section that appears, add a **Description** with instructions for students, and **enrolment start and end dates**. Adjust the **maximum members per group** if desired (make sure this gives enough capacity for all students to join a group).</br>
 ![Advanced options area showing the fields described in text](images/groups-self-enrolment-advanced-options.png)
-4. Self-enrol groups are automatically created. You can add more groups by clicking the plus icon at the bottom of the page, or delete a group by clicking the three dots next to the group name.</br>
+4. A number of self-enrol groups are then automatically created. You can add or delete groups as needed to give your desired amount.</br>
 ![Purple plus icon to add groups](images/groups-plus-icon-create-groups.png)
 5. For each group, click the default 'New group X' name and input your desired name, e.g. "Presentation group 1". Add a description if you wish.</br>
 ![Default group name shown - click to edit](images/groups-edit-group-name.png)
 6. Adjust group set visibility if desired (see above).
-7. Click **Save**
+7. Click **Save**.
 
 ### Reuse groups
 
-Copy groups and student assignments from another group set.
+Copy groups and student assignments from existing group set.
 
 1. Next to **Group students**, select a group set under **Reuse groups** from the drop-down menu. You'll only see this option if you have at least one other existing group set.</br>
 ![Self-enrolment is the third option in the group students drop down menu](images/groups-self-enrolment.png)
 2. The groups and student assignments will be copied from the selected group set. Edit group names and descriptions as needed.
 3. Adjust group set visibility if desired (see above).
-4. Click **Save**
+4. Click **Save**.
 
 ### Import groups or members
 
-1. You must create and save a group set.
+Upload group and/or member information from CSV files. These are done in separate stages; import groups, then import student assignments to these groups.
 
+!!! Tip 
+    It can be very fiddly to prepare the CSV files in the right format, so unless you have a lot of groups and/or enrolments it's likely easier to set up and assign members to groups using one of the methods above.
 
-## Managing groups
+1. For this method, you must first create and save a group set and then reopen it, or the icon won't appear.
+2. Click the **box/arrow icon** near the top right. If you hover over this icon, the text 'Import grops or Members' will appear.</br>
+![Import icon (box with vertical arrow coming out the top) shown under visibility menu in top right](images/groups-import-groups.png)
+3. To import empty groups, use the **Create groups** tab. Upload a CSV file with group details in the format shown on the groups template and click Import.</br>
+![Create groups tab with drag and drop space to upload CSV file](images/groups-import-create-groups.png)
+4. To import student assignments to existing groups, use the **Assign members** tag. Upload a CSV file with student and group details in the format shown on the members template and click Import.</br>
+![Assign members tab with drag and drop space to upload CSV file](images/groups-import-assign-members.png)
+5. Adjust group set visibility if desired (see above).
+6. Click **Save**.
+
+## Managing groups & members
+
+Start by opening the Group Set: under **Details & Actions**, click **Course Groups** and select a group set to manage.
+
+!!! Tip
+    Editing groups or assignments here will affect all places where that group is used: Discussions, group assignments etc.
 
 ### Add a group
 
+1. Click the plus icon in the list of existing groups.
+2. Click the default 'New group X' name and input your desired name, e.g. "Presentation group 1".
+3. Add a description for each group if you wish.
+ 
 ### Delete a group
 
-### Unassign students from groups
+1. Click the three dots across from the group name and select **Delete group**.</br>
+![Using delete group option](images/groups-delete-group.png)
+2. On the 'Are you sure' prompt, click **Delete** again. Note: this can't be undone.
+3. Students from the deleted group are returned to the **Unassigned students** section.
 
-### Move students to a different group
+### Move or unassign individual students
 
-1. In the Course Groups pane, click the **Group set** you want to change.
-2. Locate the student you want to move, then click the three dots icon next to their name.
-3. Select the group to move the student to.
-4. Click **Save**.
+1. Select the student(s) to move and click the three dots next to their name.
+2. Select an option from the drop down menu that appears: create a new group, unassign from the current group or move to an existing group.</br>
+![Drop-down menu under a student's name with the options described in text](images/groups-move-student.png)
 
-![Selecting a group set from the group set pane](images/groups-setup-move-select-group-set.png)
-![Selecting a student, selecting a group to move the student to, and then clicking save](images/groups-setup-move-student-group-save.png)
+### Unassign students in bulk
+
+- Unassign all students from all groups in a group set: Click **Unassign All** near the top right of the group set page.</br>
+![Unassign All text shown below visibility menu in top right](images/groups-unassign-all.png)
+- Unassign all students from a sigle group: click the three dots across from the group name and select **Usassign members**.</br>
+![Using unassign members option to remove all students from a single group](images/groups-unassign-members.png)
+- Unassigned students are returned to the **Unassigned students** section.
