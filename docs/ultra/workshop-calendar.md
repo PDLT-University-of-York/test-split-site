@@ -17,7 +17,7 @@ Browse the calendar for our centrally-delivered Learn Ultra workshops and detail
 - **Ultra Essentials (teaching)**: key Ultra features, using the template, preparing site content
 - **Ultra Essentials (administrators)**: user management, Groups, assessment set up
 - **Ultra bitesize**: introduction to specific tools, eg. Discussions, Groups, Reading List
-- **Ultra support sessions**: come along to ask questions, get help or work on your site with support available
+- **Ultra support sessions**: ask questions, get help or work on your site with support available
 
 Department-specific workshops aren't included on this calendar; see your departmental comms for details of these.
 
