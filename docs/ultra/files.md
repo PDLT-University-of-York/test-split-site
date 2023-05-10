@@ -1,20 +1,17 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Foundation
     - Teaching
-    - Administration
     - Ultra
 ---
 
-
-# Adding files to a Document
+# Adding files
 
 !!! Summary
 
-    Files can be uploaded into Documents or directly to the Course Content area. Most common file types can be previewed in a Document, and colleagues uploading the file can choose whether students can download or simply view it.
-
-    We recommend only uploading files into an Ultra Document so they can be previewed.
+    Files can be uploaded into Documents or directly to the Course Content area.
+    
+    Most common file types can be viewed within the site without needing to be downloaded.
 
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
@@ -23,10 +20,11 @@ tags:
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
+## Uploading Files into a Document
 
-## Uploading Files
+This method is recommended for presenting module materials (eg. lecture slides) and other files in context.
 
-This method is almost identical to uploading images - see our [guide on adding images](https://vle-support.york.ac.uk/ultra/adding-images).
+![Week 2 lecture document with introductory text and uploaded lecture slides file](images/files-within-document.png)
 
 ### Video steps
 
@@ -34,18 +32,38 @@ This method is almost identical to uploading images - see our [guide on adding i
 
 Video: [Adding files in Ultra](https://youtu.be/nUcweeCfcvU).
 
-### Text steps
+### Text steps: Upload from computer
 
-1. In a Document click the plus icon to add content and/or click **Upload from Computer**
-![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
-2. Find the item you would like to upload, select it, and click **Open**
-![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)
-3. Select a descriptive display name (eg "Week 4 Seminar Materials"), choose the appropriate file options, and then click **Save**
-![Annotated screenshot highlighting the file options and Save button](images/adding-content-file-options.png)
-4. Files can be previewed inline within Ultra Documents if "View" is allowed in the file options
-![Screenshot showing a previewed Lorem Ipsum file](images/adding-files-preview-file.png)
+1. If your Document already has content, first click the **plus icon** in the location to add the file.
+2. Select **Upload from Computer**.</br>
+![Upload from computer is the third item in Add content options](images/files-within-document-upload-from-computer.png)
+3. Select the item to upload and click **Open**.</br>
+![Week 2 lecture slides PPTX file selected and Open clicked](images/files-select-file.png)
+4. Input a descriptive file display name (eg. "Week 4 Seminar Materials"), set the file options as **View and Download**, then click **Save**.</br>
+![File options showing descriptive display name and view and download option selected](images/files-edit-file-options.png)
+5. Click the **chevron icon** to the right of the file name to preview the file in the Document (if "view" was selected in file options).</br>
+![Lecture 2 PPTX file previewed in the site](images/files-preview.png)
 
+### Text steps: Attach using the text editor
 
-!!! Note
+1. In the text editor, put your cursor in the location to add the file and click the **paperclip/Attachment icon**.</br>
+![Cursor underneath 'Lecture Slides' text and paperclip icon highlighted in text editor bar](images/files-text-editor-attachment.png)
+2. Select the item to upload and click **Open**.</br>
+![Week 2 lecture slides PPTX file selected and Open clicked](images/files-select-file.png)
+3. Input a descriptive file display name (eg. "Week 4 Seminar Materials"), set the file options as **View and Download**, then click **Save**.</br>
+![File options showing descriptive display name and view and download option selected](images/files-edit-file-options.png)
+4. Click **Save** under the text editor.
+5. Click the **chevron icon** to the right of the file name to view the file in the Document (if "view" was selected in file options).</br>
+![Lecture 2 PPTX file previewed in the site](images/files-preview.png)
 
-    These steps are also applicable when using the Attachment tool within the text editor.
+## Uploading Files into the Course Content area
+
+This method is recommended for standalone or reference materials that don't require context, as it's not possible to add explanatory text with the file.
+
+1. Click the **plus icon** in the location to add the file and select **Upload**.
+2. Select the item to upload and click **Open**.</br>
+![Week 2 lecture slides PPTX file selected and Open clicked](images/files-select-file.png)
+3. Input a descriptive file display name (eg. "Week 4 Seminar Materials"), set the file options as **View and Download**, then click **Save**.</br>
+![File options showing descriptive display name and view and download option selected](images/files-edit-file-options.png)
+4. Make the file visible to students.
+5. Click the file to view in a separate pane in the site (if "view" was selected in file options).
