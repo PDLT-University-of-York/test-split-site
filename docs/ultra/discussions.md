@@ -43,7 +43,7 @@ Users can access discussions in two locations:
 - In the **Course Content area** where it was created. For example in a weekly materials section.</br>
 ![Course content area: Week 2 section containing lecture and discussion](images/discussions-access-course-content-area.png)
 - In the dedicated **Discussions area** reached from the top navigation bar. You can also create a discussion here.</br>
-![Discussion area containing all discussions on site](images/discussions-access-discussions-area.png)
+![Discussion area containing all discussions on site](images/discussions-access-discussion-area.png)
 
 ### Delete a discussion
 
