@@ -109,7 +109,7 @@ nav:
       - Groups: ultra/groups.md
     # - Assessment and assignments:
     #   - Tests: ultra/tests.md
-     - Site access & users: 
+    - Site access & users: 
     #   - Site availability: ultra/placeholder.md
        - Enrolling a user: ultra/enrol-user.md
        - Unenrolling a user: ultra/unenrol-user.md

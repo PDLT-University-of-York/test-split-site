@@ -13,6 +13,10 @@ tags:
 
 ## Quick Start Guide
 
+These methods can be used to unenrol a user that was manually enrolled on the site.
+
+If a user was automatically enrolled through a Group user (this applies to most students), extra steps are needed to prevent them being re-enrolled again after they are removed. Please contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to unenrol these users. 
+
 <!-- ### Video Steps
 
 Below is an embedded video of unenrolling a user on your Blackboard Learn course or organisation. [Click this link](https://youtu.be/6VFQ88XpJf4) to open this video in another browser tab. Note: If unenrolling a user on an Organisation (rather than a Course), then the Course Role "Leader" is equivalent to "Instructor", and "Participant" is equivalent to "Student".
@@ -23,7 +27,7 @@ Below is an embedded video of unenrolling a user on your Blackboard Learn course
 
 1. Under the **Details & Actions** menu, select **Class register/View everyone on your course**.</br>
 ![Details & Actions menu showing Class register and people icon with 'View everyone on your course' text link below](images/enrol-user-class-register-menu.png)
-2. Locate the user to unenrol. You can use the search function or find them in the list.
+2. Locate the user to unenrol using the search function or by finding them in the list.
 3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
 ![Steps followed to edit member information for a student user](images/unenrol-user-edit-member.png)
 4. If the user has a non-Student role, change their role to Student using the drop-down menu. 
@@ -39,7 +43,7 @@ Below is an embedded video of unenrolling a user on your Blackboard Learn course
 
 1. Under the **Details & Actions** menu, select **Class register/View everyone on your course**.</br>
 ![Details & Actions menu showing Class register and people icon with 'View everyone on your course' text link below](images/enrol-user-class-register-menu.png)
-2. Locate the user to unenrol. You can use the search function or find them in the list.
+2. Locate the user to unenrol using the search function or by finding them in the list.
 3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
 ![Steps followed to edit member information for a student user](images/unenrol-user-edit-member.png)
 4. On the Member information pane, untick the **Allow access to course** option.</br>
