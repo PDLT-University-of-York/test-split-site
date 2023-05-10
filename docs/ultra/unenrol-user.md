@@ -1,54 +1,51 @@
-<!-- ---
+---
 tags:
    - Ultra 
    - Advanced
    - Administration
---- -->
+---
 
-# Unenrolling a user from your Blackboard Learn course or organisation UPDATE FOR ULTRA
-
+# Unenrol a user
 
 !!! Summary
 
-    Unenrolling a user from your Blackboard Learn course or organisation will stop them being able to access and view it. If they are enrolled as anything other than a student you must “demote” their course role to Student before unenrolling, or you will receive an error.
-
-!!! Warning
-
-    Unenrolling a student will delete any assignment submissions they have made to the course, and these cannot be retrieved. 
-    
-    Unenrolling a user will anonymise their contributions, eg. Announcements; posts/comments in journals, blogs, wikis, and discussions; mark up and comments on marking. This cannot be undone.
-
-    If you want a user unenrolled without anonymisation, contact [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to request assistance.
-
+     Users can be manually unenrolled from a Learn Ultra course or organisation. There are different methods depending on whether their data should be deleted or retained.
 
 ## Quick Start Guide
 
-
-### Video Steps
+<!-- ### Video Steps
 
 Below is an embedded video of unenrolling a user on your Blackboard Learn course or organisation. [Click this link](https://youtu.be/6VFQ88XpJf4) to open this video in another browser tab. Note: If unenrolling a user on an Organisation (rather than a Course), then the Course Role "Leader" is equivalent to "Instructor", and "Participant" is equivalent to "Student".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6VFQ88XpJf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6VFQ88XpJf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-### Text Steps
+### Remove a user and delete their data
 
-1. **Enter your** Blackboard Learn **course or organisation** as normal
-2. Locate the **Control Panel** area of the left hand menu (it’s below your course content)
-3. Within the Control Panel, click on **Users and Groups**, then **Users**
-4. **Use the search box and filter options **towards the top of the page to find the user you wish to unenrol; 
-    1. We recommend picking **Username **and **Contains **in the drop downs, then **pasting in the username** (eg. abc123 - findable via [the University Directory](https://directory.york.ac.uk/)) in the search field and **clicking Go**.
+1. Under the **Details & Actions** menu, select **Class register/View everyone on your course**.</br>
+![Details & Actions menu showing Class register and people icon with 'View everyone on your course' text link below](images/enrol-user-class-register-menu.png)
+2. Locate the user to unenrol. You can use the search function or find them in the list.
+3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
+![Steps followed to edit member information for a student user](images/unenrol-user-edit-member.png)
+4. If the user has a non-Student role, change their role to Student using the drop-down menu. 
+5. Click the **dustbin icon** next to the user's name to remove them from the course.</br>
+![User information with dustbin icon to right](images/unenrol-user-remove-member.png)
+6. When prompted, click **remove member**. **This cannot be undone**.
 
+!!! Warning
 
-5. **If the user is enrolled as anything other than a student then they must have their course role switched to Student before they can be removed from your course.** If the user is already enrolled as a Student please skip step five.
-    2. **Hover your mouse over the user's username** in the results table, click on the **grey circle button** that appears and** select “change user’s role in course”** from the menu.
-    ![alt_text](images/image4.png "image_tooltip")
+    Removing a user from a course will delete all of their marks, assignment submissions, activity logs and data from the course (eg. posts to Discussions). **This cannot be undone.** To retain the user's data, remove their access to the course instead.
 
-    3. **Click the radio button next to “Student”** and click **Submit**.
-6. **Tick the box** the appears to the** left of the username** in the results list
-7. Press the **“Remove Users from Course” button** at the top or bottom of the table.
+### Remove a user's access but retain their data
 
-The user will lose access to your course **straight away**, but may continue to receive any announcement emails sent from it for **up to an hour** after removal.
+1. Under the **Details & Actions** menu, select **Class register/View everyone on your course**.</br>
+![Details & Actions menu showing Class register and people icon with 'View everyone on your course' text link below](images/enrol-user-class-register-menu.png)
+2. Locate the user to unenrol. You can use the search function or find them in the list.
+3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
+![Steps followed to edit member information for a student user](images/unenrol-user-edit-member.png)
+4. On the Member information pane, untick the **Allow access to course** option.</br>
+![Tick box to allow access to course under course settings](images/unenrol-user-remove-access.png)
+5. Click **Save**.
 
-## More Details / Troubleshooting 
+<!-- ## More Details / Troubleshooting 
 
-* Error “**Cannot remove Instructor users from course. Only System Administrator users can remove Instructor users**” appearing on screen indicates that you have not completed step five of the guidance in this article. 
+Error “**Cannot remove Instructor users from course. Only System Administrator users can remove Instructor users**” appearing on screen indicates that you have not completed step five of the guidance in this article.  -->

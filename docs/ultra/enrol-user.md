@@ -9,7 +9,7 @@
 
 !!! Summary
  
-    Instructors can manually enrol a user (staff or student) on a Learn Ultra course or organisation.
+    Users can be manually enrolled on a Learn Ultra course or organisation.
 
 ## Quick Start Guide
 
