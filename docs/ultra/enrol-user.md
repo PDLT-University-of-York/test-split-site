@@ -38,7 +38,7 @@ The user will be able to see and access your course straight away from [their Le
 
 ## More Details and Troubleshooting 
 
-Error "**No results found. Check the spelling and try again.**" can mean a few things:
+The error "**No results found. Check the spelling and try again.**" can mean a few things:
 
 1. There's an error in the search term; check and try again.
 2. The user is already enrolled on your site and able to access it. Check by searching for them in the class register.

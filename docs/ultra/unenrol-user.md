@@ -46,10 +46,11 @@ Below is an embedded video of unenrolling a user on your Blackboard Learn course
 2. Locate the user to unenrol using the search function or by finding them in the list.
 3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
 ![Steps followed to edit member information for a student user](images/unenrol-user-edit-member.png)
-4. On the Member information pane, untick the **Allow access to course** option.</br>
+4. If the user has a non-Student role, change their role to Student using the drop-down menu.
+5. Untick the **Allow access to course** option.</br>
 ![Tick box to allow access to course under course settings](images/unenrol-user-remove-access.png)
-5. Click **Save**.
+6. Click **Save**.
 
-<!-- ## More Details / Troubleshooting 
+## More Details / Troubleshooting 
 
-Error “**Cannot remove Instructor users from course. Only System Administrator users can remove Instructor users**” appearing on screen indicates that you have not completed step five of the guidance in this article.  -->
+The error “**Cannot remove Instructor users from course. Only System Administrator users can remove Instructor users**” means that you need to change the user's role from Instructor to Student before removing them.
