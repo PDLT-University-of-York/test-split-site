@@ -36,9 +36,12 @@ Video: [Conditional availability in Ultra](https://youtu.be/D8AMqszCkms)
 #### Specific users or groups
 
 1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item whose visibility you want to change, click the arrow, then click **Release conditions**. <br> ![Clicking on Release Conditions in the visibility options drop down menu](images/conditional-release-select-release-conditions.png) 
-2. Under **Select members**, click **Specific members or groups**. <br> ![Clicking the Specific Members or Groups radio button in the Release Conditions pane](images/conditional-release-specific-members-groups.png)
-3. To make the content item available to a particular student, click **Individual members**, type the name of the student, then click the student's name. <br> ![Typing a student's name in the Individual Members box and selecting the student from the list of search results](images/conditional-release-type-select-student.png)
-4. To make the content item available to a particular group, click **Groups** and select the desired group from the drop down menu. <br> ![Selecting a Group from the Groups drop down menu in the Release Conditions pane](images/conditional-release-select-group.png)
+2. Under **Select members**, click **Specific members or groups**. </br>
+![Clicking the Specific Members or Groups radio button in the Release Conditions pane](images/conditional-release-specific-members-groups.png)
+3. To make the content item available to a particular student, click **Individual members**, type the name of the student, then click the student's name. </br>
+![Typing a student's name in the Individual Members box and selecting the student from the list of search results](images/conditional-release-type-select-student.png)
+4. To make the content item available to a particular group, click **Groups** and select the desired group from the drop down menu. </br>
+![Selecting a Group from the Groups drop down menu in the Release Conditions pane](images/conditional-release-select-group.png)
 5. Click **Save**.
 
 
