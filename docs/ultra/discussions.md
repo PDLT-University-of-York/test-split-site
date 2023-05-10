@@ -40,14 +40,18 @@ tags:
 
 Users can access discussions in two locations:
 
-- In the Course Content area where it was created. For example in a weekly materials section.</br>
+- In the **Course Content area** where it was created. For example in a weekly materials section.</br>
 ![Course content area: Week 2 section containing lecture and discussion](images/discussion-access-course-content-area.png)
-- In the dedicated Discussion area reached from the top navigation bar. You can also create a discussion here.</br>
+- In the dedicated **Discussions area** reached from the top navigation bar. You can also create a discussion here.</br>
 ![Discussion area containing all discussions on site](images/discussion-access-discussion-area.png)
 
 ### Delete a discussion
 
-
+1. Click the three dots to the right of the discussion name.
+2. Select **Delete**.</br>
+![Discussion item with three dots clicked and Delete shown in drop down menu.](images/discussion-delete.png)
+3. When prompted, press **Delete** again.
+4. Go to the Discussions area and check that the discussion does not appear here too. If it does, repeat this process.
 
 ## Using discussions to support teaching
 
@@ -104,6 +108,8 @@ You can also grade discussions. This could be useful to:
 - use a discussion as a summative assessment.
 - give 1 point to show students you've reviewed their formative response.
 - use a marking rubric to grade and give feedback.
+
+![Due date and marking details shown for a marked discussion](images/discussion-mark-details.png)
 
 To mark a discussion:
 
