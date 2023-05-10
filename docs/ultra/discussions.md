@@ -41,15 +41,15 @@ tags:
 Users can access discussions in two locations:
 
 - In the **Course Content area** where it was created. For example in a weekly materials section.</br>
-![Course content area: Week 2 section containing lecture and discussion](images/discussion-access-course-content-area.png)
+![Course content area: Week 2 section containing lecture and discussion](images/discussions-access-course-content-area.png)
 - In the dedicated **Discussions area** reached from the top navigation bar. You can also create a discussion here.</br>
-![Discussion area containing all discussions on site](images/discussion-access-discussion-area.png)
+![Discussion area containing all discussions on site](images/discussions-access-discussions-area.png)
 
 ### Delete a discussion
 
 1. Click the three dots to the right of the discussion name.
 2. Select **Delete**.</br>
-![Discussion item with three dots clicked and Delete shown in drop down menu.](images/discussion-delete.png)
+![Discussion item with three dots clicked and Delete shown in drop down menu.](images/discussions-delete.png)
 3. When prompted, press **Delete** again.
 4. Go to the Discussions area and check that the discussion does not appear here too. If it does, repeat this process.
 
@@ -65,14 +65,14 @@ You can split a discussion for different groups of students. For example, to:
 - provide a discussion space for each seminar group.
 - support project or collaborative work.
 
-![Discussion item assigned to groups with group icon and '3 groups' shown under title](images/discussion-groups-item.png)
+![Discussion item assigned to groups with group icon and '3 groups' shown under title](images/discussions-groups-item.png)
 
 To assign a discussion to groups:
 
 1. Create and set up the discussion (only one is needed for all groups).
 2. Click the **Discussion Settings** cog icon.
 3. Under **Additional tools**, click **Group discussion/Assign to groups**.</br>
-![Part of group settings pane showing Group discussion/assign to groups](images/discussion-groups-settings.png)
+![Part of group settings pane showing Group discussion/assign to groups](images/discussions-groups-settings.png)
 4. Assign students by setting up new groups (see our [Groups guide](https://vle-support.york.ac.uk/ultra/groups/) for details) or reusing existing groups.
 5. Click **Save**.
 
@@ -92,13 +92,13 @@ You can require students to post a reply before they can see other students' pos
 - create multiple choice questions for other students to test their understanding.
 - create their own discussion question before responding to other questions.
 
-![Post first message in student view: Post a response to see discussion activity](images/discussion-post-first-student-view.png)
+![Post first message in student view: Post a response to see discussion activity](images/discussions-post-first-student-view.png)
 
 To set up post first:
 
 1. Open the discussion and click the **Discussion Settings** cog icon.
 2. Tick the **Post first** option.</br>
-![Post first option ticked in the Details & Information section of Discussion settings pane](images/discussion-post-first.png)
+![Post first option ticked in the Details & Information section of Discussion settings pane](images/discussions-post-first.png)
 3. Click **Save**.
 
 ### Mark discussion
@@ -109,16 +109,16 @@ You can also grade discussions. This could be useful to:
 - give 1 point to show students you've reviewed their formative response.
 - use a marking rubric to grade and give feedback.
 
-![Due date and marking details shown for a marked discussion](images/discussion-mark-details.png)
+![Due date and marking details shown for a marked discussion](images/discussions-mark-details.png)
 
 To mark a discussion:
 
 1. Open the discussion and click the **Discussion Settings** cog icon.
 2. Click **Mark discussion**.</br>
-![Mark discussion option ticked in the Details & Information section of Discussion settings pane](images/discussion-mark.png)
+![Mark discussion option ticked in the Details & Information section of Discussion settings pane](images/discussions-mark.png)
 3. In the **Marking and Participation** section, set the due date and how the discussion is marked.</br>
-![Settings to adjust due date, mark category, mark using points/percent, maximum points](images/discussion-mark-settings.png)
+![Settings to adjust due date, mark category, mark using points/percent, maximum points](images/discussions-mark-settings.png)
 4. If desired, **Add marking rubric**. You can create a rubric here or reuse a rubric already in your site.</br>
-![Additional Tools section with option to add marking rubric](images/discussion-mark-add-rubric.png)
+![Additional Tools section with option to add marking rubric](images/discussions-mark-add-rubric.png)
 
 5. Click **Save**.
