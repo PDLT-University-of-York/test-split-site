@@ -20,6 +20,8 @@ Benefits of the principles include:
 - **assisting staff** in developing effective sites through guidance on implementing principles.
 - informing **VLE site templates**, which reduce staff workload and cognitive effort to set up sites.
 
+***
+
 Principles are categorised as essential or recommended:
 
 ??? essential "Essential principles: must meet"
@@ -38,8 +40,6 @@ Principles are categorised as essential or recommended:
 
 **It is the module convener's responsibility to apply these design principles in their site** or ensure that other staff working on the site do so.
 
-!!! note
-    Professional programmes (nursing, midwifery, social work, PGCE, apprenticeships, CPD courses) are currently exempt from these site design principles, pending review. However, accessibility and copyright legislation still apply.
 
 ***
 
@@ -54,7 +54,7 @@ Click each principle to show details, examples and guidance on implementing the 
 ??? essential "1.1 Essential: Module orientation information and learning outcomes are easy to find."
     
     - Link to the relevant [Module Catalogue](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module)  page for students to access key module information and learning outcomes. This link automatically provides up-to-date information each year.
-    - Provide an overview of the module. This could be a short introduction video from the module leader and/or a text summary. 
+    - Provide an overview of the module (or course for non-modular sites). This could be a short introduction video from the module leader and/or a text summary. 
     - Placeholders for this information are provided in site templates.
 
 ??? essential "1.2 Essential: Provide details of specialist software or equipment required."
@@ -72,7 +72,8 @@ Click each principle to show details, examples and guidance on implementing the 
 ??? essential "1.4 Essential: Site title contains the SITS code and official module name."
 
     - The SITS code (eg. ABC00001C) and official module name are listed on the [Module Catalogue](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module).
-    - This helps users find correct sites easily.
+    - For professional programmes and other non-module sites, the site name must accurately describe the programme, course element or site purpose.
+    - This helps users find correct sites easily and aligns with information in the Timetable and other systems. 
     - The site title is provided automatically; users should not change this.
 
 ??? recommended "1.5 Recommended: Provide links to relevant departmental or support information."
@@ -95,6 +96,7 @@ Click each principle to show details, examples and guidance on implementing the 
     
     - This provides a consistent experience across modules, helping students navigate the site and locate items easily.
     - This structure is provided in site templates.
+    - For professional programmes this may be adapted to include other relevant sections, maintaining a clear and easy to navigate site structure.
 
 ??? essential "2.2 Essential: Materials within sections are clearly organised so content is easy to find."
     
@@ -109,11 +111,11 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "2.3 Essential: Design and images adhere to the UoY brand."
 
-    - Where branding is used (logo, colour, typography etc.) it must align with the [UoY branding](https://www.york.ac.uk/staff/external-relations/brand/) and identity guidelines.
+    - Where branding is used (logo, colour, typography etc.) it must align with the [UoY branding](https://www.york.ac.uk/staff/external-relations/brand/) and identity guidelines and/or external organisations’ branding where needed.
     - Images are used according to tool specifications, eg. fit any dimension requirements.
     - Images are high quality, preferably from the [UoY Image Library](https://www.york.ac.uk/staff/external-relations/image-library/). 
     - Text in course images does not scale well and so should be avoided in most cases. If non-decorative text is used images, provide this in ALT text (see 3.4).
-    - Course images and banners are provided in site templates, but can be updated by staff.
+    - Course images and banners are provided in site templates.
 
 ## 3. Module materials & site content
 
@@ -123,7 +125,7 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "3.1 Essential: Organise module materials in sections that support student progress through the module."
 
-    - For most modules, materials should be structured in weekly sections. Other structures (eg. topic-based) should only be used where a weekly structure is not appropriate.
+    - For most modules, materials should be structured in weekly sections. Other structures (eg. topic-based or programme phase-based) should only be used where a weekly structure is not appropriate.
     - Include all relevant weekly materials, eg. lecture slides, seminar or practical tasks, pre-recorded videos and links to essential Reading List items (see 3.2).
     - Organise repeated sections consistently, eg. lecture materials followed by workshop information.
     - This helps students locate materials and ensure they complete necessary tasks.
@@ -135,14 +137,16 @@ Click each principle to show details, examples and guidance on implementing the 
     - Using the [Reading List](https://subjectguides.york.ac.uk/readinglists/home) lets the Library ensure appropriate stock levels and manage [copyright compliance](https://subjectguides.york.ac.uk/copyright/coursereading). Students can also directly access items without signing in or navigating external websites, giving a more seamless and accessible experience.
     - Structure the Reading List using weekly sections (or other sections matching module site structure) to aid navigation.
     - Label each item as Essential, Recommended or Background to help students plan workload.
-    - To collate module materials in one location (see 3.1), direct links to Reading List sections or items can be included in weekly materials sections.
-    - Don’t provide readings by uploading PDFs, scans of printed material or other documents because this may violate copyright and is likely to be inaccessible. The Library may be able to [digitise print content](https://subjectguides.york.ac.uk/readinglists/digitisation) for you.
+    - To collate module materials in one location (see 3.1), direct links to Reading List sections or items can be included in weekly materials sections. (Specific instructions available soon)
+    - Provide journal papers through the Reading List. Access will be given through a Shibboleth-enabled link that doesn’t need an extra sign in or the Library will provide an appropriate file-based version. Don't upload a PDF of a journal yourself.
+    - Don’t provide readings by uploading PDFs, scans of printed material or other documents because this may violate copyright and is likely to be inaccessible. The Library may be able to [digitise print content](https://subjectguides.york.ac.uk/readinglists/digitisation) for you or find an appropriate version.
+    - For advice on setting up the Reading List(s) for your module or professional programme site or using third-party materials appropriately, contact the Reading List team or your Academic Liaison Librarian.
 
 ??? essential "3.3 Essential: Provide up-to-date documents in an accepted file format."
 
     - Include only the correct document version and remove old versions from the site. If documents are updated during the module, communicate this clearly to students.
-    - Microsoft Office or Google files are preferable as they allow students to adapt the document presentation to their own needs (eg, changing text colour or appearance). Both formats can be previewed within the VLE site without downloading the file.
-    - Avoid PDFs as they often have poor accessibility. Print materials should not be scanned and uploaded (see 3.2).
+    - Don’t convert Microsoft Office or Google files to PDF; provide the original file format. Students can adapt the document to their needs (eg, change text colour or size) and convert to other formats (direct download or convert with the Ally tool in Blackboard).
+    - Any PDF materials used must be good quality and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative text-based version must also be provided. Do not scan and upload published materials (see 3.2).
     - Don’t use Mac-only file types such as Pages or Keynote.
 
 
@@ -156,13 +160,13 @@ Click each principle to show details, examples and guidance on implementing the 
 ??? essential "3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately."
 
     - For example, Panopto for your own at-desk recordings and YouTube for external videos.
-    - Do not upload video files directly to the site, or to documents provided (eg. PowerPoint slides). This may not support appropriate captions, can give a poor user experience and may violate copyright.
-    - Pre-recorded video (UoY-created at-desk captures, reused lecture capture recordings from previous years and external content) must have accurate captions synched to the audio and/or an equivalent text alternative such as a transcript. Users must be able to choose whether or not to display captions. [Guide: Panopto recordings and captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit?usp=sharing).
+    - Do not upload video files directly to the site, or to documents provided (eg. lecture slides). This may not support appropriate captions, can give a poor user experience and may violate copyright.
+    - Pre-recorded video (UoY-created and external content) must have accurate captions synched to the audio and/or an equivalent text alternative such as a transcript. Users must be able to choose whether or not to display captions. [Guide: Panopto recordings and captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit?usp=sharing).
     - Lecture capture recordings are automatically captioned in Panopto. For the current year's recordings, it is not required to review these for accuracy but lecture staff are encouraged to do so where practical. Staff must respond to requests for caption corrections if errors represent significant challenges for students in accessing the content. More information on [captioning lecture capture recordings](https://docs.google.com/document/d/1N0xn4W14D2DAjMDXRYlo_I3zobThft7Atc3JHdcXQpQ/edit?usp=sharing).
 
 ??? essential "3.6 Essential: Links and materials titles describe the destination or content."
 
-    - Link text describes where the link goes or the content, eg. [how to write better link text](https://bighack.org/how-to-write-better-link-text-for-accessibility/). Don’t use non-descriptive text like ‘click here’ or ‘find out more’. Don’t paste the full URL (eg. *https://www.link.com*). 
+    - Link text describes where the link goes or the content, eg. [how to write better link text](https://bighack.org/how-to-write-better-link-text-for-accessibility/). Don’t use non-descriptive text like ‘*click here*’ or ‘*find out more*’. Don’t paste the full URL (eg. *https://www.link.com*). 
     - Document titles describe the content without having to open the file. This could include the week, type of materials, key word(s) relating to the topic, and a short module identifier. For example, material titles for the module ‘Mythical Creatures in Literature’ could use the format *Week 3_Slides_Dragons_MCL*.
     - Use any naming conventions consistently across the site and module materials.
     - This is very important for screenreader users, and makes links and documents more usable for everyone.
@@ -182,19 +186,21 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "4.1 Essential: The assessment section contains all information about module assessments."
 
-    - This may include an overview of formative and summative assessments, information on specific assessments, submission points and materials required to complete assessments.
+    - Ensure that it is clear to students what they need to do and when. This may include an overview of formative and summative assessments, information on specific assessments, submission points and materials required to complete assessments.
+    - For professional programmes, give an overview of all assessment on the programme including any assessed components or compliance requirements that sit outside the academic award. 
     - If assignment submission points are not included in the module site, their location is made clear or linked to from this section (note that this link will need to be manually updated in each future site). 
     - An assessment section with placeholder information is included in site templates.
 
 ??? essential "4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements."
 
-    - This information can be provided directly in the site and/or in an attached assessment brief document.
+    - This information can be provided directly in the site and/or in an attached assessment instructions document.
     - Instruction text for assessments is readable and accessible: uses plain language, only includes necessary information, avoids long blocks of text, uses bullet points and/or headings where possible (see 3.4).
     - Consider including an FAQ document or discussion where students can ask questions about the assessment instructions.
 
 ??? essential "4.3 Essential: Provide marking criteria or other grading policies showing how work is marked."
 
-    - This could be a rubric linked to an assignment within the site or a linked document. A link to central [advice on using assessment criteria and feedback](https://subjectguides.york.ac.uk/academic-writing/assessment) may also be provided.
+    - This could be a rubric linked to an assignment within the site or a linked document. Where a site involves different methods of assessing work, include details of all of these (eg. PSRB requirements for professional courses).
+    - A link to central [advice on using assessment criteria and feedback](https://subjectguides.york.ac.uk/academic-writing/assessment) may also be provided.
     - A placeholder for this information is provided in site templates, and relevant marking criteria may be included in departmental templates.
 
 ??? essential "4.4 Essential: Signpost students to where they can get help with the assessment task or submission."
@@ -206,6 +212,7 @@ Click each principle to show details, examples and guidance on implementing the 
 
     - This helps students understand task requirements and expectations, especially if annotations or feedback is also available.
     - If past exam papers are available, provide these through the Library’s collection of [digitised past exam papers](https://yorsearch.york.ac.uk/primo-explore/collectionDiscovery?vid=44YORK-NUI&collectionId=81340096600001381).
+    - Exemplars or models of work could be provided as whole documents or excerpts on the site or in supervised sessions. However, be aware of any departmental steers relating to avoiding plagiarism.
     - Placeholders for this content are provided in site templates.
 
 
