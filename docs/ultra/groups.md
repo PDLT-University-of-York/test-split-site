@@ -186,16 +186,49 @@ Start by opening the Group Set: under **Details & Actions**, click **Course Grou
 
 ## Import groups or members
 
-Upload group and/or member information from CSV files. These are done in separate stages; import groups, then import student assignments to these groups.
+You can upload group and/or member information from CSV files (in separate stages). It's possible to import to multiple group sets using the same CSV file.
 
 !!! Tip 
     It can be very fiddly to prepare the CSV files in the right format, so unless you have a lot of groups and/or enrolments it's likely easier to set up and assign members to groups using one of the methods above.
 
-1. For this method, you must first create and save a group set and then reopen it, or the icon won't appear.
-2. Click the **box/arrow icon** near the top right. If you hover over this icon, the text 'Import groups or Members' will appear.</br>
+### Import groups
+
+Recommended only for importing a large amount of groups. In most cases it will be quicker and easier to create groups manually.
+
+1. Create and save a group set and then reopen it, or the import icon won't appear.
+2. Click the import **box/arrow icon** near the top right. If you hover over this icon, the text 'Import groups or Members' will appear.</br>
 ![Import icon (box with vertical arrow coming out the top) shown under visibility menu in top right](images/groups-import-groups.png)
-3. To import empty groups, use the **Create groups** tab. Upload a CSV file with group details in the format shown on the groups template and click Import.</br>
+3. On the **Create groups** tab, click **Download groups template**.
+4. Open the downloaded file and fill in the group information:
+
+    - **Group Code** (mandatory): an alphanumeric code for each group, eg. g1. These are only used to import group assignments, so can be anything.
+    - **Title** (mandatory): the group title that will be visible in the course, eg. Presentation group 1.
+    - **Description** (optional): a description for the group that will be visible in the course.
+    - **Group Set** (mandatory): the name of the group set, with words separated by _gc_, eg. Presentation groups becomes Presentation_gc_groups.
+    - **Self Enroll** (mandatory): Y or N, depending on whether the groups should be self-enroll.</br>
+    ![Example csv file to import groups with group 1 info: g1, Presentation group 1, Topic: Starfleet history, Presentation_gc_groups, N ](images/groups-import-groups-csv.png)
+
+5. Save the file in **csv format** (NOT .xls or .xlsx).
+6. On the **Create groups** tab, upload the CSV file and click **Import**.</br>
 ![Create groups tab with drag and drop space to upload CSV file](images/groups-import-create-groups.png)
-4. To import student assignments to existing groups, use the **Assign members** tab. Upload a CSV file with student and group details in the format shown on the members template and click Import.</br>
+7. Click **Save**.
+
+### Import assignments/group members
+1. Create and save a group set and then reopen it, or the import icon won't appear.
+2. Click the import **box/arrow icon** near the top right. If you hover over this icon, the text 'Import groups or Members' will appear.</br>
+![Import icon (box with vertical arrow coming out the top) shown under visibility menu in top right](images/groups-import-groups.png)
+3. On the **Assign members** tab, click **Download members template**.
+4. Open the downloaded file and fill in the group information:
+
+    - **Group Code** (mandatory): the alphanumeric code for the relevant group, eg. g1. This is the code created in the import groups step.
+    - **Username** (mandatory): the student's username, eg abc123.
+    - **StudentID** (optional): leave blank.
+    - **First Name** (optional): leave blank.
+    - **Last Name** (optional): leave blank.
+    - **Group Set** (optional): if assigning members to 1 group set, leave blank. If assigning members to 2+ group sets, the name of the group set, with words separated by _gc_, eg. Presentation groups becomes Presentation_gc_groups.</br>
+    ![Example csv file to import members with student 1 info: g1, abc123, other cells blank](images/groups-import-members-csv.png)
+
+5. Save the file in **csv format** (NOT .xls or .xlsx).
+6. On the **Assign members** tab, upload the CSV file and click **Import**.</br>
 ![Assign members tab with drag and drop space to upload CSV file](images/groups-import-assign-members.png)
-5. Click **Save**.
+7. Click **Save**.
