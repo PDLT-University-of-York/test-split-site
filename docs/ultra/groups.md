@@ -159,8 +159,10 @@ Start by opening the Group Set: under **Details & Actions**, click **Course Grou
 
 ### Add a group
 
-1. Click the plus icon in the list of existing groups.
-2. Click the default 'New group X' name and input your desired name, e.g. "Presentation group 1".
+1. Click the plus icon in the list of existing groups.</br>
+![Purple plus icon to add groups](images/groups-plus-icon-create-groups.png)
+2. Click the default 'New group X' name and input your desired name, e.g. "Presentation group 1".</br>
+![Default group name shown - click to edit](images/groups-edit-group-name.png)
 3. Add a description for each group if you wish.
  
 ### Delete a group
@@ -179,8 +181,8 @@ Start by opening the Group Set: under **Details & Actions**, click **Course Grou
 ### Unassign students in bulk
 
 - Unassign all students from all groups in a group set: Click **Unassign All** near the top right of the group set page.</br>
-![Unassign All text shown below visibility menu in top right](images/groups-unassign-all.png)
-- Unassign all students from a sigle group: click the three dots across from the group name and select **Usassign members**.</br>
+![Unassign All text below visibility menu in top right](images/groups-unassign-all.png)
+- Unassign all students from a single group: click the three dots across from the group name and select **Unassign members**.</br>
 ![Using unassign members option to remove all students from a single group](images/groups-unassign-members.png)
 - Unassigned students are returned to the **Unassigned students** section.
 
@@ -206,7 +208,7 @@ Recommended only for importing a large amount of groups. In most cases it will b
     - **Description** (optional): a description for the group that will be visible in the course.
     - **Group Set** (mandatory): the name of the group set, with words separated by _gc_, eg. Presentation groups becomes Presentation_gc_groups.
     - **Self Enroll** (mandatory): Y or N, depending on whether the groups should be self-enroll.</br>
-    ![Example csv file to import groups with group 1 info: g1, Presentation group 1, Topic: Starfleet history, Presentation_gc_groups, N ](images/groups-import-groups-csv.png)
+    ![Example csv file to import groups with group 1 info: g1, Presentation group 1, Topic: Starfleet history, Presentation_gc_groups, N](images/groups-import-groups-csv.png)
 
 5. Save the file in **csv format** (NOT .xls or .xlsx).
 6. On the **Create groups** tab, upload the CSV file and click **Import**.</br>
