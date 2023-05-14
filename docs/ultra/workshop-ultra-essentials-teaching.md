@@ -24,9 +24,39 @@ The training contains tasks where you can explore an Ultra site both as a studen
 
 To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'll receive a sandpit site if you sign up to a synchronous workshop session (through your department or a centrally bookable session). However, you can work through the training content without a sandpit site to learn the basics of using Ultra.
 
-## Materials
+## Workshop slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh1FJTiiqako5JQGCa3zKZTVBEluQ5P-bJOev_GGclQN7pCcKCHUiZhW7uYitCVHrvp3SAqmOdxpyh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 [Slides: Ultra Essentials - prepare your Ultra module site](https://docs.google.com/presentation/d/1jp1btdihtcgBDqnK44SONhxwtKqiIFDt4TmkR28KsiI/edit?usp=sharing) 
+
+## Workshop videos
+
+### Part 1: VLE Site Design Principles
+
+What does a good site look like?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdNYhUzYgIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video - Part 1: VLE Site Design Principles](https://youtu.be/hdNYhUzYgIc)
+
+### Part 2: Introduction to Ultra
+
+The key features of Ultra and the differences to Original sites.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4hgkAMabGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video - Part  2: Introduction to Ultra](https://youtu.be/c4hgkAMabGM)
+
+### Part 3: Ultra module site template
+
+An introduction to the Ultra module site template, including features, structure and placeholder information.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4eb-5A7xZTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video - Part 3: Ultra module site template](https://youtu.be/4eb-5A7xZTY)
+
+### Part 4: Preparing your module site
+
+Editing the template, building content and reusing content from Original sites.
+
+**Recording coming soon**
+
 
 ## Other useful guides
 
