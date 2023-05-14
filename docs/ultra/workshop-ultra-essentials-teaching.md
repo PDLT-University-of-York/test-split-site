@@ -20,6 +20,8 @@ This workshop covers four key aspects of developing a module site in Learn Ultra
 3. **The new Ultra template**: structure, placeholders
 4. **Preparing your module site**: editing the template, building content, reusing content from Original sites
 
+We run this workshop regularly, both on-campus and online. If you'd like to attend a session, see our [Workshop calendar](https://vle-support.york.ac.uk/ultra/workshop-calendar) for sessions details and how to book.
+
 The training contains tasks where you can explore an Ultra site both as a student and as an editor. 
 
 To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'll receive a sandpit site if you sign up to a synchronous workshop session (through your department or a centrally bookable session). However, you can work through the training content without a sandpit site to learn the basics of using Ultra.

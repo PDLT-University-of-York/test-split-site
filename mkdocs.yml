@@ -79,6 +79,7 @@ nav:
     - VLE Ultra training:
       # - Workshop calendar: ultra/workshop-calendar
       - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
+      - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
     - Site structure:
       - Navigating an Ultra site: ultra/navigate-ultra-site.md
       # - Effective Ultra site structure: ultra/placeholder.md
