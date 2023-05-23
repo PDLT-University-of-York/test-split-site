@@ -45,7 +45,10 @@ On supported lectern PCs the system tray is located in the bottom right of the s
 
 If the Panopto icon is not present, click Customize… and next to the Panopto option choose Show icon and notifications.
 
-Click the Panopto System Tray icon to access the following features in a popup menu:
+Click the Panopto System Tray icon to access the following features in a popup menu as shown below: 
+
+<br> ![Annotated screenshot of a teaching room PC showing system tray](images/Adhoc Recording_System Tray.png)
+
 
 | Option  | What it does                        |
 | ------- | ------------------------------------ |
