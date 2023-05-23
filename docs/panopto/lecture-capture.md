@@ -49,7 +49,7 @@ If the Panopto icon is not present, click Customize… and next to the Panopto o
 
 Click the Panopto System Tray icon to access the following features in a popup menu as shown below: 
 
-![Annotated screenshot of a teaching room PC showing system tray](docs/panopto/Images/Adhoc Recording_ System Tray.png)
+![Annotated screenshot of a teaching room PC showing system tray](images/Adhoc Recording_ System Tray.png)
 
 
 | Option  | What it does                        |
