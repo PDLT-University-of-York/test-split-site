@@ -34,9 +34,11 @@ The Replay indicator light is available in most lecture capture rooms. The light
 | **Yellow**  | Paused |
 | **Red**  | Fault or disconnection |
 
-Gently press the light to pause and un-pause the recording: it will turn yellow while paused. Hold the light down for 3+ seconds until it turns red to cancel a recording.
+Gently press the light **once** to pause and un-pause the recording: it will turn yellow while paused. Hold the light down for 3+ seconds until it turns red to cancel a recording.
 
-Note that when paused a recording will continue but the paused segment will be automatically edited before the video is released to students. You can retrieve the edited-out segment if required.
+!!! tip  "Pausing a recording"
+    
+    Note that when paused a recording will continue but the paused segment will be automatically edited before the video is released to students. You can retrieve the edited-out segment if required.
 
 
 ### Panopto system tray
