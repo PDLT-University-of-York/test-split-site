@@ -21,7 +21,7 @@ The lectern PC must be switched on for a lecture-capture session to successfully
 
 ## In-room controls
 
-Detailed guidance for use of the equipment available in individual teaching rooms is available via the Audio Visual Centre's [Teaching Room Information](https://www.york.ac.uk/campusservices/avcentre/room/) pages.
+Detailed guidance for use of the equipment available in individual teaching rooms is available via the Audio Visual Centre's [Teaching Room Information](https://www.york.ac.uk/campusservices/avcentre/room/) pages. One-to-one training sessions on how to use the AV equipment can also be arranged by [contacting the AV team](av@york.ac.uk).
 
 ### Replay indicator light
 
