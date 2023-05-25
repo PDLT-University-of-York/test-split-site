@@ -46,7 +46,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 
 1. To trim a video, make sure the **cut tool** (Indicated by a scissor icon) is selected.
 
-<! ADD IMAGE TO CUT TOOL>
+![Annotated screenshot of cut tool in Panopto](Images/cut-tool-editor.png)
 
 2. Move your cursor within the timeline (b) of where you would like to insert a cut. A red vertical bar will appear. 
 3. **Click and hold down** your mouse button and **drag** the gray line and release to where you would like the cut to finish.
@@ -54,7 +54,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 5. Perform the same steps as required to add additional cuts. The cut tool can also be used to trim the *beginning* or *end* of your video.
 6. Make sure you **save** any edits you make by clicking the **'Apply'** button in the top right-hand corner or the viewer.
 
-<! ADD IMAGE OF APPLY BUTTON>
+![Annotated screenshot showing apply button in Panopto](Images/removing-cuts.png)
 
 ## Removing Cuts
 
