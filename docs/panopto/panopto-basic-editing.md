@@ -35,7 +35,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 
 ## The Panopto Web Editor Interface
 
-<! INSERT IMAGE OF WEB INTERFACE HERE>
+![Annotated screenshot of Panopto web Editor](Images/panopto-basic-edits-view.png)
 
 (a) The video viewer
 (b) Video timeline
@@ -46,7 +46,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 
 1. To trim a video, make sure the **cut tool** (Indicated by a scissor icon) is selected.
 
-<! ADD IMAGE TO CUT TOOL>
+![Annotated screenshot of cut tool enabled](Images/cut-tool-editor.png)
 
 2. Move your cursor within the timeline (b) of where you would like to insert a cut. A red vertical bar will appear. 
 3. **Click and hold down** your mouse button and **drag** the gray line and release to where you would like the cut to finish.
@@ -54,7 +54,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 5. Perform the same steps as required to add additional cuts. The cut tool can also be used to trim the *beginning* or *end* of your video.
 6. Make sure you **save** any edits you make by clicking the **'Apply'** button in the top right-hand corner or the viewer.
 
-<! ADD IMAGE OF APPLY BUTTON>
+![Annotated screenshot of apply button above Panopto video play window](Images/apply-button.png)
 
 ## Removing Cuts
 
@@ -63,7 +63,7 @@ To remove any unwanted cuts, this can be done in one of two ways:
 1. Either by clicking and dragging the cut from within the timeline using your mose, until it disappears *or*
 2. By selecting **Cuts** from the left hand menu and following the below steps:  
 
-<! INSERT IMAGE OF LEFT HAND MENU>
+![Annotated screenshot of the left-hand navigation menu in Panopto editor](Images/removing-cuts.png)
 
 3. Hover your cursor over the cut you want to delete and click on the elipsis menu. 
 4. Click **Delete**, as indicated by a trashcan icon.
@@ -76,4 +76,4 @@ To remove any unwanted cuts, this can be done in one of two ways:
 
 ## More Details and Troubleshooting 
 
-To explore Panopto's more advanced editing featues, refer to our Advanced Editing in Panopto guide. 
+To explore Panopto's more advanced editing featues, refer to our Advanced Editing in Panopto guide <! insert link to completed guide>
