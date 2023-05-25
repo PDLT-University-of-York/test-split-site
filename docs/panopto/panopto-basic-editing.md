@@ -10,7 +10,7 @@ tags:
 
 !!! Summary
 
-    The Panopto web editor is allows anyone with 'creator' access in Panopto to perform basic video editing tasks directly from their web browser, eliminating the need for separate video editing software. Whether you need to trim video segments, add captions, or enhance the overall viewing experience, this guide will walk you through the basic editing process in Panopto.
+    The Panopto web editor allows anyone with 'creator' access in Panopto to perform basic video editing tasks directly from their web browser, eliminating the need to download a separate video editing software. This guide will show you how to make basic edits to your recordings using the Panopto Web Editor. 
 
 
 ### Video Guide: How to Make Basic Edits in Panopto 
