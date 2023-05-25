@@ -35,7 +35,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 
 ## The Panopto Web Editor Interface
 
-<! INSERT IMAGE OF WEB INTERFACE HERE>
+![Annotated screenshot of the basic view of the Panopto Web Editor](Images/panopto-basic-edits-view.png)
 
 (a) The video viewer
 (b) Video timeline
@@ -63,7 +63,7 @@ To remove any unwanted cuts, this can be done in one of two ways:
 1. Either by clicking and dragging the cut from within the timeline using your mose, until it disappears *or*
 2. By selecting **Cuts** from the left hand menu and following the below steps:  
 
-<! INSERT IMAGE OF LEFT HAND MENU>
+![Annotated screenshot showing left-hand cuts menu](Images/removing-cuts.png)
 
 3. Hover your cursor over the cut you want to delete and click on the elipsis menu. 
 4. Click **Delete**, as indicated by a trashcan icon.
