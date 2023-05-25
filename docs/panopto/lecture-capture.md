@@ -38,7 +38,7 @@ Gently press the light **once** to pause and un-pause the recording: it will tur
 
 !!! tip  "Pausing a recording"
     
-    Note that when paused a recording will continue but the paused segment will be automatically edited before the video is released to students. You can retrieve the edited-out segment if required.
+    Note that when paused, a recording will continue but the paused segment will be automatically edited before the video is released to students. You can retrieve the edited-out segment if required.
 
 
 ### Panopto system tray
