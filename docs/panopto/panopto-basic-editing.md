@@ -27,7 +27,7 @@ tags:
 
 You can access the Panopto Web Editor directly via [Panopto's web interface](https://york.cloud.panopto.eu/Panopto/Pages/Home.aspx) or from the "Replay Lecture Capture (Panopto)" folder in your VLE site.
 
-![Annotated screenshot of launching the web editor in Panopto](Images/launching-web-editor-panopto.png)
+![Annotated screenshot of launching the web editor in Panopto](Images/Launching-web-editor-panopto.png)
 
 1. Locate the video you want to edit either by using the **search bar** at the top Panopto's homepage or by searching for the module folder via the **'Browse' menu** in the left-hand navigation menu. 
 2. **Hover** your cursor over the video thumbnail. 
