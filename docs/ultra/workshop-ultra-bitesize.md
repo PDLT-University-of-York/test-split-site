@@ -20,10 +20,9 @@ tags:
 
 This workshop series introduces:
 
-- Discussions
+- Discussions & Announcements
 - Groups
-- Tests
-- Ultra Assignments (note: not Turnitin)
+- Tests & Assignments (note: not Turnitin)
 
 We run these workshops regularly. If you'd like to attend a session, see our [Workshop calendar](https://vle-support.york.ac.uk/ultra/workshop-calendar) for sessions details and how to book.
 

@@ -77,10 +77,11 @@ nav:
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       # - Building an Ultra site from a template: ultra/placeholder.md
     - VLE Ultra training:
-      # - Workshop calendar: ultra/workshop-calendar.md
+      - Workshop calendar: ultra/workshop-calendar.md
       - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
       # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
       - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
+      - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
     - Site structure:
       - Navigating an Ultra site: ultra/navigate-ultra-site.md
       # - Effective Ultra site structure: ultra/placeholder.md
