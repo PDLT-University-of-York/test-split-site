@@ -13,6 +13,7 @@ tags:
 # Overview
 
 Our Ultra training series comprises of four key areas.
+
 - [**Ultra Essentials (teaching)**](https://vle-support.york.ac.uk/ultra/workshop-ultra-essentials-teaching): key Ultra features, using the template, preparing site content
 - **Ultra Essentials (administrators)**: user management, Groups, assessment set up ***(coming soon)***
 - [**Ultra bitesize**](https://vle-support.york.ac.uk/ultra/workshop-ultra-bitesize): shorter workshops on focussing specific tools
