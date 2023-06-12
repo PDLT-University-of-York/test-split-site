@@ -22,4 +22,5 @@ Our Ultra training series comprises of four key areas.
 The calendar below details our entire training series. To sign up to a given event, please follow the hyperlink in the event description. Existing department-specific workshops cannot be signed-up to via this calendar; see your departmental comms for details of these.
 
 [VLE Ultra training calendar](https://calendar.google.com/calendar/embed?src=c_ac0ccc39ae6ffa04759a7b7ca8494154efc479b2ca56dcce7f20761121a9f4a7%40group.calendar.google.com&ctz=Europe%2FLondon)
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ac0ccc39ae6ffa04759a7b7ca8494154efc479b2ca56dcce7f20761121a9f4a7%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&mode=AGENDA&hl=en_GB&src=Y19hYzBjY2MzOWFlNmZmYTA0NzU5YTdiN2NhODQ5NDE1NGVmYzQ3OWIyY2E1NmRjY2U3ZjIwNzYxMTIxYTlmNGE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23616161" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
