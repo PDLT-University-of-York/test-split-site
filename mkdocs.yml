@@ -130,6 +130,7 @@ nav:
     # - Using the Panopto self-recorder: panopto/self-recorder.md
     # - Managing Panopto videos in the VLE: panopto/panopto-in-the-vle.md
     # - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
+    # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
   - Reading List:
     - readinglist/index.md
   - Canvas:
