@@ -23,7 +23,7 @@ theme:
       Teaching: octicons/mortar-board-16
       Administration: fontawesome/regular/clipboard
       Workshop: fontawesome/solid/school
-      Update: fontawesome/gears
+      Update: fontawesome/solid/gears
   # favicon: img/favicon.jpg
   # palette:
   #   - media: "(prefers-color-scheme: light)" 
