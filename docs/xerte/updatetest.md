@@ -13,6 +13,7 @@ tags:
     - Padlet
     - Mentimeter
     - Workshop
+    - Update
 ---
 
 # Guide title (short and to the point)
