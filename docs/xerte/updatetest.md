@@ -1,35 +1,16 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
     - Update
 ---
 
-# Guide title (short and to the point)
+# Blackboard VLE Updates / Releases
+[Supplier release dates page](https://help.blackboard.com/Learn/Administrator/SaaS/Release_Notes/Learn_SaaS_Release_Schedule).
 
-!!! Woodchucks
+!!! A Note About Release Notes
+    Supplier-provided release notes tend to contain more detail and information than will be of interest to the average end user. Due to this, we have selected and shared only the key elements of each update on this page. For more information, see the linked supplier release notes in each section. 
 
-    Can chuck how much wood?
-
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
-
-    - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
+## August 2023 Release - 3900.71
+[Link to supplier release notes for 3900.71](https://help.blackboard.com/Learn/Administrator/SaaS/Release_Notes?field_release_notes_categories_target_id=All#3900.71.0).
 
 
-## Quick Guidance
-<!-- Summary/key considerations -->
-
-## More Details
-
-<!-- More info here as needed. Delete if not needed. Don't add support email address here. -->
