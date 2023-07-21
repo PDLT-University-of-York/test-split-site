@@ -23,8 +23,8 @@ theme:
       Teaching: octicons/mortar-board-16
       Administration: fontawesome/regular/clipboard
       Workshop: fontawesome/solid/school
-      Updates - Admin: fontawesome/regular/clipboard
-      Updates - Teaching: octicons/mortar-board-16
+      UpdatesAdmin: fontawesome/regular/clipboard
+      UpdatesTeach: octicons/mortar-board-16
   # favicon: img/favicon.jpg
   # palette:
   #   - media: "(prefers-color-scheme: light)" 
@@ -169,8 +169,8 @@ extra:
     Teaching: Teaching
     Administration: Administration
     Workshop: Workshop
-    UpdateAdmin: Updates - Admin
-    UpdateTeach: Updates - Teaching
+    UpdatesAdmin: UpdatesAdmin
+    UpdatesTeach: UpdatesTeach
   analytics:
     provider: google
     property: G-Q6B3RZT1K0
@@ -198,5 +198,5 @@ plugins:
         - Padlet
         - Mentimeter
         - Workshop
-        - Updates - Admin
-        - Updates - Teaching
+        - UpdatesAdmin
+        - UpdatesTeach
