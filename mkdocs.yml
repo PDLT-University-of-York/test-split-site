@@ -98,6 +98,7 @@ nav:
       - Text: ultra/text.md
       - Images: ultra/images.md
       - Files: ultra/files.md
+      - Maths: ultra/maths.md
       - YouTube videos: ultra/youtube.md
       - Embedded content: ultra/embedded-content.md
       #- Future proofing content: ultra/future-proof-content.md
