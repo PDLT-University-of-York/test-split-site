@@ -15,7 +15,8 @@ tags:
 
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
-   - 3.4 Essential: Site and materials content is accessible.
+    - 3.4 Essential: Site and materials content is accessible.
+
 
 ## Guidance & Examples
 
