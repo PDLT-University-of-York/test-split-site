@@ -3,6 +3,7 @@ tags:
 # Delete to leave only relevant tags
     - Updates - Admin
     - Updates - Teaching
+    - Ultra
 ---
 
 # System Updates
@@ -20,12 +21,10 @@ If you would like to receive an email each time we update this update informatio
 ## Learn VLE Updates
 [Our full sheet of Learn VLE updates can be accessed here](https://docs.google.com/spreadsheets/d/1Diz4EtXxllz07U2ZSo1izlX8dAH65AlDESGK2ieQhsY/edit?usp=sharing). We recommend viewing this sheet via a "Temporary Filter View", explained below.
 
-### How Best To Use Our Update Sheet
-Google Sheets allow you to filter your view of its contents without changing the views of other users. This is helpful if you want to filter our Learn VLE update sheet to, say, just look at updates relating to assessments, or just updates relating to marking staff.
+## Filtering Our Update Sheet
+Google Sheets allow you to filter your view of its contents without changing the views of other users. This is helpful if you want to filter our Learn VLE update sheet to, say, just look at updates relating to assessments, or just updates relating to marking staff. This functionality is called a "Temporary Filter View".
 
-This functionality is called a "Temporary Filter View".
-
-#### Using a Temporary Filter View
+### How To
 Prefer video? [See our Temporary Filter View video guide here](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72ce92c5-dba9-4fda-ab44-b05201421ef2).
 
 1. Open the Google Sheet
