@@ -13,11 +13,6 @@ Currently this page only shows update information for the Learn Ultra VLE (vle.y
 
 Supplier-provided release notes tend to contain more detail and information than will be of interest to the average end user. Due to this, we have selected and shared only the key elements of each update here. For more information, see the full linked supplier release notes.
 
-## Subscribing to Update Information
-If you would like to receive an email each time we update this update information, [please subscribe to the "eLearning System Updates" mailing list, by visiting this link and clicking on the "Ask to join group" button towards the top of the page](https://groups.google.com/a/york.ac.uk/g/elearning-system-updates-group/about).
-
-![decorative](images/Updates-Subscribe-AskToJoin.png)
-
 ## Learn VLE Updates
 [Our full sheet of Learn VLE updates can be accessed here](https://docs.google.com/spreadsheets/d/1Diz4EtXxllz07U2ZSo1izlX8dAH65AlDESGK2ieQhsY/edit?usp=sharing). We recommend viewing this sheet via a "Temporary Filter View", explained below.
 
@@ -34,3 +29,7 @@ Prefer video? [See our Temporary Filter View video guide here](https://york.clou
 
 A black frame will now appear around the data on screen, with a warning message advising that your changes can't be viewed by anyone else. You can dismiss the warning message. You can filter the data now as normal, using the arrows in the header of each column - [More guidance on filtering content in Google Sheets](https://support.google.com/docs/answer/3540681?hl=en-GB&co=GENIE.Platform%3DDesktop).
 
+## Subscribing to Update Information
+If you would like to receive an email each time we update this update information, [please subscribe to the "eLearning System Updates" mailing list, by visiting this link and clicking on the "Ask to join group" button towards the top of the page](https://groups.google.com/a/york.ac.uk/g/elearning-system-updates-group/about).
+
+![decorative](images/Updates-Subscribe-AskToJoin.png)
