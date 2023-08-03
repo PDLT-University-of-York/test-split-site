@@ -7,6 +7,7 @@ tags:
 ---
 
 # System Updates
+## Introduction
 The Learn VLE (vle.york.ac.uk) is updated once a month. Changes introduced in each update will be shared on this page.
 
 Currently this page only shows update information for the Learn Ultra VLE (vle.york.ac.uk), however we plan to add other platforms at a future date.
