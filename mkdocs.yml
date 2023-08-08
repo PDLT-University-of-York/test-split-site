@@ -88,6 +88,8 @@ nav:
       - Navigating an Ultra site: ultra/navigate-ultra-site.md
       # - Effective Ultra site structure: ultra/placeholder.md
       - Folders vs Learning Modules: ultra/folder-learning-module.md
+    - Site aesthetics:
+      - Site renames: ultra/site-rename.md
     - Creating content:
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       - Content types: ultra/content-types.md
