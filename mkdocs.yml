@@ -148,6 +148,8 @@ nav:
     - mentimeter/index.md
   - Updates:
     - updates/index.md
+  - Contact Us:
+    - contact-us/index.md
 
 extra:
   generator: false
