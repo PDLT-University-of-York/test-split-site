@@ -1,6 +1,6 @@
-site_name: Guides for online learning tools at UoY
+site_name: Guides for Online Learning Tools at University of York, UK
 site_author: University of York
-copyright: Copyright &copy; 2023 University of York | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
+copyright: Copyright &copy; 2023 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
 
 
 theme:
@@ -153,8 +153,11 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/UoY_Yorkshare
-      name: PDLT on Twitter
+      link: https://twitter.com/UoYVLE
+      name: DET on Twitter
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/uoyvle/
+      name: DET on Instagram
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCNRdi4ySV6gnXOojwv-xa5g
       name: PDLT on YouTube
