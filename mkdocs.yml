@@ -146,8 +146,6 @@ nav:
     - padlet/index.md
   - Mentimeter:
     - mentimeter/index.md
-  - /:
-    - mentimeter/index.md
   - Updates:
     - updates/index.md
 
