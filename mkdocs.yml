@@ -116,7 +116,7 @@ nav:
     # - Assessment and assignments:
     #   - Tests: ultra/tests.md
     - Site access & users: 
-    #   - Site availability: ultra/placeholder.md
+       - Site availability: ultra/site-availability.md
        - Enrolling a user: ultra/enrol-user.md
        - Unenrolling a user: ultra/unenrol-user.md
     #   - Course Roles in Ultra: 'ultra/course-roles.md'
