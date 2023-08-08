@@ -161,7 +161,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCNRdi4ySV6gnXOojwv-xa5g
       name: DET on YouTube
-    - icon: focticons/mail-16
+    - icon: fontawesome/solid/paper-plane
       link: mailto:vle-support@york.ac.uk
       name: Contact Support Desk
   tags:
