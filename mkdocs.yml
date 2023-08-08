@@ -146,6 +146,7 @@ nav:
     - padlet/index.md
   - Mentimeter:
     - mentimeter/index.md
+  - / 
   - Updates:
     - updates/index.md
 
@@ -161,7 +162,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCNRdi4ySV6gnXOojwv-xa5g
       name: DET on YouTube
-    - icon: fontawesome/solid/paper-plane
+    - icon: focticons/mail-16
       link: mailto:vle-support@york.ac.uk
       name: Contact Support Desk
   tags:
