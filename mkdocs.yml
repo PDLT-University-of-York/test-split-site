@@ -147,6 +147,7 @@ nav:
   - Mentimeter:
     - mentimeter/index.md
   - /:
+    - mentimeter/index.md
   - Updates:
     - updates/index.md
 
