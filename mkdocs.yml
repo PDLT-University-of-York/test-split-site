@@ -13,7 +13,7 @@ theme:
     tag:
       Ultra: material/laptop
       Panopto: fontawesome/solid/video
-      Reading List: fontawesome/solid/book
+      ReadingList: octicons/book-16
       Canvas: material/laptop
       Xerte: material/monitor-edit
       Padlet: fontawesome/brands/padlet
@@ -176,7 +176,7 @@ extra:
     Ultra: Ultra
     TurnItIn: TurnItIn
     Panopto: Panopto
-    Reading List: Reading List
+    ReadingList: Reading List
     Canvas: Canvas
     Xerte: Xerte
     Padlet: Padlet
