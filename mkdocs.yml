@@ -23,8 +23,10 @@ theme:
       Teaching: octicons/mortar-board-16
       Administration: fontawesome/regular/clipboard
       Workshop: fontawesome/solid/school
-      UpdatesAdmin: fontawesome/regular/clipboard
-      UpdatesTeach: octicons/mortar-board-16
+      Updates: fontawesome/regular/clipboard
+      Issues: fontawesome/regular/clipboard
+      Outages: fontawesome/regular/clipboard
+      TurnItIn: fontawesome/regular/clipboard
   # favicon: img/favicon.jpg
   # palette:
   #   - media: "(prefers-color-scheme: light)" 
@@ -146,8 +148,12 @@ nav:
     - padlet/index.md
   - Mentimeter:
     - mentimeter/index.md
-  - Updates:
+  - Updates & Issues:
     - updates/index.md
+    - System Updates: updates/updates.md
+    - System Issues: updates/issues.md
+    - System Outages/Degradations: updates/outages.md
+    - System Suggestions: updates/suggestions.md
   - Contact Us:
     - contact-us/index.md
 
@@ -168,6 +174,7 @@ extra:
       name: Contact Support Desk
   tags:
     Ultra: Ultra
+    TurnItIn: TurnItIn
     Panopto: Panopto
     Reading List: Reading List
     Canvas: Canvas
@@ -179,8 +186,9 @@ extra:
     Teaching: Teaching
     Administration: Administration
     Workshop: Workshop
-    UpdatesAdmin: UpdatesAdmin
-    UpdatesTeach: UpdatesTeach
+    Updates: Updates
+    Issues: Issues
+    Outages: Outages
   analytics:
     provider: google
     property: G-Q6B3RZT1K0
