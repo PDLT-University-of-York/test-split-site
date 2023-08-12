@@ -23,9 +23,9 @@ theme:
       Teaching: octicons/mortar-board-16
       Administration: fontawesome/regular/clipboard
       Workshop: fontawesome/solid/school
-      Updates: fontawesome/regular/clipboard
-      Issues: fontawesome/regular/clipboard
-      Outages: fontawesome/regular/clipboard
+      Updates: material/new-box
+      Issues: material/alert
+      Outages: material/fire-alert
       TurnItIn: fontawesome/regular/clipboard
   # favicon: img/favicon.jpg
   # palette:
