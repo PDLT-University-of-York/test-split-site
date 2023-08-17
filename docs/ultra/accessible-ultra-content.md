@@ -20,4 +20,4 @@ tags:
     - 2.1 Essential: Site structure includes sections for module information, assessment, Reading List, Replay Content and module materials.
     - 2.2 Essential: Materials within sections are clearly organised so content is easy to find.
 
-Content under construction.
+We have an Ultra VLE site that demonstrates accessibile content and how to implement it. [Visit our "Ultra Accessibility" site here](https://vle.york.ac.uk/ultra/courses/_106795_1/outline).

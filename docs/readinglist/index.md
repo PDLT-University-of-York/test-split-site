@@ -1,7 +1,7 @@
 # Reading List
 
 !!! Summary
-    Module readings (eg. book chapters, journal papers) must be provided using the Reading List tool. This is included in site templates.
+    Module readings (eg. book chapters, journal papers) must be provided using the Leganto Reading List tool. This is included in site templates.
 
 ## Reading list benefits
 
@@ -20,3 +20,7 @@ Locate the guide you need by:
 - selecting a guide from the left menu (or hamburger icon in the top left of a small screen).
 - using the search box above.
 - using the next/previous links at the bottom of the page.
+
+## Further help
+- For help with content - Contact [your department's Liaison Librarian](https://subjectguides.york.ac.uk/subjectguides)
+- For technical help - contact the Library's Reading List Teasm at lib-readinglists@york.ac.uk
