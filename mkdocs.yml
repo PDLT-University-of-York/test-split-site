@@ -67,7 +67,7 @@ markdown_extensions:
 
 nav:
   
-  - Home  |: https://vle-support.york.ac.uk/
+  - Home: https://vle-support.york.ac.uk/
   - Learn Ultra VLE:
     - ultra/index.md
     - Getting started with Ultra:
@@ -141,7 +141,7 @@ nav:
     # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
   - eAssessment:
     - eassessment/index.md
-  - Other Tools  |:
+  - Other Tools:
     - othertools/index.md
     - Canvas VLE:
       - canvas/index.md
