@@ -142,16 +142,16 @@ nav:
     - eassessment/index.md
   - Other Tools:
     - othertools/index.md
-      - Canvas VLE:
-        - canvas/index.md
-      - Mentimeter:
-        - mentimeter/index.md
-      - Padlet:
-        - padlet/index.md
-      - Reading Lists:
-        - readinglist/index.md
-      - Xerte:
-        - xerte/index.md
+    - Canvas VLE:
+      - canvas/index.md
+    - Mentimeter:
+      - mentimeter/index.md
+    - Padlet:
+      - padlet/index.md
+    - Reading Lists:
+       - readinglist/index.md
+    - Xerte:
+      - xerte/index.md
 
   - Updates & Issues:
     - updates/index.md
