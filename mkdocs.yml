@@ -138,14 +138,17 @@ nav:
     # - Managing Panopto videos in the VLE: panopto/panopto-in-the-vle.md
     # - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
     # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
-  - Canvas VLE:
-    - canvas/index.md
+  - eAssessment:
+    - eassessment/index.md
   - Other Tools:
+    - othertools/index.md
+      - Canvas VLE:
+        - canvas/index.md
       - Mentimeter:
-        -  mentimeter/index.md
+        - mentimeter/index.md
       - Padlet:
         - padlet/index.md
-      - Reading List:
+      - Reading Lists:
         - readinglist/index.md
       - Xerte:
         - xerte/index.md
