@@ -67,7 +67,7 @@ markdown_extensions:
 
 nav:
   - Index: tag-index.md
-  - Learn Ultra:
+  - Learn Ultra VLE:
     - ultra/index.md
     - Getting started with Ultra:
       - Personalising your notifications: ultra/notifications.md
@@ -105,8 +105,8 @@ nav:
       - Maths: ultra/maths.md
       - YouTube videos: ultra/youtube.md
       - Embedded content: ultra/embedded-content.md
+      - Reading lists: readinglist/index.md
       #- Future proofing content: ultra/future-proof-content.md
-      #- Reading List items: ultra/placeholder.md
     - Managing content:
       - Content visibility: ultra/content-visibility.md
       - Release conditions (Conditional Availability): ultra/release-conditions.md
@@ -131,23 +131,25 @@ nav:
       # - CAP readiness checklist: ultra/placeholder.md
       # - Rollover: ultra/placeholder.md
       # - Purge & archive policy: ultra/placeholder.md
-  - Panopto:
+  - Panopto Videos:
     - panopto/index.md
     - Using Replay in teaching rooms: panopto/lecture-capture.md
     # - Using the Panopto self-recorder: panopto/self-recorder.md
     # - Managing Panopto videos in the VLE: panopto/panopto-in-the-vle.md
     # - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
     # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
-  - Reading List:
-    - readinglist/index.md
-  - Canvas:
+  - Canvas VLE:
     - canvas/index.md
-  - Xerte:
-    - xerte/index.md
-  - Padlet:
-    - padlet/index.md
-  - Mentimeter:
-    - mentimeter/index.md
+  - Other Tools:
+      - Mentimeter:
+        -  mentimeter/index.md
+      - Padlet:
+        - padlet/index.md
+      - Reading List:
+        - readinglist/index.md
+      - Xerte:
+        - xerte/index.md
+
   - Updates & Issues:
     - updates/index.md
     - System Updates: updates/updates.md
