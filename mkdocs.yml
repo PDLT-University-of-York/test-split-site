@@ -66,7 +66,8 @@ markdown_extensions:
       title: On this page
 
 nav:
-  - Index: tag-index.md
+  
+  - Home: home.html
   - Learn Ultra VLE:
     - ultra/index.md
     - Getting started with Ultra:
@@ -161,6 +162,7 @@ nav:
     - System Suggestions: updates/suggestions.md
   - Contact Us:
     - contact-us/index.md
+  - Site Index: tag-index.md
 
 extra:
   generator: false
