@@ -155,9 +155,6 @@ nav:
 
   - Updates & Issues:
     - updates/index.md
-    - System Updates: updates/updates.md
-    - System Issues: updates/issues.md
-    - System Outages/Degradations: updates/outages.md
     - System Suggestions: updates/suggestions.md
   - Contact Us:
     - contact-us/index.md
