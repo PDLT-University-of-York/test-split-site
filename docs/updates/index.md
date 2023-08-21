@@ -24,8 +24,6 @@ We have put together a number of [support dashboards in Google Looker Studio](ht
  - **Planned Outages/Degradations** - Lists of future, current and pass planned outages or degradations, such as updates, maintenance or similar
  - **Unplanned Outages/Degradations** - List of unplanned outages or degradations, ie. an unexpected problem that's taken a system completely offline or made it run slowly for end users.
 
- <iframe width="95%" height="700" src="https://lookerstudio.google.com/embed/reporting/4de0e8c1-2254-4f46-a08e-e048d192baae/page/p_60kddgyw8c" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 ## Accessible Alternative to Support Dashboards
 If our Google Looker Studio dashboards are inaccessible to a piece of assistive technology that you are using, you can access and filter the base spreadsheets directly in Google Sheets using the following links and guidance.
 
