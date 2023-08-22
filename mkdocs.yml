@@ -140,6 +140,8 @@ nav:
     # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
   - eAssessment:
     - eassessment/index.md
+    - Important Things to Know: eassessment/importanteassessment.md
+    - Which eAssessment Tool to Use: eassessment/whicheassessmenttool.md
   - Other Tools:
     - othertools/index.md
     - Canvas VLE:
