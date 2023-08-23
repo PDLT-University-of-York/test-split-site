@@ -106,6 +106,7 @@ nav:
       - Maths: ultra/maths.md
       - YouTube videos: ultra/youtube.md
       - Embedded content: ultra/embedded-content.md
+      - Reading lists: https://vle-support.york.ac.uk/readinglist/
       #- Future proofing content: ultra/future-proof-content.md
     - Managing content:
       - Content visibility: ultra/content-visibility.md
@@ -148,13 +149,13 @@ nav:
     - othertools/index.md
     - Canvas VLE:
       - canvas/index.md
-    - Mentimeter:
+    - Mentimeter Polling:
       - mentimeter/index.md
-    - Padlet:
+    - Padlet Pinboards:
       - padlet/index.md
     - Reading Lists:
       - readinglist/index.md
-    - Xerte:
+    - Xerte Interactive Content:
       - xerte/index.md
 
   - Updates & Issues:
