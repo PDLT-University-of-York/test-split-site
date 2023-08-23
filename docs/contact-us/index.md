@@ -8,10 +8,10 @@
 - Email: vle-support@york.ac.uk – We aim to reply within three working days
 - Phone: (01904 32) 1131 – For urgent queries only
 
-## Site YCodes
+## Information to include:
 When getting in touch with our team, if you have an issue/query about a particular site on the VLE, please include its "YCode". The YCode is an identifier that's unique to each VLE site, and helps us quickly find and access the site you need help with.
 
-### To find the YCode:
+### To find a YCode:
 
 If you're already in the VLE site: 
 The YCode will be displayed above the name of your site, in the top left of the screen
