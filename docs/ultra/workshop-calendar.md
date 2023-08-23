@@ -16,7 +16,7 @@ Our Ultra training series comprises of five key areas.
 
 - [**Ultra Essentials (teaching)**](https://vle-support.york.ac.uk/ultra/workshop-ultra-essentials-teaching): key Ultra features, using the template, preparing site content
 - **Ultra Essentials (administrators)**: user management, Groups, assessment set up ***(coming soon)***
-- [**Ultra bitesize**](https://vle-support.york.ac.uk/ultra/workshop-ultra-bitesize): shorter workshops on focussing specific tools
+- [**Ultra bitesize**](https://vle-support.york.ac.uk/ultra/workshop-ultra-bitesize): shorter workshops focussing on specific tools, such as tests and marking in TurnItIn Feedback Studio
 - [**Ultra drop-in sessions**](https://vle-support.york.ac.uk/ultra/workshop-ultra-drop-ins): ask questions, get help or work on your site with support available
 - [**TurnItIn Admin Training**](https://york-ac.csod.com/ui/lms-learning-details/app/event/ced6266b-61a8-40ef-ab63-5824fa2cdff7): training sessions specifically for admin' staff that will be managing summative assignments using TurnItIn Feedback Studio.
 
