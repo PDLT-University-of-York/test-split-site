@@ -20,4 +20,4 @@ When getting in touch with our team, please include the following:
 ## Troubleshooting
 Many general issues with our systems (such as content not loading, changes not saving) can be solved by completing standard troublshooting steps yourself. Embedded below is our general troubleshooting guidance for staff and students, but if you prefer you can [use this link to open our troubleshooting guidance in another browser tab](https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit?usp=sharing).
 
-<iframe width=99% height=750 src="https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit?usp=sharing"></iframe>
+<iframe width=99% height=750 src="https://docs.google.com/document/d/e/2PACX-1vSZmYfVJT6vsFJlWsGwWcgyKslfiR7YpsxjfNSrVvGax_rU7wQz0KjVR7hyO_3VMEuTsa1LDEytPhLf/pub?embedded=true"></iframe>
