@@ -163,9 +163,9 @@ nav:
     - System Suggestions: updates/suggestions.md
   - Contact Us:
     - contact-us/index.md
-    - Screenshots: contact-us/screenshots.md
-    - Usernames: contact-us/usernames.md
-    - YCodes: contact-us/ycodes.md
+    - Finding Usernames: contact-us/usernames.md
+    - Finding YCodes: contact-us/ycodes.md
+    - Taking Screenshots: contact-us/screenshots.md
   - Site Index: tag-index.md
 
 extra:
