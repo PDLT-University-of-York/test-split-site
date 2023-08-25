@@ -13,7 +13,7 @@ There's some core information that you can include in your email that will help 
 
 When getting in touch with our team, please include the following:
 
-- **Screenshots/Photos:** Screenshots or photos of your device's entire screen showing issues and/or error messages are very helpful to us - Help with Screenshotting
-- **Usernames**: If your issue/query relates to a specific user (or numerous specific users) please include their usernames (eg. abc123) so we can ensure we're looking at the correct accounts - Help with finding Usernames
-- **YCodes:** If you have an issue/query about a particular site on the VLE, please include its "YCode". The YCode is an identifier that's unique to each VLE site, and helps us quickly find and access the site you need help with - Help with finding YCodes.
+- **Screenshots/Photos:** Screenshots or photos of your device's entire screen showing issues and/or error messages are very helpful to us - [Help with Screenshotting](https://vle-support.york.ac.uk/contact-us/screenshots/)
+- **Usernames**: If your issue/query relates to a specific user (or numerous specific users) please include their usernames (eg. abc123) so we can ensure we're looking at the correct accounts - [Help with finding Usernames](https://vle-support.york.ac.uk/contact-us/usernames/)
+- **YCodes:** If you have an issue/query about a particular site on the VLE, please include its "YCode". The YCode is an identifier that's unique to each VLE site, and helps us quickly find and access the site you need help with - [Help with finding YCodes](https://vle-support.york.ac.uk/contact-us/ycodes/).
 
