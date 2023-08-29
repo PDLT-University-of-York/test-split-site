@@ -134,9 +134,12 @@ nav:
       # - Purge & archive policy: ultra/placeholder.md
   - Panopto Videos:
     - panopto/index.md
-    - Using Replay in teaching rooms: panopto/lecture-capture.md
-    - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
-    - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
+    - Getting Started with Panopto: 
+      - Using Replay in teaching rooms: panopto/lecture-capture.md
+    - Managing Content (Creating/Editing): 
+      - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
+    - Using Videos in Blackboard Ultra:
+      - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
   - eAssessment:
     - eassessment/index.md
     - Important Things to Know: eassessment/importanteassessment.md
