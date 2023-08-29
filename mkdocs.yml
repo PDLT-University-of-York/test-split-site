@@ -135,12 +135,17 @@ nav:
   - Panopto Videos:
     - panopto/index.md
     - Getting Started with Panopto: 
-      # - Quick Start Lecturer Guide: 
+      # - Quick Start Lecturer Guide:
+        # - Introduction to the Panopto Interface/logging in
+        # - 
       - Using Replay in teaching rooms: panopto/lecture-capture.md
     - Managing Content (Creating/Editing): 
       - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
+    # - Reusing Module Media 
+    # - Panopto Captions 
     - Using Videos in Blackboard Ultra:
      # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
+    - User Management: 
   - eAssessment:
     - eassessment/index.md
     - Important Things to Know: eassessment/importanteassessment.md
