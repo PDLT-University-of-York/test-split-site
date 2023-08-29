@@ -135,9 +135,8 @@ nav:
   - Panopto Videos:
     - panopto/index.md
     - Using Replay in teaching rooms: panopto/lecture-capture.md
-    - Managing Panopto videos in the VLE: panopto/embed-panopto-ultra.md
     - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
-    # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
+    - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
   - eAssessment:
     - eassessment/index.md
     - Important Things to Know: eassessment/importanteassessment.md
