@@ -66,8 +66,9 @@ markdown_extensions:
       title: On this page
 
 nav:
-  - Index: tag-index.md
-  - Learn Ultra:
+  
+  - Home: https://vle-support.york.ac.uk/
+  - Learn Ultra VLE:
     - ultra/index.md
     - Getting started with Ultra:
       - Personalising your notifications: ultra/notifications.md
@@ -105,8 +106,8 @@ nav:
       - Maths: ultra/maths.md
       - YouTube videos: ultra/youtube.md
       - Embedded content: ultra/embedded-content.md
+      - Reading lists: https://vle-support.york.ac.uk/readinglist/
       #- Future proofing content: ultra/future-proof-content.md
-      #- Reading List items: ultra/placeholder.md
     - Managing content:
       - Content visibility: ultra/content-visibility.md
       - Release conditions (Conditional Availability): ultra/release-conditions.md
@@ -131,31 +132,41 @@ nav:
       # - CAP readiness checklist: ultra/placeholder.md
       # - Rollover: ultra/placeholder.md
       # - Purge & archive policy: ultra/placeholder.md
-  - Panopto:
+  - Panopto Videos:
     - panopto/index.md
     - Using Replay in teaching rooms: panopto/lecture-capture.md
     - Using the Panopto self-recorder: panopto/self-recorder.md
     - Managing Panopto videos in the VLE: panopto/panopto-in-the-vle.md
     - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
     # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
-  - Reading List:
-    - readinglist/index.md
-  - Canvas:
-    - canvas/index.md
-  - Xerte:
-    - xerte/index.md
-  - Padlet:
-    - padlet/index.md
-  - Mentimeter:
-    - mentimeter/index.md
+  - eAssessment:
+    - eassessment/index.md
+    - Important Things to Know: eassessment/importanteassessment.md
+    - Which eAssessment Tool : eassessment/whicheassessmenttool.md
+    - Anon Assignment End of Life: eassessment/anonassigneol.md
+    - Staff eAssessment Training: eassessment/trainingeassessment.md
+  - Other Tools:
+    - othertools/index.md
+    - Canvas VLE:
+      - canvas/index.md
+    - Mentimeter Polling:
+      - mentimeter/index.md
+    - Padlet Pinboards:
+      - padlet/index.md
+    - Reading Lists:
+      - readinglist/index.md
+    - Xerte Interactive Content:
+      - xerte/index.md
+
   - Updates & Issues:
     - updates/index.md
-    - System Updates: updates/updates.md
-    - System Issues: updates/issues.md
-    - System Outages/Degradations: updates/outages.md
     - System Suggestions: updates/suggestions.md
   - Contact Us:
     - contact-us/index.md
+    - Finding Usernames: contact-us/usernames.md
+    - Finding YCodes: contact-us/ycodes.md
+    - Taking Screenshots: contact-us/screenshots.md
+  - Site Index: tag-index.md
 
 extra:
   generator: false

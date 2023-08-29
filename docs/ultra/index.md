@@ -9,4 +9,3 @@ Find the guide you need by:
 
 - exploring the categories and guides in the left menu (or hamburger icon in the top left of a small screen).
 - using the search box above.
-- using the next/previous links at the bottom of the page.
