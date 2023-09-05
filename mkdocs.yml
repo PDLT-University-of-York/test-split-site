@@ -146,16 +146,16 @@ nav:
         # - Sharing a Recording
         - Using Replay in teaching rooms: panopto/lecture-capture.md
     - Managing Video Content: 
-    # - Reusing Module Media 
-    # - Panopto Captions 
-    # - Panopto Video Assessments
-    # - Changing Video Availability
+        # - Reusing Module Media 
+        # - Panopto Captions 
+        # - Panopto Video Assessments
+        # - Changing Video Availability
     - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
    - Advanced Editing: 
-    # - Adding Quizzes
-    # - Adding Presentation Slides
-    # - Adding Table of Contents and Using Smart Chapters
-    # - Adding Additional Streams
+        # - Adding Quizzes
+        # - Adding Presentation Slides
+        # - Adding Table of Contents and Using Smart Chapters
+        # - Adding Additional Streams
   - eAssessment:
     - eassessment/index.md
     - Important Things to Know: eassessment/importanteassessment.md
