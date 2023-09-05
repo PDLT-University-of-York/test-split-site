@@ -19,7 +19,7 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <!--<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-## Create a Link to you Video in your Course Content
+## Create a Link to your Video from the Course Content Menu
 
 ### Text Steps
 
