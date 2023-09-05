@@ -5,8 +5,8 @@ tags:
     - Ultra
     - Panopto
 ---
-
-# How do I embed a Panopto Video in an Ultra Document or Discussion?
+<!-- TO DO: RE-SIZE AND RE-UPLOAD IMAGES, ADD BORDERS, EDIT AND EMBED INSTRUCTIONAL VIDEO-->
+# Embedding Panopto Videos in Blackboard Ultra
 
 !!! Summary
 
@@ -20,9 +20,6 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 <!--<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Create a Link to you Video in your Course Content
-
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
 
 ### Text Steps
 
@@ -59,12 +56,12 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 9. You will be prompted for a display name of the video. The default is the original name of the video. Click **Insert**.
 ![Annotated screenshot of renaming Panopto video ](Images/embed-video-4.png)
 10. The video will now appear embedded. Click **Save** to complete the process.
-[Annotated screenshot of saving embedded video](Images/embed-video-5.png)
+![Annotated screenshot of saving embedded video](Images/embed-video-5.png)
 
 !!! Tip
 
     NB: If you wish to reuse videos from a previous year, current students will not automatically have access to older content. Refer to our Reusing Media guidance as linked below. 
 
 ## More Details and Troubleshooting 
-[How to reuse media from previous years]
+[How to reuse media from previous years](https://vle-support.york.ac.uk/panopto/reusing-module-media.md)
 
