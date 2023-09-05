@@ -136,16 +136,26 @@ nav:
     - panopto/index.md
     - Getting Started with Panopto: 
       # - Quick Start Lecturer Guide:
-        # - Introduction to the Panopto Interface/logging in
-        # - 
-      - Using Replay in teaching rooms: panopto/lecture-capture.md
-    - Managing Content (Creating/Editing): 
-      - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
+        # - Logging in to Panopto 
+        # - Creating a Manual Recording (Windows)
+        # - Creating a Manual Recording (Mac)
+        # - Making a Recording via Web Browser (Panopto Capture)
+        # - Copying a Recording
+        # - Moving a Recording
+        - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
+        # - Sharing a Recording
+        - Using Replay in teaching rooms: panopto/lecture-capture.md
+    - Managing Video Content: 
     # - Reusing Module Media 
     # - Panopto Captions 
-    - Using Videos in Blackboard Ultra:
-     # - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
-    - User Management: 
+    # - Panopto Video Assessments
+    # - Changing Video Availability
+    - Embedding a Panopto video in Blackboard Ultra: panopto/embed-panopto-ultra.md
+   - Advanced Editing: 
+    # - Adding Quizzes
+    # - Adding Presentation Slides
+    # - Adding Table of Contents and Using Smart Chapters
+    # - Adding Additional Streams
   - eAssessment:
     - eassessment/index.md
     - Important Things to Know: eassessment/importanteassessment.md

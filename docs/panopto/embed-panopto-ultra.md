@@ -10,8 +10,7 @@ tags:
 
 !!! Summary
 
-    - Embed video content in a Blackboard Ultra Course
-    - Re-use media that you have made in previous years
+ Embed Panopto video content into a Course Content area or Document in Blackboard Ultra.
 
 <!--### Video Steps
 
@@ -25,6 +24,8 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
+### Text Steps
+
 1. From your VLE Ultra course, click the **plus** icon to add content.
 2. Select **Content Market** from the pop-up menu as shown below.
 ![Annotated screenshot adding content to content area](Images/embed-video-9.png)
@@ -37,6 +38,8 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 ![Annotated screenshot of extra embed options ](Images/embed-video-7.png)
 
 ## Adding your Video to A Document or Discussion
+
+### Text Steps
 
 1. If the document doesn’t exist, navigate to where you want the document to be, click the purple **plus icon** and click **Create**. 
 ![Annotated screenshot of Panopto tool](Images/embed-video-8.png)
