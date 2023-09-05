@@ -25,15 +25,15 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-1. From your VLE Ultra course, click the “plus” icon to add content.
-2. Select “Content Market” from the pop-up menu as shown below.
+1. From your VLE Ultra course, click the **plus** icon to add content.
+2. Select **Content Market** from the pop-up menu as shown below.
 ![Annotated screenshot adding content to content area](Images/embed-video-9.png)
-3. From the listed available tools, select “Panopto”. 
+3. From the listed available tools, select**Panopto**. 
 ![Annotated screenshot of Panopto tool](Images/embed-video-2.png)
 4. You will see any video content uploaded to your course’s folder. Select the video you wish to embed. You can also upload and record directly in to this folder.
-5. Click “Insert”. 
+5. Click **Insert**. 
 ![Annotated screenshot of selecting a Panopto video ](Images/embed-video-3.png)
-6. Should you wish to apply further embed options, click the downward facing arrow next to “Video Embed Options. Choose the options you wish to apply to your video. 
+6. Should you wish to apply further embed options, click the downward facing arrow next to **Video Embed Options**. Choose the options you wish to apply to your video. 
 ![Annotated screenshot of extra embed options ](Images/embed-video-7.png)
 
 ## Adding your Video to A Document or Discussion
