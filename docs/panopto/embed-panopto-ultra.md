@@ -10,7 +10,7 @@ tags:
 
 !!! Summary
 
- Embed Panopto video content into a Course Content area or Document in Blackboard Ultra.
+    Embed Panopto video content into a Course Content area or Document in Blackboard Ultra.
 
 <!--### Video Steps
 
