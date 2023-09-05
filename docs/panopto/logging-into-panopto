@@ -2,51 +2,29 @@
 tags:
 # Delete to leave only relevant tags
     - Foundation
-    - Advanced
-    - Teaching
-    - Administration
     - Ultra
     - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
+    
 ---
 
-# Guide title (short and to the point)
+# How to Log into Panopto 
 
 !!! Summary
 
-    Short summary here
-
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
-
-    - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
-
-
-## Quick Start Guide
-
-
-### Video Steps
-
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
-
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+    For the best experience, log in to Panopto using either Chrome or Firefox.
 
 ### Text Steps
+1. Go to https://york.cloud.panopto.eu 
+2. From the dropdown box select either University of York (Non York Online) or York Canvas (York Online)
+3. Click **Sign in**.
+4. You will be prompted to Log In via Blackboard or Canvas (depending on which VLE you use)
+![Annotated screenshot of Panopto log in screen](Images/log-in-1.png)
+5. Enter in your UoY credentials (just your username without the @york.ac.uk and your IT account password).
+![Annotated screenshot of Blackboard log in screen](Images/log-in-2.png)
+6. Follow any Duo two-factor authentication steps as required.
 
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
 
-1. Step 1
-2. Step 2
-3. Step 3
+!!! Tip 
+    Anyone that uses our Canvas VLE (https://onlinestudy.york.ac.uk/) and studies or works on our York Online Distance Learning programmes should select the **York Online** option as shown below. Maths students should use this option. 
 
-
-## More Details and Troubleshooting 
-
-<!-- More info here as needed. Delete if not needed. Don't add support email address here. -->
+![Annotated screenshot of Canvas online log in option selected](Images/log-in-3.png)
