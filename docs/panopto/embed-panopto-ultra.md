@@ -26,7 +26,7 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 1. From your VLE Ultra course, click the **plus** icon to add content.
 2. Select **Content Market** from the pop-up menu as shown below.
 ![Annotated screenshot adding content to content area](Images/embed-video-9.png)
-3. From the listed available tools, select**Panopto**. 
+3. From the listed available tools, select **Panopto**. 
 ![Annotated screenshot of Panopto tool](Images/embed-video-2.png)
 4. You will see any video content uploaded to your course’s folder. Select the video you wish to embed. You can also upload and record directly in to this folder.
 5. Click **Insert**. 
