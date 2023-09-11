@@ -98,7 +98,7 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 
 * **Email**
 
-    In the email, embedded content appears as **links**. Students can select the links to view the announcement. What emails are sent and when can vary, see the "What Email Notifications..." section further down the page for details.
+    What users see in an emailed announcement can vary. See [our summary guidance on Announcements Emails](https://docs.google.com/document/d/1FAmb1tOh7zPL930c7f3_kWBYCCtXXIqTpKx4e3K57KA/edit?usp=sharing) for details.
 
     ![View announcement link in email](images/announcement-email-link.png "Email announcement")
 
