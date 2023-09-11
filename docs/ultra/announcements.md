@@ -39,6 +39,7 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 1. In the **Details & Actions** panel on the left hand side, click **Create Announcement**.
 
     ![Click create announcement](images/announcement-create.png "Create announcement")
+
 2. At the **top right corner** of the Course Announcement page, click the **plus icon** to create an announcement.
 
     ![Click plus icon](images/announcement-plus.png "Click plus")
@@ -101,7 +102,7 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 
     ![View announcement link in email](images/announcement-email-link.png "Email announcement")
 
-### **What Email Notifications Do Announcements Generate?**
+### **What emails do announcements generate?**
 The Announcement tool on Ultra VLE sites can email out the announcement in several different ways to different users, depending on a number of factors. See [our summary guidance on Announcements Emails](https://docs.google.com/document/d/1FAmb1tOh7zPL930c7f3_kWBYCCtXXIqTpKx4e3K57KA/edit?usp=sharing) for details, and key recommendations/ tips for tasks such as: 
 
 * sending urgent announcements that all enrolled users must receive as soon as possible.
