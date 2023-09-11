@@ -63,5 +63,5 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
     NB: If you wish to reuse videos from a previous year, current students will not automatically have access to older content. Refer to our Reusing Media guidance as linked below. 
 
 ## More Details and Troubleshooting 
-[How to reuse media from previous years](https://vle-support.york.ac.uk/panopto/reusing-module-media.md)
+[How to reuse media from previous years](https://vle-support.york.ac.uk/panopto/reusing-module-media/)
 
