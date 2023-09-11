@@ -100,7 +100,6 @@ Below is an embedded video detailing how to **Create Announcements in the Ultra 
 
     What users see in an emailed announcement can vary. See [our summary guidance on Announcements Emails](https://docs.google.com/document/d/1FAmb1tOh7zPL930c7f3_kWBYCCtXXIqTpKx4e3K57KA/edit?usp=sharing) for details.
 
-    ![View announcement link in email](images/announcement-email-link.png "Email announcement")
 
 ### **What emails do announcements generate?**
 The Announcement tool on Ultra VLE sites can email out the announcement in several different ways to different users, depending on a number of factors. See [our summary guidance on Announcements Emails](https://docs.google.com/document/d/1FAmb1tOh7zPL930c7f3_kWBYCCtXXIqTpKx4e3K57KA/edit?usp=sharing) for details, and key recommendations/ tips for tasks such as: 
