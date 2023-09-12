@@ -82,6 +82,7 @@ Check that site content and materials are accessible, in the right place and vis
     - All assessment information appears within the Assessment section, including an overview of assessment, clear instructions for each assessment task and details on how the work will be graded.
     - Due dates for all assessments are set correctly (right day, time and year, etc). To make the site easier to maintain in future years, set deadlines within the assessment tool and avoid writing specific dates into text or documents.
     - Assignment submission points and Tests are set up correctly and hidden/showing as they should be. See our [guide to release conditions](https://vle-support.york.ac.uk/ultra/release-conditions/) for more detail on managing content availability.
+    - Guidance for setting up and using submission points can be found in [our eAssessments area](https://vle-support.york.ac.uk/eassessment/).
 
 ??? essential "2.4 Site materials"
 
@@ -96,18 +97,19 @@ Check that site content and materials are accessible, in the right place and vis
 
     - All video content must be streamed from a dedicated media player (eg. Panopto or YouTube). Video files must not be directly uploaded to the site or inside slide decks.
     - Lecture Capture set up:
-        - Your site should have a Replay Content link or folder in the Course Content area. If this does not appear, contact us at vle-support@york.ac.uk
-        - On the Timetable, check that lectures to be captured have the play icon showing they are Replay-enabled. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/timetablingandroombookings/) (note PDLT can’t set up lecture capture through the timetable). 
+        - Your site should have a "Replay Lecture Capture (Panopto)" link towards the bottom of the Course Content area. If this does not appear, contact us at vle-support@york.ac.uk
+        - On the Timetable, check that lectures to be captured have the triangular "play" icon showing they are Replay-enabled. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/timetablingandroombookings/). 
         - See the [lecture capture web page](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) for more information on how the lecture capture system works.
     - Pre-recorded or re-used Panopto content (eg. at-desk captures)
         - Pre-recorded or re-used videos must be accurately captioned (including reused lecture captures from previous years).
         - **Common issue**: check any Panopto videos linked to or embedded outside of the Replay Content area to make sure this cohort's students can access them. Our guide to preparing videos for reuse wil help you with this. Note that you being able to access a video doesn't mean that students can!
+    - For help re-using videos from previous academic years on your Ultra site (eg. “Ongoing Media”), or with making new “At-Desk” recordings, see [our Panopto help pages](https://vle-support.york.ac.uk/panopto/).
 
 ??? essential "2.6  Reading List"
 
-    Sites must use the Reading List to provide course readings, unless there is a pressing reason not to (this should be discussed with your Academic Liaison Librarian).
+    Sites must use the Reading List to provide course readings, unless there is a pressing reason not to (this should be discussed with your Academic Liaison Librarian). Please ensure:
     
-    - A link to the Reading List is included in the Course Content area.
+    - A link to the Reading List ("Reading-Lists") is included in the Course Content area.
     - The Reading List is structured in the same way as the site materials (eg. in weekly sections).
     - All module readings are included and unused/out of date items have been removed.
     - Readings are not uploaded to the site (eg. a journal paper PDF) and web-based readings (eg. a journal pape webpage) aren't linked to directly.
@@ -152,4 +154,4 @@ For students to access a site, they must be enrolled on the site AND the site mu
     - Course is open/Students can access this course: this is correctly set up for enrolled students to access the site.
     
     Note that enrolled students will be always able to see the site listed in their course list. If the course is private, they will not be able to open the site.
-    <!-- For more details, see our guide to making your site open/private. [ADD LINK WHEN MADE] -->
+    For more details, see [our guide to making your site open/private](https://vle-support.york.ac.uk/ultra/site-availability/).
