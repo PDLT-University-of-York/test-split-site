@@ -54,8 +54,8 @@ There are two ways to set group set visibility:
 
 ### Create a group set
 
-1. Under **Details & Actions**, click **Course Groups**. You'll see "Create and manage groups" here if you don't have any group sets yet, or "View sets & groups" if you have an existing group set.</br>
-![Selecting the View Sets & Groups option in the Details & Actions area](images/groups-course-groups.png)
+1. Click **Groups** in the top navigation pane. Here you can view and manage all of the group sets you have created.</br>
+![Selecting Groups from the top navigation pane](images/groups-content-groups_page.png)
 2. Click **New Group Set** with the plus icon in the top right (on a small screen you'll only see the plus icon).</br>
 ![Selecting New Group Set in the Course Groups pane](images/groups-new-group-set.png)
 3. Click the default 'New group set' name and input your desired name, e.g. "Presentation groups".</br>
@@ -234,3 +234,10 @@ Recommended only for importing a large amount of groups. In most cases it will b
 6. On the **Assign members** tab, upload the CSV file and click **Import**.</br>
 ![Assign members tab with drag and drop space to upload CSV file](images/groups-import-assign-members.png)
 7. Click **Save**.
+
+### Group Spaces
+
+Students can access their assigned groups on the groups tab. From there, students can view all student members of their group.
+![Student view of Groups page with two group sets](images/groups-student_view-group_sets.png)
+To access a Group Space, students should select the group's name. Students can access all assessments aligned to their group.
+![Student view of group assignment details](images/groups-student_view_group_assignment.png)
