@@ -238,6 +238,9 @@ Recommended only for importing a large amount of groups. In most cases it will b
 ### Group Spaces
 
 Students can access their assigned groups on the groups tab. From there, students can view all student members of their group.
+
 ![Student view of Groups page with two group sets](images/groups-student_view-group_sets.png)
+
 To access a Group Space, students should select the group's name. Students can access all assessments aligned to their group.
+
 ![Student view of group assignment details](images/groups-student_view_group_assignment.png)
