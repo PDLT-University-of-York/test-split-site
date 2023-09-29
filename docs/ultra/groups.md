@@ -12,11 +12,12 @@ tags:
 
 !!! Summary
 
-    Use Groups to manage teaching and administration activities in your course. There are various ways to assign members to groups.
+    Use Groups to manage teaching and administration activities in your course. There are various ways to assign members to groups. 
+
 
 ## Video Steps
 
-Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY).
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY). 
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdaSl74psNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,6 +30,8 @@ Groups can be used in many ways to manage different teaching and administrative 
 - facilitating collaborative work (eg. group projects or assignments).
 - restricting course content visibility (eg. provide separate Discussions for each seminar group).
 - managing assessment workflows (eg. identify students with deadline extensions).
+
+Administrative staff managing assessments, may wish to follow the guide: [Setting up Groups to manage extensions, glagging and multiple markers using CSV files](https://docs.google.com/document/d/1Qvp8gtv8INZOn_Ns4tbJuFJjIu9edDB6hV7oOYpLdoc). 
 
 ## Group Sets
 
