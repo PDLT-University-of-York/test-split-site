@@ -36,11 +36,11 @@ On your Ultra VLE site, in the "Content" section of the screen:
 3. Click **Browse Content Collection**.
 4. Click **Upload > Upload Zip Package**.
 
-![decorative](images/html-upload.png)
+![decorative](images/html-upload.PNG)
 
 5. Near the top of the screen, click **Create Folder** and give your new folder a name. Click **Create Folder**. **Note:** You can also navigate to a folder that already exists in your VLE site Content Collection if necessary.
 
-![decorative](images/html-create-folder.png)
+![decorative](images/html-create-folder.PNG)
 
 6. Click **Browse local files** and select your zip package. Click **Submit**.
 7. Select the index.html or first page of your web package, and click **Submit**.
