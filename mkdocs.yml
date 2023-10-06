@@ -97,16 +97,16 @@ nav:
       - Accessible Ultra content: ultra/accessible-ultra-content.md
       - Reusing Original site content in Ultra: ultra/reuse-original-content.md
       - Content types: ultra/content-types.md
-        - Course banner image: ultra/course-image.md
-        - Documents: ultra/documents.md
-        - Embeds (Google Files, Padlet, Xerte etc): ultra/embedded-content.md
-        - Files: ultra/files.md
-        - Images: ultra/images.md
-        - Links: ultra/links.md
-        - Maths: ultra/maths.md
-        - Reading lists: https://vle-support.york.ac.uk/readinglist/
-        - Text: ultra/text.md
-        - YouTube videos: ultra/youtube.md
+      - Course banner image: ultra/course-image.md
+      - Documents: ultra/documents.md
+      - Embeds (Google Files, Padlet, Xerte etc): ultra/embedded-content.md
+      - Files: ultra/files.md
+      - Images: ultra/images.md
+      - Links: ultra/links.md
+      - Maths: ultra/maths.md
+      - Reading lists: https://vle-support.york.ac.uk/readinglist/
+      - Text: ultra/text.md
+      - YouTube videos: ultra/youtube.md
       #- Future proofing content: ultra/future-proof-content.md
     - Managing content:
       - Content visibility: ultra/content-visibility.md
