@@ -22,12 +22,12 @@ Here is a summary of the Roles available, from the most to the least permissive.
 
 | Course Role        | Organisation equivalent role | Role ideal for            |
 | :------           | :------------                 | :----------------------------------- |
-| [Instructor](#instructor-leader)         | Leader                       | Most academic and admin staff.  |
-| [Teaching Assistant](#teaching-assistant-assistant) | Assistant                    | Staff that should have limited access to enrol others, but otherwise act as an Instructor |
-| [Marker](#marker-grader)             | Marker                       | Staff/GTAs who only need to mark student submissions, or who should not have edit access to content.  |
-| [Course Builder](#course-builder-organisation-builder)     | Organisation Builder         | Staff/GTAs who only need to build or edit course content. They can't mark student submissions. |
-| [Student](#student-participant)            | Participant                  | Students studying the module, for credit or not; use of any user that you do not want to give read-only access to (ie, can't edit, see hidden content or mark submissions) |
-| [Guest](#guest)              | Guest                        | Do not use - Guest users cannot access Ultra sites. See information below. |
+| Instructor        | Leader                       | Most academic and admin staff.  |
+| Teaching Assistant | Assistant                    | Staff that should have limited access to enrol others, but otherwise act as an Instructor |
+| Marker | Marker                       | Staff/GTAs who only need to mark student submissions, or who should not have edit access to content.  |
+| Course Builder     | Organisation Builder         | Staff/GTAs who only need to build or edit course content. They can't mark student submissions. |
+| Student | Participant                  | Students studying the module, for credit or not; use of any user that you do not want to give read-only access to (ie, can't edit, see hidden content or mark submissions) |
+| Guest | Guest                        | Do not use - Guest users cannot access Ultra sites. See information below. |
 
 ## More Details
 

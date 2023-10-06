@@ -122,8 +122,8 @@ nav:
     #   - Tests: ultra/tests.md
     - Site access & users: 
        - Site availability: ultra/site-availability.md
+       - Course roles: ultra/course-roles.md
        - Enrolling a user: ultra/enrol-user.md
-        - Course roles: ultra/course-roles.md
        - Unenrolling a user: ultra/unenrol-user.md
        - External users: ultra/external-users.md
        
