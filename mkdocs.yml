@@ -124,7 +124,7 @@ nav:
        - Site availability: ultra/site-availability.md
        - Enrolling a user: ultra/enrol-user.md
        - Unenrolling a user: ultra/unenrol-user.md
-    #   - Course Roles in Ultra: 'ultra/course-roles.md'
+       - Course roles: ultra/course-roles.md
     # - Data & evaluation:
     #   - Placeholder article: ultra/placeholder.md
     - Regular activities:
