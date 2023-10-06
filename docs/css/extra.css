@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Roboto Condensed", "Inter", sans-serif;
 }
 
-h2, h3, h4, h5, h6 {
+h2 {
     border-top: solid 1px #000000
 }
 
