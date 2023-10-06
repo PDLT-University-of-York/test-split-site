@@ -123,8 +123,10 @@ nav:
     - Site access & users: 
        - Site availability: ultra/site-availability.md
        - Enrolling a user: ultra/enrol-user.md
+        - Course roles: ultra/course-roles.md
        - Unenrolling a user: ultra/unenrol-user.md
-       - Course roles: ultra/course-roles.md
+       - External users: ultra/external-users.md
+       
     # - Data & evaluation:
     #   - Placeholder article: ultra/placeholder.md
     - Regular activities:

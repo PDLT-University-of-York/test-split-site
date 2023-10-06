@@ -41,5 +41,5 @@ The user will be able to see and access your course straight away from [their Le
 The error "**No results found. Check the spelling and try again.**" can mean a few things:
 
 1. There's an error in the search term; check and try again.
-2. The user is already enrolled on your site and able to access it. Check by searching for them in the class register.
+2. The user is already enrolled on your site and able to access it. Check by searching for them in the class register, using the magnifying glass button in the top right.
 3. The user may have been enrolled on the course in the past but then been removed; this blocks them from being re-enrolled, please contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) and we can re-enrol them for you.
