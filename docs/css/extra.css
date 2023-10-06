@@ -62,10 +62,6 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Roboto Condensed", "Inter", sans-serif;
 }
 
-h2 {
-    border-top: solid 1px #000000
-}
-
 .md-typeset h1, .md-typeset h2 {
     font-weight: 500;
 }
