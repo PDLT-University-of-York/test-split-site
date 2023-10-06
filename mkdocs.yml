@@ -120,7 +120,7 @@ nav:
       - Announcements: ultra/announcements.md
       - Discussions: ultra/discussions.md
       - Groups: ultra/groups.md
-      - Messages: ultra/messages.md
+      - Messages: ultra/messages-tool.md
     # - Assessment and assignments:
     #   - Tests: ultra/tests.md
     - Site access & users: 

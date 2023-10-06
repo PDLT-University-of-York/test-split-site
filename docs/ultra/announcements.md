@@ -13,7 +13,7 @@ tags:
     Announcements are a one-way channel for important news such as key dates and events. Announcements are sent to everyone (staff and students) enrolled on your site. If you want to target your communications, use the Messages tool instead.
 
 
-Announcements go to everyone enrolled on your VLE site, staff and students. Want to target your message to a small audience? Use [the Messages tool](https://vle-support.york.ac.uk/ultra/messages/), instead.
+Announcements go to everyone enrolled on your VLE site, staff and students. Want to target your message to a small audience? Use [the Messages tool](https://vle-support.york.ac.uk/ultra/messages-tool/), instead.
 
 Typical types of announcement may include:
 
