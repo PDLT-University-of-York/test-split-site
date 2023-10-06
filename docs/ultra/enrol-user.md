@@ -27,7 +27,7 @@ Below is an embedded video demonstrating how to enrol a user on your Learn Ultra
 ![Plus icon shown next to search icon in top right of screen](images/enrol-user-plus-icon.png)
 3. **Search** for the user to enrol, using their username (abc123), email, first name or last name. 
 4. Click the **small plus icon** next to their name.
-5. The default **role** is Student. If you'd like to give the user a different role, select it from the drop-down list.</br>
+5. The default **role** is Student. If you'd like to give the user a different role, select it from the drop-down list. Various roles are available, **important**: do not use the "Guest" role for individual users - [Learn more about Course Roles here](https://vle-support.york.ac.uk/ultra/course-roles/).</br>
 ![Steps shown to search for a user via their username and select the relevant role](images/enrol-user-search-role.png)
 5. Click **Save**.
 

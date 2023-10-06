@@ -29,13 +29,12 @@ Here is a summary of the Roles available, from the most to the least permissive.
 | [Student](#student-participant)            | Participant                  | Students studying the module, for credit or not; use of any user that you do not want to give read-only access to (ie, can't edit, see hidden content or mark submissions) |
 | [Guest](#guest)              | Guest                        | Do not use - Guest users cannot access Ultra sites. See information below. |
 
-
 ## More Details
 
 More information on each Role's access level, from the most to the least permissive, can be found on [our Course Roles spreadsheet](https://docs.google.com/spreadsheets/d/1aCRa_aV3JQrgppSFVRjbyznAJvuEVZTVJEnlo5tLkfc/edit?usp=sharing).
 
 
-### Guest Access - Do Not Use!
+## Guest Access - Do Not Use!
 
 By default, individual users given the "Guest" role cannot access Learn Ultra courses or organisations. A "Guest Access" setting has to be enabled on a VLE site to allow Guests to see and access content. However, **this is strongly advised against**. 
 
