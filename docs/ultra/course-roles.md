@@ -41,6 +41,7 @@ By default, individual users given the "Guest" role cannot access Learn Ultra co
 
 Guest access (if enabled on a VLE site) allows non-authenticated access to all or some of the site.
 This means that: 
+
    - Anyone (UoY-affiliated or otherwise) that gained a link to your guest-enabled site could access it without needing to log in. Essentially anyone and everyone around the world could be able to access the site.
    - The site would appear in Google search results.
 
