@@ -172,6 +172,7 @@ nav:
       - mentimeter/index.md
     - Padlet Pinboards:
       - padlet/index.md
+        - Padlet as an alternative to Ultra discussions: padlet/padlet-discussion-alternative.md 
     - Reading Lists:
       - readinglist/index.md
     - Xerte Interactive Content:
