@@ -16,7 +16,7 @@ tags:
 ## Quick Start Guide
 
 !!! Warning
-    It's not currently possible to post anonymously to a discussion or to subscribe for notifications of when posts are made. However, these features will be available in the future.
+    It's not currently possible to post anonymously to a discussion or to subscribe for notifications of when posts are made. However, these features will be available in the future. For now we recommend [using a Padlet board for anonymous discussions, or discussions you need to subscribe to](https://vle-support.york.ac.uk/padlet/padlet-discussion-alternative/).
 
 ### Video Steps
 
