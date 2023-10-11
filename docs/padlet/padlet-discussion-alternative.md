@@ -24,7 +24,7 @@ For general information on using and setting up Padlets , see the University of 
 - What different layout options are available
 - How to create a padlet and share it with your students
 - How to post to a padlet
-- How to use Padlet on a module device.
+- How to use Padlet on a mobile device.
 
 The rest of this guide covers specifics to help with using Padlet as a discussion board replacement.
 

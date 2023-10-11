@@ -47,12 +47,10 @@ tags:
   
 1. Follow steps 1-4 as shown in the first scenario.
 2. Select **move** from the options which appear.
-![Annotated screenshot showing drop down menu of module folders](Images/ongoing-media-7.png)
 3. To select more videos check the relevant check boxes, or click the check box above the video list to select all videos.
 4. Search for your Ongoing Media folder. This will either contain the name of your module or the SITS module code (eg Ongoing Media: MAN00001H). 
 ![Annotated screenshot showing drop down menu of module folders](Images/ongoing-media-5.png)
 5. Click **Move**. 
-![Annotated screenshot showing drop down menu of module folders](Images/ongoing-media-8.png)
 
 !!! Tip
      If your department has an Ongoing Module Media storage area set up, this can also be located from the **Browse** menu in Panopto by selecting your department name, Ongoing Media then Ongoing Module Media.
