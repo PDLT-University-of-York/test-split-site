@@ -55,7 +55,7 @@ To edit your notification settings, select ‘Show user menu’ and ‘User sett
 
 Select ‘Notifications’ to view and adjust your settings.  
 
-There are checkboxes to allow you to switch on or off notifications via email or via ‘push’ notifications which will appear in your browser if these are supported and enabled in your browser.  You can alter your ‘General notifications’ to, for example, trigger an email when a post is waiting for your approval or when someone comments on a post you have added.  You can also use the ‘Padlets’ notification settings to change your settings for specific padlets.  You will see a list of all the Padelts you have created and be given an option to ‘Follow’ or ‘Unfollow’ each.  You can select the ‘Email’ checkboxes to receive notifications on ‘followed’ padlets for new posts, comments, and reactions.
+There are checkboxes to allow you to switch on or off notifications via email or via ‘push’ notifications which will appear in your browser if these are supported and enabled in your browser.  You can alter your ‘General notifications’ to, for example, trigger an email when a post is waiting for your approval or when someone comments on a post you have added.  You can also use the ‘Padlets’ notification settings to change your settings for specific padlets.  You will see a list of all the Padlets you have created, and be given an option to ‘Follow’ or ‘Unfollow’ each.  You can select the ‘Email’ checkboxes to receive notifications on ‘followed’ Padlets for new posts, comments, and reactions.
 
 ![decorative](images/padlet-notification-settings.png)
 
