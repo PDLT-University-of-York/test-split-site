@@ -6,17 +6,16 @@ tags:
 
 # Adding Images to Learning Modules
 
-
+!!! Summary
 
     You can choose to add an image to a Learning Module.  This will appear on the left of the module on the course content page, helping to make the site more visually appealing whilst also aiding navigation.
 
-![Learning module with image on the left hand side](images/Learning_module_image_final.png)
-
-"Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
     - Section 3: Module materials & site content
     - 2.2 Essential: Materials within sections are clearly organised so content is easy to find.
 
+![Learning module with image on the left hand side](images/Learning_module_image_final.png)
 
 ## Quick Start Guide
 
@@ -26,25 +25,13 @@ tags:
 <!-- Use **bold** to highight key tasks and features -->
 
 1. Click the three dots to the right of the learning module on your course content page. Click Edit to show the learning module editing window.
-
 ![Image of the three dots in top right of the learning module and 'edit' option on the dropdown menu](images/Learning_module_click_three_dots.png)
-
-
 2. Click the image icon/’Add Image’ and upload an image. JPEG and PNG formats are supported.
-
 ![Image of 'Add image' hyperlink in centre of editing panel](<images/Learning module_add image.png>)
-
-
 3. A preview of the image appears. Click Next to continue or delete the image by selecting the bin icon.
-
 ![Image of editing window for the learning module](images/Learning_module_editing_window.png)
-
-
 4. Select the area of the image that you would like to appear on the Learning Module. You can adjust the zoom of the image using the slider. Click Save to continue.
-
 ![Image of the image editor](<images/Learning module_image editor.png>)
-
-
 5. Remember to click Save again at the bottom of the editing window, to save the changes to the learning module.
 
 
