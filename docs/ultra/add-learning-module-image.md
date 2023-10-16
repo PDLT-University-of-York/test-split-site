@@ -15,24 +15,22 @@ tags:
     - Section 3: Module materials & site content
     - 2.2 Essential: Materials within sections are clearly organised so content is easy to find.
 
-![Learning module with image on the left hand side](images/Learning_module_image_final.png)
-
-## Quick Start Guide
+<br> ![Learning module with image on the left hand side](images/Learning_module_image_final.png)
 
 ### Text Steps
 
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-1. Click the three dots to the right of the learning module on your course content page. Click Edit to show the learning module editing window.
-![Image of the three dots in top right of the learning module and 'edit' option on the dropdown menu](images/Learning_module_click_three_dots.png)
-2. Click the image icon/’Add Image’ and upload an image. JPEG and PNG formats are supported.
+1. Click the **three dots** to the right of the learning module on your course content page. Click **Edit** to show the learning module editing window. <br> 
+![Image of the three dots in top right of the learning module and 'edit' option on the dropdown menu](images/Learning_module_click_three_dots.png) 
+2. Click the **image icon / ’Add Image’** and upload an image. JPEG and PNG formats are supported. <br> 
 ![Image of 'Add image' hyperlink in centre of editing panel](<images/Learning module_add image.png>)
-3. A preview of the image appears. Click Next to continue or delete the image by selecting the bin icon.
+3. A preview of the image appears. Click **Next** to continue or delete the image by selecting the bin icon. <br> 
 ![Image of editing window for the learning module](images/Learning_module_editing_window.png)
-4. Select the area of the image that you would like to appear on the Learning Module. You can adjust the zoom of the image using the slider. Click Save to continue.
+4. Select the area of the image that you would like to appear on the Learning Module. You can adjust the zoom of the image using the slider. Click **Save** to continue. <br> 
 ![Image of the image editor](<images/Learning module_image editor.png>)
-5. Remember to click Save again at the bottom of the editing window, to save the changes to the learning module.
+5. Remember to click **Save** again at the bottom of the editing window, to save the changes to the learning module. <br> 
 
 
 ## Accessiblity
