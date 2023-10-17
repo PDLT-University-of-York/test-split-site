@@ -39,14 +39,14 @@ Set Up:
 - [Setting up a TFS submission point for **formative** assessments](https://docs.google.com/document/d/11IHYnAW6wef05kZ41BAqU9gO4nuyB1CgvQ1cW9IwjOA/edit?usp=sharing)
 - [Setting up a TFS submission point for **summative** assessments](https://docs.google.com/document/d/1oD9M72-Nhsq2X07TSxuZ0Rk5AkhmskRc37RVw6WZ4IE/edit?usp=sharing)
 - [Creating, importing and exporting grading forms or rubrics](https://docs.google.com/document/d/1fctlNtGpgjerdEYReGtMwLvSWRF_y2RkWSbSMPigGWg/edit?usp=sharing)
-- Setting up Groups to manage extensions, flagging and multiple markers (note: this can also be acheived via the Assignment Tracker, detailed further down this page)
+- Setting up Groups to manage extensions, flagging and multiple markers (note: this can also be acheived via the Assessment Tracker, detailed further down this page)
     - [Group creation via the Ultra interface](https://docs.google.com/document/d/1PwAKBp5zMpmABjTgyuNYtPyuJgBMSkxnHtH9gmJw__E)
     - [Group creation via CSV spreadsheet upload](https://docs.google.com/document/d/1Qvp8gtv8INZOn_Ns4tbJuFJjIu9edDB6hV7oOYpLdoc).
 
 </br>
-The Assignment Tracker:
+The Assessment Tracker:
 
-To assist with the oversight and management of assessments, the Assignment Tracker has been created.
+To assist with the oversight and management of assessments, the Assessment Tracker has been created.
 
 - [Overview and aims of the Tracker](https://docs.google.com/document/d/1a6xEou9-1hjE0Axex4cAXTfjcwEfeko1NIe80H00U3Y)
 - [Setting up the Tracker workbook](https://docs.google.com/document/d/1aSeEscyYEjjFhMdr-uynhGbCLUZCIyCc7BcR30Ag5yw)
