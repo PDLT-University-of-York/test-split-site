@@ -40,6 +40,12 @@ The learning module is automatically marked as decorative, which hides the banne
 
 ![Image of learning module editing window, option to add alternative text](images/Learning_module_editing_window_accessibility.png)
 
+## Creating icons
+
+[Guides on image manipulation to create an icon](https://drive.google.com/drive/folders/0BzxHfs7XbRU8ZFlxRFNVaS00NTg?resourcekey=0-1sMAmx9mux1BL9ArThGsPw&usp=share_link)
+
+[Images for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
+
 
 ## Sourcing images
 
