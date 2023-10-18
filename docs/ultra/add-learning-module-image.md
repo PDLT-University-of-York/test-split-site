@@ -42,7 +42,7 @@ The learning module is automatically marked as decorative, which hides the banne
 
 ## Creating icons
 
-[Guides on image manipulation to create an icon](https://drive.google.com/drive/folders/0BzxHfs7XbRU8ZFlxRFNVaS00NTg?resourcekey=0-1sMAmx9mux1BL9ArThGsPw&usp=share_link)
+[Guides on image manipulation to create an icon](https://subjectguides.york.ac.uk/media/images)
 
 [Images for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
 
