@@ -15,13 +15,13 @@ tags:
     Ultra Assignments are the default assignment submission and marking tool built into the Learn VLE (vle.york.ac.uk). They are predominantly used for formative assessments, but can also be used for summative assessments where anonymity isn't required. Key differences between Ultra Assignments and TurnItIn Feedback Studio (TFS) are that Ultra Assignments can facilitate group submissions from students, and can be used for doubleblind marking.
 
 ## Overview / Introduction
-Ultra assignments are similar to "Standard Assignments" used on Original Learn VLE sites before the 2023/24 academic year. They can receive many types of file, from text and slide decks to video and audio, and receive files up to 2GB in size, however for the best student experience we suggest that students are advised not to submit something more than 100MB in size.
+Ultra assignments are similar to "Standard Assignments" used on Original Learn VLE sites before the 2023/24 academic year. They can receive many types of file, from text and slide decks to (low res) video and audio, and receive files up to 2GB in size, however for the best student experience we suggest that students are advised not to submit something more than 100MB in size.
 
 The Ultra Assignments tool *does* techncally allow anonymous submissions, however we do not encourage use of this tool anonymously as it can:
 1. Be turned off with a single button click, and cannot then be turned back on
 2. Limit the marking tools and filtering options available.
 
-Other assignment submission tools are available, as detailed on [our eAssessment hub page](https://vle-support.york.ac.uk/eassessment/).
+Other assignment submission tools are available, particularly around video and audio assessments, as detailed on [our eAssessment hub page](https://vle-support.york.ac.uk/eassessment/).
 
 ## Important - Before You Begin
 Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using assignment submission points on the VLE.
