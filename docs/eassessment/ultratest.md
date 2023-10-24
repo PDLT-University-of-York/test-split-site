@@ -16,7 +16,7 @@ tags:
 
 
 ## Important - Before You Begin
-Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using assignment submission points on the VLE.
+Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using tests on the VLE.
 
 Additionally, if you want to deploy a test and 
 
