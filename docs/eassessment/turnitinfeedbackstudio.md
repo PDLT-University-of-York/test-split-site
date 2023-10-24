@@ -22,6 +22,9 @@ Below is a video overview of TurnItIn Feedback Studio, [if you prefer you can op
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Important - Before You Begin
+Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using assignment submission points on the VLE.
+
 ## Student Guidance
 [Student guides are hosted on our student support webpages](https://subjectguides.york.ac.uk/learning-tech), but for staff reference here are our key resources for students around TFS:
 

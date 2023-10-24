@@ -165,8 +165,9 @@ nav:
   - eAssessment:
     - eassessment/index.md
     - Important Things to Know: eassessment/importanteassessment.md
-    - Which eAssessment Tool: eassessment/whicheassessmenttool.md
-    - TurnItIn Feedback Studio: eassessment/turnitinfeedbackstudio.md
+    - Which eAssessment Tool?: eassessment/whicheassessmenttool.md
+      - TurnItIn Feedback Studio: eassessment/turnitinfeedbackstudio.md
+      - Ultra Assignment: eassessment/ultraassignment.md
     - Anon Assign End of Life: eassessment/anonassigneol.md
     - Staff eAssessment Training: eassessment/trainingeassessment.md
   - Other Tools:
