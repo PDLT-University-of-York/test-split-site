@@ -36,9 +36,22 @@ Ensure that you are up to date with [our "Important Things to Know"](https://vle
 ## Staff Guidance
 As Ultra Assignments are used for formatives, or summatives without anonymity, less involvement is expected in the set up and use of Ultra Assignments from teachin department admin' staff (in comparison to summatives run via TurnItIn Feedback Studio).
 
+</br>
+Set Up:
+
 - [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments) - Guidance for setting up and using **formative or non-anonymous** summative submission points where students are submitting their own work, not as part of a group project
-- [Staff Help: Formative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/12prcsksWPTEzuP4d9QOnjH9l4zHjGwRZsP99QU8hyTw/edit?usp=sharing) - Guidance for setting up and using **formative** submission points where students are submitting on behalf on a group, as part of a group project.
-- [Staff Help: Summative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/1MTc5SYuvoAgWxPIQKfW0K1hDqLA3U8rA00czaeFeDs0/edit) - Guidance for setting up and using **summative** submission points where students are submitting on behalf on a group, as part of a group project.
+- [Staff Help: Formative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/12prcsksWPTEzuP4d9QOnjH9l4zHjGwRZsP99QU8hyTw/edit?usp=sharing) - Guidance for setting up and using **formative** submission points where students are submitting on behalf of a group, as part of a group project.
+- [Staff Help: Summative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/1MTc5SYuvoAgWxPIQKfW0K1hDqLA3U8rA00czaeFeDs0/edit) - Guidance for setting up and using **summative** submission points where students are submitting on behalf of a group, as part of a group project.
+
+</br>
+Marking:
+
+- The "Flex Grading" interface was brought in in Autumn 2023, to improve the experience of marking Ultra Assignment submissions online. [Details for using Flex Grading can be accessed here](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments/FlexGradingAssignments).
+- Multiple Markers: There are several ways to facilitate multiple markers on Ultra Assignment submission points, which largely comes down to whether you are happy with markers seeing each other's marking or not:
+
+    - If it **is** acceptable that markers see each other's marking, consider [setting up marking groups](https://vle-support.york.ac.uk/ultra/groups/) and then advising marks to [filter their gradebook view](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Views_of_the_Gradebook#:~:text=The%20grid%20view%20provides%20an%20overview) to just their group(s)
+    - If it **is not** acceptable that markers see each other's marking, utilise [parallel grading functionality](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments/Grade_Assignments/ULTRA_Parallel_Grading#ultra_workflow).
+    - We would recommend [contacting us](https://vle-support.york.ac.uk/contact-us/) for guidance when multiple markers are in play.
 
 ## Further Help
 
