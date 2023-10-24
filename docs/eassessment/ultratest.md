@@ -12,7 +12,7 @@ tags:
 
 !!! Summary
 
-    The Learn VLE (vle.york.ac.uk) has a build in test engine, where different question types can be built and given to students. We strongly advised against using this tool for summative assessment - more details below.
+    The Learn VLE (vle.york.ac.uk) has a build in test engine, where different question types can be built and given to students. We strongly advise you to consult with our team (DET) if you are planning to use this for summative assessment - see below.
 
 
 ## Important - Before You Begin
