@@ -28,15 +28,18 @@ Ensure that you are up to date with [our "Important Things to Know"](https://vle
 
 ## Student Guidance
 [Student guides are hosted on our student support webpages](https://subjectguides.york.ac.uk/learning-tech), but for staff reference here are some key resources for students around Ultra Assignment:
+
 - [Student Help: Ultra Assignments - UoY Guide](https://docs.google.com/document/d/1xyXtHK6XGxiw0p7YHDJaO1bVRJz95DKSrug4fZ5pidg/edit?usp=sharing)
 - [Student Help: Ultra Assignments - Blackboard’s Own Guide](https://help.blackboard.com/Learn/Student/Ultra/Assignments/Submit_Assignments)
 - [Overview: Submitting Assignments on the Learn VLE](https://docs.google.com/document/d/1gfcg8hrnhSHScDBrAv_WYoeROwt1z3wgyH10Ue0VlGM/edit?usp=sharing) - includes troubleshooting, FAQs and more.
 
 ## Staff Guidance
 As Ultra Assignments are used for formatives, or summatives without anonymity, less involvement is expected in the set up and use of Ultra Assignments from teachin department admin' staff (in comparison to summatives run via TurnItIn Feedback Studio).
+
 - [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments) - Guidance for setting up and using **formative or non-anonymous** summative submission points where students are submitting their own work, not as part of a group project
 - [Staff Help: Formative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/12prcsksWPTEzuP4d9QOnjH9l4zHjGwRZsP99QU8hyTw/edit?usp=sharing) - Guidance for setting up and using **formative** submission points where students are submitting on behalf on a group, as part of a group project.
 - [Staff Help: Summative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/1MTc5SYuvoAgWxPIQKfW0K1hDqLA3U8rA00czaeFeDs0/edit) - Guidance for setting up and using **summative** submission points where students are submitting on behalf on a group, as part of a group project.
 
 ## Further Help
+
 - [Available eAssessment Staff Training (Semester 1 2023/24)](https://vle-support.york.ac.uk/ultra/workshop-calendar/).
