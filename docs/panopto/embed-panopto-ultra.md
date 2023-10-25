@@ -28,7 +28,7 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 ![Annotated screenshot adding content to content area](Images/embed-video-9.png)
 3. From the listed available tools, select **Panopto**. 
 ![Annotated screenshot of Panopto tool](Images/embed-video-2.png)
-4. You will see any video content uploaded to your course’s folder. Select the video you wish to embed. You can also upload and record directly in to this folder.
+4. You will see any video content uploaded to your course’s folder. Select the video you wish to embed. You can also upload and record directly in to this folder. Note: You can also use the search box in the top left of this window to search for and access an Ongoing Media folder if you have one (just search for "Ongoing Media").
 5. Click **Insert**. 
 ![Annotated screenshot of selecting a Panopto video ](Images/embed-video-3.png)
 6. Should you wish to apply further embed options, click the downward facing arrow next to **Video Embed Options**. Choose the options you wish to apply to your video. 
@@ -52,6 +52,8 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 7. From the page that now appears, select **Panopto**.
 ![Annotated screenshot of Panopto tool](Images/embed-video-2.png)
 8. Select the video you want to embed by clicking the small radial button to the immediate left of the video. Click **Insert**
+
+
 ![Annotated screenshot of selecting a Panopto video ](Images/embed-video-3.png)
 9. You will be prompted for a display name of the video. The default is the original name of the video. Click **Insert**.
 ![Annotated screenshot of renaming Panopto video ](Images/embed-video-4.png)
