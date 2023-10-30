@@ -16,7 +16,7 @@ tags:
 
 ## Video Steps
 
-Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/tdaSl74psNY). 
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://https://youtu.be/VkfMJz94yYo?si=v3_lMi2vU3zuTQJx). 
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdaSl74psNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -96,6 +96,8 @@ Then follow one of the methods below.
 
 Manually choose which students are assigned to each group.
 
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/poPnzkIHrto?si=SUhDQ-aB_IEwH5Ws)
+
 1. Next to **Group students**, select **Custom** from the drop-down menu (this is the default option).</br>
 ![Custom is the first option in the group students drop down menu](images/groups-custom-assign.png)
 2. Under the student names, click the plus icon to create groups. Alternatively, you can create groups later.</br>
@@ -113,6 +115,8 @@ Manually choose which students are assigned to each group.
 
 Randomly assign students to evenly-sized groups.
 
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/zCn57Zsox3A?si=-ho-oU7v-9I1y-as)
+
 1. Next to **Group students**, select **Randomly assign** from the drop-down menu.</br>
 ![Randomly assign is the second option in the group students drop down menu](images/groups-randomly-assign.png)
 2. Next to **Number of groups**, select your desired number of groups from the drop-down menu. Each option shows the resulting group size.</br>
@@ -126,6 +130,8 @@ Randomly assign students to evenly-sized groups.
 ### Self enrol
 
 Students choose which group to join (eg. the project topic they want to do).
+
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/Wy4jphm73n0?si=Aou104ZYkAP1Bsc_)
 
 1. Use the **visibility menu** in the top right to make the group set visible to students.</br>
 ![Visibility drop-down menu showing default hidden from students setting](images/groups-visibility-group-set.png)
