@@ -31,6 +31,11 @@ To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'
 [Slides: Ultra Essentials - prepare your Ultra module site](https://docs.google.com/presentation/d/1jp1btdihtcgBDqnK44SONhxwtKqiIFDt4TmkR28KsiI/edit?usp=sharing) 
 
 ## Workshop videos
+### Full Workshop Recording:
+Watch a full workshop covering parts 1,2,3 and 4  via panpoto
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0d8003bb-20ad-404f-b364-b09800e1de01&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+[Video - Full Workshop: VLE Ultra Essentials]
 
 ### Part 1: VLE Site Design Principles
 
@@ -55,9 +60,15 @@ An introduction to the Ultra module site template, including features, structure
 
 ### Part 4: Preparing your module site
 
+
+
 Editing the template, building content and reusing content from Original sites.
 
+
 **Recording coming soon**
+
+
+
 
 
 ## Other useful guides
