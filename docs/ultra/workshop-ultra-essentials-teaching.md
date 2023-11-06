@@ -32,7 +32,7 @@ To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'
 
 ## Workshop videos
 ### Full Workshop Recording:
-Watch a full workshop covering parts 1,2,3 and 4  via panpoto
+Watch a full workshop covering parts 1,2,3 and 4 via panpoto
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0d8003bb-20ad-404f-b364-b09800e1de01&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 [Video - Full Workshop: VLE Ultra Essentials]
