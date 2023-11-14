@@ -80,7 +80,7 @@ Guidance for markers is available via a video playlist: [Marker YouTube Playlist
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=vGnqjvvknkWj_2hG&amp;list=PLF2Nvo3TL30sMFkR3o7GRE3gISurVs6bZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-We also have a Turnitin marker support group, which run drop-in sessions if you need further marker related help and guidance. You can see further information [here](https://vle-support.york.ac.uk/ultra/workshop-turnitin-marker-support/)
+We also have a Turnitin marker support group, which run drop-in sessions if you need further marker related help and guidance. You can see further information [here.](https://vle-support.york.ac.uk/ultra/workshop-turnitin-marker-support/)
 
 ## Moderator Guidance
 
