@@ -10,10 +10,10 @@ tags:
 
 # Turnitin Marker Support Drop-in Sessions
 
-We are running regular drop-in sessions for all colleagues using Turnitin Feedback Studio, particularly if you have any questions on how to use Turnitin Feedback studio to mark submissions. DET staff will be present throughout each session, and can help with:
+We are running regular drop-in sessions for all colleagues using Turnitin Feedback Studio (TFS), particularly if you have any questions on how to use Turnitin Feedback studio to mark submissions. DET staff will be present throughout each session, and can help with:
 
-* General TIFS marker troubleshooting
-* Assisting in using specific TIFS marker tools
+* General TFS marker troubleshooting
+* Assisting in using specific TFS marker tools
 * Answering any marker related questions you may have
 
 One key thing to note, this is a technical support group; if you need Turnitin feedback studio marker training please visit the workshop calendar, and sign up to the bitesize session
