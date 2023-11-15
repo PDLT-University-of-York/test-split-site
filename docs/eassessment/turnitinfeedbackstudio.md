@@ -49,7 +49,7 @@ Set Up:
 </br>
 The Assessment Tracker:
 
-To assist with the oversight and management of assessments, the Assessment Tracker has been created.
+To assist with the oversight and management of large cohort **summative** assessments, the Assessment Tracker has been created.
 
 - [Overview and aims of the Tracker](https://docs.google.com/document/d/1a6xEou9-1hjE0Axex4cAXTfjcwEfeko1NIe80H00U3Y)
 - [Setting up the Tracker workbook](https://docs.google.com/document/d/1aSeEscyYEjjFhMdr-uynhGbCLUZCIyCc7BcR30Ag5yw)
@@ -76,7 +76,7 @@ Other Tasks:
 
 
 ## Marker Guidance
-Guidance for markers is available in video and written form:
+Guidance for markers is available in video and written format:
 
 - Written Guides:
     - [Marking - Accessing a TurnItIn submission point, viewing the Assignment Inbox and selecting work to mark](https://docs.google.com/document/d/1hvUIpmamEbZGPlaLuauEfSjuoDULz15mXK-blQUzJEw)
