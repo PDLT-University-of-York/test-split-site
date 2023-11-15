@@ -76,7 +76,14 @@ Other Tasks:
 
 
 ## Marker Guidance
-Guidance for markers is available via a video playlist: [Marker YouTube Playlist](https://www.youtube.com/playlist?list=PLF2Nvo3TL30sMFkR3o7GRE3gISurVs6bZ#blog). This same [Marker playlist is also available via Panopto](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?pid=f234aa73-e866-4767-bd74-b03e011df422) if you prefer.
+Guidance for markers is available in video and written form:
+
+- Written Guides:
+    - [Marking - Accessing a TurnItIn submission point, viewing the Assignment Inbox and selecting work to mark](https://docs.google.com/document/d/1hvUIpmamEbZGPlaLuauEfSjuoDULz15mXK-blQUzJEw)
+    - [Marking - TurnItIn Feedback Studio's interface](https://docs.google.com/document/d/1q7pqTG4mSeJkgTOIH0_2P3VpUpG59wolypTsdNduq60)
+    - [Marking - Providing feedback and a mark with TurnItIn Feedback Studio](https://docs.google.com/document/d/1COooldTW-4t5GBUE8Etn_nKNM7NVPtD-ghpqecSFkZA)
+    - [Marking - Bulk Downloading Submissions](https://docs.google.com/document/d/1PW4-gjKXJH4NiJ4VyZ8-NMOvk9oldv1fhZfOBfZALzc)
+- Videos Guides: [Marker YouTube Playlist](https://www.youtube.com/playlist?list=PLF2Nvo3TL30sMFkR3o7GRE3gISurVs6bZ#blog) (also [available on Panopto](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?pid=f234aa73-e866-4767-bd74-b03e011df422) if preferred).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=vGnqjvvknkWj_2hG&amp;list=PLF2Nvo3TL30sMFkR3o7GRE3gISurVs6bZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
