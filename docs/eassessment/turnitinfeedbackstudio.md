@@ -47,7 +47,7 @@ Set Up:
     - [Group creation via CSV spreadsheet upload](https://docs.google.com/document/d/1Qvp8gtv8INZOn_Ns4tbJuFJjIu9edDB6hV7oOYpLdoc).
 
 </br>
-The Assessment Tracker:
+The Assessment Tracker (summatives only):
 
 To assist with the oversight and management of large cohort **summative** assessments, the Assessment Tracker has been created.
 
