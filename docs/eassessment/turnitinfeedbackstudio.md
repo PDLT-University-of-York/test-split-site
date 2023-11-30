@@ -79,6 +79,7 @@ Other Tasks:
 Guidance for markers is available in video and written format:
 
 - Written Guides:
+    - [Marking - Creating Accessible Feedback in Turnitin](https://docs.google.com/document/d/1u0JEVnvRDALeKZOeOV-rFo58VN_hKLxe-stwdKE_gLc/edit?usp=sharing)
     - [Marking - Accessing a TurnItIn submission point, viewing the Assignment Inbox and selecting work to mark](https://docs.google.com/document/d/1hvUIpmamEbZGPlaLuauEfSjuoDULz15mXK-blQUzJEw)
     - [Marking - TurnItIn Feedback Studio's interface](https://docs.google.com/document/d/1q7pqTG4mSeJkgTOIH0_2P3VpUpG59wolypTsdNduq60)
     - [Marking - Providing feedback and a mark with TurnItIn Feedback Studio](https://docs.google.com/document/d/1COooldTW-4t5GBUE8Etn_nKNM7NVPtD-ghpqecSFkZA)
