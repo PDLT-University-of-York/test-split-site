@@ -16,10 +16,10 @@ tags:
 
 ## Video Steps
 
-Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://https://youtu.be/VkfMJz94yYo?si=v3_lMi2vU3zuTQJx). 
+Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=VkfMJz94yYo&t=9s). 
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tdaSl74psNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkfMJz94yYo?si=f4k2c5Jdzb5ZCWCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
  
 ## Why use groups?
@@ -96,7 +96,10 @@ Then follow one of the methods below.
 
 Manually choose which students are assigned to each group.
 
-Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/poPnzkIHrto?si=SUhDQ-aB_IEwH5Ws)
+Below is an embedded video showing how to manually assign students to Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=poPnzkIHrto&t=18s). 
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poPnzkIHrto?si=GDdb57DZX-0TPktM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 1. Next to **Group students**, select **Custom** from the drop-down menu (this is the default option).</br>
 ![Custom is the first option in the group students drop down menu](images/groups-custom-assign.png)
@@ -115,7 +118,10 @@ Below is an embedded video showing how to set up Groups in Ultra. Alternatively,
 
 Randomly assign students to evenly-sized groups.
 
-Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/zCn57Zsox3A?si=-ho-oU7v-9I1y-as)
+Below is an embedded video showing how to randomly assign students to Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=zCn57Zsox3A&t=8s). 
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCn57Zsox3A?si=zz-6XQCIG6CD2IJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 1. Next to **Group students**, select **Randomly assign** from the drop-down menu.</br>
 ![Randomly assign is the second option in the group students drop down menu](images/groups-randomly-assign.png)
@@ -131,7 +137,10 @@ Below is an embedded video showing how to set up Groups in Ultra. Alternatively,
 
 Students choose which group to join (eg. the project topic they want to do).
 
-Below is an embedded video showing how to set up Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://youtu.be/Wy4jphm73n0?si=Aou104ZYkAP1Bsc_)
+Below is an embedded video showing how to randomly assign students to Groups in Ultra. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=Wy4jphm73n0). 
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy4jphm73n0?si=oCDHD8H8X9mSa-Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 1. Use the **visibility menu** in the top right to make the group set visible to students.</br>
 ![Visibility drop-down menu showing default hidden from students setting](images/groups-visibility-group-set.png)
