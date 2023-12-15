@@ -55,8 +55,6 @@ Follow steps 1 to 3 above to View everyone on your course > click the + sign.
     5. Note the username which will appear as something like ‘group.people.dept_00##.atree_##’ 
 
 ## Further Help
-The error "**No results found. Check the spelling and try again.**" can mean a few things:
-
 * View our [Ultra and other tools help pages](https://vle-support.york.ac.uk/).
 * See our ["Introduction to Learning Technologies" Help Pages](https://subjectguides.york.ac.uk/learning-tech)
 * [Contact Us, the Digital Education Team](https://elearningyork.wordpress.com/contact/).
