@@ -34,7 +34,8 @@ Additionally, if you want to deploy a test and
 
 ## Staff Guides
 
-- [Staff Help: Ultra Test Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys)
+- [Staff Help: General Ultra Test Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys)
+- [Staff Help: Considerations Around & Setting up a **Summative** VLE Test](https://docs.google.com/document/d/1sn85oHTEuxNuw3_6R_TqdGlgrlWAgyCEtv7FXyd0his/edit?usp=sharing)
 - Please Note: 
     - There are numerous question types available, including multiple choice, fill in the blank, and "hot spot" image questions; some types automatically mark themselves
     - You can [create and import test questions via a spreadsheet](https://docs.google.com/spreadsheets/d/17G_QC4bgFbiLmgIFyIl-jOfLbLLFr8yAxCMF3flwGoM/edit?usp=sharing) rather than the VLE interface if desired. 
