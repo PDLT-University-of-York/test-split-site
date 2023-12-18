@@ -65,11 +65,11 @@ Editing the template, building content and reusing content from Original sites.
 
 
 
-#### Part 4B - Building content
+#### Part 4b - Building content
 
 **4b building content coming soon**
 
-#### Part 4C - Reusing module content
+#### Part 4c - Reusing module content
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7voZAnYNvhU" title="Ultra Essentials Part 4C - Reusing Module Content" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
