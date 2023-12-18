@@ -62,7 +62,7 @@ Editing the template, building content and reusing content from Original sites.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LB7958rPcD8" title="Ultra Essentials Part4a - Edit, Delete and Move Content" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[Video - Part 4a: Edit, Delete and Move Content](https://youtu.be/LB7958rPcD8)
 
 
 #### Part 4b - Building content
@@ -72,7 +72,7 @@ Editing the template, building content and reusing content from Original sites.
 #### Part 4c - Reusing module content
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7voZAnYNvhU" title="Ultra Essentials Part 4C - Reusing Module Content" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[Ultra Essentials Part 4C - Reusing Module Content](https://youtu.be/7voZAnYNvhU)
 
 ### Full Workshop Recording:
 Watch a full workshop covering parts 1,2,3 and 4 via panpoto (you maybe required to sign in to view this).
