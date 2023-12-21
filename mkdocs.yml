@@ -177,6 +177,8 @@ nav:
     - Staff eAssessment Training: eassessment/trainingeassessment.md
   - Other Tools:
     - othertools/index.md
+    - Ally:
+      - ally/index.md
     - Canvas VLE:
       - canvas/index.md
     - Mentimeter Polling:
