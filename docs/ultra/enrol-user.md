@@ -19,7 +19,7 @@ Below is an embedded video demonstrating how to enrol a user on your Learn Ultra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uswRGaGMGEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-### Text Steps
+## Text Steps
 
 1. Under the **Details & Actions** menu, select **Class register/View everyone on your course**.</br>
 ![Details & Actions menu showing Class register and people icon with 'View everyone on your course' text link below](images/enrol-user-class-register-menu.png)
@@ -36,10 +36,21 @@ The user will be able to see and access your course straight away from [their Le
 !!! Tip
     Students are enrolled on sites automatically through the SITS module code, so you are unlikley to need to enrol students manually.
 
-## More Details and Troubleshooting 
+### More Details and Troubleshooting 
 
 The error "**No results found. Check the spelling and try again.**" can mean a few things:
 
 1. There's an error in the search term; check and try again.
 2. The user is already enrolled on your site and able to access it. Check by searching for them in the class register, using the magnifying glass button in the top right.
 3. The user may have been enrolled on the course in the past but then been removed; this blocks them from being re-enrolled, please contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) and we can re-enrol them for you.
+
+## A Note About The "Course Staff" Pane
+By default, instructors are listed in the module under the 'Course staff' header in alphabetical order. To ensure that the module leader or core teaching team members are displayed first, you can allocate 'primary instructor' status to one or more instructors using the steps below.
+
+[Screenshot indicating location of the "Course Staff" pane on an Ultra VLE site; it appears to the top left of the page, just under the course banner](images/enrol-user-course-staff.png)
+
+1. Select the 'View everyone on your course' link under the 'Class register' item in the 'Details & Actions' menu.
+2. Find the instructor in the list to whom you would like to allocate primary instructor status and click on 'Edit member information' from the contextual menu link alongside their name.
+3. Select the 'Primary instructor checkbox and 'Save'.
+
+Primary instructors will be moved to the top of the course staff list, and the rest will be moved out of site.
