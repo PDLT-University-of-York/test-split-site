@@ -31,7 +31,8 @@ Ensure that you are up to date with [our "Important Things to Know"](https://vle
 
 - [Student Help: Ultra Assignments - UoY Guide](https://docs.google.com/document/d/1xyXtHK6XGxiw0p7YHDJaO1bVRJz95DKSrug4fZ5pidg/edit?usp=sharing)
 - [Student Help: Ultra Assignments - Blackboard’s Own Guide](https://help.blackboard.com/Learn/Student/Ultra/Assignments/Submit_Assignments)
-- [Overview: Submitting Assignments on the Learn VLE](https://docs.google.com/document/d/1gfcg8hrnhSHScDBrAv_WYoeROwt1z3wgyH10Ue0VlGM/edit?usp=sharing) - includes troubleshooting, FAQs and more.
+- [Overview: Submitting Assignments on the Learn VLE](https://docs.google.com/document/d/1gfcg8hrnhSHScDBrAv_WYoeROwt1z3wgyH10Ue0VlGM/edit?usp=sharing) - includes troubleshooting, FAQs and more
+- [Submission Issue Troubleshooting & Solutions](https://docs.google.com/document/d/183xb1tr7XXMGOQ6crunbUuzO6iglBdx6qDZhgOAEvXg/edit).
 
 ## Staff Guidance
 As Ultra Assignments are used for formatives, or summatives without anonymity, less involvement is expected in the set up and use of Ultra Assignments from teachin department admin' staff (in comparison to summatives run via TurnItIn Feedback Studio).

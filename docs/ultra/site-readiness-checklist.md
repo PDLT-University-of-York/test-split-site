@@ -44,6 +44,7 @@ Firstly, make sure that you and other teaching staff have access to the site.
 
     - Click Class Register under Details & Actions in the left menu and check that all other teaching staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor). 
     - If you need to enroll more staff, see our [guide to enrolling users](https://vle-support.york.ac.uk/ultra/enrol-user) or contact your departmental administrator or professional support team.
+    - If you want to change which staff appear in the "Course Staff" box on the main page of your VLE site, [see the Course Staff section of our enrolment guide](https://vle-support.york.ac.uk/ultra/enrol-user/#a-note-about-the-course-staff-pane).
 
 ## 2. Site content is ready 
 

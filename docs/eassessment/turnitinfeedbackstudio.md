@@ -29,6 +29,7 @@ Ensure that you are up to date with [our "Important Things to Know"](https://vle
 [Student guides are hosted on our student support webpages](https://subjectguides.york.ac.uk/learning-tech), but for staff reference here are our key resources for students around TFS:
 
 - [Overview: Submitting Assignments on the Learn VLE](https://docs.google.com/document/d/1gfcg8hrnhSHScDBrAv_WYoeROwt1z3wgyH10Ue0VlGM/edit?usp=sharing) - includes troubleshooting, FAQs and more
+- [Submission Issue Troubleshooting & Solutions](https://docs.google.com/document/d/183xb1tr7XXMGOQ6crunbUuzO6iglBdx6qDZhgOAEvXg/edit)
 - [Detailed Guidance on Submitting to TFS](https://docs.google.com/document/d/1DWksoJmy4nbAOZpmmTdwDzRVkaGboczShTKRvqCiDxg/edit?usp=sharing).
 
 Below is a video for students on how to submit to TurnItIn Feedback Studio, [if you prefer you can open the "how to submit" student video in another tab using this link](https://www.youtube.com/watch?v=Vn7_VpucR-s).
