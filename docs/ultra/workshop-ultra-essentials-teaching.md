@@ -67,7 +67,7 @@ Editing the template, building content and reusing content from Original sites.
 
 #### Part 4b - Building content
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RScusBm0tSc" title="Ultra Essentials Part 4b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RScusBm0tSc" title="Ultra Essentials Part 4b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Video - Part 4b: Building Content](https://youtu.be/RScusBm0tSc)
 
 #### Part 4c - Reusing module content
