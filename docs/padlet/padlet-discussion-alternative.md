@@ -20,7 +20,7 @@ However, it is not currently possible to allow students to post anonymously to a
 ## General Padlet Guidance
 For general information on using and setting up Padlets, see [the University of York Padlet page](https://subjectguides.york.ac.uk/skills/padlet). This shows you:
 
-- How to log on to Padlet (Make sure you log on to “https://uniofyork.padlet.org/ ” [NOT padlet.com]).
+- How to log on to Padlet (Make sure you log on to “[https://uniofyork.padlet.org/](https://uniofyork.padlet.org/)” [NOT padlet.com]).
 - What different layout options are available
 - How to create a padlet and share it with your students
 - How to post to a padlet
