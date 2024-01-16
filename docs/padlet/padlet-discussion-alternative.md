@@ -18,7 +18,7 @@ As described on [the discussions page](https://vle-support.york.ac.uk/ultra/disc
 However, it is not currently possible to allow students to post anonymously to a discussion in Blackboard Ultra, and it is also not possible for users to ‘subscribe’ to discussions so that they are sent an email notification when a posting is made.  This guide shows you how to use Padlet as an alternative for anonymity and subscription using Padlet. It also shows you how to set up moderation on posts.
 
 ## General Padlet Guidance
-For general information on using and setting up Padlets , see the University of York Padlet page. This shows you:
+For general information on using and setting up Padlets, see [the University of York Padlet page](https://subjectguides.york.ac.uk/skills/padlet). This shows you:
 
 - How to log on to Padlet (Make sure you log on to “https://uniofyork.padlet.org/ ” [NOT padlet.com]).
 - What different layout options are available
