@@ -93,7 +93,10 @@ We also have a Turnitin marker support group, which run drop-in sessions if you 
 
 ## Moderator Guidance
 
-- [Using the Moderator Pack](https://docs.google.com/document/d/17Jgpi4HvPiD9XnOnJGq2IOl8mI-EBkl301DY_LIhxuY/edit).
+- [Using the Moderator Pack - Written Guide](https://docs.google.com/document/d/17Jgpi4HvPiD9XnOnJGq2IOl8mI-EBkl301DY_LIhxuY/edit).
+- Video Guides:
+    - [Moderator Pack - Video Guides on Panopto](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af14242e-16e8-42ed-ab35-b0f300a0bc91) (advert free)
+    - [Moderator Pack - Video Guides on YouTube](https://youtu.be/N-hUJnE6X8o) (may contain adverts).
 
 ## Further Help
 
