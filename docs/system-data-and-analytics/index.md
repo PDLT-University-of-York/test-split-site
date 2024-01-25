@@ -5,6 +5,10 @@ tags:
     - Teaching
     - Administration
     - Ultra
+    - Panopto
+    - Canvas
+    - Padlet
+    - Mentimeter
     
 ---
 
