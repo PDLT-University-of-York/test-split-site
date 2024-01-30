@@ -68,6 +68,7 @@ Managing Submissions:
 - [Clearing a student’s submission](https://docs.google.com/document/d/1__bA3BPwWUyksE46aRDB1NN3Baa9qAxlm37DTX12Uuc)
 - [Uploading a submission on behalf of a student](https://docs.google.com/document/d/1JV0hac0ASVatOiJauHlKm2jonO2uYGQjSLmRiTzDkqM)
 - [Identifying students who haven’t made a submission using the VLE’s Gradebook](https://docs.google.com/document/d/17NILG_SwmQeCs9LPzsHnJMj9wWRkk-BrG-695KSQjDg).
+- [Converting a student's "non-searchable"/"non-selectable" PDF into a version that can be run via TurnItIn](https://docs.google.com/document/d/1Zv7SoE9w2j2YqY4-TOz_PZI4yxwIGHE9tVNjUdqFqQU/edit?usp=sharing)
 
 </br>
 Other Tasks:
