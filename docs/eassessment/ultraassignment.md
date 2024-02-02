@@ -54,6 +54,10 @@ Marking:
     - If it **is not** acceptable that markers see each other's marking, utilise [parallel grading functionality](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments/Grade_Assignments/ULTRA_Parallel_Grading#ultra_workflow).
     - We would recommend [contacting us](https://vle-support.york.ac.uk/contact-us/) for guidance when multiple markers are in play.
 
+</br>
+Other:
+- [Leave of Absence (LoA) and how it can impact submission and marking](https://docs.google.com/document/d/1gLyAEIMEfRzzzN2uSot_wKR9AkiHBVu-bxCY6gt5y68/edit#heading=h.kwjc6mnxsx6i).
+
 ## Further Help
 
 - [Available eAssessment Staff Training (Semester 1 2023/24)](https://vle-support.york.ac.uk/ultra/workshop-calendar/).
