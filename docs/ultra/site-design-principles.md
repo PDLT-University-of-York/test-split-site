@@ -140,7 +140,7 @@ Click each principle to show details, examples and guidance on implementing the 
     - To collate module materials in one location (see 3.1), direct links to Reading List sections or items can be included in weekly materials sections. (Specific instructions available soon)
     - Provide journal papers through the Reading List. Access will be given through a Shibboleth-enabled link that doesn’t need an extra sign in or the Library will provide an appropriate file-based version. Don't upload a PDF of a journal yourself.
     - Don’t provide readings by uploading PDFs, scans of printed material or other documents because this may violate copyright and is likely to be inaccessible. The Library may be able to [digitise print content](https://subjectguides.york.ac.uk/readinglists/digitisation) for you or find an appropriate version.
-    - For advice on setting up the Reading List(s) for your module or professional programme site or using third-party materials appropriately, contact the Reading List team or your Academic Liaison Librarian.
+    - For advice on setting up the Reading List(s) for your module or professional programme site or using third-party materials appropriately, contact the Reading List team or your Faculty Librarian.
 
 ??? essential "3.3 Essential: Provide up-to-date documents in an accepted file format."
 

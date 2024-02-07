@@ -108,7 +108,7 @@ Check that site content and materials are accessible, in the right place and vis
 
 ??? essential "2.6  Reading List"
 
-    Sites must use the Reading List to provide course readings, unless there is a pressing reason not to (this should be discussed with your Academic Liaison Librarian). Please ensure:
+    Sites must use the Reading List to provide course readings, unless there is a pressing reason not to (this should be discussed with your Faculty Librarian). Please ensure:
     
     - A link to the Reading List ("Reading-Lists") is included in the Course Content area.
     - The Reading List is structured in the same way as the site materials (eg. in weekly sections).
