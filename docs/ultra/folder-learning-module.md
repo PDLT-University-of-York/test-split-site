@@ -80,7 +80,7 @@ Below is an embedded video detailing how to **Create Learning Modules in the Ult
 
 
 
-## ** Adding Images to Learning Modules **
+## ** Adding Images to Learning Modules ** ##
 
 !!! Summary
 
