@@ -94,7 +94,7 @@ nav:
       # - Effective Ultra site structure: ultra/placeholder.md
       - Folders vs Learning Modules: ultra/folder-learning-module.md
     - Site aesthetics:
-      - Site banner image: ultra/course-image.md
+      - Site course image (site banner): ultra/course-image.md
       # - Learning module image: ultra/add-learning-module-image.md
       - Site renames: ultra/site-rename.md
     - Creating content:
