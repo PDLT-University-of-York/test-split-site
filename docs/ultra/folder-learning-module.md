@@ -80,7 +80,7 @@ Below is an embedded video detailing how to **Create Learning Modules in the Ult
 
 
 
-## ** Adding Images to Learning Modules ** ##
+## **Adding Images to Learning Modules** 
 
 !!! Summary
 
@@ -92,6 +92,12 @@ Below is an embedded video detailing how to **Create Learning Modules in the Ult
     - 2.2 Essential: Materials within sections are clearly organised so content is easy to find.
 
 <br> ![Learning module with image on the left hand side](images/Learning_module_image_final.png)
+
+### Video Steps
+
+Below is an embedded video detailing how to **Add Images to Learning Modules in the Ultra Course View**. Alternatively, you can [open the video in a new browser tab](https://youtu.be/3Wmyfp5i_Tw).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Wmyfp5i_Tw" title="How To Add Learning Module Icon Images To VLE Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Text Steps
 
