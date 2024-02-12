@@ -8,11 +8,12 @@ tags:
     - Ultra
 ---
 
-# Turnitin Marker Support Drop-in Sessions
+# General Ultra Support and Turnitin Marker Support Drop In
 
-We are running regular drop-in sessions for all colleagues using Turnitin Feedback Studio (TFS), particularly if you have any questions on how to use Turnitin Feedback studio to mark submissions. DET staff will be present throughout each session, and can help with:
+We are running regular drop-in sessions for all colleagues using Blackboard Ultra or Turnitin Feedback Studio (TFS), particularly if you have any questions on how to use Turnitin Feedback studio to mark submissions. DET staff will be present throughout each session, and can help with:
 
 * General TFS marker troubleshooting
+* General Blackboard Ultra troubleshooting
 * Assisting in using specific TFS marker tools
 * Answering any marker related questions you may have
 
@@ -22,7 +23,7 @@ Unlike our other workshops, the signup process is continuous for the drop-in ses
 
 ## Steps to sign up for drop-in sessions
 
-1. Find the [Turnitin Marker Support Google Group](https://groups.google.com/all-groups?q=Turnitin%20Marker)
+1. Find the [General Ultra and Turnitin Marker Support Drop In Google Group](https://groups.google.com/all-groups?q=Turnitin%20Marker)
 2. Click the **Join Group** icon
 <br> ![Annotated screenshot of the Google Groups search screen, highlighting the "Join Group" icon](images/join-group-icon-tifs-marker.jpg)<br>
 3. Click the **Join Group** button at the bottom of the window
