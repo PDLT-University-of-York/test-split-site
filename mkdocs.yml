@@ -43,6 +43,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.path
     # - navigation.expand
     # - navigation.sections
     - navigation.top
