@@ -77,14 +77,14 @@ nav:
       - Access Courses (sites): ultra/access-courses.md #new
       - Notifications: ultra/notifications.md
       - Troubleshooting common problems: help/troubleshooting.md
-    # - Moving to Ultra for 23/24:
+    # - Moving to Ultra for 23/24: #RETIRE MOST
     #   - Frequently asked questions: ultra/ultra-faq.md
     #   - Moving to Ultra for module staff: ultra/move-to-ultra.md
     #   - Differences Original - Ultra: ultra/differences-original-ultra.md
     #   - Reusing Original site content in Ultra: ultra/reuse-original-content.md
     #   # - Building an Ultra site from a template: ultra/placeholder.md
     # - Sharing Experiences of Ultra: https://elearningyork.wpcomstaging.com/2023/11/27/sharing-experiences-with-blackboard-ultra/
-    # - VLE Ultra training:
+    # - VLE Ultra training: #RETIRE/MOVE MOST
     #   - Workshop calendar: ultra/workshop-calendar.md
     #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
     #   # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
@@ -122,7 +122,7 @@ nav:
       - Managing content in shared sites: ultra/content-shared-sites.md #new
     - Communication & interaction:
       - Announcements: ultra/announcements.md
-      - Facilitating groupwork: ultra/groupwork.md #MAKE PAGE
+      - Facilitating groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
       - Course Groups: ultra/course-groups.md #REDIRECT
       - Discussions: ultra/discussions.md
       - Messages: ultra/messages-tool.md
