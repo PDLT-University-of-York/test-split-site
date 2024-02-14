@@ -256,7 +256,7 @@ plugins:
         'contact-us/usernames.md': 'help/usernames.md'
         'contact-us/ycodes.md': 'help/ycodes.md'
         'contact-us/screenshots.md': 'help/screenshots.md'
-        'tags-index.md': 'site-index.md'
+        'tags-index.md': 'help/site-index.md'
   - search
   - tags:
       tags_file: help/site-index.md
