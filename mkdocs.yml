@@ -67,7 +67,7 @@ markdown_extensions:
       title: On this page
 
 nav:
-  - Home: https://vle-support.york.ac.uk/
+  # - Home: https://vle-support.york.ac.uk/
   - Learn Ultra VLE:
     - ultra/index.md
     - Getting started with Ultra:
