@@ -11,22 +11,33 @@ theme:
   icon:
     logo: material/home-circle
     tag:
+      Key guide - tutors: simple/go
+      Key guide - admins: simple/go
+      Accessibility: octicons/accessibility-inset-16
+      Assessment: octicons/check-circle-16
+      Communication: octicons/megaphone-16
+      Interactive content: material/cursor-default-click-outline
+      Training: fontawesome/solid/school
+      Help: material/help-circle-outline
       Ultra: material/laptop
       Panopto: fontawesome/solid/video
-      ReadingList: octicons/book-16
-      Canvas: material/laptop
-      Xerte: material/monitor-edit
-      Padlet: fontawesome/brands/padlet
-      Mentimeter: material/chart-bar
-      Foundation: simple/go
-      Advanced: material/stairs-up
-      Teaching: octicons/mortar-board-16
-      Administration: fontawesome/regular/clipboard
-      Workshop: fontawesome/solid/school
-      Updates: material/new-box
-      Issues: material/alert
-      Outages: material/fire-alert
-      TurnItIn: fontawesome/regular/clipboard
+      Other tools: material/toolbox
+      # Ultra: material/laptop
+      # Panopto: fontawesome/solid/video
+      # ReadingList: octicons/book-16
+      # Canvas: material/laptop
+      # Xerte: material/monitor-edit
+      # Padlet: fontawesome/brands/padlet
+      # Mentimeter: material/chart-bar
+      # Foundation: simple/go
+      # Advanced: material/stairs-up
+      # Teaching: octicons/mortar-board-16
+      # Administration: fontawesome/regular/clipboard
+      # Workshop: fontawesome/solid/school
+      # Updates: material/new-box
+      # Issues: material/alert
+      # Outages: material/fire-alert
+      # TurnItIn: fontawesome/regular/clipboard
   # favicon: img/favicon.jpg
   # palette:
   #   - media: "(prefers-color-scheme: light)" 
@@ -219,22 +230,17 @@ extra:
       link: mailto:vle-support@york.ac.uk
       name: Contact Support Desk
   tags:
+    Key guide - tutors: Key guide - tutors
+    Key guide - admins: Key guide - admins
+    Accessibility: Accessibility
+    Assessment: Assessment
+    Communication: Communication
+    Interactive content: Interactive content
+    Training: Training
+    Help: Help
     Ultra: Ultra
-    TurnItIn: TurnItIn
     Panopto: Panopto
-    ReadingList: Reading List
-    Canvas: Canvas
-    Xerte: Xerte
-    Padlet: Padlet
-    Mentimeter: Mentimeter
-    Foundation: Foundation
-    Advanced: Advanced
-    Teaching: Teaching
-    Administration: Administration
-    Workshop: Workshop
-    Updates: Updates
-    Issues: Issues
-    Outages: Outages
+    Other tools: Other tools
   analytics:
     provider: google
     property: G-Q6B3RZT1K0
