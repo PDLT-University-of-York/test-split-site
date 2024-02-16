@@ -29,7 +29,7 @@ tags:
 
 ![Selecting video to copy in Panopto](Images/copy-video-step-1.png)
 
-5. To select multiple videos, **check** the **select-all/none** check box as shown below (B).
+5. To select multiple videos, **check** the **select-all/none** check box as shown above (B).
 6. Click **Copy**.
 ![Selecting video to copy in Panopto](Images/copy-video-step-2.png)
 
