@@ -36,9 +36,11 @@
 10. To copy recordings to multiple sites, **repeat** the above steps as many times as needed.
 
 !!! Tip 
-    By default, when a recording is copied, a "Reference Copy" is created meaning that any edits you make in the original recording, will also be reflected in the copies you have made.
+    By default, when a recording is copied, a "Reference Copy" is created meaning that any edits you make in the original recording, will also be reflected in the copies you have made. 
 
 
 ## More Details and Troubleshooting 
 
-If you need to copy over content from a previous academic year, refer to [Reusing Module Media guide](https://vle-support.york.ac.uk/panopto/reusing-module-media/)
+1. If you need to copy over content from a previous academic year, refer to [Reusing Module Media guide](https://vle-support.york.ac.uk/panopto/reusing-module-media/)
+
+2. For more details on how Reference Copies in Panopto work, refer to [Panopto's Guide on Reference Copies](https://support.panopto.com/s/article/Learn-About-Video-Reference-Copies).
