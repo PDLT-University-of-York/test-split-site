@@ -47,6 +47,6 @@ tags:
 
 ## More Details and Troubleshooting 
 
-1. If you need to copy over content from a previous academic year, refer to [Reusing Module Media guide](https://vle-support.york.ac.uk/panopto/reusing-module-media/)
+1. If you need to copy over content from a previous academic year, refer to [our Reusing Module Media guide](https://vle-support.york.ac.uk/panopto/reusing-module-media/)
 
-2. For more details on how Reference Copies in Panopto work, refer to [Panopto's Guide on Reference Copies](https://support.panopto.com/s/article/Learn-About-Video-Reference-Copies).
+2. For more details on how Reference Copies in Panopto work, refer to [Panopto's Guide on using Reference Copies](https://support.panopto.com/s/article/Learn-About-Video-Reference-Copies).
