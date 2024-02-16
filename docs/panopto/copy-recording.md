@@ -21,16 +21,23 @@ tags:
 
 1. Go to your module site in **Blackboard Ultra**.
 2. Click on the **Replay Lecture Capture (Panopto)** link on your VLE **Course Content** page.
+
 ![Panopto LTI link in a VLE site](Images/copy-video-step-0.png)
+
 3. In the Panopto folder, **hover** your cursor over the recording you want to copy.
 4. **Check** the box that appears in the top-left hand corner of the video thumbnail as shown below (A).
+
 ![Selecting video to copy in Panopto](Images/copy-video-step-1.png)
+
 5. To select multiple videos, **check** the **select-all/none** check box as shown below (B).
 6. Click **Copy**.
 ![Selecting video to copy in Panopto](Images/copy-video-step-2.png)
+
 7. **Search** for the module code (eg: ENG00001I) or VLE site code (eg: Y2023-000001), or navigate through the folders using the dropdown menu. 
+
 ![Selecting video to copy in Panopto](Images/copy-video-step-3.png)
 8. Click **Copy**. 
+
 9. Your video/s will then be copied over to the associated VLE module site. 
 10. To copy recordings to multiple sites, **repeat** the above steps as many times as needed.
 
