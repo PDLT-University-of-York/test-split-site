@@ -86,6 +86,7 @@ Guidance for markers is available in video and written format:
     - [Marking - Accessing a TurnItIn submission point, viewing the Assignment Inbox and selecting work to mark](https://docs.google.com/document/d/1hvUIpmamEbZGPlaLuauEfSjuoDULz15mXK-blQUzJEw)
     - [Marking - TurnItIn Feedback Studio's interface](https://docs.google.com/document/d/1q7pqTG4mSeJkgTOIH0_2P3VpUpG59wolypTsdNduq60)
     - [Marking - Providing feedback and a mark with TurnItIn Feedback Studio](https://docs.google.com/document/d/1COooldTW-4t5GBUE8Etn_nKNM7NVPtD-ghpqecSFkZA)
+    - [Marking - Using a screenshot reader to help with marking in TurnItIn Feedback Studio](https://docs.google.com/document/d/1MdHtEPyZEqFsyG2LH_kB8y_vIpRi3QJkvJlTVgJ2rBc/edit?usp=sharing)
     - [Marking - Bulk Downloading Submissions](https://docs.google.com/document/d/1PW4-gjKXJH4NiJ4VyZ8-NMOvk9oldv1fhZfOBfZALzc)
 - Videos Guides: [Marker YouTube Playlist](https://www.youtube.com/playlist?list=PLF2Nvo3TL30sMFkR3o7GRE3gISurVs6bZ#blog) (also [available on Panopto](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?pid=f234aa73-e866-4767-bd74-b03e011df422) if preferred).
 
