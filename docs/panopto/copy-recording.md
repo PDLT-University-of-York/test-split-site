@@ -1,7 +1,6 @@
 ---
-# tags:
+tags:
 # Delete to leave only relevant tags
-    - Advanced
     - Panopto
 
 ---
