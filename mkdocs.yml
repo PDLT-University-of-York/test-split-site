@@ -150,7 +150,7 @@ nav:
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
-      # - Copying a Recording: panopto/copy-recording.md
+       - Copying a Recording: panopto/copy-recording.md
       # - Moving a Recording: panopto/move-recording.md
       - Editing Panopto videos (basic edits): panopto/panopto-basic-editing.md
       # - Sharing a Recording: panopto/sharing-recordings.md
