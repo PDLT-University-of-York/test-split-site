@@ -35,6 +35,9 @@
 9. Your video/s will then be copied over to the associated VLE module site. 
 10. To copy recordings to multiple sites, **repeat** the above steps as many times as needed.
 
+!!! Tip 
+    By default, when a recording is copied, a "Reference Copy" is created meaning that any edits you make in the original recording, will also be reflected in the copies you have made.
+
 
 ## More Details and Troubleshooting 
 
