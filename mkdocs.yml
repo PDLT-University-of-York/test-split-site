@@ -86,7 +86,7 @@ nav:
       - Site readiness checklist: ultra/site-readiness-checklist.md
       - Access Courses (sites): ultra/access-courses.md #new
       - Notifications: ultra/notifications.md
-      - Troubleshooting common problems: help/troubleshooting.md
+      - Troubleshooting common issues: help/troubleshooting.md
     # - Moving to Ultra for 23/24: #RETIRE MOST
     #   - Frequently asked questions: ultra/ultra-faq.md
     #   - Moving to Ultra for module staff: ultra/move-to-ultra.md
@@ -218,7 +218,7 @@ nav:
     - Webinars: https://elearningyork.wpcomstaging.com/professional-development-opportunities/lunchtime-webinar-series/
   - Help:
     - help/index.md #new
-    - Troubleshooting common problems: help/troubleshooting.md #new
+    - Troubleshooting common issues: help/troubleshooting.md
     - Contact us: help/contact-us.md
     - System Suggestions: help/suggestions.md
     - Updates & issues: help/updates-issues.md
