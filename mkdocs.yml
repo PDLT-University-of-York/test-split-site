@@ -108,11 +108,10 @@ nav:
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Site renames: ultra/site-rename.md
-    - Content management & creation:
-      # - Content types: ultra/content-types.md #RETIRE
-      - I want to...: ultra/ #MAKE PAGE
+    - Content creation & management:
+      # - I want to...: #MAKE PAGE
       - Documents (pages): ultra/documents.md
-      - Reading lists in Ultra: readinglist/index.md #UPDATE FILE NAME IF CHANGE PAGE
+      # - Reading lists in Ultra: readinglist/index.md
       - Images: ultra/images.md
       - Uploading Files: ultra/files.md
       - Links: ultra/links.md
@@ -122,7 +121,6 @@ nav:
       - HTML objects: ultra/html-objects.md #REDIRECT 
       - Maths content: ultra/maths.md
       - Text: ultra/text.md #RETIRE
-      #- Future proofing content: ultra/future-proof-content.md
       - Accessible Ultra content: accessibility/accessible-ultra-content.md #UPDATE IF CHANGES
       - Content visibility: ultra/content-visibility.md
       - Release conditions: ultra/release-conditions.md
@@ -174,16 +172,16 @@ nav:
     - Ally accessibility checker: accessibility/ally-accessibility-checker.md
     - Accessible Ultra content: accessibility/accessible-ultra-content.md
     - Accessible maths: accessibility/accessible-maths.md #new
-  - eAssessment: #REWORK SECTION
-    - eassessment/index.md
-    - Important Things to Know: eassessment/importanteassessment.md #RETIRE
-    - Available eAssessment Tools:
-      - Help Picking a Tool: eassessment/whicheassessmenttool.md
-      - TurnItIn Feedback Studio: eassessment/turnitinfeedbackstudio.md
-      - Ultra Assignment: eassessment/ultraassignment.md
-      - Ultra Test: eassessment/ultratest.md
-    - Anon Assign End of Life: eassessment/anonassigneol.md
-    - Staff eAssessment Training: eassessment/trainingeassessment.md
+  - Assessment: #REWORK SECTION
+    - assessment/index.md
+    - Important Things to Know: assessment/importantassessment.md #RETIRE
+    - Available Assessment Tools:
+      - Help Picking a Tool: assessment/whichassessmenttool.md
+      - TurnItIn Feedback Studio: assessment/turnitinfeedbackstudio.md
+      - Ultra Assignment: assessment/ultraassignment.md
+      - Ultra Test: assessment/ultratest.md
+    - Anon Assign End of Life: assessment/anonassigneol.md
+    - Staff Assessment Training: assessment/trainingassessment.md
   - Other Tools: # NEEDS SOME REJIGGING
     - othertools/index.md
     - Canvas VLE:

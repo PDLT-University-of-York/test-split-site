@@ -16,7 +16,7 @@ tags:
 
 
 ## Important - Before You Begin
-Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using tests on the VLE.
+Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/assessment/importantassessment/) around assessment before using tests on the VLE.
 
 Additionally, if you want to deploy a test and 
 
@@ -50,4 +50,4 @@ As with all teaching content, accessibility is very important when building test
 
 ## Further Help
 
-- [Available eAssessment Staff Training (Semester 1 2023/24)](https://vle-support.york.ac.uk/ultra/workshop-calendar/).
+- [Available Assessment Staff Training (Semester 1 2023/24)](https://vle-support.york.ac.uk/ultra/workshop-calendar/).

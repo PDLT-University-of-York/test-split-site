@@ -16,14 +16,14 @@ tags:
 ## Overview / Introduction
 TurnItIn Feedback Studio (accessed via the VLE) will be used to collect student submissions, and for the entry and return of feedback to students, for the majority of assessments taking place across the University in the 2023/24 academic year.
 
-Other tools are available, as detailed on [our eAssessment hub page](https://vle-support.york.ac.uk/eassessment/).
+Other tools are available, as detailed on [our Assessment hub page](https://vle-support.york.ac.uk/assessment/).
 
 Below is a video overview of TurnItIn Feedback Studio, [if you prefer you can open the overview video in another tab using this link](https://youtu.be/o9g9fye87vc?si=oLV9rHh8ufaUgUgX).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Important - Before You Begin
-Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using assignment submission points on the VLE.
+Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/assessment/importantassessment/) around assessment before using assignment submission points on the VLE.
 
 ## Student Guidance
 [Student guides are hosted on our student support webpages](https://subjectguides.york.ac.uk/learning-tech), but for staff reference here are our key resources for students around TFS:
