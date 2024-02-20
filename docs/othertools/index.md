@@ -20,4 +20,4 @@ Find the guide you need by:
 
     [Use of external IT services for learning and teaching](https://www.york.ac.uk/about/departments/support-and-admin/information-services/information-policy/index/it-outsourcing-and-cloud-computing-policy/use-of-external-it-services-for-learning-and-teach/)
 
-    This details important considerations such as data protection and accessibility and details the steps that are needed in order to appropriately use external tools.
+    This details important considerations such as data protection and accessibility, and details the steps that are needed in order to appropriately use external tools.
