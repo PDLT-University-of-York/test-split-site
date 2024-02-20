@@ -121,6 +121,12 @@ nav:
       - HTML objects: ultra/html-objects.md #REDIRECT 
       - Maths content: ultra/maths.md
       - Text: ultra/text.md #RETIRE
+      - Assignment (set up): ultra/assignment-set-up.md
+      - Assignment (marking): ultra/assignment-marking.md
+      - Test (quizzes & exams): ultra/test.md
+      - Form: ultra/form.md
+      - Journal: ultra/journal.md
+      - Gradebook: ultra/gradebook.md
       - Accessible Ultra content: accessibility/accessible-ultra-content.md #UPDATE IF CHANGES
     - Content management:
       - Content visibility: ultra/content-visibility.md
@@ -137,13 +143,13 @@ nav:
       - Messages: ultra/messages-tool.md
       - Notifications: ultra/notifications.md
     - Site access & users: 
-       - Site availability: ultra/site-availability.md
-       - Course roles: ultra/course-roles.md
-       - Enrol a user: ultra/enrol-user.md
-       - Enrol a student cohort: ultra/enrol-cohort.md
-       - Unenrol a user: ultra/unenrol-user.md
-       - External users: ultra/external-users.md
-       - International access: ultra/international-access.md
+      - Site availability: ultra/site-availability.md
+      - Course roles: ultra/course-roles.md
+      - Enrol a user: ultra/enrol-user.md
+      - Enrol a student cohort: ultra/enrol-cohort.md
+      - Unenrol a user: ultra/unenrol-user.md
+      - External users: ultra/external-users.md
+      - International access: ultra/international-access.md
   - Panopto Videos:
     - panopto/index.md
     - Getting Started with Panopto: 
@@ -168,6 +174,7 @@ nav:
       - Adding Presentation Slides: panopto/add-presentation.md
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contentsx.md
       # - Adding Additional Streams: panopto/addstreams.md
+    - Assessment submissions: panopto/submissions.md
   - Accessibility:
     - accessibility/index.md #new
     - Ally accessibility checker: accessibility/ally-accessibility-checker.md
@@ -175,13 +182,20 @@ nav:
     - Accessible maths: accessibility/accessible-maths.md #new
   - Assessment: #REWORK SECTION
     - assessment/index.md
-    - Important Things to Know: assessment/importantassessment.md #RETIRE
-    - Available Assessment Tools:
-      - Help Picking a Tool: assessment/whichassessmenttool.md
-      - TurnItIn Feedback Studio: assessment/turnitinfeedbackstudio.md
-      - Ultra Assignment: assessment/ultraassignment.md
-      - Ultra Test: assessment/ultratest.md
-    - Anon Assign End of Life: assessment/anonassigneol.md
+    - Help Picking a Tool: assessment/whichassessmenttool.md
+    - TurnItIn Feedback Studio (set up): assessment/turnitin-feedback-studio-set-up.md
+    - TurnItIn Feedback Studio (marking): assessment/turnitin-feedback-studio-marking.md
+    - Ultra assessment tools:
+      - Ultra Assignment (set up): ultra/assignment-set-up.md
+      - Ultra Assignment (marking): ultra/assignment-marking.md
+      - Ultra Test (quizzes & exams): ultra/test.md
+      - Ultra Journal: ultra/journal.md
+      - Ultra Gradebook: ultra/gradebook.md
+    - Deposit: assessment/deposit.md
+    - Panopto assessment submissions: panopto/submissions.md
+    - Group assignments: assessment/group-assignment.md
+    - Assessed presentations: assessment/presentations.md
+    - Retrieving Anon Assign submissions: assessment/anon-assign-retrieve.md
     - Staff Assessment Training: assessment/trainingassessment.md
   - Other Tools: # NEEDS SOME REJIGGING
     - othertools/index.md
