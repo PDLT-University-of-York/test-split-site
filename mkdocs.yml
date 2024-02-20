@@ -102,9 +102,9 @@ nav:
     #   # - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
     #   - Workshops - General Ultra and Turnitin Marker Support Drop-ins: ultra/workshop-turnitin-marker-support.md
     - Site structure & design:
-      - Navigating an Ultra site: ultra/navigate-ultra-site.md
-      - Using the Ultra template: ultra/ultra-template.md
-      - Personalising site design: ultra/personalising-site-design.md #new
+      - Navigate Ultra sites: ultra/navigate-ultra-site.md
+      - Use the Ultra template: ultra/ultra-template.md
+      - Personalise site design: ultra/personalise-site-design.md #new
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Site renames: ultra/site-rename.md
@@ -113,11 +113,11 @@ nav:
       - Documents (pages): ultra/documents.md
       # - Reading lists in Ultra: readinglist/index.md
       - Images: ultra/images.md
-      - Uploading Files: ultra/files.md
+      - Upload Files: ultra/files.md
       - Links: ultra/links.md
       - Video (Panopto): panopto/embed-panopto-ultra.md
       - Video (YouTube): ultra/youtube.md
-      - Embedded content: ultra/embedded-content.md
+      - Embed content: ultra/embedded-content.md
       - HTML objects: ultra/html-objects.md #REDIRECT 
       - Maths content: ultra/maths.md
       - Text: ultra/text.md #RETIRE
@@ -126,11 +126,11 @@ nav:
       - Release conditions: ultra/release-conditions.md
       - Edit, move & delete content: ultra/edit-delete-move-content.md
       - Batch edit: ultra/batch-edit.md
-      - Copying content: ultra/copy-content.md
-      - Managing content in shared sites: ultra/content-shared-sites.md #new
+      - Copy content: ultra/copy-content.md
+      - Manage content in shared sites: ultra/content-shared-sites.md #new
     - Communication & interaction:
       - Announcements: ultra/announcements.md
-      - Facilitating groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
+      - Facilitate groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
       - Course Groups: ultra/course-groups.md #REDIRECT
       - Discussions: ultra/discussions.md
       - Messages: ultra/messages-tool.md
@@ -138,9 +138,9 @@ nav:
     - Site access & users: 
        - Site availability: ultra/site-availability.md
        - Course roles: ultra/course-roles.md
-       - Enrolling a user: ultra/enrol-user.md
-       - Enrolling a student cohort: ultra/enrol-cohort.md
-       - Unenrolling a user: ultra/unenrol-user.md
+       - Enrol a user: ultra/enrol-user.md
+       - Enrol a student cohort: ultra/enrol-cohort.md
+       - Unenrol a user: ultra/unenrol-user.md
        - External users: ultra/external-users.md
        - International access: ultra/international-access.md
   - Panopto Videos:
