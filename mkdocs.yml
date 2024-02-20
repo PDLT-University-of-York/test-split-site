@@ -108,7 +108,7 @@ nav:
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Site renames: ultra/site-rename.md
-    - Content creation & management:
+    - Content creation:
       # - I want to...: #MAKE PAGE
       - Documents (pages): ultra/documents.md
       # - Reading lists in Ultra: readinglist/index.md
@@ -122,6 +122,7 @@ nav:
       - Maths content: ultra/maths.md
       - Text: ultra/text.md #RETIRE
       - Accessible Ultra content: accessibility/accessible-ultra-content.md #UPDATE IF CHANGES
+    - Content management:
       - Content visibility: ultra/content-visibility.md
       - Release conditions: ultra/release-conditions.md
       - Edit, move & delete content: ultra/edit-delete-move-content.md
