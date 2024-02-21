@@ -13,7 +13,7 @@ tags:
 
     The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
 
-    This guide covers setting up submission points and managing the marking workflow, and is primarily aimed at **Administrators**.
+    This guide covers setting up submission points and managing the marking workflow once marking is completed, and is primarily aimed at **Administrators**.
 
 ## Overview of TFS
 
@@ -28,7 +28,8 @@ TFS can be used for formative or summative assignments, but there are some diffe
 - [Setting up a TFS submission point for **formative** assessments](https://docs.google.com/document/d/11IHYnAW6wef05kZ41BAqU9gO4nuyB1CgvQ1cW9IwjOA/edit?usp=sharing)
 - [Setting up a TFS submission point for **summative** assessments](https://docs.google.com/document/d/1oD9M72-Nhsq2X07TSxuZ0Rk5AkhmskRc37RVw6WZ4IE/edit?usp=sharing)
 
-In TFS, rubrics (or 'grading forms') for marking are integrated into the submission point: 
+In TFS, rubrics (or 'grading forms') for marking are integrated into the submission point:
+
 - [Creating, importing and exporting grading forms or rubrics](https://docs.google.com/document/d/1fctlNtGpgjerdEYReGtMwLvSWRF_y2RkWSbSMPigGWg/edit?usp=sharing)
 
 ## Managing extensions, flagging & multiple markers
@@ -52,20 +53,21 @@ The Assessment Tracker assists with the oversight and management of **large coho
 - [Setting up the Tracker workbook](https://docs.google.com/document/d/1aSeEscyYEjjFhMdr-uynhGbCLUZCIyCc7BcR30Ag5yw)
 
 Using the Tracker to:
+
 - [Set up marking groups](https://docs.google.com/document/d/1lDRzx1iLPyyx2Et9IyFV0UtgK_PmHXsJkX1DsP5NRJY)
 - [Manage extensions and exceptions](https://docs.google.com/document/d/1wzBtWZh8e7CVqsD4VyWNT-9ena_S-BlRr_BUC_iOY6E)
 - [Track submission and marking progress](https://docs.google.com/document/d/1NC8reuDxaf5DvI9V3n81P9r6JwIxcIDnc3yR4H1qd6E)
-- [Release feedback and marks](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0).
+- [Release feedback and marks](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0)
 
 ## Managing Submissions
 
 - [Clearing a student’s submission](https://docs.google.com/document/d/1__bA3BPwWUyksE46aRDB1NN3Baa9qAxlm37DTX12Uuc)
 - [Uploading a submission on behalf of a student](https://docs.google.com/document/d/1JV0hac0ASVatOiJauHlKm2jonO2uYGQjSLmRiTzDkqM)
-- [Identifying students who haven’t made a submission using the VLE’s Gradebook](https://docs.google.com/document/d/17NILG_SwmQeCs9LPzsHnJMj9wWRkk-BrG-695KSQjDg).
+- [Identifying students who haven’t made a submission using the VLE’s Gradebook](https://docs.google.com/document/d/17NILG_SwmQeCs9LPzsHnJMj9wWRkk-BrG-695KSQjDg)
 - [Converting a student's "non-searchable"/"non-selectable" PDF into a version that can be run through TurnItIn](https://docs.google.com/document/d/1Zv7SoE9w2j2YqY4-TOz_PZI4yxwIGHE9tVNjUdqFqQU/edit?usp=sharing)
-- [How Leave of Absence (LoA) can impact assignment submission and marking](https://docs.google.com/document/d/1gLyAEIMEfRzzzN2uSot_wKR9AkiHBVu-bxCY6gt5y68/edit#heading=h.kwjc6mnxsx6i).
+- [How Leave of Absence (LoA) can impact assignment submission and marking](https://docs.google.com/document/d/1gLyAEIMEfRzzzN2uSot_wKR9AkiHBVu-bxCY6gt5y68/edit#heading=h.kwjc6mnxsx6i)
 
 ## Other Tasks
 
 - [Exporting the current state of a TurnItIn submission point’s Assignment Inbox as a spreadsheet](https://docs.google.com/document/d/12y-fY_PlXT2X-4wtWJs7NWHHeRXrBGxUqGAigHD4-K0)
-- [Making assessment material handled by TurnItIn Feedback Studio available to external markers](https://docs.google.com/document/d/1Ju8QFvFIwnimf_Cgm9XElsKioZeQPTLHsT8lxAEm6cE).
+- [Making assessment material handled by TurnItIn Feedback Studio available to external markers](https://docs.google.com/document/d/1Ju8QFvFIwnimf_Cgm9XElsKioZeQPTLHsT8lxAEm6cE)
