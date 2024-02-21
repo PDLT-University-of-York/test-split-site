@@ -84,16 +84,9 @@ nav:
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
-      - Access Courses (sites): ultra/access-courses.md #new
+      - Access Courses (sites): ultra/access-courses.md
       - Notifications: ultra/notifications.md
       - Troubleshooting common issues: help/troubleshooting.md
-    # - Moving to Ultra for 23/24: #RETIRE MOST
-    #   - Frequently asked questions: ultra/ultra-faq.md
-    #   - Moving to Ultra for module staff: ultra/move-to-ultra.md
-    #   - Differences Original - Ultra: ultra/differences-original-ultra.md
-    #   - Reusing Original site content in Ultra: ultra/reuse-original-content.md
-    #   # - Building an Ultra site from a template: ultra/placeholder.md
-    # - Sharing Experiences of Ultra: https://elearningyork.wpcomstaging.com/2023/11/27/sharing-experiences-with-blackboard-ultra/
     # - VLE Ultra training: #RETIRE/MOVE MOST
     #   - Workshop calendar: ultra/workshop-calendar.md
     #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
@@ -111,16 +104,14 @@ nav:
     - Content creation:
       # - I want to...: #MAKE PAGE
       - Documents (pages): ultra/documents.md
-      # - Reading lists in Ultra: readinglist/index.md
       - Images: ultra/images.md
       - Upload Files: ultra/files.md
       - Links: ultra/links.md
       - Video (Panopto): panopto/embed-panopto-ultra.md
       - Video (YouTube): ultra/youtube.md
       - Embed content: ultra/embedded-content.md
-      - HTML objects: ultra/html-objects.md #REDIRECT 
+      - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      - Text: ultra/text.md #RETIRE
       - Assignment (set up): ultra/assignment-set-up.md
       - Assignment (marking): ultra/assignment-marking.md
       - Test (quizzes & exams): ultra/test.md
@@ -134,11 +125,11 @@ nav:
       - Edit, move & delete content: ultra/edit-delete-move-content.md
       - Batch edit: ultra/batch-edit.md
       - Copy content: ultra/copy-content.md
-      - Manage content in shared sites: ultra/content-shared-sites.md #new
+      - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
       - Facilitate groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
-      - Course Groups: ultra/course-groups.md #REDIRECT
+      - Course Groups: ultra/course-groups.md
       - Discussions: ultra/discussions.md
       - Messages: ultra/messages-tool.md
       - Notifications: ultra/notifications.md
@@ -179,8 +170,8 @@ nav:
     - accessibility/index.md #new
     - Ally accessibility checker: accessibility/ally-accessibility-checker.md
     - Accessible Ultra content: accessibility/accessible-ultra-content.md
-    - Accessible maths: accessibility/accessible-maths.md #new
-  - Assessment: #REWORK SECTION
+    - Accessible maths: accessibility/accessible-maths.md
+  - Assessment:
     - assessment/index.md
     - Help Picking a Tool: assessment/which-assessment-tool.md
     - TurnItIn Feedback Studio:
@@ -199,29 +190,24 @@ nav:
     - Panopto assessment submissions: panopto/submissions.md
     - Group assignments: assessment/group-assignment.md
     - Assessed presentations: assessment/presentations.md
-    - Retrieving Anon Assign submissions: assessment/anon-assign-retrieve.md
+    - Retrieving Anon Assign submissions: assessment/retrieve-anononymous-assignment.md
     - Staff Assessment Training: assessment/trainingassessment.md
-  - Other Tools: # NEEDS SOME REJIGGING
-    - othertools/index.md
-    - Canvas VLE:
-      - canvas/index.md
-    - Mentimeter polling:
-      - mentimeter/index.md
-    - Padlet pinboards:
-      - padlet/index.md
-      - Padlet as an alternative to Ultra discussions: padlet/padlet-discussion-alternative.md 
-    - Reading List:
-      - readinglist/index.md
-    - System Data & Analytics:
-      - system-data-and-analytics/index.md
-    - Xerte Interactive Content:
-      - xerte/index.md
+  - Other Tools:
+    - other-tools/index.md
+    - Canvas VLE: canvas/index.md
+    - Mentimeter (polling): other-tools/mentimeter.md
+    - Padlet (pinboards):
+      - Getting started with Padlet: other-tools/padlet.md
+      - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
+    - Reading List: other-tools/reading-list.md
+    - System Data & Analytics: system-data-and-analytics/index.md
+    - Xerte (interactive content): other-tools/xerte.md
   - Training: #SECTION NEEDS FINALISING
-    - training/index.md #new
-    - Workshops: training/workshops.md #new #SINGLE PAGE OR PAGE PER SESSION?
-    - Webinars: https://elearningyork.wpcomstaging.com/professional-development-opportunities/lunchtime-webinar-series/
+    - training/index.md
+    - Workshops: training/workshops.md #SINGLE PAGE OR PAGE PER SESSION?
+    - Webinars: training/webinars.md
   - Help:
-    - help/index.md #new
+    - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
     - Contact us: help/contact-us.md
     - System Suggestions: help/suggestions.md
@@ -283,7 +269,13 @@ plugins:
         'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
         'eassessment/ultratest.md': 'ultra/test.md'
         'eassessment/turnitinfeedbackstudio.md': 'assessment/turnitin-feedback-studio-set-up.md'
-        'eassessment/anonassigneol.md': 'assessment/anon-assign-retrieve.md'
+        'eassessment/anonassigneol.md': 'assessment/retrieve-anononymous-assignment.md'
+        'othertools/index.md': 'other-tools/index.md'
+        'mentimeter/index.md': 'other-tools/mentimeter.md'
+        'padlet/index.md': 'other-tools/padlet.md'
+        'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
+        'readinglist/index.md': 'other-tools/reading-list.md'
+        'xerte/index.md': 'other-tools/xerte.md'
   - search
   - tags:
       tags_file: help/site-index.md
