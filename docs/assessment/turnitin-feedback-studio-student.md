@@ -15,11 +15,25 @@ tags:
 
     This guide covers setting up submission points and managing the marking workflow, and is primarily aimed at **Administrators**.
 
-## Overview of TFS
+## Overview / Introduction
+The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
 
-The video below gives an overview of using TFS as a staff member to support assessment. If you prefer, you can [open the overview video in another tab](https://youtu.be/o9g9fye87vc?si=oLV9rHh8ufaUgUgX).
+Other tools are available, as detailed on [our Assessment hub page](https://vle-support.york.ac.uk/assessment/).
+
+Below is a video overview of TurnItIn Feedback Studio, [if you prefer you can open the overview video in another tab using this link](https://youtu.be/o9g9fye87vc?si=oLV9rHh8ufaUgUgX).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Student Guidance
+[Student guides are hosted on our student support webpages](https://subjectguides.york.ac.uk/learning-tech), but for staff reference here are our key resources for students around TFS:
+
+- [Overview: Submitting Assignments on the Learn VLE](https://docs.google.com/document/d/1gfcg8hrnhSHScDBrAv_WYoeROwt1z3wgyH10Ue0VlGM/edit?usp=sharing) - includes troubleshooting, FAQs and more
+- [Submission Issue Troubleshooting & Solutions](https://docs.google.com/document/d/183xb1tr7XXMGOQ6crunbUuzO6iglBdx6qDZhgOAEvXg/edit)
+- [Detailed Guidance on Submitting to TFS](https://docs.google.com/document/d/1DWksoJmy4nbAOZpmmTdwDzRVkaGboczShTKRvqCiDxg/edit?usp=sharing).
+
+Below is a video for students on how to submit to TurnItIn Feedback Studio, [if you prefer you can open the "how to submit" student video in another tab using this link](https://www.youtube.com/watch?v=Vn7_VpucR-s).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vn7_VpucR-s?si=rmb0DNQ6cVMgfz1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Submission points & rubrics
 
@@ -39,7 +53,7 @@ There are two methods to do this:
 
 ### Course Groups
 
-Use Course Groups set up in the Learn VLE module site to manage marking for **formative assessments** or **small cohorts**.
+Use Course Groups set up in the Learn VLE module site to manage marking for **formative assessments** or **small cohorts**
 
 - [Group creation via the Ultra interface](https://docs.google.com/document/d/1PwAKBp5zMpmABjTgyuNYtPyuJgBMSkxnHtH9gmJw__E)
 - [Group creation via CSV spreadsheet upload](https://docs.google.com/document/d/1Qvp8gtv8INZOn_Ns4tbJuFJjIu9edDB6hV7oOYpLdoc).
@@ -57,7 +71,7 @@ Using the Tracker to:
 - [Track submission and marking progress](https://docs.google.com/document/d/1NC8reuDxaf5DvI9V3n81P9r6JwIxcIDnc3yR4H1qd6E)
 - [Release feedback and marks](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0).
 
-## Managing Submissions
+## Managing Submissions:
 
 - [Clearing a student’s submission](https://docs.google.com/document/d/1__bA3BPwWUyksE46aRDB1NN3Baa9qAxlm37DTX12Uuc)
 - [Uploading a submission on behalf of a student](https://docs.google.com/document/d/1JV0hac0ASVatOiJauHlKm2jonO2uYGQjSLmRiTzDkqM)
@@ -65,7 +79,7 @@ Using the Tracker to:
 - [Converting a student's "non-searchable"/"non-selectable" PDF into a version that can be run through TurnItIn](https://docs.google.com/document/d/1Zv7SoE9w2j2YqY4-TOz_PZI4yxwIGHE9tVNjUdqFqQU/edit?usp=sharing)
 - [How Leave of Absence (LoA) can impact assignment submission and marking](https://docs.google.com/document/d/1gLyAEIMEfRzzzN2uSot_wKR9AkiHBVu-bxCY6gt5y68/edit#heading=h.kwjc6mnxsx6i).
 
-## Other Tasks
+## Other Tasks:
 
 - [Exporting the current state of a TurnItIn submission point’s Assignment Inbox as a spreadsheet](https://docs.google.com/document/d/12y-fY_PlXT2X-4wtWJs7NWHHeRXrBGxUqGAigHD4-K0)
 - [Making assessment material handled by TurnItIn Feedback Studio available to external markers](https://docs.google.com/document/d/1Ju8QFvFIwnimf_Cgm9XElsKioZeQPTLHsT8lxAEm6cE).
