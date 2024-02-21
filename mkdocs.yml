@@ -87,17 +87,10 @@ nav:
       - Access Courses (sites): ultra/access-courses.md
       - Notifications: ultra/notifications.md
       - Troubleshooting common issues: help/troubleshooting.md
-    # - VLE Ultra training: #RETIRE/MOVE MOST
-    #   - Workshop calendar: ultra/workshop-calendar.md
-    #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
-    #   # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
-    #   - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
-    #   # - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
-    #   - Workshops - General Ultra and Turnitin Marker Support Drop-ins: ultra/workshop-turnitin-marker-support.md
     - Site structure & design:
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
       - Use the Ultra template: ultra/ultra-template.md
-      - Personalise site design: ultra/personalise-site-design.md #new
+      - Personalise site design: ultra/personalise-site-design.md
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Site renames: ultra/site-rename.md
@@ -118,7 +111,7 @@ nav:
       - Form: ultra/form.md
       - Journal: ultra/journal.md
       - Gradebook: ultra/gradebook.md
-      - Accessible Ultra content: accessibility/accessible-ultra-content.md #UPDATE IF CHANGES
+      - Accessible Ultra content: accessibility/accessible-ultra-content.md
     - Content management:
       - Content visibility: ultra/content-visibility.md
       - Release conditions: ultra/release-conditions.md
@@ -173,7 +166,7 @@ nav:
     - Accessible maths: accessibility/accessible-maths.md
   - Assessment:
     - assessment/index.md
-    - Help Picking a Tool: assessment/which-assessment-tool.md
+    - Help picking a tool: assessment/which-assessment-tool.md
     - TurnItIn Feedback Studio:
       - TFS (set up): assessment/turnitin-feedback-studio-set-up.md
       - TFS (marking): assessment/turnitin-feedback-studio-marking.md
@@ -191,7 +184,7 @@ nav:
     - Group assignments: assessment/group-assignment.md
     - Assessed presentations: assessment/presentations.md
     - Retrieving Anon Assign submissions: assessment/retrieve-anononymous-assignment.md
-    - Staff Assessment Training: assessment/trainingassessment.md
+    - Staff assessment training: assessment/trainingassessment.md
   - Other Tools:
     - other-tools/index.md
     - Canvas VLE: canvas/index.md
@@ -200,22 +193,29 @@ nav:
       - Getting started with Padlet: other-tools/padlet.md
       - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
     - Reading List: other-tools/reading-list.md
-    - System Data & Analytics: system-data-and-analytics/index.md
+    - System data & analytics: system-data-and-analytics/index.md
     - Xerte (interactive content): other-tools/xerte.md
   - Training: #SECTION NEEDS FINALISING
     - training/index.md
     - Workshops: training/workshops.md #SINGLE PAGE OR PAGE PER SESSION?
     - Webinars: training/webinars.md
+        # - VLE Ultra training: #RETIRE/MOVE MOST
+    #   - Workshop calendar: ultra/workshop-calendar.md
+    #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
+    #   # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
+    #   - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
+    #   # - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
+    #   - Workshops - General Ultra and Turnitin Marker Support Drop-ins: ultra/workshop-turnitin-marker-support.md
   - Help:
     - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
     - Contact us: help/contact-us.md
-    - System Suggestions: help/suggestions.md
+    - System suggestions: help/suggestions.md
     - Updates & issues: help/updates-issues.md
     - Finding Usernames: help/usernames.md
     - Finding YCodes: help/ycodes.md
-    - Taking Screenshots: help/screenshots.md
-    - Site Index: help/site-index.md
+    - Taking screenshots: help/screenshots.md
+    - Site index: help/site-index.md
   
 extra:
   generator: false
