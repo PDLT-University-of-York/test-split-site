@@ -83,7 +83,7 @@ Check that site content and materials are accessible, in the right place and vis
     - All assessment information appears within the Assessment section, including an overview of assessment, clear instructions for each assessment task and details on how the work will be graded.
     - Due dates for all assessments are set correctly (right day, time and year, etc). To make the site easier to maintain in future years, set deadlines within the assessment tool and avoid writing specific dates into text or documents.
     - Assignment submission points and Tests are set up correctly and hidden/showing as they should be. See our [guide to release conditions](https://vle-support.york.ac.uk/ultra/release-conditions/) for more detail on managing content availability.
-    - Guidance for setting up and using submission points can be found in [our eAssessments area](https://vle-support.york.ac.uk/eassessment/).
+    - Guidance for setting up and using submission points can be found in [our Assessments area](https://vle-support.york.ac.uk/assessment/).
 
 ??? essential "2.4 Site materials"
 

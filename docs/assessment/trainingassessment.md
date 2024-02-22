@@ -10,11 +10,11 @@ tags:
 
 ---
 
-# eAssessment Training
+# Assessment Training
 
 !!! Summary
 
-    Lots of developments and changes are coming to eAssessment in 2023/24. We will continually be updating our training offering for staff. See the pages linked below for details.
+    Lots of developments and changes are coming to Assessment in 2023/24. We will continually be updating our training offering for staff. See the pages linked below for details.
 
 
 ## Available Sessions

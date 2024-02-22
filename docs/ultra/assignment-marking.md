@@ -21,10 +21,10 @@ The Ultra Assignments tool *does* techncally allow anonymous submissions, howeve
 1. Be turned off with a single button click, and cannot then be turned back on
 2. Limit the marking tools and filtering options available.
 
-Other assignment submission tools are available, particularly around video and audio assessments, as detailed on [our eAssessment hub page](https://vle-support.york.ac.uk/eassessment/).
+Other assignment submission tools are available, particularly around video and audio assessments, as detailed on [our Assessment hub page](https://vle-support.york.ac.uk/assessment/).
 
 ## Important - Before You Begin
-Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/eassessment/importanteassessment/) around assessment before using assignment submission points on the VLE.
+Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/assessment/importantassessment/) around assessment before using assignment submission points on the VLE.
 
 ## Student Guidance
 [Student guides are hosted on our student support webpages](https://subjectguides.york.ac.uk/learning-tech), but for staff reference here are some key resources for students around Ultra Assignment:
@@ -60,4 +60,4 @@ Other:
 
 ## Further Help
 
-- [Available eAssessment Staff Training (Semester 1 2023/24)](https://vle-support.york.ac.uk/ultra/workshop-calendar/).
+- [Available Assessment Staff Training (Semester 1 2023/24)](https://vle-support.york.ac.uk/ultra/workshop-calendar/).

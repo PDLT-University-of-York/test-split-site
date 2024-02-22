@@ -13,7 +13,7 @@ tags:
 
 !!! Summary
 
-    The "Anonymous Assignment" tool has been used on the Learn VLE (vle.york.ac.uk) for the past decause to collect student summative, anonymous assignments, and generate feedback form templates and more. This tool is being "End of Lifed" in the summer of 2023, and [replaced with TurnItIn Feedback Studio](https://vle-support.york.ac.uk/eassessment/).
+    The "Anonymous Assignment" tool has been used on the Learn VLE (vle.york.ac.uk) for the past decause to collect student summative, anonymous assignments, and generate feedback form templates and more. This tool is being "End of Lifed" in the summer of 2023, and [replaced with TurnItIn Feedback Studio](https://vle-support.york.ac.uk/assessment/).
 
 
 ## Background

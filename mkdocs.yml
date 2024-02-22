@@ -84,67 +84,56 @@ nav:
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
-      - Access Courses (sites): ultra/access-courses.md #new
+      - Access Courses (sites): ultra/access-courses.md
       - Notifications: ultra/notifications.md
-      - Troubleshooting common problems: help/troubleshooting.md
-    # - Moving to Ultra for 23/24: #RETIRE MOST
-    #   - Frequently asked questions: ultra/ultra-faq.md
-    #   - Moving to Ultra for module staff: ultra/move-to-ultra.md
-    #   - Differences Original - Ultra: ultra/differences-original-ultra.md
-    #   - Reusing Original site content in Ultra: ultra/reuse-original-content.md
-    #   # - Building an Ultra site from a template: ultra/placeholder.md
-    # - Sharing Experiences of Ultra: https://elearningyork.wpcomstaging.com/2023/11/27/sharing-experiences-with-blackboard-ultra/
-    # - VLE Ultra training: #RETIRE/MOVE MOST
-    #   - Workshop calendar: ultra/workshop-calendar.md
-    #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
-    #   # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
-    #   - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
-    #   # - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
-    #   - Workshops - General Ultra and Turnitin Marker Support Drop-ins: ultra/workshop-turnitin-marker-support.md
+      - Troubleshooting common issues: help/troubleshooting.md
     - Site structure & design:
-      - Navigating an Ultra site: ultra/navigate-ultra-site.md
-      - Using the Ultra template: ultra/ultra-template.md
-      - Personalising site design: ultra/personalising-site-design.md #new
+      - Navigate Ultra sites: ultra/navigate-ultra-site.md
+      - Use the Ultra template: ultra/ultra-template.md
+      - Personalise site design: ultra/personalise-site-design.md
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Site renames: ultra/site-rename.md
-    - Content management & creation:
-      # - Content types: ultra/content-types.md #RETIRE
-      - I want to...: ultra/ #MAKE PAGE
+    - Content creation:
+      # - I want to...: #MAKE PAGE
       - Documents (pages): ultra/documents.md
-      - Reading lists in Ultra: readinglist/index.md #UPDATE FILE NAME IF CHANGE PAGE
       - Images: ultra/images.md
-      - Uploading Files: ultra/files.md
+      - Upload Files: ultra/files.md
       - Links: ultra/links.md
       - Video (Panopto): panopto/embed-panopto-ultra.md
       - Video (YouTube): ultra/youtube.md
-      - Embedded content: ultra/embedded-content.md
-      - HTML objects: ultra/html-objects.md #REDIRECT 
+      - Embed content: ultra/embedded-content.md
+      - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      - Text: ultra/text.md #RETIRE
-      #- Future proofing content: ultra/future-proof-content.md
-      - Accessible Ultra content: accessibility/accessible-ultra-content.md #UPDATE IF CHANGES
+      - Assignment (set up): ultra/assignment-set-up.md
+      - Assignment (marking): ultra/assignment-marking.md
+      - Test (quizzes & exams): ultra/test.md
+      - Form: ultra/form.md
+      - Journal: ultra/journal.md
+      - Gradebook: ultra/gradebook.md
+      - Accessible Ultra content: accessibility/accessible-ultra-content.md
+    - Content management:
       - Content visibility: ultra/content-visibility.md
       - Release conditions: ultra/release-conditions.md
       - Edit, move & delete content: ultra/edit-delete-move-content.md
       - Batch edit: ultra/batch-edit.md
-      - Copying content: ultra/copy-content.md
-      - Managing content in shared sites: ultra/content-shared-sites.md #new
+      - Copy content: ultra/copy-content.md
+      - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
-      - Facilitating groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
-      - Course Groups: ultra/course-groups.md #REDIRECT
+      - Facilitate groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
+      - Course Groups: ultra/course-groups.md
       - Discussions: ultra/discussions.md
       - Messages: ultra/messages-tool.md
       - Notifications: ultra/notifications.md
     - Site access & users: 
-       - Site availability: ultra/site-availability.md
-       - Course roles: ultra/course-roles.md
-       - Enrolling a user: ultra/enrol-user.md
-       - Enrolling a student cohort: ultra/enrol-cohort.md
-       - Unenrolling a user: ultra/unenrol-user.md
-       - External users: ultra/external-users.md
-       - International access: ultra/international-access.md
+      - Site availability: ultra/site-availability.md
+      - Course roles: ultra/course-roles.md
+      - Enrol a user: ultra/enrol-user.md
+      - Enrol a student cohort: ultra/enrol-cohort.md
+      - Unenrol a user: ultra/unenrol-user.md
+      - External users: ultra/external-users.md
+      - International access: ultra/international-access.md
   - Panopto Videos:
     - panopto/index.md
     - Getting Started with Panopto: 
@@ -169,50 +158,64 @@ nav:
       - Adding Presentation Slides: panopto/add-presentation.md
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contentsx.md
       # - Adding Additional Streams: panopto/addstreams.md
+    - Assessment submissions: panopto/submissions.md
   - Accessibility:
     - accessibility/index.md #new
     - Ally accessibility checker: accessibility/ally-accessibility-checker.md
     - Accessible Ultra content: accessibility/accessible-ultra-content.md
-    - Accessible maths: accessibility/accessible-maths.md #new
-  - eAssessment: #REWORK SECTION
-    - eassessment/index.md
-    - Important Things to Know: eassessment/importanteassessment.md #RETIRE
-    - Available eAssessment Tools:
-      - Help Picking a Tool: eassessment/whicheassessmenttool.md
-      - TurnItIn Feedback Studio: eassessment/turnitinfeedbackstudio.md
-      - Ultra Assignment: eassessment/ultraassignment.md
-      - Ultra Test: eassessment/ultratest.md
-    - Anon Assign End of Life: eassessment/anonassigneol.md
-    - Staff eAssessment Training: eassessment/trainingeassessment.md
-  - Other Tools: # NEEDS SOME REJIGGING
-    - othertools/index.md
-    - Canvas VLE:
-      - canvas/index.md
-    - Mentimeter polling:
-      - mentimeter/index.md
-    - Padlet pinboards:
-      - padlet/index.md
-      - Padlet as an alternative to Ultra discussions: padlet/padlet-discussion-alternative.md 
-    - Reading List:
-      - readinglist/index.md
-    - System Data & Analytics:
-      - system-data-and-analytics/index.md
-    - Xerte Interactive Content:
-      - xerte/index.md
+    - Accessible maths: accessibility/accessible-maths.md
+  - Assessment:
+    - assessment/index.md
+    - Help picking a tool: assessment/which-assessment-tool.md
+    - TurnItIn Feedback Studio:
+      - TFS (set up): assessment/turnitin-feedback-studio-set-up.md
+      - TFS (marking): assessment/turnitin-feedback-studio-marking.md
+      - TFS (release marks & feedback): assessment/turnitin-feedback-studio-release-marks.md
+    - Ultra assessment tools:
+      - Ultra Assignment (set up): ultra/assignment-set-up.md
+      - Ultra Assignment (marking): ultra/assignment-marking.md
+      - Ultra Test (quizzes & exams): ultra/test.md
+      - In-person exams with Ultra Test: assessment/in-person-ultra-test.md
+      - Ultra Journal: ultra/journal.md
+      - Ultra Gradebook: ultra/gradebook.md
+      - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
+    - Deposit: assessment/deposit.md
+    - Panopto assessment submissions: panopto/submissions.md
+    - Group assignments: assessment/group-assignment.md
+    - Assessed presentations: assessment/presentations.md
+    - Retrieving Anon Assign submissions: assessment/retrieve-anononymous-assignment.md
+    - Staff assessment training: assessment/trainingassessment.md
+  - Other Tools:
+    - other-tools/index.md
+    - Canvas VLE: canvas/index.md
+    - Mentimeter (polling): other-tools/mentimeter.md
+    - Padlet (pinboards):
+      - Getting started with Padlet: other-tools/padlet.md
+      - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
+    - Reading List: other-tools/reading-list.md
+    - System data & analytics: system-data-and-analytics/index.md
+    - Xerte (interactive content): other-tools/xerte.md
   - Training: #SECTION NEEDS FINALISING
-    - training/index.md #new
-    - Workshops: training/workshops.md #new #SINGLE PAGE OR PAGE PER SESSION?
-    - Webinars: https://elearningyork.wpcomstaging.com/professional-development-opportunities/lunchtime-webinar-series/
+    - training/index.md
+    - Workshops: training/workshops.md #SINGLE PAGE OR PAGE PER SESSION?
+    - Webinars: training/webinars.md
+        # - VLE Ultra training: #RETIRE/MOVE MOST
+    #   - Workshop calendar: ultra/workshop-calendar.md
+    #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
+    #   # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
+    #   - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
+    #   # - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
+    #   - Workshops - General Ultra and Turnitin Marker Support Drop-ins: ultra/workshop-turnitin-marker-support.md
   - Help:
-    - help/index.md #new
-    - Troubleshooting common problems: help/troubleshooting.md #new
+    - help/index.md
+    - Troubleshooting common issues: help/troubleshooting.md
     - Contact us: help/contact-us.md
-    - System Suggestions: help/suggestions.md
+    - System suggestions: help/suggestions.md
     - Updates & issues: help/updates-issues.md
     - Finding Usernames: help/usernames.md
     - Finding YCodes: help/ycodes.md
-    - Taking Screenshots: help/screenshots.md
-    - Site Index: help/site-index.md
+    - Taking screenshots: help/screenshots.md
+    - Site index: help/site-index.md
   
 extra:
   generator: false
@@ -263,6 +266,16 @@ plugins:
         'contact-us/ycodes.md': 'help/ycodes.md'
         'contact-us/screenshots.md': 'help/screenshots.md'
         'tags-index.md': 'help/site-index.md'
+        'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
+        'eassessment/ultratest.md': 'ultra/test.md'
+        'eassessment/turnitinfeedbackstudio.md': 'assessment/turnitin-feedback-studio-set-up.md'
+        'eassessment/anonassigneol.md': 'assessment/retrieve-anononymous-assignment.md'
+        'othertools/index.md': 'other-tools/index.md'
+        'mentimeter/index.md': 'other-tools/mentimeter.md'
+        'padlet/index.md': 'other-tools/padlet.md'
+        'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
+        'readinglist/index.md': 'other-tools/reading-list.md'
+        'xerte/index.md': 'other-tools/xerte.md'
   - search
   - tags:
       tags_file: help/site-index.md

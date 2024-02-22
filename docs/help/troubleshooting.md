@@ -15,38 +15,20 @@ tags:
     - Workshop
 ---
 
-# Guide title (short and to the point)
+# Troubleshooting common issues
 
 !!! Summary
 
-    Short summary here
+    You can quickly solve many general issues with our systems (such as content not loading, changes not saving) by completing standard troubleshooting steps yourself.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+## Key troubleshooting steps
 
-    - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
+1. use a supported and updated browser (Chrome or Firefox)
+2. clear cookies & cache
+3. disable browser extensions/add-ons
+4. enable pop ups
+5. consider cookies
 
+For more information on how to complete these steps, see our [troubleshooting guide](https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit?usp=sharing).
 
-## Quick Start Guide
-
-
-### Video Steps
-
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
-
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Text Steps
-
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
-
-1. Step 1
-2. Step 2
-3. Step 3
-
-
-## More Details and Troubleshooting 
-
-<!-- More info here as needed. Delete if not needed. Don't add support email address here. -->
+<iframe width=100% height=750 src="https://docs.google.com/document/d/e/2PACX-1vSZmYfVJT6vsFJlWsGwWcgyKslfiR7YpsxjfNSrVvGax_rU7wQz0KjVR7hyO_3VMEuTsa1LDEytPhLf/pub?embedded=true"></iframe>
