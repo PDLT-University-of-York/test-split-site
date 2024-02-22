@@ -13,7 +13,7 @@ tags:
 
     The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
 
-    This guide covers setting up submission points and managing the marking workflow once marking is completed, and is primarily aimed at **Administrators**.
+    This guide covers setting up submission points and managing the marking workflow, and is primarily aimed at **Administrators**.
 
 ## Overview of TFS
 
