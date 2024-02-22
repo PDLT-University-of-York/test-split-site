@@ -183,7 +183,7 @@ nav:
     - Panopto assessment submissions: panopto/submissions.md
     - Group assignments: assessment/group-assignment.md
     - Assessed presentations: assessment/presentations.md
-    - Retrieving Anon Assign submissions: assessment/retrieve-anononymous-assignment.md
+    - Anon Assign end of life: assessment/anonymous-assignment-eol.md
     - Staff assessment training: assessment/trainingassessment.md
   - Other Tools:
     - other-tools/index.md
@@ -269,7 +269,7 @@ plugins:
         'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
         'eassessment/ultratest.md': 'ultra/test.md'
         'eassessment/turnitinfeedbackstudio.md': 'assessment/turnitin-feedback-studio-set-up.md'
-        'eassessment/anonassigneol.md': 'assessment/retrieve-anononymous-assignment.md'
+        'eassessment/anonassigneol.md': 'assessment/anononymous-assignment-eol.md'
         'othertools/index.md': 'other-tools/index.md'
         'mentimeter/index.md': 'other-tools/mentimeter.md'
         'padlet/index.md': 'other-tools/padlet.md'
