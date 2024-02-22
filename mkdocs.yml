@@ -269,7 +269,7 @@ plugins:
         'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
         'eassessment/ultratest.md': 'ultra/test.md'
         'eassessment/turnitinfeedbackstudio.md': 'assessment/turnitin-feedback-studio-set-up.md'
-        'eassessment/anonassigneol.md': 'assessment/anononymous-assignment-eol.md'
+        'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
         'othertools/index.md': 'other-tools/index.md'
         'mentimeter/index.md': 'other-tools/mentimeter.md'
         'padlet/index.md': 'other-tools/padlet.md'

@@ -53,4 +53,4 @@ By default, instructors are listed in the module under the 'Course staff' header
 2. Find the instructor in the list to whom you would like to allocate primary instructor status and click on 'Edit member information' from the contextual menu link alongside their name.
 3. Select the 'Primary instructor checkbox and 'Save'.
 
-Primary instructors will be moved to the top of the course staff list, and the rest will be moved out of site.
+Primary instructors will be moved to the top of the course staff list, and the rest will be moved out of sight.
