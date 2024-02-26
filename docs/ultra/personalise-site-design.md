@@ -1,34 +1,18 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
     - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
+
 ---
 
-# Guide title (short and to the point)
+# Personalising Your Site Design
 
 !!! Summary
-
-    Short summary here
-
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
-
-    - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
+    This page provides links to relevant guides on how to make your VLE sites have a more personalised appearance. See the quick guidance section below to access personalisation guides.
 
 
 ## Quick Guidance
 <!-- Summary/key considerations -->
-
-## More Details
-
-<!-- More info here as needed. Delete if not needed. Don't add support email address here. -->
+ - [Adding/changing course banner images](https://vle-support.york.ac.uk/ultra/course-image)
+ - [Adding learning module images](https://vle-support.york.ac.uk/ultra/folder-learning-module)
+ - [Video Guide on how to build module content to documents in ultra](https://www.youtube.com/watch?v=2KA0UWiTMWI&feature=youtu.be)
