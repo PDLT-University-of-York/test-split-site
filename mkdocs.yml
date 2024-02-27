@@ -222,7 +222,7 @@ extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/UoYVLE
-      name: DET on Twitter
+      name: DET on Twitter (X)
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/uoyvle/
       name: DET on Instagram
@@ -234,7 +234,7 @@ extra:
       name: Contact Support Desk
   tags:
     Key guide - teaching: KeyGuideTeaching
-    Key guide - admins: KeyGuideAdmins
+    Key guide - admin: KeyGuideAdmin
     Accessibility: Accessibility
     Assessment: Assessment
     Communication: Communication
@@ -281,7 +281,7 @@ plugins:
       tags_file: help/site-index.md
       tags_allowed:
         - Key guide - teaching
-        - Key guide - admins
+        - Key guide - admin
         - Accessibility
         - Assessment
         - Communication

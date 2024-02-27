@@ -1,6 +1,7 @@
 ---
 tags:
     - Key guide - teaching
+    - Key guide - admin
     - Ultra
 
 ---
