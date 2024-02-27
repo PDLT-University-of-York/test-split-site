@@ -11,8 +11,8 @@ theme:
   icon:
     logo: material/home-circle
     tag:
-      Key guide - tutors: simple/go
-      Key guide - admins: simple/go
+      KeyGuideTeaching: simple/go
+      KeyGuideAdmin: simple/go
       Accessibility: octicons/accessibility-inset-16
       Assessment: octicons/check-circle-16
       Communication: octicons/megaphone-16
@@ -21,7 +21,7 @@ theme:
       Help: material/help-circle-outline
       Ultra: material/laptop
       Panopto: fontawesome/solid/video
-      Other tools: material/toolbox
+      OtherTools: material/toolbox
       # Ultra: material/laptop
       # Panopto: fontawesome/solid/video
       # ReadingList: octicons/book-16
@@ -84,7 +84,7 @@ nav:
     - Getting started with Ultra:
       - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
-      - Access Courses (sites): ultra/access-courses.md
+      - Access your sites: ultra/access-sites.md
       - Notifications: ultra/notifications.md
       - Troubleshooting common issues: help/troubleshooting.md
     - Site structure & design:
@@ -233,17 +233,17 @@ extra:
       link: mailto:vle-support@york.ac.uk
       name: Contact Support Desk
   tags:
-    Key guide - tutors: Key guide - tutors
-    Key guide - admins: Key guide - admins
+    Key guide - teaching: KeyGuideTeaching
+    Key guide - admins: KeyGuideAdmins
     Accessibility: Accessibility
     Assessment: Assessment
     Communication: Communication
-    Interactive content: Interactive content
+    Interactive content: InteractiveContent
     Training: Training
     Help: Help
     Ultra: Ultra
     Panopto: Panopto
-    Other tools: Other tools
+    Other tools: OtherTools
   analytics:
     provider: google
     property: G-Q6B3RZT1K0
@@ -280,7 +280,7 @@ plugins:
   - tags:
       tags_file: help/site-index.md
       tags_allowed:
-        - Key guide - tutors
+        - Key guide - teaching
         - Key guide - admins
         - Accessibility
         - Assessment
