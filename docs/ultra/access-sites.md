@@ -36,3 +36,9 @@ You can customise which sites are shown and how the page appears:
 The Communities page (generally) contains non-academic sites. You may also see these sites described as 'Organisations'.
 
 You can customise the Communities page in the same way as the Courses page.
+
+## Missing a site you need?
+
+If you can't see a site that you require access to after using the methods above, you may not be enrolled on it.
+
+To be given access, contact the module convenor/site owner or your departmental VLE coordinator.
