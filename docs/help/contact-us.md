@@ -79,3 +79,8 @@ Contact the relevant team for help with tools that we don't support.
     - :octicons-arrow-right-24: Academic Integrity: contact integrity@york.ac.uk
 
 </div>
+
+## System Suggestions
+Have suggestions for changes on our systems? You can contact us or in some cases, contact the supplier directly.
+
+Feature requests for the Learn VLE (vle.york.ac.uk) can be made and voted on via [the Blackboard Anthology Idea Exchange](https://anthology-teachingandlearning.ideas.aha.io/ideas), and anyone is welcome to [sign up](https://anthology-teachingandlearning.ideas.aha.io/portal_users/new).

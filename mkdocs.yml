@@ -261,7 +261,7 @@ plugins:
         'ultra/groups.md': 'ultra/course-groups.md'
         'contact-us/index.md': 'help/contact-us.md'
         'updates/index.md': 'help/updates-issues.md'
-        'updates/suggestions.md': 'help/suggestions.md'
+        'updates/suggestions.md': 'help/contact-us.md'
         'contact-us/usernames.md': 'help/usernames.md'
         'contact-us/ycodes.md': 'help/ycodes.md'
         'contact-us/screenshots.md': 'help/screenshots.md'
