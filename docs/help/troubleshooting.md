@@ -11,7 +11,7 @@ tags:
 
 !!! Summary
 
-    Quickly solve many general issues by completing standard troubleshooting steps.
+    Quickly solve many general issues yourself by completing standard troubleshooting steps.
 
 ## Which issues can this fix?
 

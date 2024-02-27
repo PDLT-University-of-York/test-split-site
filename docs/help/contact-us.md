@@ -1,23 +1,40 @@
+---
+tags:
+    - Help
+---
+
 # Contact Us
 
 !!! Summary
-    The team that look after the tools described on this website is the Digital Education Team (DET) at the University of York, UK. We are contactable via email and phone, 9-5 BST, Monday to Friday (not [bank holidays](https://www.gov.uk/bank-holidays)).
-    
+    The Digital Education Team (DET) can provide further help and assistance with the online learning tools described in this website.
+
 ## Our contact details
 
-- Email: vle-support@york.ac.uk – We aim to reply within three working days
-- Phone: (01904 32) 1131 – For urgent queries only
+- Opening times: 9-5 UK time, Monday to Friday (not [bank holidays](https://www.gov.uk/bank-holidays))
+- Email: vle-support@york.ac.uk – we aim to reply within three working days
+- Phone: (01904 32) 1131 – for urgent queries only
 
 ## Information to include
-There's some core information that you can include in your email that will help us help you.
+To help us to help you more quickly, please include:
 
-When getting in touch with our team, please include the following:
+- **Screenshots/Photos**: Screenshots or photos of your device's entire screen showing issues and/or error messages help us understand your problem - [Help with Screenshotting](https://vle-support.york.ac.uk/contact-us/screenshots/)
+- **Usernames**: for issues relating to a specific user (or numerous specific users) please include their usernames (eg. abc123) so we can find the correct account - [Help with finding Usernames](https://vle-support.york.ac.uk/contact-us/usernames/)
+- **YCodes**: for issues about a particular site on the Learn Ultra VLE, please include its "YCode" (unique ID code) so we can find the site you need help with - [Help with finding YCodes](https://vle-support.york.ac.uk/contact-us/ycodes/).
 
-- **Screenshots/Photos:** Screenshots or photos of your device's entire screen showing issues and/or error messages are very helpful to us - [Help with Screenshotting](https://vle-support.york.ac.uk/contact-us/screenshots/)
-- **Usernames**: If your issue/query relates to a specific user (or numerous specific users) please include their usernames (eg. abc123) so we can ensure we're looking at the correct accounts - [Help with finding Usernames](https://vle-support.york.ac.uk/contact-us/usernames/)
-- **YCodes:** If you have an issue/query about a particular site on the VLE, please include its "YCode". The YCode is an identifier that's unique to each VLE site, and helps us quickly find and access the site you need help with - [Help with finding YCodes](https://vle-support.york.ac.uk/contact-us/ycodes/).
+## Can you fix it yourself? 
 
-## Troubleshooting
-Many general issues with our systems (such as content not loading, changes not saving) can be solved by completing standard troublshooting steps yourself. Embedded below is our general troubleshooting guidance for staff and students, but if you prefer you can [use this link to open our troubleshooting guidance in another browser tab](https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit?usp=sharing).
+!!! Tip
 
-<iframe width=99% height=750 src="https://docs.google.com/document/d/e/2PACX-1vSZmYfVJT6vsFJlWsGwWcgyKslfiR7YpsxjfNSrVvGax_rU7wQz0KjVR7hyO_3VMEuTsa1LDEytPhLf/pub?embedded=true"></iframe>
+    You may be able to solve the issue yourself more quickly than we can.
+
+### Use one of our guides
+
+If you're not sure how to do something using one of our tools:
+
+- explore our guide topics in the navigation menu
+- search for specific content with the search box (top right)
+- browse the [Site index](/help/site-index) to see all guides listed by topic tags
+
+### Troubleshooting
+
+Many general errors or issues with our systems (particularly **Learn Ultra** and **Panopto**) can be easily and quickly fixed by following standard [troubleshooting steps](/help/troubleshooting) yourself.
