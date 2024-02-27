@@ -5,15 +5,19 @@
     
     [HYMS Learn Ultra](https://hymsvle.york.ac.uk) is accessed via a different URL, but runs on the same system.
 
+## What Ultra can do
+
 <div class="grid" markdown>
+<!-- renders in Live as a grid -->
 
 <div markdown>
-A module Ultra site can support:
+A module Ultra site can:
 
-- various types of **module materials**: files, videos, quizzes and more.
-- a range of formative and summative **assessment** methods.
-- online **discussions** or other communication methods.
-- **groupwork** and group assessment.
+- contain various types of **module materials**: files, videos, quizzes and more.
+- offer a range of formative and summative **assessment** methods.
+- support online **discussions** and other communication methods.
+- manage **groupwork** and group assessment.
+- facilitate synchronous and asynchronous online and blended learning.
 </div>
 
 ![Example of course materials in an Ultra site](images/index-ultra.png)
@@ -54,11 +58,11 @@ Start with these key guides:
 
     [:octicons-arrow-right-24: Discussions](discussions.md)
 
--   **Manage your notifications**
+-   **Use Ultra your way**
 
     ---
     
-    [:octicons-arrow-right-24: Notifications](notifications.md)
+    [:octicons-arrow-right-24: Manage your notifications](notifications.md)
 
 </div>
 
