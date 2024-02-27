@@ -1,10 +1,42 @@
-# Section title
+# Help
 
 !!! Summary
-    <!-- Brief intro to what tool does/where/why used -->
 
-Find the guide you need by:
+    Help and support from Digital Education Team (DET) with using our tools.
 
-- expanding the categories in the left menu (or hamburger icon in the top left of a small screen).
-- using the search box above.
-- using the next/previous links at the bottom of the page.
+<div class="grid cards" markdown>
+<!-- renders in Live as a grid of index cards -->
+
+-  **Solve issues yourself**
+
+    ---
+    
+    :octicons-arrow-right-24: Search this site for relevant guides
+    
+    [:octicons-arrow-right-24: Troubleshoot common issues](troubleshooting.md)
+
+-   **Get help from us**
+
+    ---
+    
+    [:octicons-arrow-right-24: Contact us](contact-us.md)
+
+    [:octicons-arrow-right-24: Taking screenshots](screenshots.md)
+
+    [:octicons-arrow-right-24: Finding Usernames](usernames.md)
+
+    [:octicons-arrow-right-24: Finding YCodes](ycodes.md)
+
+-   **Guides listed by topic**
+
+    ---
+    
+    [:octicons-arrow-right-24: Site index](site-index.md)
+
+-   **Keep up to date with our tools**
+
+    ---
+    
+    [:octicons-arrow-right-24: System updates & issues](update-issues.md)
+
+</div>

@@ -209,12 +209,12 @@ nav:
   - Help:
     - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
+    - Updates & issues: help/updates-issues.md
     - Contact us: help/contact-us.md
     - System suggestions: help/suggestions.md
-    - Updates & issues: help/updates-issues.md
+    - Taking screenshots: help/screenshots.md
     - Finding Usernames: help/usernames.md
     - Finding YCodes: help/ycodes.md
-    - Taking screenshots: help/screenshots.md
     - Site index: help/site-index.md
   
 extra:
