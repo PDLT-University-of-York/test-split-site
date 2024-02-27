@@ -11,32 +11,28 @@
 
     ---
     
-    :octicons-arrow-right-24: Search this site for relevant guides
-    
-    [:octicons-arrow-right-24: Troubleshoot common issues](troubleshooting.md)
+    - :octicons-arrow-right-24: Search this site for relevant guides
+    - [:octicons-arrow-right-24: Troubleshoot common issues](troubleshooting.md)
 
 -   **Get help from us**
 
     ---
     
-    [:octicons-arrow-right-24: Contact us](contact-us.md)
-
-    [:octicons-arrow-right-24: Taking screenshots](screenshots.md)
-
-    [:octicons-arrow-right-24: Finding Usernames](usernames.md)
-
-    [:octicons-arrow-right-24: Finding YCodes](ycodes.md)
+    - [:octicons-arrow-right-24: Contact us](contact-us.md)
+    - [:octicons-arrow-right-24: Taking screenshots](screenshots.md)
+    - [:octicons-arrow-right-24: Finding Usernames](usernames.md)
+    - [:octicons-arrow-right-24: Finding YCodes](ycodes.md)
 
 -   **Guides listed by topic**
 
     ---
     
-    [:octicons-arrow-right-24: Site index](site-index.md)
+    - [:octicons-arrow-right-24: Site index](site-index.md)
 
 -   **Keep up to date with our tools**
 
     ---
     
-    [:octicons-arrow-right-24: System updates & issues](update-issues.md)
+    - [:octicons-arrow-right-24: System updates & issues](update-issues.md)
 
 </div>

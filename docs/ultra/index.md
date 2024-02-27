@@ -35,34 +35,29 @@ Start with these key guides:
 
     ---
     
-    [:octicons-arrow-right-24: VLE site design principles](site-design-principles.md)
-    
-    [:octicons-arrow-right-24: Navigate Ultra sites](navigate-ultra-site.md)
-
-    [:octicons-arrow-right-24: Personalise your site](personalise-site-design.md)
+    - [:octicons-arrow-right-24: VLE site design principles](site-design-principles.md)
+    - [:octicons-arrow-right-24: Navigate Ultra sites](navigate-ultra-site.md)
+    - [:octicons-arrow-right-24: Personalise your site](personalise-site-design.md)
 
 
 -  **Organise & build content**
 
     ---
     
-    [:octicons-arrow-right-24: Folders & Learning Modules](folder-learning-module.md)
-    
-    [:octicons-arrow-right-24: Documents (pages)](documents.md)
+    - [:octicons-arrow-right-24: Folders & Learning Modules](folder-learning-module.md)
+    - [:octicons-arrow-right-24: Documents (pages)](documents.md)
 
 -   **Communication & interaction**
 
     ---
     
-    [:octicons-arrow-right-24: Announcements](announcements.md)
-
-    [:octicons-arrow-right-24: Discussions](discussions.md)
+    - [:octicons-arrow-right-24: Announcements](announcements.md)
+    - [:octicons-arrow-right-24: Discussions](discussions.md)
 
 -   **Use Ultra your way**
 
     ---
-    
-    [:octicons-arrow-right-24: Manage your notifications](notifications.md)
+    - [:octicons-arrow-right-24: Manage your notifications](notifications.md)
 
 </div>
 

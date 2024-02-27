@@ -43,7 +43,7 @@ Many general errors or issues with our systems (particularly **Learn Ultra** and
 
 Contact the relevant team for help with tools that we don't support.
 
-<div class="grid cards card-list" markdown>
+<div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
 -   **IT Support**
