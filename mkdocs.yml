@@ -280,17 +280,14 @@ plugins:
   - tags:
       tags_file: help/site-index.md
       tags_allowed:
-        - Foundation
-        - Advanced
-        - Teaching
-        - Administration
+        - Key guide - tutors
+        - Key guide - admins
+        - Accessibility
+        - Assessment
+        - Communication
+        - Interactive content
+        - Training
+        - Help
         - Ultra
         - Panopto
-        - Reading List
-        - Canvas
-        - Xerte
-        - Padlet
-        - Mentimeter
-        - Workshop
-        - UpdatesAdmin
-        - UpdatesTeach
+        - Other tools
