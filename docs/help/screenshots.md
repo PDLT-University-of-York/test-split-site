@@ -1,11 +1,18 @@
+---
+tags:
+    - Help
+---
 
 # Screenshots
 
 !!! Summary
-    Including screenshots or photographs of you issue and/or any error messages you receive is very helpful to us when troubleshooting for you.
+    Screenshots or photographs of your issue and/or any error messages you receive is helps us to understand and troubleshoot your issue.
 
 ## Taking Screenshots
-Please ensure that screenshots you take include your entire computer screen, not just a small section of the screen.
+
+!!! Success
+
+    Make sure that screenshots include your entire screen, and not just a part of it.
 
 How you take screenshots varies depending on what device you're using (eg. a Windows PC differs from an iPhone). We've included links below for screenshotting on most common devices and operating systems.
 
