@@ -93,6 +93,12 @@ nav a {
     text-decoration: none;
 }
 
+.grid.cards ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 /* .md-footer-copyright {
     display: none;
 } */

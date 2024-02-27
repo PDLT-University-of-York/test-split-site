@@ -38,3 +38,44 @@ If you're not sure how to do something using one of our tools:
 ### Troubleshooting
 
 Many general errors or issues with our systems (particularly **Learn Ultra** and **Panopto**) can be easily and quickly fixed by following standard [troubleshooting steps](/help/troubleshooting) yourself.
+
+## Help from other teams
+
+Contact the relevant team for help with tools that we don't support.
+
+<div class="grid cards card-list" markdown>
+<!-- renders in Live as a grid of index cards -->
+
+-   **IT Support**
+
+    ---
+
+    - :octicons-arrow-right-24: Team email: itsupport@york.ac.uk
+    - [:octicons-arrow-right-24: Google tools](https://subjectguides.york.ac.uk/google)
+    - [:octicons-arrow-right-24: Duo 2-factor authentication](https://www.york.ac.uk/it-services/services/duo/)
+    - [:octicons-arrow-right-24: Zoom](https://www.york.ac.uk/it-services/services/zoom/)
+
+-   **Reading List team**
+
+    ---
+    
+    - :octicons-arrow-right-24: Team email: lib-readinglists@york.ac.uk
+    - [:octicons-arrow-right-24: Leganto Reading List](https://subjectguides.york.ac.uk/readinglists/)
+    - [:octicons-arrow-right-24: Kortext](https://docs.google.com/document/d/1Pg0Vq-qcEnJ-MqwQZQoI4YMZTWlUHqYUtiv4f7Xha1c)
+
+-   **Faculty Librarians**
+
+    ---
+    
+    - :octicons-arrow-right-24: Find contact details on your [Library Subject Guide](https://subjectguides.york.ac.uk/subjectguides)
+    - [:octicons-arrow-right-24: Box of Broadcasts/Learning on Screen](https://www.york.ac.uk/library/resources/av/bob/)
+
+-   **Other teams**
+
+    ---
+
+    - [:octicons-arrow-right-24: Timetabling](https://timetable.york.ac.uk/help)
+    - [:octicons-arrow-right-24: SITS](https://www.york.ac.uk/about/departments/support-and-admin/student-systems/systems/sits-faq/)
+    - :octicons-arrow-right-24: Academic Integrity: contact integrity@york.ac.uk
+
+</div>
