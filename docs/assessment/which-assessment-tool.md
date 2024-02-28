@@ -28,8 +28,8 @@ Once you've selected an appropriate tool, select the relevant guide in the navig
     | **Ultra Discussion** | Critical discussion skills, peer support skills, student-created content | Non-anonymous | Can log completion in Gradebook |
     | **Padlet pinboards** | Discussion & peer support, student-created content, group projects | Non-anonymous | Can embed in Learn Ultra VLE |
     | **Google Docs** | Informal feedback, peer assessment | Non-anonymous | Consider sharing settings carefully |
-    | **Panopto Multimedia Submission** | Large video/audio submissions, media generation skills, presentation recordings, performances (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
-    | **Deposit** | Large file submissions | ??? | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |
+    | **Panopto Multimedia Submission** | Large video/audio submissions, media editing skills, presentation/performance recordings (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
+    | **Deposit** | Large file submissions | Non-anonymous, can be anonymous if managed by admin | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |
 
 
 === "Summative assessment"
@@ -43,8 +43,8 @@ Once you've selected an appropriate tool, select the relevant guide in the navig
     | **Ultra Test** | Robust exams with various question types, remote or on-campus exams | Non-anonymous | **Required**: [contact us](/help/contact-us) for set-up consultation |
     | **Ultra Journal** | Reflective practice, documenting development | Non-anonymous | Currently no group Journal option |
     | **Ultra Discussion** | Critical discussion skills | Non-anonymous | |
-    | **Panopto Multimedia Submission** | Large video/audio submissions, media generation skills, presentation recordings, performances (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
-    | **Deposit** | Large file submissions | ??? | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |
+    | **Panopto Multimedia Submission** | Large video/audio submissions, media editing skills, presentation/performance recordings (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
+    | **Deposit** | Large file submissions | Non-anonymous, can be anonymous if managed by admin | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |
 
 You can also view this information as a Google Doc: [Which assessment tool - Google Doc](https://docs.google.com/document/d/1h6XMzSouyYBU-SKZ1wkQfqmbbJ_Y_QnLCiJK8HWzjUU/edit?usp=sharing). 
 
