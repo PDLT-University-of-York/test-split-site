@@ -22,22 +22,6 @@ theme:
       Ultra: material/laptop
       Panopto: fontawesome/solid/video
       OtherTools: material/toolbox
-      # Ultra: material/laptop
-      # Panopto: fontawesome/solid/video
-      # ReadingList: octicons/book-16
-      # Canvas: material/laptop
-      # Xerte: material/monitor-edit
-      # Padlet: fontawesome/brands/padlet
-      # Mentimeter: material/chart-bar
-      # Foundation: simple/go
-      # Advanced: material/stairs-up
-      # Teaching: octicons/mortar-board-16
-      # Administration: fontawesome/regular/clipboard
-      # Workshop: fontawesome/solid/school
-      # Updates: material/new-box
-      # Issues: material/alert
-      # Outages: material/fire-alert
-      # TurnItIn: fontawesome/regular/clipboard
   # favicon: img/favicon.jpg
   # palette:
   #   - media: "(prefers-color-scheme: light)" 
@@ -105,9 +89,9 @@ nav:
       - Embed content: ultra/embedded-content.md
       - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      - Assignment (set up): ultra/assignment-set-up.md
-      - Assignment (marking): ultra/assignment-marking.md
-      - Test (quizzes & exams): ultra/test.md
+      - Ultra Assignment (set up): ultra/assignment-set-up.md
+      - Ultra Assignment (marking): ultra/assignment-marking.md
+      - Ultra Test (quizzes & exams): ultra/test.md
       - Form: ultra/form.md
       - Journal: ultra/journal.md
       - Gradebook: ultra/gradebook.md
