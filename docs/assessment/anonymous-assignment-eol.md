@@ -1,12 +1,8 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
 
+    - Key guide - admin
+    - Assessment
 ---
 
 # Anonymous Assignment: end of life
@@ -17,7 +13,7 @@ tags:
     This guide considers the implications for new submissions by resitting/extenstion students in modules from 2022/23 or earlier. It is primarily aimed at **administrators**.
 
 ## Background
-The anonymous assignment building block was retired on 30th September 2023. All "in VLE" file based assessments for 2023/24 should be [set up using the new Turnitin Feedback Studio submission points](turnitin-feedback-studio-set-up.md) from within a Learn Ultra site.
+The anonymous assignment building block was retired on 30th September 2023. All "in VLE" file based summative assessments should now be [set up using the new Turnitin Feedback Studio submission points](turnitin-feedback-studio-set-up.md) from within a Learn Ultra site.
 
 !!! Warning
 
