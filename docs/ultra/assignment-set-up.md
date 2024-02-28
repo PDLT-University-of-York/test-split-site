@@ -41,14 +41,14 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 - Give clear instructions on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section.
 - Marking criteria or grading policies for the assignment must be available or linked within the Assessment section.
 
-!!! Warning
-    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if hidden from students in the Course Content area.
-    
-    When **uploading assessment-related files** were access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
-
 ### Individual assessment
 - Formative or non-anonymous summative: [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
 ### Group assessment
 - Formative: [Staff Help: Formative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/12prcsksWPTEzuP4d9QOnjH9l4zHjGwRZsP99QU8hyTw/edit?usp=sharing)
 - Summative: [Staff Help: Summative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/1MTc5SYuvoAgWxPIQKfW0K1hDqLA3U8rA00czaeFeDs0/edit)
+
+!!! Warning
+    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if hidden from students in the Course Content area.
+    
+    When **uploading assessment-related files** were access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
