@@ -1,12 +1,9 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
+    - Key guide - teaching
+    - Key guide - admin
+    - Assessment
     - Ultra
-    - Panopto
 
 ---
 
@@ -14,16 +11,40 @@ tags:
 
 !!! Summary
 
-    There are numerous Assessment tools available here at York, to electronically assess your cohort. There are pros and cons to each of the tools, such as whether it can mark anonymously, whether it integrates directly with the Learn VLE (vle.york.ac.uk), what size and type of files it can take.
+    An overview of the various assessment tools and platforms available and situations where they are best used.
 
-    This page summarises the main Assessment tools at York, and what they're best used for.
+Once you've selected an appropriate tool, select the relevant guide in the navigation.
+
+=== "Formative & self assessment"
+
+    Options for official **formative assessment** tasks and informal **knowledge checks**.
+
+    | Tool | Useful for | Anonymity | Notes |
+    | ----- | ----- | ----- | ----- |
+    | **Turnitin Feedback Studio (TFS)** | Text or audio feedback, peer assessment | Anonymous or non-anonymous | Untick ‘add to TII' box during set up |
+    | **Ultra Assignment** | Marking & feedback, individual or group submissions | Non-anonymous | |
+    | **Ultra Test** | Knowledge checks, immediate feedback through automarking, practice tests | Non-anonymous | Can upload/import questions |
+    | **Ultra Journal** | Reflective practice, documenting development | Non-anonymous | Currently no group Journal option |
+    | **Ultra Discussion** | Critical discussion skills, peer support skills, student-created content | Non-anonymous | Can log completion in Gradebook |
+    | **Padlet pinboards** | Discussion & peer support, student-created content, group projects | Non-anonymous | Can embed in Learn Ultra VLE |
+    | **Google Docs** | Informal feedback, peer assessment | Non-anonymous | Consider sharing settings carefully |
+    | **Panopto Multimedia Submission** | Large video/audio submissions, media generation skills, presentation recordings, performances (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
+    | **Deposit** | Large file submissions | ??? | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |
 
 
-## Summary Assessment Tables
-Below is an embedded Google Doc containing two tables summarising our Assessment offerings. [If you would prefer to open the embedded Google Doc in another browser tab, use this link](https://docs.google.com/document/d/1h6XMzSouyYBU-SKZ1wkQfqmbbJ_Y_QnLCiJK8HWzjUU/edit?usp=sharing). 
+=== "Summative assessment"
 
-<iframe width=99% height=750 src="https://docs.google.com/document/d/e/2PACX-1vQobiIiZcOQEIn8zPWnqOlojSNd9DfltGHB7VU-3-l2HJdiy4WUZLyC6wR_T5N2PqWAw4wzresX265T/pub?embedded=true"></iframe>
+    **Summative assessments** are generally set up by departmental admin staff. Consult within your department as needed.
 
-## Questions?
-Contact us, via the details in the Contact Us tab in the top menu of this site.
+    | Tool | Useful for | Anonymity | Notes |
+    | ----- | ----- | ----- | ----- |
+    | **Turnitin Feedback Studio (TFS)** | Main tool for marking & feedback (replaces Anonymous Assignment tool) | Anonymous or non-anonymous | Must be set up by an admin  |
+    | **Ultra Assignment** | Marking & feedback, individual or group submissions | Non-anonymous | |
+    | **Ultra Test** | Robust exams with various question types, remote or on-campus exams | Non-anonymous | **Required**: [contact us](/help/contact-us) for set-up consultation |
+    | **Ultra Journal** | Reflective practice, documenting development | Non-anonymous | Currently no group Journal option |
+    | **Ultra Discussion** | Critical discussion skills | Non-anonymous | |
+    | **Panopto Multimedia Submission** | Large video/audio submissions, media generation skills, presentation recordings, performances (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
+    | **Deposit** | Large file submissions | ??? | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |
+
+You can also view this information as a Google Doc: [Which assessment tool - Google Doc](https://docs.google.com/document/d/1h6XMzSouyYBU-SKZ1wkQfqmbbJ_Y_QnLCiJK8HWzjUU/edit?usp=sharing). 
 

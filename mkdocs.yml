@@ -166,7 +166,7 @@ nav:
     - Accessible maths: accessibility/accessible-maths.md
   - Assessment:
     - assessment/index.md
-    - Help picking a tool: assessment/which-assessment-tool.md
+    - Which assessment tool?: assessment/which-assessment-tool.md
     - TurnItIn Feedback Studio:
       - TFS (set up): assessment/turnitin-feedback-studio-set-up.md
       - TFS (marking): assessment/turnitin-feedback-studio-marking.md
