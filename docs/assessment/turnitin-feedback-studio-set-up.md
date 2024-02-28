@@ -21,6 +21,11 @@ The video below gives an overview of using TFS as a staff member to support asse
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+!!! Warning
+    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
+    
+    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+
 ## Submission points & rubrics
 
 TFS can be used for formative or summative assignments, but there are some different considerations when setting up the submission points for these:

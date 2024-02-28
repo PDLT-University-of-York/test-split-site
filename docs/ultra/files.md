@@ -67,3 +67,8 @@ This method is recommended for standalone or reference materials that don't requ
 ![File options showing descriptive display name and view and download option selected](images/files-edit-file-options.png)
 4. Make the file visible to students.
 5. Click the file to view in a separate pane in the site (if "view" was selected in file options).
+
+!!! Warning
+    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
+    
+    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).

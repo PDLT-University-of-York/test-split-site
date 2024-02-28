@@ -23,6 +23,11 @@ The Ultra Assignments tool *does* techncally allow anonymous submissions, howeve
 
 Other assignment submission tools are available, particularly around video and audio assessments, as detailed on [our Assessment hub page](https://vle-support.york.ac.uk/assessment/).
 
+!!! Warning
+    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
+    
+    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+
 ## Important - Before You Begin
 Ensure that you are up to date with [our "Important Things to Know"](https://vle-support.york.ac.uk/assessment/importantassessment/) around assessment before using assignment submission points on the VLE.
 
