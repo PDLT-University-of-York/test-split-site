@@ -4,7 +4,6 @@ tags:
     - Key guide - admin
     - Assessment
     - Ultra
-
 ---
 
 # Which Assessment Tool?
@@ -40,7 +39,7 @@ Once you've selected an appropriate tool, select the relevant guide in the navig
     | ----- | ----- | ----- | ----- |
     | **Turnitin Feedback Studio (TFS)** | Main tool for marking & feedback (replaces Anonymous Assignment tool) | Anonymous or non-anonymous | Must be set up by an admin  |
     | **Ultra Assignment** | Marking & feedback, individual or group submissions | Non-anonymous | |
-    | **Ultra Test** | Robust exams with various question types, remote or on-campus exams | Non-anonymous | **Required**: [contact us](/help/contact-us) for set-up consultation |
+    | **Ultra Test** | Robust exams with various question types, remote or on-campus exams | Anonymous or non-anonymous | **Required**: [contact us](/help/contact-us) for set-up consultation |
     | **Ultra Journal** | Reflective practice, documenting development | Non-anonymous | Currently no group Journal option |
     | **Ultra Discussion** | Critical discussion skills | Non-anonymous | |
     | **Panopto Multimedia Submission** | Large video/audio submissions, media editing skills, presentation/performance recordings (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
