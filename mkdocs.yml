@@ -89,9 +89,9 @@ nav:
       - Embed content: ultra/embedded-content.md
       - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      - Ultra Assignment (set up): ultra/assignment-set-up.md
-      - Ultra Assignment (marking): ultra/assignment-marking.md
-      - Ultra Test (quizzes & exams): ultra/test.md
+      - Assignment (set up): ultra/assignment-set-up.md
+      - Assignment (marking): ultra/assignment-marking.md
+      - Test (quizzes & exams): ultra/test.md
       - Form: ultra/form.md
       - Journal: ultra/journal.md
       - Gradebook: ultra/gradebook.md
@@ -166,6 +166,7 @@ nav:
     - Panopto assessment submissions: panopto/submissions.md
     - Group assignments: assessment/group-assignment.md
     - Assessed presentations: assessment/presentations.md
+    - Assessment & LoA: assessment/assessment-loa.md
     - Anon Assign end of life: assessment/anonymous-assignment-eol.md
     - Staff assessment training: assessment/trainingassessment.md
   - Other Tools:

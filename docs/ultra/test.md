@@ -97,7 +97,7 @@ Tests listed as either a formative or summative assessment in your module catalo
     Draft your Test questions in Google Docs, Word or Excel. This helps avoid errors and it’s useful to have a copy to share with external examiners.
 
 1. In the relevant location, click **Create** > **Test**.
-2. Give the test a descriptive **name** at the top left.
+2. Give the Test a descriptive **name** at the top left.
 3. Click the plus icon to add **questions** (see below for details of uploading or reusing questions).
 4. Set the **Due date** and adjust other settings as needed.
 5. Set the test as **Visible to students** or specify  **Release conditions** in the top right.
