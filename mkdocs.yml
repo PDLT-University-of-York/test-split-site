@@ -16,7 +16,7 @@ theme:
       Accessibility: octicons/accessibility-inset-16
       Assessment: octicons/check-circle-16
       Communication: octicons/megaphone-16
-      Interactive content: material/cursor-default-click-outline
+      InteractiveContent: material/cursor-default-click-outline
       Training: fontawesome/solid/school
       Help: material/help-circle-outline
       Ultra: material/laptop
