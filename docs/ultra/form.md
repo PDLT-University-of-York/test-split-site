@@ -4,7 +4,11 @@ tags:
     - Ultra
 ---
 
-# Journal
+# Form
+
+https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Forms
+
+---
 
 !!! Summary
 
