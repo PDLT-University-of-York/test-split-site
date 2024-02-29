@@ -41,6 +41,8 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 - Give clear instructions on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section.
 - Marking criteria or grading policies for the assignment must be available or linked within the Assessment section.
 
+![Example Assignment submission point for a formative essay with task instructions](images/assignment-set-up-submission-point-example.png)
+
 ### Individual assessment
 - Formative or non-anonymous summative: [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
