@@ -1,6 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Assessment
     - Interactive content
     - Ultra

@@ -1,7 +1,5 @@
 ---
 tags:
-    - Assessment
-    - Communication
     - Interactive content
     - Ultra
 ---
@@ -55,9 +53,3 @@ This is demonstrated in the video below, or for more detail see [Blackboard's gu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lk180brvk2c?si=D3JU-GJY7zBA5P4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Create a Journal in the Ultra Course View [YouTube]](https://youtu.be/lk180brvk2c?si=bfzUaZLJVsuDQqrA)
-
-## Marking a Journal
-
-Journals can be used for assessment purposes, and marked online in the Ultra site. You can include a marking rubric.
-
-For details on the marking workflow, see [Blackboard's guide to Grading Journals](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Journals/Grade_Journals).
