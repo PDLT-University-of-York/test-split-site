@@ -172,7 +172,9 @@ nav:
   - Other Tools:
     - other-tools/index.md
     - Canvas VLE: canvas/index.md
-    - Mentimeter (polling): other-tools/mentimeter.md
+    - Mentimeter (polling): 
+      - Overview: other-tools/mentimeter.md
+      - Logging in to Mentimeter: mentimeter-logging-in.md
     - Padlet (pinboards):
       - Getting started with Padlet: other-tools/padlet.md
       - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
