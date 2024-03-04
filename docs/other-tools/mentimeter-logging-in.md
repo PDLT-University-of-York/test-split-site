@@ -1,7 +1,7 @@
 # Logging in to Mentimeter
 
 !!! Summary
-    How to log in to [Mentimeter](https://www.mentimeter.com/) to create a Mentimneter presentation.
+    How to log in to [Mentimeter](https://www.mentimeter.com/) to create a Mentimeter presentation.
 
 You can create your university Mentimeter account from the following link:
 
