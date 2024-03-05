@@ -77,6 +77,7 @@ nav:
       - Personalise site design: ultra/personalise-site-design.md
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
+      - Course staff: ultra/course-staff.md
       - Site renames: ultra/site-rename.md
     - Content creation:
       # - I want to...: #MAKE PAGE
@@ -114,7 +115,7 @@ nav:
       - Site availability: ultra/site-availability.md
       - Course roles: ultra/course-roles.md
       - Enrol a user: ultra/enrol-user.md
-      - Enrol a student cohort: ultra/enrol-cohort.md
+      - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
       - International access: ultra/international-access.md
