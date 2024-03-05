@@ -29,7 +29,13 @@ The Ultra module site template contains 4 main learning modules:
 The template site also contains 2 LTI tools:
 
 * **Reading List**: link to the Reading List tool
-* **Replay content**: Replay Lecture Capture content area for lecture capture recordings
+* **Panopto Replay content**: Replay Lecture Capture content area for lecture capture recordings
+
+<figure markdown="span">
+![Module Template](images/ultra-template-template-example.png){: style="height:auto;width:80%;align=centre"}
+<figcaption>*Example of an Ultra course template*</figcaption>
+</figure>
+
 
 
 # Using the content in template
@@ -44,11 +50,18 @@ lecture notes, and discussion forums.
 subject, along with assignments, discussion forums, and tests.
 * **By content type**: Similar content types are grouped together in a module materials section (e.g., all
 the lectures for the entire course).
+<figure markdown="span">
+![Module Materials Types](images/ultra-template-module-material-example.png)
+<figcaption>*Example of 3 types of module material layouts*</figcaption>
+</figure>
+We have placeholders in the module **Information & Assessment** sections these are **required** to be replaced with relevant information and module materials sections there are optional placeholders to help you build your site but feel free to delete them if not relevant. Below demonstrates an example of the placeholder information found in the template documents.
 
+<figure markdown="span">
+![Module Placeholder Info](images/ultra-template-placeholder-example.png)
+<figcaption>*Example of placeholder text in template*</figcaption>
+</figure>
 
-We have placeholders in the module **Information & Assessment** sections these are **required** to be replaced with relevant information and module materials sections there are optional placeholders to help you build your site but feel free to delete them if not relevant
-
-The **Reading List tool** allows students to access all readings you have setup. If you need to add readings to the tool, please find more advice or help implementing the reading lists on the [guide page](\readinglists) or contact the reading list team at . 
+The **Reading List tool** allows students to access all readings you have setup. If you need to add readings to the tool, please find more advice or help implementing the reading lists on the [ reading list guide page](https://vle-support.york.ac.uk/other-tools/reading-list/). 
 
 
 The **Panopto LTI tool** allows you to access replays of lecture capture recordings and record videos for the module site. More advice on how to use panopto can be found at the [panopto guide page](\panopto).
