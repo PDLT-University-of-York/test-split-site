@@ -118,7 +118,6 @@ nav:
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
-      - International access: ultra/international-access.md
   - Panopto Videos:
     - panopto/index.md
     - Getting Started with Panopto: 
@@ -202,6 +201,7 @@ nav:
     - Taking screenshots: help/screenshots.md
     - Finding Usernames: help/usernames.md
     - Finding YCodes: help/ycodes.md
+    - International access: help/international-access.md
     - Site index: help/site-index.md
   
 extra:
