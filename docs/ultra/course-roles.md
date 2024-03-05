@@ -35,4 +35,4 @@ For more information on each Role's access level and what they can do, see [our 
 **Don't give an individual the Guest role**. The Guest role is not available for individual users in Ultra sites, so users manually assigned this role will not be able to access a site.
 
 
-The Guest role is used for automatic enrolment user groups (aka "SITS Group Users" and "People Group Users") - this is correct. These user groups automatically pull user data from SITS and enrols individual users with an appropriate role (either Student or Instructor). This is how students are enroled on module sites.
+The Guest role is used for automatic enrolment user groups (aka "SITS Group Users" and "People Group Users") - this is correct. These user groups automatically pull user data from SITS and enrols individual users with an appropriate role (either Student or Instructor). This is how students are enrolled on module sites.
