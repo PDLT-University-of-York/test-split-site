@@ -99,6 +99,25 @@ nav a {
     padding: 0;
 }
 
+/* tabbed content styling */
+.md-typeset .tabbed-set {
+    border-radius: 0.5rem;
+    background: var(--md-code-bg-color);
+    padding: 0.5rem;
+}
+
+.md-typeset .tabbed-labels>label {
+    border-bottom: 0.1rem solid;
+    border-radius: 0.5rem 0.5rem 0 0;
+    margin-right: 0.1rem;
+    background: #ffffff;
+}
+
+.md-typeset .tabbed-content {
+    background: #ffffff;
+    padding: 0.5rem;
+}
+
 /* .md-footer-copyright {
     display: none;
 } */
