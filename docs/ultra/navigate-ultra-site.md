@@ -14,13 +14,13 @@ tags:
 
 ## Overview
 
-There are three menus used to navigate an Ultra site:
+There are three navigation bar menus used to navigate an Ultra site:
 
-1. **[Top Menu](#top-menu)**: access course tools including the **Gradebook** and **Messages**.
+1. **[Top Menu](#top-menu)**: Access course tools including the **Gradebook** and **Messages**.
 2. **[Course Content](#course-content) area**: course content is created and accessed here.
-3. **[Details & Actions](#details--actions)** access site tools including the **Class Register** and **Announcements**.
+3. **[Details & Actions](#details--actions)** access site tools including the **Class Register** and **Course Image**.
 
-![Clicking on a Learning Module to expand it and then clicking on an item within the Learning Module to open it](images/navigate-ultra-site-template.png)
+![Clicking on a Learning Module to expand it and then clicking on an item within the Learning Module to open it](images/navigation-demonstration-locations.png){: style="height:auto;width:100%"}
 
 ### Top menu
 
@@ -30,10 +30,12 @@ The menu above the **Course Content** area gives access to a number of course to
 | ----------- | ----------- |
 | Content | Return to the **Course Content** area |
 | Calendar | View the Blackboard Calendar for this course |
+| [Announcements](https://vle-support.york.ac.uk/ultra/announcements/)| View or create an announcement email or direct message for this course |
 | [Discussions](https://vle-support.york.ac.uk/ultra/discussions/) | Quick access all of the course's discussion boards |
-| Gradebook | Quick access grade information for all of the marked items in a course |
-| Messages | Send private messages to individual students or groups |
+| [Gradebook](https://vle-support.york.ac.uk/ultra/gradebook/) | Quick access grade information for all of the marked items in a course |
+| [Messages](https://vle-support.york.ac.uk/ultra/messages-tool/) | Send private messages to individual students or groups |
 | Analytics | Not currently used at York |
+| [Groups](https://vle-support.york.ac.uk/ultra/course-groups/) |Use Groups to manage teaching, administration and assessment activities in your course |
 | Student Preview | View the course as it appears to a student |
 
 !!! Warning
@@ -69,12 +71,10 @@ This menu on the left hand side of the screen gives access to a number of differ
 | Menu item | Description |
 | ----------- | ----------- |
 | Class register | List of everyone enrolled on the site, including staff members |
-| [Course Groups](https://vle-support.york.ac.uk/ultra/groups/) | Create and manage student groups |
 | [Course Image](https://vle-support.york.ac.uk/ultra/course-image/) | Upload, edit or remove the site's Course Image |
 | Course is open / Course is private | Set the course as visible or invisible to students |
 | Class Collaborate | Access the Blackboard Collaborate virtual classroom |
 | Attendance | Not used at York |
-| [Announcements](https://vle-support.york.ac.uk/ultra/announcements/) | Create announcements and view previous announcements  |
 | Books & Tools | Access LTI tools such as Reading Lists and Panopto/Replay |
 | Question banks | Build and manage sets of questions shared between tests |
 

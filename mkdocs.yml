@@ -159,7 +159,6 @@ nav:
       - Ultra Assignment (set up): ultra/assignment-set-up.md
       - Ultra Assignment (marking): ultra/assignment-marking.md
       - Ultra Test (quizzes & exams): ultra/test.md
-      - In-person exams with Ultra Test: assessment/in-person-ultra-test.md
       - Ultra Journal: ultra/journal.md
       - Ultra Gradebook: ultra/gradebook.md
       - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
@@ -185,6 +184,7 @@ nav:
     - training/index.md
     - Workshops: training/workshops.md #SINGLE PAGE OR PAGE PER SESSION?
     - Webinars: training/webinars.md
+    - CMALT: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST
     #   - Workshop calendar: ultra/workshop-calendar.md
     #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
