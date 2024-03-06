@@ -8,7 +8,7 @@ tags:
 # TFS & E:Vision: release feedback & marks
 !!! Summary
 
-    **Administrator guide**: the process for releasing feedback with Turnitin Feedback Studio (TFS) and releasing marks on E:Vision
+    **Administrator guide**: the process for releasing student feedback in Turnitin Feedback Studio (TFS) and marks on E:Vision
 
 ## Overview of process
 
