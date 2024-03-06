@@ -1,9 +1,7 @@
 ---
 tags:
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
+    - Key guide - teaching
+    - Assessment
     - Ultra
 ---
 

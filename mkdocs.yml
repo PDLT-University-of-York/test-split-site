@@ -263,6 +263,7 @@ plugins:
         'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
         'readinglist/index.md': 'other-tools/reading-list.md'
         'xerte/index.md': 'other-tools/xerte.md'
+        'ultra/international-access.md': 'help/international-access.md'
   - search
   - tags:
       tags_file: help/site-index.md
