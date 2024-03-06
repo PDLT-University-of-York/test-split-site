@@ -22,7 +22,7 @@
 
     ---
     
-    - :octicons-arrow-right-24: Turnitin Feedback Studio (see navigation)
+    - [:octicons-arrow-right-24: Turnitin Feedback Studio](/assessment/tfs/)
     - :octicons-arrow-right-24: Ultra Assignment (see navigation)
     - [:octicons-arrow-right-24: Ultra Test](/ultra/test)
 

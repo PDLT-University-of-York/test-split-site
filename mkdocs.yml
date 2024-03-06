@@ -152,9 +152,10 @@ nav:
     - assessment/index.md
     - Which assessment tool?: assessment/which-assessment-tool.md
     - TurnItIn Feedback Studio:
-      - TFS (set up): assessment/turnitin-feedback-studio-set-up.md
-      - TFS (marking): assessment/turnitin-feedback-studio-marking.md
-      - TFS (release marks & feedback): assessment/turnitin-feedback-studio-release-marks.md
+      - assessment/tfs/index.md
+      - TFS (set up): assessment/tfs/set-up.md
+      - TFS (marking): assessment/tfs/marking.md
+      - TFS (release marks & feedback): assessment/tfs/release-marks.md
     - Ultra assessment tools:
       - Ultra Assignment (set up): ultra/assignment-set-up.md
       - Ultra Assignment (marking): ultra/assignment-marking.md
@@ -255,7 +256,7 @@ plugins:
         'tags-index.md': 'help/site-index.md'
         'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
         'eassessment/ultratest.md': 'ultra/test.md'
-        'eassessment/turnitinfeedbackstudio.md': 'assessment/turnitin-feedback-studio-set-up.md'
+        'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
         'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
         'othertools/index.md': 'other-tools/index.md'
         'mentimeter/index.md': 'other-tools/mentimeter.md'
