@@ -9,21 +9,17 @@ tags:
 
 !!! Summary
 
-    The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
+    **Teaching/marking staff guide**: marking student work, inputting feedback and moderating grades in Turnitin Feedback Studio (TFS).
 
-    This guide covers marking student work, giving feedback and moderating grades, and is primarily aimed at **teaching staff**.
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
-## Overview of TFS
-
-The video below gives an overview of using TFS as a staff member to support assessment. If you prefer, you can [open the overview video in another tab](https://youtu.be/o9g9fye87vc?si=oLV9rHh8ufaUgUgX).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    - 4.3 Essential: Provide marking criteria or other grading policies showing how work is marked.
 
 ## Marker Guidance
 
 Work submitted through TFS is accessed through the Assignment Inbox, where you will complete  marking and give feedback.
 
-### Written marker guides:
+### Written marker guides
 - [Marking - Creating Accessible Feedback in Turnitin](https://docs.google.com/document/d/1u0JEVnvRDALeKZOeOV-rFo58VN_hKLxe-stwdKE_gLc/edit?usp=sharing)
 - [Marking - Accessing a TurnItIn submission point, viewing the Assignment Inbox and selecting work to mark](https://docs.google.com/document/d/1hvUIpmamEbZGPlaLuauEfSjuoDULz15mXK-blQUzJEw)
 - [Marking - TurnItIn Feedback Studio's interface](https://docs.google.com/document/d/1q7pqTG4mSeJkgTOIH0_2P3VpUpG59wolypTsdNduq60)
