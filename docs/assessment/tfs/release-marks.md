@@ -9,15 +9,9 @@ tags:
 
 !!! Summary
 
-    The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
+    **Administrator guide**: the process for releasing marks and feedback to students with Turnitin Feedback Studio (TFS) and E:vision
 
-    This guide covers the process for releasing marks and feedback to students, and is primarily aimed at **Administrators**.
-
-## Overview of TFS
-
-The video below gives an overview of using TFS as a staff member to support assessment. If you prefer, you can [open the overview video in another tab](https://youtu.be/o9g9fye87vc?si=oLV9rHh8ufaUgUgX).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Process to release marks and feedback
 
 Once the marking/moderation staff have confirmed that marking is complete, feedback has been given and final marks have been agreed, the suggested process to release marks to students is:
 
@@ -29,4 +23,6 @@ Once the marking/moderation staff have confirmed that marking is complete, feedb
 
 There are also considerations for managing extensions and late submissions.
 
-A detailed walk through of this process is given in our [guide to releasing feedback and marks in TFS](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0/edit?usp=sharing). This is aimed at workflows using the Assessment Tracker, but the same process can be used without the Tracker.
+## In-depth guide
+
+A detailed walk through of this process is given in our [guide to releasing feedback and marks in TFS [Google Doc]](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0/edit?usp=sharing). This is aimed at workflows using the Assessment Tracker, but the same process can be used without the Tracker.
