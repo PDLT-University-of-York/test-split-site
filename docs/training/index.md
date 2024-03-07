@@ -1,7 +1,7 @@
 # Training
 
 !!! Summary
-    We offer a range of synchronus and on-demand training resources to help you implement our tools effectively to support teaching and learning.
+    We offer a range of synchronous and on-demand training resources to help you implement our tools effectively to support teaching and learning.
 
 
 <!-- renders in Live as a grid -->
@@ -51,8 +51,7 @@ We over a range of training formats:
 
 </div>
 
-To find other [tool/topic] guides:
+!!! tip "Bespoke training"
+    Does your team have a particular training need that's not covered here? Is your department adopting a new workflow involving our tools?
 
-- explore our guide topics in the navigation menu
-- search for specific content with the search box (top right)
-- browse the [Site index](/help/site-index) to see all guides listed by topic tags
+    We may be able to offer a bespoke training package to meet your needs. Contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to arrange a consultation.
