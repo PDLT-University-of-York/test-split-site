@@ -36,6 +36,8 @@ We over a range of training formats:
 -   **Webinars: share practice**
 
     ---
+
+    Share knowledge and explore best practice with colleagues from across the university:
     
     - [:octicons-arrow-right-24: Webinars](webinars.md)
 
