@@ -93,10 +93,25 @@ nav a {
     text-decoration: none;
 }
 
+/* grid styling */
+
+.grid.cards>ul>li {
+    border: 0.1rem solid var(--md-typeset-kbd-border-color);
+    border-radius: 0.5rem;
+}
+
+.grid.cards>ul>li :hover {
+    border-color: var(--md-accent-fg-color);
+}
+
 .grid.cards ul li {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+.grid.cards hr {
+    border-bottom: 0.05rem solid var(--md-typeset-kbd-border-color)
 }
 
 /* tabbed content styling */
