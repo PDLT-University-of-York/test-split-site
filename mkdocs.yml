@@ -85,18 +85,18 @@ nav:
       - Site renames: ultra/site-rename.md
     - Content creation:
       # - I want to...: #MAKE PAGE
-      - Documents (pages): ultra/documents.md
+      - Documents | pages: ultra/documents.md
       - Images: ultra/images.md
       - Upload Files: ultra/files.md
       - Links: ultra/links.md
-      - Video (Panopto): panopto/embed-panopto-ultra.md
-      - Video (YouTube): ultra/youtube.md
+      - Video | Panopto: panopto/embed-panopto-ultra.md
+      - Video | YouTube: ultra/youtube.md
       - Embed content: ultra/embedded-content.md
       - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      - Assignment (set up): ultra/assignment-set-up.md
-      - Assignment (marking): ultra/assignment-marking.md
-      - Test (quizzes & exams): ultra/test.md
+      - Assignment | set up: ultra/assignment-set-up.md
+      - Assignment | marking: ultra/assignment-marking.md
+      - Test | quizzes & exams: ultra/test.md
       - Form: ultra/form.md
       - Journal: ultra/journal.md
       - Gradebook: ultra/gradebook.md
@@ -157,13 +157,13 @@ nav:
     - Which assessment tool?: assessment/which-assessment-tool.md
     - TurnItIn Feedback Studio:
       - assessment/tfs/index.md
-      - TFS (set up): assessment/tfs/set-up.md
-      - TFS (marking): assessment/tfs/marking.md
-      - TFS & E:Vision (release feedback & marks): assessment/tfs/feedback-marks.md
+      - TFS | set up: assessment/tfs/set-up.md
+      - TFS | marking: assessment/tfs/marking.md
+      - TFS & E:Vision | release feedback & marks: assessment/tfs/feedback-marks.md
     - Ultra assessment tools:
-      - Ultra Assignment (set up): ultra/assignment-set-up.md
-      - Ultra Assignment (marking): ultra/assignment-marking.md
-      - Ultra Test (quizzes & exams): ultra/test.md
+      - Ultra Assignment | set up: ultra/assignment-set-up.md
+      - Ultra Assignment | marking: ultra/assignment-marking.md
+      - Ultra Test | quizzes & exams: ultra/test.md
       - Ultra Journal: ultra/journal.md
       - Ultra Gradebook: ultra/gradebook.md
       - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
@@ -176,20 +176,21 @@ nav:
   - Other Tools:
     - other-tools/index.md
     - Canvas VLE: canvas/index.md
-    - Mentimeter (polling): 
+    - Mentimeter | polling: 
       - Overview: other-tools/mentimeter.md
       - Logging in to Mentimeter: other-tools/mentimeter-logging-in.md
-    - Padlet (pinboards):
+    - Padlet | pinboards:
       - Getting started with Padlet: other-tools/padlet.md
       - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
     - Reading List: other-tools/reading-list.md
     - System data & analytics: system-data-and-analytics/index.md
-    - Xerte (interactive content): other-tools/xerte.md
+    - Xerte | interactive content: other-tools/xerte.md
   - Training: #SECTION NEEDS FINALISING
     - training/index.md
-    - Workshops: training/workshops.md #SINGLE PAGE OR PAGE PER SESSION?
-    - Webinars: training/webinars.md
-    - CMALT: training/cmalt.md
+    - Workshops | learn skills: 
+      - Ultra Essentials: training/ultra-essentials.md
+    - Webinars | share practice: training/webinars.md
+    - CMALT | professional development: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST
     #   - Workshop calendar: ultra/workshop-calendar.md
     #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
