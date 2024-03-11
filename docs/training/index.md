@@ -1,32 +1,20 @@
 # Training
 
 !!! Summary
-    We offer a range of synchronous and on-demand training resources to help you implement our tools effectively to support teaching and learning.
+    A range of synchronous and on-demand training and resources on effectively implementing digital education tools to support teaching and learning.
 
-
-<!-- renders in Live as a grid -->
-<div class="grid" markdown>
-
-<div markdown>
-bit of explanation
-</div>
-
-![Image description](images/image.png)
-
-</div>
-
-## Explore our training
-
-We over a range of training formats:
+## What we offer
 
 <div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
--   **Workshops: develop skills**
+-   **Workshops: learn skills**
 
     ---
 
     Learn new skills with our synchronous sessions or on-demand resources.
+
+    [How to/I want to?]
 
     Key workshops:
     
@@ -52,6 +40,9 @@ We over a range of training formats:
 </div>
 
 !!! tip "Bespoke training"
-    Does your team have a particular training need that's not covered here? Is your department adopting a new workflow involving our tools?
 
-    We may be able to offer a bespoke training package to meet your needs. Contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to arrange a consultation.
+    Don't see what you need? We may be able to offer bespoke training or resources to support particular departmental or team needs. Contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to arrange a consultation.
+
+## Events calendar
+
+EMBED HERE (or on its own page?)

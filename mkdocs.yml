@@ -148,7 +148,7 @@ nav:
       # - Adding Additional Streams: panopto/addstreams.md
     - Assessment submissions: panopto/submissions.md
   - Accessibility:
-    - accessibility/index.md #new
+    - accessibility/index.md
     - Ally accessibility checker: accessibility/ally-accessibility-checker.md
     - Accessible Ultra content: accessibility/accessible-ultra-content.md
     - Accessible maths: accessibility/accessible-maths.md
@@ -188,7 +188,7 @@ nav:
   - Training: #SECTION NEEDS FINALISING
     - training/index.md
     - Workshops | learn skills: 
-      - Workshop | Ultra Essentials: training/ultra-essentials.md
+      - Training | Ultra Essentials: training/ultra-essentials.md
     - Webinars | share practice: training/webinars.md
     - CMALT | professional development: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST
