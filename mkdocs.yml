@@ -252,6 +252,8 @@ plugins:
       redirect_maps:
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
+        'ultra/workshop-ultra-essentials-teaching.md': 'training/ultra-essentials.md'
+        'ultra/international-access.md': 'help/international-access.md'
         'contact-us/index.md': 'help/contact-us.md'
         'updates/index.md': 'help/updates-issues.md'
         'updates/suggestions.md': 'help/contact-us.md'
@@ -269,7 +271,6 @@ plugins:
         'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
         'readinglist/index.md': 'other-tools/reading-list.md'
         'xerte/index.md': 'other-tools/xerte.md'
-        'ultra/international-access.md': 'help/international-access.md'
   - search
   - tags:
       tags_file: help/site-index.md
