@@ -8,16 +8,28 @@ tags:
 
 !!! Summary
  
-    Most users are enrolled automatically, but you can also manually enrol users on a Learn Ultra course or organisation if needed.
+    You can 
 
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
-## A Note About The "Course Staff" Pane
-By default, instructors are listed in the module under the 'Course staff' header in alphabetical order. To ensure that the module leader or core teaching team members are displayed first, you can allocate 'primary instructor' status to one or more instructors using the steps below.
+    - 1.3 Essential: Provide module staff details and communication expectations.
 
-![Screenshot indicating location of the "Course Staff" pane on an Ultra VLE site; it appears to the top left of the page, just under the course banner](images/enrol-user-course-staff.png)
+The Course staff section lists all Instructors enrolled on the module site alphabetically by surname. By default, the first two Instructors are shown in the summary view, with the full list available by clicking 'Show more'.
 
-1. Select the 'View everyone on your course' link under the 'Class register' item in the 'Details & Actions' menu.
-2. Find the instructor in the list to whom you would like to allocate primary instructor status and click on 'Edit member information' from the contextual menu link alongside their name.
-3. Select the 'Primary instructor checkbox and 'Save'.
+![decorative](images/course-staff-list.png)
 
-Primary instructors will be moved to the top of the course staff list, and the rest will be moved out of sight.
+If there are more than two Instructors on the site (eg. multiple teaching staff, or your department enrolls staff on all sites), it can be difficult for students to identity the correct module teaching staff from the Course Staff list.
+
+In this case, use the **Primary Instructor** setting to display the module leader or core teaching team members first:
+
+Inside the relevant Learn Ultra site:
+
+1. Under **Details & Actions** on the left, select **Class register/View everyone on your course**.</br>
+![decorative](images/enrol-user-class-register-menu.png)
+2. Locate the relevant Instructor using the search function or by finding them in the list.
+3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
+![decorative](images/unenrol-user-edit-member.png)
+4. Tick **Primary Instructor** and **Save**.</br>
+![decorative](images/course-staff-set-primary-instructor.png)
+
+Primary Instructors are now shown alphabetically at the top of the list. If more than one Primary Instructor is set, the top two are shown in the summary view.
