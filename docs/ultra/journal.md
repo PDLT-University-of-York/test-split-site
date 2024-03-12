@@ -54,7 +54,7 @@ Journals listed as either a formative or summative assessment in your module cat
 This is demonstrated in the video below, or for more detail see [Blackboard's guide to setting up Journals](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Journals)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lk180brvk2c?si=D3JU-GJY7zBA5P4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Create a Journal in the Ultra Course View [YouTube]](https://youtu.be/lk180brvk2c?si=bfzUaZLJVsuDQqrA)
+[Blackboard guide: Create a Journal in the Ultra Course View [YouTube]](https://youtu.be/lk180brvk2c?si=bfzUaZLJVsuDQqrA)
 
 ## Marking a Journal
 

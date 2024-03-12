@@ -6,54 +6,51 @@ tags:
 
 # Form
 
-https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Forms
-
----
-
 !!! Summary
 
-    Journals are a personal space for reflection and communication between a student and teacher. They can be used for informal tasks or for assessment.
+    Forms are a survey option to collect feedback, opinions or preferences.
 
-    This guide covers how to use and set up a Journal, and is primarily aimed at **teaching staff**.
+![Form to collect topic preference for group project with multiple choice and open text answer questions](images/form-example.png)
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+## When to use Forms
 
-    - 4.1 Essential: The assessment section contains all information about module assessments.
-    - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
+Forms use a selection of Test question types, making them particularly useful as **asynchronous surveys**. However, responses cannot be collected anonymously.
 
+For example, Forms could be be used to collect: 
 
-## When to use Journals
+- module feedback (mid or end of semester)
+- topic preferences to assign students for group work, projects, presentations etc.
+- difficulties/topics to focus on in review sessions
 
-Journals can be useful in a variety of situations:
+!!! Warning
+    Although it is possible, **don't use a Form as a graded assessment** - please [use the Test tool](/ultra/test) instead.
 
-- reflective practice
-- demonstrate development over time
-- ongoing individual project work
-- non-anonymous formative/summative assessment tasks
-- student-directed or teacher-directed entries
+!!! tip "Alternative tools"
+    
+    [Padlet](/other-tools/padlet) or [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can be used in a similar way, but allow anonymous responses.
 
-## Set up a Journal
+## Form content
 
-### Journal location
-Consider where students would expect the Journal to appear.
+Forms can include these question types:
 
-#### With module materials
-Journals used for informal reflection or project work may be best placed alongside the relevant module materials, or in a dedicated project area.
+- Essay
+- Likert scale
+- Multiple Choice 
+- True/False 
 
-#### In the Assessment section
-Journals listed as either a formative or summative assessment in your module catalogue entry should appear in the Assessment section of the site. If you also want the Journal to be accessible through a weekly content folder, use a Course Link.
+You can also add text or upload a file.
 
-### Create a Journal
+## Create a Form
 
-1. In the relevant location, click **Create** > **Journal**.
-2. Give the Journal a descriptive **name** at the top left.
-3. Add a **prompt** with instructions.
-4. Choose whether the Journal is graded and adjust other settings as needed.
+1. In the relevant location, click **Create** > **Form**.
+2. Give the Form a descriptive **name** at the top left.
+3. Add your **questions**.
+4. If relevant, add a **Due Date** and adjust other settings as needed.
 5. Set the test as **Visible to students** or specify  **Release conditions** in the top right.
 
-![decorative](images/journal-create.png)
+![decorative](images/form-create.png)
 
-This is demonstrated in the video below, or for more detail see [Blackboard's guide to setting up Journals](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Journals)
+### Blackboard Help guides
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lk180brvk2c?si=D3JU-GJY7zBA5P4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Create a Journal in the Ultra Course View [YouTube]](https://youtu.be/lk180brvk2c?si=bfzUaZLJVsuDQqrA)
+- [Create Forms and view responses](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Forms) 
+- [Test question types](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types#ultra_types)
