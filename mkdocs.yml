@@ -203,7 +203,6 @@ nav:
     - Troubleshooting common issues: help/troubleshooting.md
     - Updates & issues: help/updates-issues.md
     - Contact us: help/contact-us.md
-    - System suggestions: help/suggestions.md
     - Taking screenshots: help/screenshots.md
     - Finding Usernames: help/usernames.md
     - Finding YCodes: help/ycodes.md
@@ -250,6 +249,7 @@ extra_javascript:
 plugins:
   - redirects:
       redirect_maps:
+        'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/ultra-essentials.md'

@@ -33,6 +33,6 @@
 
     ---
     
-    - [:octicons-arrow-right-24: System updates & issues](update-issues.md)
+    - [:octicons-arrow-right-24: System updates & issues](updates-issues.md)
 
 </div>
