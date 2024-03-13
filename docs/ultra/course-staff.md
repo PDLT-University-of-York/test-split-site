@@ -1,14 +1,13 @@
 ---
 tags:
-   - Key guide - admin
-   - Ultra 
+   - Ultra
 ---
 
 # Course staff
 
 !!! Summary
  
-    You can 
+    Set up your Course Staff (Instructors) list to show module teaching staff first.
 
 !!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
@@ -32,4 +31,8 @@ Inside the relevant Learn Ultra site:
 4. Tick **Primary Instructor** and **Save**.</br>
 ![decorative](images/course-staff-set-primary-instructor.png)
 
-Primary Instructors are now shown alphabetically at the top of the list. If more than one Primary Instructor is set, the top two are shown in the summary view.
+Primary Instructors are now shown alphabetically at the top of the list. If there is only one Primary Instructor, the summary view only shows them. For multiple Primary Instructors, the first two are shown in the summary view. 
+
+!!! Tip
+
+    Also make sure to complete the **Module staff details & communication** page in the Module Information area of your template when setting up your site.
