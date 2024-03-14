@@ -68,9 +68,9 @@ Start with supported UoY tools, as these have approved in terms of:
 
 - user support availability (from UoY teams and suppliers)
 - robust data security
-- reliable service availability
+- service reliability
 - accessibility compliance
 
-However, This can't be guaranteed for external tools. If you are interested in using an external tool and feel there is a strong rationale for using it, first work through the considerations and necessary steps in this document:
+However, this can't be guaranteed for external tools and so they pose a risk. If you are interested in using an external tool and feel there is a strong rationale for using it, first work through the considerations and necessary steps in this document:
 
 [Use of external IT services for learning and teaching](https://www.york.ac.uk/about/departments/support-and-admin/information-services/information-policy/index/it-outsourcing-and-cloud-computing-policy/use-of-external-it-services-for-learning-and-teach/)
