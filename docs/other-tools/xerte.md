@@ -77,13 +77,13 @@ Xerte is an excellent tool for accessibly presenting maths content online. It co
 
 ## Full Xerte guide
 
-Explore our [full Xerte guide](http://bit.ly/ytel-xertepage) for more information on:
+Explore our full Xerte guide for more information on:
 
 - what Xerte can do
 - setting up your Xerte account
 - a range of example Xerte objects
 - the guide itself is an example of the webpage/Bootstrap style Xerte object.
 
-You can also view the guide below:
+You can [view the full Xerte guide in its own tab](http://bit.ly/ytel-xertepage) or embedded below:
 <!-- Xerte embeds works in live, but not local -->
 <iframe src="https://xerte.york.ac.uk/play.php?template_id=116" width="100%" height="800" frameborder="0" style="position:relative; top:0px; left:0px; z-index:0;"></iframe>
