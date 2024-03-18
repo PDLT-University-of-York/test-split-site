@@ -60,7 +60,7 @@ This functionality will become available on Learn Ultra VLE sites on April 4th o
 
 Set up:
 
-1. within your discussion board, click on the "settings" icon towards the top right of the screen
+1. Within your discussion board, click on the "settings" icon towards the top right of the screen
 2. Tick the "Allow anonymous responses..." option
 3. Click the "Save" button at the bottom of the page.
 
