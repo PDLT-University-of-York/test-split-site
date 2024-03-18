@@ -16,7 +16,9 @@ tags:
 ## Quick Start Guide
 
 !!! Warning
-    It's not currently possible to post anonymously to a discussion or to subscribe for notifications of when posts are made. However, these features will be available in the future. For now we recommend [using a Padlet board for anonymous discussions, or discussions you need to subscribe to](https://vle-support.york.ac.uk/padlet/padlet-discussion-alternative/).
+    It's not currently possible to **subscribe** for notifications of when posts are made. However, this feature will be available in the future (expected some time later in 2024). For now we recommend [using a Padlet board for discussions you need to subscribe to](https://vle-support.york.ac.uk/padlet/padlet-discussion-alternative/).
+
+    Until April 4/5th 2024 it was not possible to post anonymously in a discussion. Before April 4/5th 2024 we recommended [using a Padlet board for anonymous discussions](https://vle-support.york.ac.uk/padlet/padlet-discussion-alternative/). Staff can still use Padlet if they prefer, but we've also included guidance on how to use discussions anonymously below.
 
 ### Video Steps
 
@@ -52,6 +54,22 @@ Users can access discussions in two locations:
 ![Discussion item with three dots clicked and Delete shown in drop down menu.](images/discussions-delete.png)
 3. When prompted, press **Delete** again.
 4. Go to the Discussions area and check that the discussion does not appear here too. If it does, repeat this process.
+
+## Using discussions anonymously
+This functionality will become available on Learn Ultra VLE sites on April 4th or 5th, 2024.
+
+Set up:
+1. within your discussion board, click on the "settings" icon towards the top right of the screen
+2. Tick the "Allow anonymous responses..." option
+3. Click the "Save" button at the bottom of the page.
+![Decorative](images/discussions-anonymous-enable.png)
+
+Posting anonymously:
+Posts will not automatically be anonymous, but users will have the *option* to make their post anonymous before they post it.
+1. Type out your response
+2. Tick the "post anonymously" box that appears below the text pane
+3. Click the "Respond" button towards the bottom middle of the screen.
+![Decorative](images/discussions-anonymous-post.png)
 
 ## Using discussions to support teaching
 
