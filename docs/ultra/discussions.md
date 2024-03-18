@@ -63,6 +63,7 @@ Set up:
 1. within your discussion board, click on the "settings" icon towards the top right of the screen
 2. Tick the "Allow anonymous responses..." option
 3. Click the "Save" button at the bottom of the page.
+
 ![Decorative](images/discussions-anonymous-enable.png)
 
 Posting anonymously:
@@ -71,6 +72,7 @@ Posts will not automatically be anonymous, but users will have the *option* to m
 1. Type out your response
 2. Tick the "post anonymously" box that appears below the text pane
 3. Click the "Respond" button towards the bottom middle of the screen.
+
 ![Decorative](images/discussions-anonymous-post.png)
 
 ## Using discussions to support teaching
