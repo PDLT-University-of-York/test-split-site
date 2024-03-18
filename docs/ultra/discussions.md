@@ -59,6 +59,7 @@ Users can access discussions in two locations:
 This functionality will become available on Learn Ultra VLE sites on April 4th or 5th, 2024.
 
 Set up:
+
 1. within your discussion board, click on the "settings" icon towards the top right of the screen
 2. Tick the "Allow anonymous responses..." option
 3. Click the "Save" button at the bottom of the page.
@@ -66,6 +67,7 @@ Set up:
 
 Posting anonymously:
 Posts will not automatically be anonymous, but users will have the *option* to make their post anonymous before they post it.
+
 1. Type out your response
 2. Tick the "post anonymously" box that appears below the text pane
 3. Click the "Respond" button towards the bottom middle of the screen.
