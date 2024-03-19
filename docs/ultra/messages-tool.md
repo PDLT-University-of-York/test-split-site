@@ -73,7 +73,7 @@ You can send a message direct from the Gradebook if you wish by opening the grad
 
 ## How do students access my messages?
 
-If you **opt to email students when you message** them, they will receive an email with the message contents in full regardless of the notification setting they have selected in their VLE profile.  
+If you **opt to email students when you message** them, they will receive an email with the message contents in full regardless of the notification setting they have selected in their VLE profile.  Please note that the content in the emailed version may not display the same as the VLE version: [more details about "Messages" email content](https://docs.google.com/document/d/1ceRztJknmK7SWcnPHBibJnp9ny0nUvKoVJICteDmaGQ/edit).
 
 If you **do not opt to email students**, they will be able to see the messages:
 
