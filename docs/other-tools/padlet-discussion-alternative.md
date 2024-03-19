@@ -1,9 +1,8 @@
 ---
 tags:
-    - Foundation
-    - Teaching
-    - Ultra
-    - Padlet
+    - Communication
+    - Interactive content
+    - Other tools
 ---
 
 # Using Padlet as an alternative to Ultra discussion boards

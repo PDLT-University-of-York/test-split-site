@@ -1,3 +1,9 @@
+---
+tags:
+    - Interactive content
+    - Other tools
+---
+
 # Logging in to Mentimeter
 
 !!! Summary

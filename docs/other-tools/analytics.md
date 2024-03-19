@@ -1,15 +1,8 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Advanced
-    - Teaching
-    - Administration
     - Ultra
     - Panopto
-    - Canvas
-    - Padlet
-    - Mentimeter
-    
+    - Other tools
 ---
 
 # System Data & Analytics

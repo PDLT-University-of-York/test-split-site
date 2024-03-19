@@ -176,7 +176,8 @@ nav:
     - Staff assessment training: assessment/trainingassessment.md
   - Other Tools:
     - other-tools/index.md
-    - Canvas VLE: canvas/index.md
+    - Tools at a glance: https://bit.ly/yorktools
+    - Canvas VLE: other-tools/canvas.md
     - Mentimeter | polling: 
       - Overview: other-tools/mentimeter.md
       - Logging in to Mentimeter: other-tools/mentimeter-logging-in.md
@@ -267,6 +268,7 @@ plugins:
         'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
         'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
         'othertools/index.md': 'other-tools/index.md'
+        'canvas/index.md': 'other-tools/canvas.md'
         'mentimeter/index.md': 'other-tools/mentimeter.md'
         'padlet/index.md': 'other-tools/padlet.md'
         'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'

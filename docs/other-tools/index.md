@@ -62,7 +62,7 @@ For more tools, see our guidance on getting [help from other teams](/help/contac
 
 !!! Danger
 
-    You must only use an external tool if there is no suitable supported tool available. Numerous considerations must be taken first.
+    You must only use an external tool if there is no suitable supported tool available. Numerous considerations must be taken before using an external tool.
 
 Start with supported UoY tools, as these have approved in terms of:
 
