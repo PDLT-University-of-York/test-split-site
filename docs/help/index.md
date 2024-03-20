@@ -7,14 +7,15 @@
 <div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
--  **Solve issues yourself**
+-  **:material-auto-fix: Solve issues yourself**
 
     ---
     
     - :octicons-arrow-right-24: Search this site for relevant guides
+    - [:octicons-arrow-right-24: Site index](site-index.md) (guides listed by topic)
     - [:octicons-arrow-right-24: Troubleshoot common issues](troubleshooting.md)
 
--   **Get help from us**
+-   **:material-help-circle-outline: Get help from us**
 
     ---
     
@@ -23,16 +24,11 @@
     - [:octicons-arrow-right-24: Finding Usernames](usernames.md)
     - [:octicons-arrow-right-24: Finding YCodes](ycodes.md)
 
--   **Guides listed by topic**
+-   **:material-update: Keep up to date with our tools**
 
     ---
     
-    - [:octicons-arrow-right-24: Site index](site-index.md)
-
--   **Keep up to date with our tools**
-
-    ---
-    
+    - [:octicons-arrow-right-24: News](news.md)
     - [:octicons-arrow-right-24: System updates & issues](updates-issues.md)
 
 </div>

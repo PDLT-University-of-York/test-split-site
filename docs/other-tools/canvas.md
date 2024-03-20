@@ -23,4 +23,4 @@ Access support through our dedicated [Canvas guide](https://docs.google.com/docu
 
 </div>
 
-<iframe width="100%" height="600px" src="https://docs.google.com/document/d/e/2PACX-1vRapXkeICIJJMCUfJsUk7tC52iwfuPbVBx_TrF7KUWi6CONJigPJAJbgb06HPgPd4GjfRQlVEeYBVRN/pub?embedded=true"></iframe>
+<iframe width="100%" height="600px" title="Canvas guide" src="https://docs.google.com/document/d/e/2PACX-1vRapXkeICIJJMCUfJsUk7tC52iwfuPbVBx_TrF7KUWi6CONJigPJAJbgb06HPgPd4GjfRQlVEeYBVRN/pub?embedded=true"></iframe>

@@ -57,8 +57,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
   - tables
@@ -203,6 +203,7 @@ nav:
   - Help:
     - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
+    - News: help/news.md
     - Updates & issues: help/updates-issues.md
     - Contact us: help/contact-us.md
     - Taking screenshots: help/screenshots.md
