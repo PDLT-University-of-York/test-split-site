@@ -17,7 +17,7 @@ theme:
       Assessment: octicons/check-circle-16
       Communication: octicons/megaphone-16
       InteractiveContent: material/cursor-default-click-outline
-      Training: fontawesome/solid/school
+      Training: material/school
       Help: material/help-circle-outline
       Ultra: material/laptop
       Panopto: fontawesome/solid/video
