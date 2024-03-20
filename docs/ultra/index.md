@@ -45,7 +45,7 @@ Start with these key guides:
     - [:octicons-arrow-right-24: Folders & Learning Modules](folder-learning-module.md)
     - [:octicons-arrow-right-24: Documents (pages)](documents.md)
 
--   **:material-phone-ring: Communication & interaction**
+-   **:octicons-megaphone-16: Communication & interaction**
 
     ---
     
