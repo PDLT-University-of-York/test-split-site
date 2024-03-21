@@ -291,3 +291,6 @@ plugins:
         - Ultra
         - Panopto
         - Other tools
+
+watch:
+- /overrides
