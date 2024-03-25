@@ -4,11 +4,12 @@
 
 <!-- Additional styles for landing page -->
 <style>
+    .md-content {
+        display: none;
+    }
 
-    .md-header {
-        position: initial;
-        background-color: #001E82;
-        color: #fff;
+    .md-main {
+        flex: 0;
     }
 
     .md-main__inner {
@@ -23,15 +24,10 @@
         display: none
     }
 
-    .md-content {
-        display: none
-    }
-
     .md-footer-meta__inner {
         align-content: center;
         display: flex;
         align-items: center;
-        justify-content: center
     }
 
     /*
@@ -46,24 +42,40 @@
         text-decoration: none;
     }
 
+    .home-container {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
     /* hero styles */
     .tx-container-hero {
-        height: fit-content;
-        padding-top: 1rem;
-        background-color: #001E82;
+        /* height: fit-content; */
+        /* padding-top: 1rem; */
+        flex: 1;
+        background-color: var(--md-primary-fg-color);
+    }
+
+    .tx-container-hero .md-typeset .grid {
+        margin: 0;
     }
 
     .tx-hero {
         color: var(--md-primary-bg-color);
-        display: flex;
+        /* display: flex;
         flex-wrap: wrap-reverse;
         justify-content: space-around;
-        align-items: center;
+        align-items: center; */
     }
 
-    .tx-hero > * {
-        padding: 0 1rem 1rem 1rem;
+    .tx-hero.grid {
+        margin: 0em;
+        justify-items: end;
     }
+
+    /* .tx-hero > * {
+        padding: 0 1rem 1rem 1rem;
+    } */
 
     .tx-hero h1 {
         margin-bottom: 0rem;
@@ -72,10 +84,20 @@
     }
 
     .tx-hero__content {
-        padding-top: 0.15rem;
-        flex: 1 1 0;
-        min-width: 250px;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
     }
+
+    .home-container .md-content {
+        display: block;
+        flex: 0;
+    }
+
+
+
 
     .tx-hero__content > p > a {
         padding: 0.15rem;
