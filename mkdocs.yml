@@ -293,4 +293,4 @@ plugins:
         - Other tools
 
 watch:
-- /overrides
+- overrides
