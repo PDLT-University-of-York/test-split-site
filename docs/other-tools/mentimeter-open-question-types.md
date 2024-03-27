@@ -24,11 +24,11 @@ You can switch on voting on open text responses, making this ideal for a brainst
 
 To switch on voting, you just need to create an “Open Ended” question slide and add your question as normal in the question field under the ‘Content’ options. Then select the ‘Enable voting on responses’ option and add the required number of votes to allocate to each participant under ‘Votes per participant’.
 
-![decorative](images/menti_voting on open questions 1.png)
+![decorative](images/menti_voting on open questions 1.jpg)
 
 When you share your presentation with students during a session and present the question slide, participants can provide open responses as normal and these can be displayed either immediately as they come in, or hidden until a time of your choosing (Shortcut key ‘H’ to hide and show responses).
 
-![decorative](images/menti_voting on open questions 2.png)
+![decorative](images/menti_voting on open questions 2.jpg)
 
 When you are satisfied with the number of open responses received, you can press ‘enter’ to begin the voting (making sure to click on the Mentimeter presentation screen first to ensure it is in focus).  Until this point participants who have submitted their responses will see a message telling them that the presentation is not yet open for votes.
 
