@@ -1,0 +1,96 @@
+<!-- IMAGE STACKED -->
+
+{% extends "home-styles.html" %}
+{% block tabs %}
+  {{ super() }}
+
+<!-- header/hero section GRID -->
+
+<!-- <img class="home-image" src="assets/images/home-image-wide.jpg" alt="Decorative"> -->
+
+<div class="home-container">
+  <img class="home-image" src="assets/images/home-image-wide.jpg" alt="Decorative">
+
+  <section class="home-hero md-typeset">
+      <img class="logo" src="assets/images/UoYlogo-white-small.png" alt="University of York">
+      <div class="home-hero__content">
+        <h1>Guides for online learning tools</h1>
+        <p>Staff support for the tools managed by the Digital Education Team.</p>
+      </div>
+  </section>
+
+  <section class="md-content home-cards" data-md-component="content">
+    <article class="md-content__inner md-typeset">
+      <h2>Find what you need</h2>
+      <div class="grid cards">
+        <ul>
+          <li>
+          <h2 id="search"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path></svg></span> Search</h2>
+          <p>Look up specific topics in the search bar</p>
+          </li>
+          <li>
+          <h2 id="navigate"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg></span> Navigate</h2>
+          <p>Explore guide categories in the navigation menu</p>
+          </li>
+          <li>
+          <h2 id="browse"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.41 11.58-9-9A2 2 0 0 0 11 2H4a2 2 0 0 0-2 2v7a2 2 0 0 0 .59 1.42l9 9A2 2 0 0 0 13 22a2 2 0 0 0 1.41-.59l7-7A2 2 0 0 0 22 13a2 2 0 0 0-.59-1.42M13 20l-9-9V4h7l9 9M6.5 5A1.5 1.5 0 1 1 5 6.5 1.5 1.5 0 0 1 6.5 5Z"></path></svg></span> Browse</h2>
+          <p>Browse all guides listed by tag in the <a href="/help/site-index">site index</a></p>
+          </li>
+        </ul>
+      </div>
+      <p>Our <strong>student guides</strong> can be found at the <a href="https://subjectguides.york.ac.uk/learning-tech/">Practical Guide to Learning Technology</a> </p>
+    </article>
+  </section>
+</div>
+
+
+<!-- header/hero section -->
+<!-- <section class="tx-container-hero">
+  <div class="md-grid md-typeset">
+    <div class="tx-hero">
+      <div class="tx-hero__content">
+        <h1>Guides for online learning tools</h1>
+        <p>Staff support for the tools managed by the Digital Education Team.</p>
+      </div>
+      <img src="assets/images/home-image.jpg" alt="Decorative">
+    </div>
+  </div>
+</section> -->
+
+<!-- <div class="home-container">
+  <section class="tx-container-hero md-typeset">
+      <div class="tx-hero grid">
+        <div class="tx-hero__content">
+          <img src="assets/images/UoYlogo-white-small2.png" alt="University of York">
+          <h1>Guides for online learning tools</h1>
+          <p>Staff support for the tools managed by the Digital Education Team.</p>
+        </div>
+        <img src="assets/images/home-image.jpg" alt="Decorative">
+      </div>
+  </section>
+
+  <div class="md-content" data-md-component="content">
+    <article class="md-content__inner md-typeset">
+      <div class="grid cards">
+        <ul>
+          <li>
+          <h2 id="search"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path></svg></span> Search</h2>
+          <p>Look up specific topics in the search bar</p>
+          </li>
+          <li>
+          <h2 id="navigate"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg></span> Navigate</h2>
+          <p>Explore guide categories in the navigation menu</p>
+          </li>
+          <li>
+          <h2 id="browse"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.41 11.58-9-9A2 2 0 0 0 11 2H4a2 2 0 0 0-2 2v7a2 2 0 0 0 .59 1.42l9 9A2 2 0 0 0 13 22a2 2 0 0 0 1.41-.59l7-7A2 2 0 0 0 22 13a2 2 0 0 0-.59-1.42M13 20l-9-9V4h7l9 9M6.5 5A1.5 1.5 0 1 1 5 6.5 1.5 1.5 0 0 1 6.5 5Z"></path></svg></span> Browse</h2>
+          <p>Browse all guides listed by tag in the <a href="/help/site-index">site index</a></p>
+          </li>
+        </ul>
+      </div>
+    </article>
+  </div>
+</div> -->
+{% endblock %}
+
+<!-- override default content - leave blank -->
+{% block content %}{% endblock %}

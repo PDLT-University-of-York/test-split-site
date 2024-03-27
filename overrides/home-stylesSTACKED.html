@@ -6,98 +6,86 @@
 <style>
 /* Set background colour for page - use variable, don't hard code */
 .md-container {
-    background-image: url("assets/images/welcome.jpg");
+    background-color: var(--md-primary-fg-color);
 }
 
-.md-container * {
-    border: 1px solid red
-}
-    /*Titles & logo container */
-    .home-hero {
+    /* Banner/hero image */
+    .home-image {
+        max-height: 25vh;
+        /*curve bottom corners */
+        border-radius: 0 0 30px 30px;
+    }
+
+    /* page content container*/
+    .home-container {
         /*fill .md-container height*/
         flex: 1;
-        /*block shape & colour*/
-        background-color: var(--md-primary-fg-color);
-        color: var(--md-primary-bg-color);
         /*centers on screen at readable width*/
-        /* margin-left: auto;
+        margin-left: auto;
         margin-right: auto;
-        max-width: 61rem; */
-        /*arrange image & titles*/
+        max-width: 61rem;
+        padding: 0 0.2rem 1rem;
+        /*place hero & cards sections inside container*/
         display: flex;
-        flex-wrap: wrap-reverse;        
+        flex-direction: column;
+        justify-content: space-between;
     }
-        /* Titles & logo*/
-        .home-hero__content {
-            flex: 1;
-            /* min-width: max(400px, 100%); */
-            padding: 1.5rem 0.5rem;
-            display: flex;
-            justify-content: flex-end;
-        }
 
-            /*Inner container to retrict width*/
-            .home-hero__content-inner {
-                max-width: 30rem;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: flex-start;
-            }
+        /*Titles & logo container */
+        .home-hero {
+            display: flex;
+            flex-direction: row-reverse;
+            flex-wrap: wrap;
+            /* padding: 2em 0; */
+            color: var(--md-primary-bg-color);
+        }
 
             /*Logo*/
             .home-hero img.logo {
                 max-height: 138px;
             }
 
-            /*Main title*/
-            .home-hero h1 {
-                margin-bottom: 0rem;
-                color: currentColor; /*overrides main h1 accent colour */
-                font-size: 2.25rem;
-                font-weight: 700;
+            /* Titles sub-container */
+            .home-hero__content {
+                padding: 3em 1em;
+                flex: 1;
+                min-width: 450px;
+                max-width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: flex-start;
             }
 
-            /*Subtitle/text*/
-            .home-hero p {
-                font-size: 1.2rem;
-                margin: 0;
-            }
+                /*Main title*/
+                .home-hero h1 {
+                    margin-bottom: 0rem;
+                    color: currentColor; /*overrides main h1 accent colour*/
+                    font-size: 3em;
+                    font-weight: 700;
+                }
 
-        /* Banner/hero image */
-        .home-hero img.home-image {
-            width: 50%;
-            min-width: 450px;
-            object-fit: cover;
-        }    
+                /*Subtitle/text*/
+                .home-hero p {
+                    font-size: 1.5em;
+                }
 
-    /*Cards/content container*/
-    .md-content.home-cards {
-        display: block;
-        flex: 0;
-        background: var(--md-default-bg-color);
-    }
+        /*Cards/content container*/
+        .md-content.home-cards {
+            display: block;
+            flex: 0;
+            border-radius: 30px;
+            background: var(--md-default-bg-color);
+        }
 
-    .home-cards h2 {
-        margin: 0;
-    }
+        .home-cards h2 {
+            margin: 0;
+        }
     
     /*hide auto-generated container for default md page content*/    
     .md-main .md-content {
         display: none;
-    }
-
-    .md-main {
-    flex: 0;
-    }
-
-    .md-main__inner {
-        margin-top: 0
-    }
-    
-    /* .md-main .md-content h2 {
-        margin: 0;
-    } */
+    }    
 
 /* older */
 /* .md-content {
