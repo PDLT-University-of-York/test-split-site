@@ -10,23 +10,10 @@ tags:
 
 !!! Summary
 
-    Short summary here
-
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
-
-    - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
+    You can attach a slide deck (presentation) to an existing Panopto video.
 
 
-
-### Video Steps
-
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
-
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Text Steps
+## Text Steps
 
 1. In the editor, click on the **Slides** option in the left navigation menu.
 

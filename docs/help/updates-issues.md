@@ -9,6 +9,10 @@ tags:
 
     Many of our systems are now Cloud-based and are updated very regularly. The resources on this page will help you keep track of what's happening with our systems.
 
+!!! Tip
+
+    You can also learn about updates and issues via our [news channels](news.md) 
+
 ## Support dashboards (Google Looker Studio)
 
 Use our [support dashboards in Google Looker Studio](https://lookerstudio.google.com/embed/reporting/4de0e8c1-2254-4f46-a08e-e048d192baae/page/p_60kddgyw8c) to see:

@@ -1,3 +1,10 @@
+---
+tags:
+    - Communication
+    - Interactive content
+    - Other tools
+---
+
 # Padlet
 
 !!! Summary

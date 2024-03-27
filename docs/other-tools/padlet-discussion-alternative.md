@@ -1,16 +1,17 @@
 ---
 tags:
-    - Foundation
-    - Teaching
-    - Ultra
-    - Padlet
+    - Communication
+    - Interactive content
+    - Other tools
 ---
 
 # Using Padlet as an alternative to Ultra discussion boards
 
 !!! Summary
 
-    Native discussion boards in Ultra VLE sites do not allow anonymous posting, nor email subscription/notifications for new posts. This guide describes using a Padlet board as an alternative, as it allows both.
+    Before April 4th 2024 native discussion boards in Ultra VLE sites did not allow anonymous posting. This guide describes using a Padlet board as an alternative, however [anonymous Ultra discussions have now been implemented](https://vle-support.york.ac.uk/ultra/discussions/).
+
+    Ultra discussions still don't allow subscription functionality however, so you may still wish to use Padlet as an alternative, as detailed below.
 
 ## Background
 As described on [the discussions page](https://vle-support.york.ac.uk/ultra/discussions/) of our Blackboard Learn Ultra guides, discussions offer a useful vehicle for asynchronous communication in your module.  You can create different discussions in different sections of your VLE site to allow students to communicate with peers and staff on different topics, and you can assign discussions to groups and allocate marks to postings.  

@@ -12,9 +12,11 @@ tags:
 
     Embed Panopto video content into a Course Content area or Document in Blackboard Ultra.
 
-<!--### Video Steps
+### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
+Below is a clip from ultra essentials workshop training on how to embed panopto videos. Alternatively, you can [open the video in a new browser tab](https://youtu.be/2KA0UWiTMWI?t=463).
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/2KA0UWiTMWI?si=lOc9q46A84bqqpbO&amp;start=463" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <!--<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

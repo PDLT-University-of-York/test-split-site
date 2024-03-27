@@ -3,7 +3,7 @@ tags:
   - Training
 ---
 
-# Development: CMALT
+# CMALT: professional development
 
 !!! Summary
 

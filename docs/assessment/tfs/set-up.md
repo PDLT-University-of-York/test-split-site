@@ -1,9 +1,7 @@
 ---
 tags:
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
+    - Key guide - admin
+    - Assessment
     - Ultra
 ---
 
@@ -11,20 +9,13 @@ tags:
 
 !!! Summary
 
-    The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
+    **Administrator guide**: setting up submission points and managing the marking workflow in Turnitin Feedback Studio (TFS).
 
-    This guide covers setting up submission points and managing the marking workflow, and is primarily aimed at **Administrators**.
+!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
 
-## Overview of TFS
-
-The video below gives an overview of using TFS as a staff member to support assessment. If you prefer, you can [open the overview video in another tab](https://youtu.be/o9g9fye87vc?si=oLV9rHh8ufaUgUgX).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9g9fye87vc?si=5d2HAw95UIR1dfqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-!!! Warning
-    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
-    
-    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+    - 4.1 Essential: The assessment section contains all information about module assessments.
+    - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
+    - 4.3 Essential: Provide marking criteria or other grading policies showing how work is marked.
 
 ## Submission points & rubrics
 
@@ -36,6 +27,12 @@ TFS can be used for formative or summative assignments, but there are some diffe
 In TFS, rubrics (or 'grading forms') for marking are integrated into the submission point:
 
 - [Creating, importing and exporting grading forms or rubrics](https://docs.google.com/document/d/1fctlNtGpgjerdEYReGtMwLvSWRF_y2RkWSbSMPigGWg/edit?usp=sharing)
+
+!!! Warning
+    
+    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
+
+    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
 
 ## Managing extensions, flagging & multiple markers
 

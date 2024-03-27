@@ -3,7 +3,7 @@ tags:
   - Training
 ---
 
-# Webinars
+# Webinars: share practice
 
 !!! Summary
 

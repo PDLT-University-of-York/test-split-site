@@ -13,11 +13,6 @@ tags:
     The Panopto web editor allows anyone with 'creator' access in Panopto to perform basic video editing tasks directly from their web browser, eliminating the need to download a separate video editing software. This guide will show you how to make basic edits to your recordings using the Panopto Web Editor. 
 
 
-### Video Guide: How to Make Basic Edits in Panopto 
-    <!-- INSERT YOUTUBE VIDEO ON HOW TO EDIT A VIDEO IN PANOPTO (BASIC EDITS)  -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Lauching the Panopto Web Editor
 
 !!! tip
@@ -54,7 +49,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 3. **Click and hold down** your mouse button and **drag** the gray line and release to where you would like the cut to finish.
 4. Any portion of the video highlighted in **gray** in the timeline (as shown above) will **not** be visible to students. 
 5. Perform the same steps as required to add additional cuts. The cut tool can also be used to trim the *beginning* or *end* of your video.
-6. Make sure you **save** any edits you make by clicking the **'Apply'** button in the top right-hand corner or the viewer.
+6. Make sure you **save** any edits you make by clicking the **'Apply'** button in the top right-hand corner of the viewer.
 
 ![Annotated screenshot of apply button above Panopto video play window](Images/apply-button.png)
 
@@ -63,7 +58,7 @@ You can access the Panopto Web Editor directly via [Panopto's web interface](htt
 To remove any unwanted cuts, this can be done in one of two ways: 
 
     - Either by clicking and dragging the cut from within the timeline using your mouse, until it disappears from the timeline *or*
-    - By selecting **Cuts** from the left hand menu and following the below steps:  
+    - By selecting 'Cuts' from the left hand menu and following the below steps:  
 
 1. Hover your cursor over the cut you want to delete and click on the elipsis menu. 
 2. Click **Delete**, as indicated by a trashcan icon.

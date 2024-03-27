@@ -7,8 +7,9 @@ tags:
 # Course roles in Learn Ultra
 
 !!! Summary
+ 
+    A user's Course Role sets permissions for what they can do or see within an Ultra site, such as enter Private courses, edit content, or mark student work.
 
-   A user's Course Role sets permissions for what they can do or see within an Ultra site, such as enter Private courses, edit content, or mark submissions.
 
 ## Roles available
 
@@ -32,7 +33,9 @@ For more information on each Role's access level and what they can do, see [our 
 
 !!! Warning
 
-**Don't give an individual the Guest role**. The Guest role is not available for individual users in Ultra sites, so users manually assigned this role will not be able to access a site.
+      **Don't give an individual the Guest role**. The Guest role is not available for individual users in Ultra sites, so users manually assigned this role will not be able to access a site.
 
 
-The Guest role is used for automatic enrolment user groups (aka "SITS Group Users" and "People Group Users") - this is correct. These user groups automatically pull user data from SITS and enrols individual users with an appropriate role (either Student or Instructor). This is how students are enroled on module sites.
+The Guest role is used for [automatic enrolments through cohort user groups](/ultra/enrol-cohort) (aka "SITS Group Users" and "People Group Users"), so you might see 'Guest' in your class register - this is correct!
+
+These user groups automatically pull user data from SITS and enrol individual users. For example, this is how students are enrolled on module sites.

@@ -8,7 +8,6 @@
 ## What Ultra can do
 
 <div class="grid" markdown>
-<!-- renders in Live as a grid -->
 
 <div markdown>
 A module Ultra site can:
@@ -29,9 +28,8 @@ A module Ultra site can:
 Start with these key guides:
 
 <div class="grid cards" markdown>
-<!-- renders in Live as a grid of index cards -->
 
--   **Site design & navigation**
+-   **:fontawesome-regular-compass: Site design & navigation**
 
     ---
     
@@ -40,24 +38,28 @@ Start with these key guides:
     - [:octicons-arrow-right-24: Personalise your site](personalise-site-design.md)
 
 
--  **Organise & build content**
+-  **:material-content-paste: Organise & build content**
 
     ---
     
     - [:octicons-arrow-right-24: Folders & Learning Modules](folder-learning-module.md)
     - [:octicons-arrow-right-24: Documents (pages)](documents.md)
 
--   **Communication & interaction**
+-   **:octicons-megaphone-16: Communication & interaction**
 
     ---
     
     - [:octicons-arrow-right-24: Announcements](announcements.md)
     - [:octicons-arrow-right-24: Discussions](discussions.md)
+    - [:octicons-arrow-right-24: Manage your notifications](notifications.md)
 
--   **Use Ultra your way**
+-   **:material-school: Ultra Training**
 
     ---
-    - [:octicons-arrow-right-24: Manage your notifications](notifications.md)
+
+    On-demand resources and live sessions
+    
+    - [:octicons-arrow-right-24: Ultra Essentials](/training/ultra-essentials)
 
 </div>
 
@@ -66,3 +68,9 @@ To find other Ultra guides:
 - explore our guide topics in the navigation menu
 - search for specific content with the search box (top right)
 - browse the [Site index](/help/site-index) to see all guides listed by topic tags
+
+## Blog: Ultra
+
+Our [DET Blog: Learn Ultra](https://elearningyork.wpcomstaging.com/category/tool/vle-learn-ultra/) covers Ultra-specific in-depth news items, research news and time-sensitive updates (also embedded below).
+
+<iframe width="100%" height="600px" title="Digital Edutation Team blog - Learn Ultra" src="https://elearningyork.wpcomstaging.com/category/tool/vle-learn-ultra/"></iframe>
