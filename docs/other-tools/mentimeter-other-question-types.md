@@ -23,13 +23,13 @@
 
 [2 x 2 grid](https://help.mentimeter.com/en/articles/410474-2-by-2-grid) questions provide an option for rating scales along two separate axes to show relationships between selections. Students can respond by selecting where an item sits on the two scales. Results are plotted with scale 1 on the x-axis and scale 2 on the y-axis, and the coordinates for each item represent the average response. As with the scales question type, hovering over a response will show how each individual responded (up to a maximum of 50 responses).
 
-![2x2 grid showing 4 different options on a scale of 'effort' on the x-axis and 'impact' on the y-axis.](images/menti_2x2grid.jpg)
+![2x2 grid showing 4 different options on a scale of 'effort' on the x-axis and 'impact' on the y-axis.](images/menti_2x2grid.png)
 
 ## Guess the number
 
 Students choose a response along a numerical scale before a correct answer is shown (with a margin of error if needed). The correct answer is highlighted along with information on how many responses there were for each option. This could be useful for factual questions involving numerical responses such as calculations, stats, prices, and dates.
 
-![Question: In Feb 2022, the average price of a pint of milk in the UK was 49p.  Adjusted for inflation, what was the average price in 1972?  A graph shows the number of responses with the correct answer - 70p - highlighted.](images/menti_guess_the_number.jpg)
+![Question: In Feb 2022, the average price of a pint of milk in the UK was 49p.  Adjusted for inflation, what was the average price in 1972?  A graph shows the number of responses with the correct answer - 70p - highlighted.](images/menti_guess_the_number.png)
 
 ## Quick form
 
