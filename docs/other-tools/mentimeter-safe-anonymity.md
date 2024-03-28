@@ -2,8 +2,11 @@
 
 !!! Summary
      By default, the University polling tool Mentimeter is completely anonymous and a common concern from teaching staff is that students may not use open text options appropriately. This page offers strategies for the safe use of open text comments focused on:
+
      - Minimising the likelihood of inappropriate or offensive comments being added by attending to the learning environment and developing shared ‘rules of engagement’ for anonymous open text.
+
      - Setting up the mentimeter environment so that if any inappropriate or offensive comments are added, negative impacts can be prevented or minimised.
+     
      It incorporates suggestions from the following members of staff who are experienced Mentimeter users: Yaprak Tavman and Mathilde Peron (Department of Economics), Thomas Davies and Sally Quinn (Department of Psychology), and Gareth Evans (Department of Biology).
 
 ## Which question types does this apply to?
