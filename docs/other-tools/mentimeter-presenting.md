@@ -32,6 +32,7 @@ See [Mentimeter’s Mentimote page](https://www.mentimeter.com/features/mentimot
 ## Using keyboard shortcuts
 
 When presenting in Mentimeter, you can use keyboard shortcuts to manage presentation navigation and options. Shortcuts include:
+
 **H**: Hide or show results – you can hide results until all students have responded to prevent bias and then show them when you are ready
 
 **I**: Show voting instructions and QR code – useful for pauses in a presentation or for a minimally-disruptive reminder of how to connect to a Menti session.
