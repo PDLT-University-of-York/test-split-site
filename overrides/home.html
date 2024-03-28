@@ -4,17 +4,37 @@
 {% block tabs %}
 {{ super() }}
 
+<!-- v28/3 image background -->
 <!-- Hero: titles & image -->
  <section class="home-hero md-typeset">
   <div class="home-hero__content">
     <div class="home-hero__content-inner">
-      <img class="logo" src="assets/images/UoYlogo-white-small.png" alt="University of York">
-      <h1>Guides for online learning tools</h1>
-      <p>Staff support for the tools managed by the Digital Education Team.</p>
+      <img class="logo" src="assets/images/uoy-logo-black.svg" alt="University of York">
+      <h1>STAFF GUIDES for online learning tools</h1>
+      <p>Support and training for tools managed by the Digital Education Team.</p>
+    </div>
+    <div class="home-cards">
+      <div class="grid cards">
+        <ul>
+          <li>
+          <p id="search"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path></svg></span>
+            Search specific topics</p>
+          </li>
+          <li>
+          <p id="navigate"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg></span>
+            Explore the menu </p>
+          </li>
+          <li>
+          <p id="browse"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.41 11.58-9-9A2 2 0 0 0 11 2H4a2 2 0 0 0-2 2v7a2 2 0 0 0 .59 1.42l9 9A2 2 0 0 0 13 22a2 2 0 0 0 1.41-.59l7-7A2 2 0 0 0 22 13a2 2 0 0 0-.59-1.42M13 20l-9-9V4h7l9 9M6.5 5A1.5 1.5 0 1 1 5 6.5 1.5 1.5 0 0 1 6.5 5Z"></path></svg></span>
+            <a href="/help/site-index">Browse by tag</a></p>
+          </li>
+        </ul>
+      </div>
+      <p><a href="https://subjectguides.york.ac.uk/learning-tech/">For <strong>student guides</strong>, see the Practical Guide to Learning Technology</a></p>
     </div>
   </div>
-  <img class="home-image" src="assets/images/welcome.jpg" alt="Decorative">  
-</section> 
+  <!-- <img class="home-image" src="assets/images/welcome.jpg" alt="Decorative">   -->
+</section>
 
 <!-- v 27/3 image in row -->
 <!-- Hero: titles & image
@@ -30,7 +50,7 @@
 </section>  -->
 
 <!-- Find what you need cards -->
-<section class="md-content home-cards" data-md-component="content">
+<!-- <section class="md-content home-cards" data-md-component="content">
   <article class="md-content__inner md-typeset">
     <h2>Find what you need</h2>
     <div class="grid cards">
@@ -51,7 +71,7 @@
     </div>
     <p>Our <strong>student guides</strong> can be found at the <a href="https://subjectguides.york.ac.uk/learning-tech/">Practical Guide to Learning Technology</a> </p>
   </article>
-</section>
+</section> -->
 
 {% endblock %}
 {% block content %}{% endblock %}
