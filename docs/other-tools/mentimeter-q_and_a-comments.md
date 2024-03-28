@@ -1,7 +1,7 @@
 # Question types: Q&A, comments and chat
 
 !!! Summary
-     Open question types such as word clouds and open ended questions allow students to enter free-text in response to a question or prompt.  You can also allow students to vote on open responses making this ideal for a brainstorming or prioritising session, allowing everyone to contribute ideas and then to vote on the contributions made.
+     You can allow students to post questions, give reactions or add chat comments on slides in Mentimeter.
 
 ## Q&A
 
