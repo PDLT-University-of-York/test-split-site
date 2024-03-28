@@ -7,38 +7,47 @@
 /* Set background colour for page - use variable, don't hard code */
 .md-container {
     background-image: url("assets/images/welcome.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
-.md-container * {
+/* .md-container * {
     border: 1px solid red
-}
+} */
     /*Titles & logo container */
     .home-hero {
         /*fill .md-container height*/
         flex: 1;
         /*block shape & colour*/
-        background-color: var(--md-primary-fg-color);
-        color: var(--md-primary-bg-color);
+        /* background-color: var(--md-primary-fg-color); */
+        /* color: var(--md-primary-bg-color); */
         /*centers on screen at readable width*/
         /* margin-left: auto;
         margin-right: auto;
         max-width: 61rem; */
         /*arrange image & titles*/
         display: flex;
-        flex-wrap: wrap-reverse;        
+        /* flex-wrap: wrap-reverse;         */
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: center;
     }
         /* Titles & logo*/
         .home-hero__content {
             flex: 1;
+            max-width: 60rem;
             /* min-width: max(400px, 100%); */
-            padding: 1.5rem 0.5rem;
-            display: flex;
-            justify-content: flex-end;
+            margin: 1.5rem;
+            border-radius: 2rem;
+            padding: 1.5rem;
+            background: var(--md-primary-bg-color--light);display: flex;
+            /* justify-content: flex-end; */
+            flex-direction: column;
         }
 
             /*Inner container to retrict width*/
             .home-hero__content-inner {
-                max-width: 30rem;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
@@ -47,7 +56,8 @@
 
             /*Logo*/
             .home-hero img.logo {
-                max-height: 138px;
+                max-height: 100px;
+                /* color: var(--md-default-fg-color); */
             }
 
             /*Main title*/
@@ -72,23 +82,53 @@
         }    
 
     /*Cards/content container*/
-    .md-content.home-cards {
+    .home-hero .home-cards .grid.cards>ul>li {
+        border: .1rem solid var(--md-default-fg-color--light);
+        border-radius: .5rem;
+        display: block;
+        margin: 0.5rem;
+        padding: .8rem;
+        transition: border .25s, box-shadow .25s;
+        list-style-type: none;
+    }
+
+    /*links */
+    .home-hero.md-typeset a {
+        color: var(--md-default-fg-color);
+    }
+
+    .home-hero.md-typeset a:hover,
+    .home-hero.md-typeset a:focus {
+        background-color: var(--md-default-fg-color);
+        color: var(--md-primary-bg-color);
+    }
+
+
+    /* .home-cards__grid {
+        grid-gap: .4rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+        margin: 1em 0;
+    } */
+
+
+    /* .md-content.home-cards {
         display: block;
         flex: 0;
         background: var(--md-default-bg-color);
-    }
+    } */
 
-    .home-cards h2 {
+    /* .home-cards h2 {
         margin: 0;
     }
-    
+     */
     /*hide auto-generated container for default md page content*/    
     .md-main .md-content {
         display: none;
     }
 
     .md-main {
-    flex: 0;
+        flex: 0;
     }
 
     .md-main__inner {

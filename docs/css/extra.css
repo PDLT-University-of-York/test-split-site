@@ -2,11 +2,16 @@
 
 :root {
     --md-primary-fg-color: #001E82;
-    --md-accent-fg-color: #00C2DE; /*used for page header, links, nav highlights, scrollbar, buttons*/
-}
+    --md-accent-fg-color: #00C2DE;
+    --md-primary-bg-color--light: #ffffffd1}
 
 .md-nav__item .md-nav__link--active {
     color: var(--md-accent-fg-color);
+}
+
+/* Remove Announcement banner margin */
+.md-banner__inner {
+    margin: 0;
 }
 
 /* General element styling */
