@@ -17,3 +17,6 @@ You can enable 'reactions' to allow students to select 'emojis' during a present
 
 You can enable [chat](https://help.mentimeter.com/en/articles/4194716-allow-comments-and-chatting-during-your-presentation) to allow participants to post short transitory comments during a presentation.  These will appear for a moment on the bottom corner of the screen before disappearing.  Unlike Q&A questions, they are not saved and cannot be exported afterwards.
 
+!!! Warning
+     By default, Mentimeter is completely anonymous.  For strategies to reduce the likelihood of any misuse of anonymous word cloud or open-ended questions, and to limit the impact of any inappropriate or offensive responses, please see the following page:
+     [Using open text responses safely and dealing with inappropriate or offensive posts](mentimeter-safe-anonymity.md).

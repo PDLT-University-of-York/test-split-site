@@ -43,3 +43,7 @@ This was the first part of a standard pattern of activities in workshops to supp
 When using scales questions it is possible to collect and compare historical data to identify trends in the way that students respond.  When reusing a presentation, you can opt to ‘reset results’ and use the same questions a second time.  If you do this, historical responses are stored and you can use the ‘[Show trends](https://help.mentimeter.com/en/articles/410577-see-historical-data-with-sessions-and-trends)’ option.  In the example shown below, students are asked to rate their confidence about meeting the module learning outcomes at the end of each weekly session.  The ‘show trends’ option reveals how confidence levels for each outcome might rise and fall as the module progresses to track self-assessment of progress and achievement over time.
 
 ![Graph showing 9 sessions on the x axis and a scale from 0 - not confident to 5 - very confident on the y-axis.  For each of 5 learning outcomes, a line shows changes in confidence ratings across the sessions.](images/menti_trends.jpg)
+
+## 100 points questions
+
+[100 points questions](https://help.mentimeter.com/en/articles/410475-100-points-question) allow students to prioritise pre-fixed options by allocating a total of 100 points across the different options.  This is similar to ranking but allows each respondent to estimate the strength of preference. The average points allocation for each option is show in the results. 
