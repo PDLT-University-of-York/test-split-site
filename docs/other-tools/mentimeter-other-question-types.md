@@ -3,11 +3,11 @@
 !!! Summary
      You can use a range of other question/interaction types in Mentimeter:
 
-     -Quiz competition
-     -Pin on image
-     -2x2 grid
-     -Guess the number
-     -Quick form
+     - Quiz competition
+     - Pin on image
+     - 2x2 grid
+     - Guess the number
+     - Quick form
 
 ## Quiz competition
 
