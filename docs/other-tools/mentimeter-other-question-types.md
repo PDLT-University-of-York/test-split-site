@@ -1,4 +1,4 @@
-# Question types: Q&A, comments and chat
+# Other question types
 
 !!! Summary
      You can use a range of other question/interaction types in Mentimeter:
