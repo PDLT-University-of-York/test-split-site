@@ -20,7 +20,7 @@
 
     The VLE used for York Online programmes.
 
-- :material-human-male-board-poll: **[Mentimeter](mentimeter.md)**
+- :material-human-male-board-poll: **[Mentimeter](mentimeter/index.md)**
     
     Add polling, knowledge checks and other interaction to presentations or sessions.
 
