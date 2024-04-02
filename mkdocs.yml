@@ -27,16 +27,16 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
-      accent: custom
+      primary: custom #UoY branding - dark blue
+      accent: custom #UoY branding - light blue
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: grey
-      accent: yellow
+      primary: blue grey #UoY branding-ish
+      accent: yellow #UoY branding-ish
       toggle: 
         icon: material/brightness-7
         name: Switch to light mode
