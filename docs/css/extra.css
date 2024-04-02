@@ -3,7 +3,12 @@
 :root {
     --md-primary-fg-color: #001E82;
     --md-accent-fg-color: #00C2DE;
-    --md-primary-bg-color--light: #ffffffd1}
+    /* --md-primary-bg-color--light: #ffffffd1 */
+}
+
+[data-md-color-scheme="slate"] {
+    --md-hue: 200; /* [0, 360] */
+}
 
 .md-nav__item .md-nav__link--active {
     color: var(--md-accent-fg-color);

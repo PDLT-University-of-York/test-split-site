@@ -28,7 +28,9 @@
             margin: 1.5rem;
             border-radius: 2rem;
             padding: 1.5rem;
-            background: var(--md-primary-bg-color--light);display: flex;
+            background: var(--md-code-bg-color);
+            opacity: 90%;
+            display: flex;
             flex-direction: column;
         }
 
@@ -41,8 +43,9 @@
             }
 
             /*Logo*/
-            .home-hero img.logo {
+            .home-hero .logo {
                 max-height: 100px;
+                fill: currentColor;
                 /* color: var(--md-default-fg-color); */
             }
 
@@ -60,15 +63,32 @@
                 margin: 0;
             } 
 
+            /*bottom border on text */
+            .home-hero p.bottom-border {
+                padding: 0 0 0.5rem;
+                margin: 0 0 0.5rem;
+                border-bottom: 0.05rem solid var(--md-default-fg-color--lighter);
+            }
+            
+
     /*Cards/content container*/
     .home-hero .home-cards .grid.cards>ul>li {
-        border: .1rem solid var(--md-default-fg-color--light);
+        /* border: .1rem solid var(--md-default-fg-color--light); */
+        border: 0;
         border-radius: .5rem;
         display: block;
         margin: 0.5rem;
         padding: .8rem;
-        transition: border .25s, box-shadow .25s;
+        /* transition: border .25s, box-shadow .25s; */
+        transition: none;
+        background: var(--md-default-bg-color);
         list-style-type: none;
+    }
+
+    .home-hero .home-cards .grid.cards>ul>li:hover,
+    .home-hero .home-cards .grid.cards>ul>li:focus {
+        border: 0;
+        box-shadow: none;
     }
 
     /*links */
