@@ -29,4 +29,5 @@ The video below gives an overview of using TFS as a staff member to support asse
 
 </div>
 
+[Our student guide to submitting assignments on the VLE](https://subjectguides.york.ac.uk/learning-tech/vle-assignments) can be found on the Practical Guide to Learning Technology.
 
