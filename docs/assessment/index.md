@@ -22,16 +22,16 @@
 
     ---
     
-    - [:octicons-arrow-right-24: Turnitin Feedback Studio](/assessment/tfs/)
+    - [:octicons-arrow-right-24: Turnitin Feedback Studio](tfs/index.md)
     - :octicons-arrow-right-24: Ultra Assignment (see navigation)
-    - [:octicons-arrow-right-24: Ultra Test](/ultra/test)
+    - [:octicons-arrow-right-24: Ultra Test](/ultra/test.md)
 
 </div>
 
 To find other assessment guides:
 
-- explore our guide topics in the navigation menu
 - search for specific content with the search box (top right)
+- explore our guide topics in the navigation menu
 - browse the Site index to see all guides listed by topic tags
 
 !!! Warning
@@ -40,4 +40,4 @@ To find other assessment guides:
     When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
 
 ## Updates & issues
-Many of our Assessment tools are hosted in the cloud, and are updated regularly. Keep track of what's happening with our systems with our [Updates & issues page](/help/updates-issues).
+Many of our Assessment tools are hosted in the cloud, and are updated regularly. Keep track of what's happening with our systems with our [Updates & issues page](/help/updates-issues.md).
