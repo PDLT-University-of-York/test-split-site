@@ -20,7 +20,7 @@ From the teacher perspective, further insight can be gained by accessing the res
 
 You can share a presentation link with your participants using ‘Share – Results’, change the permissions to ‘Anyone with the link can access’ and ‘copy link’. 
 
-![decorative](images/menti_sharing_results.png) 
+![decorative](images/results-sharing-results.png) 
 
 Further instructions on this with screenshots are available on Mentimeter’s [share a presentation link](https://help.mentimeter.com/en/articles/410894-share-presentation-link) page.
 
@@ -32,6 +32,6 @@ You can also copy an embed code which can be used to display the presentation in
 
 When embedding the presentation on a VLE page, it is necessary to provide the link so that it can be viewed in full screen if needed. This can be added above the embed by choosing the ‘add content options’ and using the text editing tools to add a hyperlink (see example below).
 
-![Embedded Mentimeter presentation within the VLE with a link to the presentation shown above](images/menti_vle_embed.png) 
+![Embedded Mentimeter presentation within the VLE with a link to the presentation shown above](images/results-vle-embed.png) 
 
 If you would like to make the presentation available to participants offline, you can also [export the presentation](https://help.mentimeter.com/en/articles/410575-presentation-pdf-and-screenshots) as a pdf, images, or as an Excel file and share the resulting files with them (e.g. by uploading the files into the VLE). As with all digital resources, it is essential to consider accessibility. For example, if you are uploading images or pdfs, make sure that you also provide the Excel file as a more accessible alternative.

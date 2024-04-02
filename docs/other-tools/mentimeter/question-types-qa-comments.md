@@ -11,7 +11,7 @@ The [Q&A](https://help.mentimeter.com/en/articles/1501502-questions-from-audienc
 
 You can enable 'reactions' to allow students to select 'emojis' during a presentation which will display on the screen at the bottom of a slide (options include: heart, question mark, thumbs up, thumbs down, and cat). To enable or disable specific emojis, select 'Interactivity' and select the emojis to include.
 
-![decorative](images/menti_reactions.jpg) 
+![decorative](images/question-types-qa-comments-reactions.jpg) 
 
 ## Chat
 

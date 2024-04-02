@@ -11,15 +11,15 @@ Your participants will need to join your Mentimeter presentation to be able to r
 
 Add a Mentimeter instructions slide and make this the first slide students see when you open your Mentimeter presentation. This provides a code that students can insert at menti.com to join, and also a QR code for anyone who is able to use them on their device. The instructions screen slide is a particularly useful option the first time you use Mentimeter with participants as the instructions are presented very prominently.
 
-![decorative](images/menti_joining_instructions.png) 
+![decorative](images/present-joining-instructions1.png) 
 
 Include a quick ‘warmer’ or a question at the beginning to give your participants the chance to join Menti on their device and check that they can respond successfully (this can be a fun, socially-oriented question or something connected to the subject matter). You can include this after the instructions slide. Alternatively, you can bring up joining instructions on your warmer question slide using the ‘i’ shortcut key or by pressing the ‘show/hide instructions’ button on the toolbar. 
 
-![decorative](images/menti_joining_instructions2.png) 
+![decorative](images/present-joining-instructions2.png) 
 
 You can also bring up joining instructions on an introductory content slide to give a reminder to participants on how to join. This shows the instructions in a less intrusive way than the instructions slide, allowing you to include instructions in a more context-specific welcome slide which can be particularly useful when participants are already familiar with Mentimeter. 
 
-![decorative](images/menti_joining_instructions3.png) 
+![decorative](images/present-joining-instructions3.png) 
 
 Once your participants have joined the presentation, they should not need to re-join to respond to your subsequent questions so long as these are in a single Mentimeter presentation. Should a participant become disconnected for any reason, you can display the joining instructions again on any slide by pressing the ‘i’ shortcut key.
 
