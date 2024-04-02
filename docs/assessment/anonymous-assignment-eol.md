@@ -12,7 +12,7 @@ tags:
     This guide considers the implications for new submissions by resitting/extension students in modules from 2022/23 or earlier. It is primarily aimed at **administrators**.
 
 ## Background
-The anonymous assignment building block was retired in September 2023. All "in VLE" file based summative assessments should now be [set up using the new Turnitin Feedback Studio submission points](/assessment/tfs/set-up) from within a Learn Ultra site.
+The anonymous assignment building block was retired in September 2023. All "in VLE" file based summative assessments should now be [set up using the new Turnitin Feedback Studio submission points](tfs/set-up.md) from within a Learn Ultra site.
 
 !!! Warning
 

@@ -291,7 +291,7 @@ plugins:
         'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
         'othertools/index.md': 'other-tools/index.md'
         'canvas/index.md': 'other-tools/canvas.md'
-        'mentimeter/index.md': 'other-tools/mentimeter.md'
+        'mentimeter/index.md': 'other-tools/mentimeter/index.md'
         'padlet/index.md': 'other-tools/padlet.md'
         'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
         'readinglist/index.md': 'other-tools/reading-list.md'
