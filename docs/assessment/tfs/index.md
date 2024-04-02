@@ -25,7 +25,7 @@ The video below gives an overview of using TFS as a staff member to support asse
 
     ---
 
-    - [:octicons-arrow-right-24: TFS - marking](/marking.md)
+    - [:octicons-arrow-right-24: TFS - marking](marking.md)
 
 </div>
 
