@@ -185,20 +185,20 @@ nav:
     - other-tools/index.md
     - Tools at a glance: https://bit.ly/yorktools
     - Canvas VLE: other-tools/canvas.md
-    - Mentimeter | polling: 
-      - Overview: other-tools/mentimeter.md
-      - Logging in to Mentimeter: other-tools/mentimeter-logging-in.md
-      - Creating a  presentation: other-tools/mentimeter-creating-a-presentation.md
-      - Closed questions: other-tools/mentimeter-closed-question-types.md
-      - Open questions: other-tools/mentimeter-open-question-types.md
-      - Q&A and comments: other-tools/mentimeter-q_and_a-comments.md
-      - Other question types: other-tools/mentimeter-other-question-types.md
-      - Content slides: other-tools/mentimeter-content-slides.md
-      - University templates: other-tools/mentimeter-university-themes.md
-      - Presenting with Mentimeter: other-tools/mentimeter-presenting.md
-      - Dealing with results: other-tools/mentimeter-results.md
-      - Collaboration: other-tools/mentimeter-collaboration_and_sharing.md
-      - Safe anonymity: other-tools/mentimeter-safe-anonymity.md
+    - Mentimeter | polling:
+      - other-tools/mentimeter/index.md
+      - Logging in to Mentimeter: other-tools/mentimeter/log-in.md
+      - Creating a presentation: other-tools/mentimeter/create-presentation.md
+      - Closed questions: other-tools/mentimeter/question-types-closed.md
+      - Open questions: other-tools/mentimeter/question-types-open.md
+      - Q&A and comments: other-tools/mentimeter/question-types-qa-comments.md
+      - Other question types: other-tools/mentimeter/question-types-other.md
+      - Content slides: other-tools/mentimeter/content-slides.md
+      - University templates: other-tools/mentimeter/uoy-themes.md
+      - Presenting with Mentimeter: other-tools/mentimeter/present.md
+      - Dealing with results: other-tools/mentimeter/results.md
+      - Collaboration: other-tools/mentimeter/collaborate-share.md
+      - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
     - Padlet (pinboards):
       - Getting started with Padlet: other-tools/padlet.md
       - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
