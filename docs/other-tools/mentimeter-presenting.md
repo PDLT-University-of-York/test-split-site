@@ -13,15 +13,15 @@ Add a Mentimeter instructions slide and make this the first slide students see w
 
 ![decorative](images/menti_joining_instructions.png) 
 
-Include a quick ‘warmer’ or a question at the beginning to give your participants the chance to join Menti on their device and check that they can respond successfully (this can be a fun, socially-oriented question or something connected to the subject matter). You can include this after the instructions slide or alternatively use the ‘i’ shortcut key or press the ‘show/hide instructions’ button on the toolbar to display joining instructions on any slide. 
+Include a quick ‘warmer’ or a question at the beginning to give your participants the chance to join Menti on their device and check that they can respond successfully (this can be a fun, socially-oriented question or something connected to the subject matter). You can include this after the instructions slide. Alternatively, you can bring up joining instructions on your warmer question slide using the ‘i’ shortcut key or by pressing the ‘show/hide instructions’ button on the toolbar. 
 
 ![decorative](images/menti_joining_instructions2.png) 
 
-You can also use joining instructions on an introductory content slide to give a reminder to participants on how to join. This shows the instructions in a less intrusive way than the instructions slide, allowing you to include instructions in a more context-specific welcome slide which can be particularly useful for use with participants who are already familiar with Mentimeter. 
+You can also bring up joining instructions on an introductory content slide to give a reminder to participants on how to join. This shows the instructions in a less intrusive way than the instructions slide, allowing you to include instructions in a more context-specific welcome slide which can be particularly useful when participants are already familiar with Mentimeter. 
 
 ![decorative](images/menti_joining_instructions3.png) 
 
-Once your participants have joined the presentation, they should not need to re-join to respond to your subsequent questions so long as these are in a single Mentimeter presentation. Should a participant become disconnected for any reason, you can display the joining instructions again on any slide as shown above.
+Once your participants have joined the presentation, they should not need to re-join to respond to your subsequent questions so long as these are in a single Mentimeter presentation. Should a participant become disconnected for any reason, you can display the joining instructions again on any slide by pressing the ‘i’ shortcut key.
 
 ## Controlling your presentation with 'Mentimote'
 
