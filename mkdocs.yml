@@ -85,12 +85,13 @@ nav:
       - Troubleshooting common issues: help/troubleshooting.md
     - Site structure & design:
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
+      - Standard Ultra site names: ultra/site-name.md
       - Use the Ultra template: ultra/ultra-template.md
       - Personalise site design: ultra/personalise-site-design.md
       - Folders & Learning Modules: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Course staff: ultra/course-staff.md
-      - Site renames: ultra/site-rename.md
+      
     - Content creation:
       # - I want to...: #MAKE PAGE
       - Documents | pages: ultra/documents.md
@@ -268,6 +269,7 @@ extra_javascript:
 plugins:
   - redirects:
       redirect_maps:
+        'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
