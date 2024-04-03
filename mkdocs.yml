@@ -73,8 +73,6 @@ markdown_extensions:
       title: On this page
 
 nav:
-  # - Home: https://vle-support.york.ac.uk/
-  - Testing: testing.md
   - Learn Ultra VLE:
     - ultra/index.md
     - Getting started with Ultra:
@@ -92,7 +90,6 @@ nav:
       - Course image (site banner): ultra/course-image.md
       - Course staff: ultra/course-staff.md
     - Content creation:
-      # - I want to...: #MAKE PAGE
       - Documents | pages: ultra/documents.md
       - Images: ultra/images.md
       - Upload Files: ultra/files.md
@@ -118,7 +115,7 @@ nav:
       - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
-      - Facilitate groupwork: ultra/groupwork.md #MAKE PAGE - WHERE TO GO?
+      # - Facilitate groupwork: ultra/groupwork.md
       - Course Groups: ultra/course-groups.md
       - Discussions: ultra/discussions.md
       - Messages: ultra/messages-tool.md
@@ -154,7 +151,7 @@ nav:
       - Adding Presentation Slides: panopto/add-presentation.md
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contentsx.md
       # - Adding Additional Streams: panopto/addstreams.md
-    - Assessment submissions: panopto/submissions.md
+    # - Assessment submissions: panopto/submissions.md
   - Accessibility:
     - accessibility/index.md
     - Ally accessibility checker: accessibility/ally-accessibility-checker.md
@@ -207,9 +204,9 @@ nav:
     - Reading List: other-tools/reading-list.md
     - System data & analytics: other-tools/analytics.md
     - Xerte | interactive content: other-tools/xerte.md
-  - Training: #SECTION NEEDS FINALISING
+  - Training:
     - training/index.md
-    - Workshops | learn skills: 
+    - Workshops & resources | learn skills: 
       - Training | Ultra Essentials: training/ultra-essentials.md
     - Webinars | share practice: training/webinars.md
     - CMALT | professional development: training/cmalt.md
