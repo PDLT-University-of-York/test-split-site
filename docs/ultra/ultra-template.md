@@ -1,10 +1,9 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Teaching
+    - Key guide - tutors
+    - Accessibility
     - Ultra
-    - Workshop
 ---
 
 # Using the Ultra template
@@ -13,13 +12,13 @@ tags:
 
     Introducing the structure and content of the Ultra module site template and step-by-step guidance on using it to prepare a site.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - The template supports the principles as a whole.
 
-# Structure of template
+## Template structure
 
-The Ultra module site template contains 4 main learning modules:
+Each department anmd school has its own dedicated version of the template. However, The Ultra module site template contains 4 main learning modules:
 
 * **Staff Ultra guides** - Advice on building the site
 * **Assessment** - Pre-built content & placeholders collating all assessment information

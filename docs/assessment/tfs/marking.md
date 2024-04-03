@@ -11,7 +11,7 @@ tags:
 
     **Teaching/marking staff guide**: marking student work, inputting feedback and moderating grades in Turnitin Feedback Studio (TFS).
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 4.3 Essential: Provide marking criteria or other grading policies showing how work is marked.
 

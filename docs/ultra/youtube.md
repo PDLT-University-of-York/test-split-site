@@ -13,7 +13,7 @@ tags:
 
     YouTube videos can be embedded into Documents using the built-in tool in the text editor. These embedded videos can be played without leaving the Document. It is good practice to also add a hyperlink above the embedded YouTube video with a direct link to the website.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
     - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.

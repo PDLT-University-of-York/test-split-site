@@ -13,7 +13,7 @@ tags:
 
     Documents can be created inside Learning Modules and Folders, or created directly within the **Course Content** area. Images and text must be added to a Document to be viewed.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.3 Essential: Provide up-to-date documents in an accepted file format.

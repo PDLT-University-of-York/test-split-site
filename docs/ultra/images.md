@@ -14,7 +14,7 @@ tags:
 
     Images can be added into Documents in or between chunks of text. Images cannot be cropped or resized after being added to a Document, so make sure to add the final version.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 2.3 Essential: Design and images adhere to the UoY Brand.
     - 3.4 Essential: Site and materials content is accessible.

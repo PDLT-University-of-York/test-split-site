@@ -13,7 +13,7 @@ tags:
     In Ultra, **Learning Modules** and **Folders** are the two types of containers you can use to organise course content.
 
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
@@ -86,7 +86,7 @@ Below is an embedded video detailing how to **Create Learning Modules in the Ult
 
     You can choose to add an image to a Learning Module.  This will appear on the left of the module on the course content page, helping to make the site more visually appealing whilst also aiding navigation.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - Section 3: Module materials & site content
     - 2.2 Essential: Materials within sections are clearly organised so content is easy to find.

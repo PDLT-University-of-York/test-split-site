@@ -13,7 +13,7 @@ tags:
 
     This guide covers how to use and set up a Test, and is primarily aimed at **teaching staff**.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
     - 4.1 Essential: The assessment section contains all information about module assessments.

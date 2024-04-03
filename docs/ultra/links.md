@@ -13,7 +13,7 @@ tags:
 
     Links to external websites can be added inside Learning Modules and Folders, or directly to the **Course Content** area. Hyperlinks can be embedded in text.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.

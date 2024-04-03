@@ -126,7 +126,7 @@ Check that site content and materials are accessible, in the right place and vis
 
 ??? essential "2.8 Groups"
 
-    If you’re planning to use Groups within your site (eg. for seminar or project groups), check that these have been set up correctly. See our [guide to Groups](../ultra/groups.md) for more details.
+    If you’re planning to use Groups within your site (eg. for seminar or project groups), check that these have been set up correctly. See our [guide to Groups](../ultra/course-groups.md) for more details.
 
 ## 3. Students can access the site
 For students to access a site, they must be enrolled on the site AND the site must be open for students.

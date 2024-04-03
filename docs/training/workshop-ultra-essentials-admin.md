@@ -33,6 +33,6 @@ To complete editing tasks, you'll need access to an **Ultra sandpit site**. You'
 
 ## Other useful guides
 
-- [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles/)
+- [VLE site design principles](../ultra/site-design-principles.md/)
 - [Key differences between Original and Ultra](https://vle-support.york.ac.uk/ultra/differences-original-ultra)
 - [Groups](https://vle-support.york.ac.uk/ultra/groups/)

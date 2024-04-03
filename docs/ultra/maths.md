@@ -13,7 +13,7 @@ tags:
 
     Adding mathematical content to Ultra VLE sites can be done a number of different ways. Different types of content are best added via different methods.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
 

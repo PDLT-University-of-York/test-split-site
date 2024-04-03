@@ -14,7 +14,7 @@ tags:
     The Text Editor provides many tools to enhance the usability and accessibility of content.
 
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
 

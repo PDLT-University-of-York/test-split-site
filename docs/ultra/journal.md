@@ -14,7 +14,7 @@ tags:
 
     This guide covers how to use and set up a Journal, and is primarily aimed at **teaching staff**.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 4.1 Essential: The assessment section contains all information about module assessments.
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
