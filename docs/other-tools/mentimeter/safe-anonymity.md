@@ -5,7 +5,7 @@
 
      - Minimising the likelihood of inappropriate or offensive comments being added by attending to the learning environment and developing shared ‘rules of engagement’ for anonymous open text.
 
-     - Setting up the mentimeter environment so that if any inappropriate or offensive comments are added, negative impacts can be prevented or minimised.
+     - Setting up the Mentimeter environment so that if any inappropriate or offensive comments are added, negative impacts can be prevented or minimised.
      
      It incorporates suggestions from the following members of staff who are experienced Mentimeter users: Yaprak Tavman and Mathilde Peron (Department of Economics), Thomas Davies and Sally Quinn (Department of Psychology), and Gareth Evans (Department of Biology).
 
