@@ -88,7 +88,7 @@ nav a {
     border-bottom: 0.1rem solid;
     border-radius: 0.5rem 0.5rem 0 0;
     margin-right: 0.1rem;
-    background: var(--md-typeset-kbd-accent-color);
+    background: var(--md-default-bg-color);
 }
 
 .md-typeset .tabbed-labels>label a{
