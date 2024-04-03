@@ -180,7 +180,6 @@ nav:
     - Assessed presentations: assessment/assessed-presentation.md
     - Assessment & LoA: assessment/assessment-loa.md
     - Anon Assign end of life: assessment/anonymous-assignment-eol.md
-    - Staff assessment training: assessment/trainingassessment.md
   - Other Tools:
     - other-tools/index.md
     - Tools at a glance: https://bit.ly/yorktools
@@ -290,6 +289,7 @@ plugins:
         'eassessment/ultratest.md': 'ultra/test.md'
         'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
         'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
+        'eassessment/trainingassessment.md': 'training/index.md'
         'othertools/index.md': 'other-tools/index.md'
         'canvas/index.md': 'other-tools/canvas.md'
         'mentimeter/index.md': 'other-tools/mentimeter/index.md'
