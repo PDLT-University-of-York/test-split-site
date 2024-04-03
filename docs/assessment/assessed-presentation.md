@@ -39,6 +39,8 @@ Workflow:
 3. Students/staff: presentations delivered live in person or online.
 4. Staff: give feedback (and marks for summative) through the submission point.
 
+In person presentation sessions can be recorded for later reference using lecture capture; [contact us](mailto:vle-support@york.ac.uk) to arrange this if needed.
+
 ## Pre-recorded screencast
 
 Remote presentations where students record a screen capture video of them delivering the slides.
