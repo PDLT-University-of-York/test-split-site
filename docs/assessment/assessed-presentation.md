@@ -77,5 +77,5 @@ Workflow:
 
 - [Ultra Assignment: set up](../ultra/assignment-set-up.md)
 - [Ultra Assignment: marking](../ultra/assignment-marking.md)
-- [Turnitin Feedback Studio](/tfs/index.md)
+- [Turnitin Feedback Studio](tfs/index.md)
 - [Group assignments](group-assignment.md)
