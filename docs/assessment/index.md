@@ -14,7 +14,6 @@
     ---
     
     - [:octicons-arrow-right-24: Which assessment tool](which-assessment-tool.md)
-    - [:octicons-arrow-right-24: Tools for formative & self assessment](formative-assessment.md)
     - [:octicons-arrow-right-24: Tools for group assignments](group-assignment.md)
     - [:octicons-arrow-right-24: Tools for assessed presentations](assessed-presentation.md)
 
@@ -23,7 +22,7 @@
     ---
     
     - [:octicons-arrow-right-24: Turnitin Feedback Studio](tfs/index.md)
-    - :octicons-arrow-right-24: Ultra Assignment (see navigation)
+    - [:octicons-arrow-right-24: Ultra Assignment](../ultra/assignment-set-up.md)
     - [:octicons-arrow-right-24: Ultra Test](../ultra/test.md)
 
 </div>

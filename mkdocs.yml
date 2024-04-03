@@ -163,9 +163,6 @@ nav:
   - Assessment:
     - assessment/index.md 
     - Which assessment tool?: assessment/which-assessment-tool.md
-    - Formative & self assessment: assessment/formative-self-assessment.md
-    - Group assignments: assessment/group-assignment.md
-    - Assessed presentations: assessment/assessed-presentation.md
     - TurnItIn Feedback Studio:
       - assessment/tfs/index.md
       - TFS | set up: assessment/tfs/set-up.md
@@ -178,7 +175,9 @@ nav:
       - Ultra Journal: ultra/journal.md
       - Ultra Gradebook: ultra/gradebook.md
       - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
-    - Panopto assessment submissions: panopto/submissions.md
+    # - Panopto assessment submissions: panopto/submissions.md
+    - Group assignments: assessment/group-assignment.md
+    - Assessed presentations: assessment/assessed-presentation.md
     - Assessment & LoA: assessment/assessment-loa.md
     - Anon Assign end of life: assessment/anonymous-assignment-eol.md
     - Staff assessment training: assessment/trainingassessment.md
