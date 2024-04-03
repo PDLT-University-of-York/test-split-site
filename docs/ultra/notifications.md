@@ -1,10 +1,6 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
+    - Communication
     - Ultra
 ---
 
@@ -18,17 +14,12 @@ tags:
 
 ## Video Steps
 
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxxLlZtyWBQ?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Watch this section of our brief video [Blackboard Learn - Navigation](https://youtu.be/gxxLlZtyWBQ?t=88)
 
 
-
 ## Text Steps
-
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
 
 1. On the VLE homepage, click on your name in the left hand navigation panel
 <br> ![Annotated screenshot of the VLE homepage, highlighting the profile section](images/notifications-profile-browser.png) <br>
