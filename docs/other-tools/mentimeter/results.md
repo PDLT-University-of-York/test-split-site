@@ -12,7 +12,7 @@ When you display a Mentimeter presentation, the results can be displayed on the 
 
 ## Using responses to support teaching
 
-Results can be used to guide feedback or further teaching.  They can be used as a start point for discussion in groups, or for individual reflection by, for example, askings students to briefly compare their own responses with others or to identify responses from others that meet particular criteria. 
+Results can be used to guide feedback or further teaching.  They can be used as a start point for discussion in groups, or for individual reflection by, for example, asking students to briefly compare their own responses with others or to identify responses from others that meet particular criteria. 
 
 From the teacher perspective, further insight can be gained by accessing the results page to view more detailed summaries of responses or to [download the responses as an excel file](https://help.mentimeter.com/en/articles/410566-export-results-to-excel). This shows (anonymously) how individual students responded to the questions and can highlight common misconceptions.
 

@@ -11,7 +11,7 @@
 
 ## Quiz competition
 
-[Quiz competition](https://help.mentimeter.com/en/articles/410463-how-to-create-a-quiz-competition) questions allow you to introduce a competitive element by allocating scores to individuals or groups for correct answers to a series of questions. You can also allocate extra points for quicker answers. The scores are then displayed in a leaderboard with updates after each question. You can use multiple-choice and short answer questions in quiz cometituions.
+[Quiz competition](https://help.mentimeter.com/en/articles/410463-how-to-create-a-quiz-competition) questions allow you to introduce a competitive element by allocating scores to individuals or groups for correct answers to a series of questions. You can also allocate extra points for quicker answers. The scores are then displayed in a leaderboard with updates after each question. You can use multiple-choice and short answer questions in quiz competitions.
 
 ## Pin on image
 

@@ -4,12 +4,12 @@ tags:
     - Other tools
 ---
 
-# Integrating Mentimeter questions into presentations
+# Asynchronous use of Mentimeter
 
 !!! Summary
     How to switch to 'survey mode' to use Mentimeter for asynchronous interaction to make all the question types and features available in Mentimeter available to support online learning and independent study between live sessions.
 
-You can change your Mentimeter presentation settings to make a presentation available for students to respond asynchronously in their own time by [switching from ‘Presentaion mode’ to ‘survey mode’](https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation).  You can then [share the voting link](https://help.mentimeter.com/en/articles/410895-let-your-audience-connect-to-your-presentation-via-a-link) with them, for example by [creating a link](../ultra/links.md) in your VLE site.
+You can change your Mentimeter presentation settings to make a presentation available for students to respond asynchronously in their own time by [switching from ‘Presentation mode’ to ‘survey mode’](https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation).  You can then [share the voting link](https://help.mentimeter.com/en/articles/410895-let-your-audience-connect-to-your-presentation-via-a-link) with them, for example by [creating a link](../ultra/links.md) in your VLE site.
 
 If you are sharing the presentation online, for example in the VLE, you can add this link (see the following guidance page for information on [how to add links in the VLE](../ultra/links.md) if needed).
 
