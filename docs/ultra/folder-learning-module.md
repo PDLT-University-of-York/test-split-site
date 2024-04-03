@@ -91,7 +91,7 @@ Below is an embedded video detailing how to **Create Learning Modules in the Ult
     - Section 3: Module materials & site content
     - 2.2 Essential: Materials within sections are clearly organised so content is easy to find.
 
-<br> ![Learning module with image on the left hand side](images/Learning_module_image_final.png)
+<br> ![Learning module displayed on Course Content area with image to left of item name](images/folder-learning-module-image-example.png)
 
 ### Video Steps
 

@@ -20,6 +20,14 @@ tags:
 
 ## Quick Start Guide
 
+The Course Image is a site banner image. It appears in two locations:
+
+- Course List: appears in the tile view of the module site 
+- Within the site: a banner across the main 'Content' view of the site.
+
+![Decorative](images/course-image-example.png)
+
+You can change the Course Image supplied with your site template to something related to your module.
 
 ### Video Steps
 
