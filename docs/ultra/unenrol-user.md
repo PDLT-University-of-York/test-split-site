@@ -14,7 +14,7 @@ tags:
 
 These methods can be used to unenrol a user that was manually enrolled on the site.
 
-If a user was automatically [enrolled through a Group user](/ultra/enrol-cohort) (this applies to most students), extra steps are needed to prevent them being re-enrolled again after they are removed. Please contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to unenrol these users. 
+If a user was automatically [enrolled through a Group user](enrol-cohort.md) (this applies to most students), extra steps are needed to prevent them being re-enrolled again after they are removed. [Contact us](mailto:vle-support@york.ac.uk) to unenrol these users. 
 
 ### Remove a user and delete their data
 
@@ -53,4 +53,4 @@ In the relevant Learn Ultra site:
 ## Troubleshooting 
 
 - Error “**Cannot remove Instructor users from course. Only System Administrator users can remove Instructor users**”: change the user's role from Instructor to Student before removing them.
-- **User reappears after being unenrolled**: they have likely been automatically reinstated through a group user enrolment. Contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to unenrol these users.
+- **User reappears after being unenrolled**: they have likely been automatically reinstated through a group user enrolment. [Contact us](mailto:vle-support@york.ac.uk) to unenrol these users. 

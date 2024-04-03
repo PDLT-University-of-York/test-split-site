@@ -35,7 +35,7 @@ Most question types are automatically marked and so don't need input from teachi
 
     You **must** discuss with the Digital Education Team well in advance if you want to run a summative and/or synchronous exam (in person or online) using Ultra Test.
     
-    [Contact us](/help/contact-us) to arrange a consultation.
+    [Contact us](mailto:vle-support@york.ac.uk) to arrange a consultation.
 
 ## Robust assessments using Test
 

@@ -29,7 +29,7 @@ Numerous group users can be enrolled on the same VLE site (eg. for sites shared 
 
 This synchronisation is automatic, but the group users themselves must be manually enrolled on the relevant sites by an Instructor or a DET team member.
 
-Remember: [a site must be open to students](https://vle-support.york.ac.uk/ultra/site-availability/) for them to be able to access it once enrolled.
+Remember: [a site must be open to students](site-availability.md) for them to be able to access it once enrolled.
 
 ## Enrol students via module code ("SITS Group User")
 
@@ -92,7 +92,7 @@ To enrol a people group user inside the relevant Learn Ultra site:
 Group names are truncated by the Learn system which can make it hard to identify the one you need. To help find the correct group, you can:
 
 1. **Use a narrow browser window**: this may show all/more of the group name.
-2. **Check in the Class Register**: select the group(s) that you think is correct, save and check the group name(s) in the Class Register. If it isn't the correct group, click three dots icon > Member information > dustbin icon to [unenrol the group](/ultra/unenrol-user) and try again.
+2. **Check in the Class Register**: select the group(s) that you think is correct, save and check the group name(s) in the Class Register. If it isn't the correct group, click three dots icon > Member information > dustbin icon to [unenrol the group](unenrol-user.md) and try again.
 3. **Search in an Original site**: On any Original site (2022/23 or earlier) that you have Instructor access to, click> Users and Groups > Users > Enrol User > Find Users to Enrol > Browse. 
 </br> In the pop-up, choose Last Name, Contains, and type the cohort keyword. Copy the username for the correct group (something like ‘group.people.dept_00##.atree_##’) and then paste this in at step 3 above.
 

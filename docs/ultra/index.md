@@ -59,7 +59,7 @@ Start with these key guides:
 
     On-demand resources and live sessions
     
-    - [:octicons-arrow-right-24: Ultra Essentials](/training/ultra-essentials)
+    - [:octicons-arrow-right-24: Ultra Essentials](../training/ultra-essentials.md)
 
 </div>
 
@@ -67,7 +67,7 @@ To find other Ultra guides:
 
 - explore our guide topics in the navigation menu
 - search for specific content with the search box (top right)
-- browse the [Site index](/help/site-index) to see all guides listed by topic tags
+- browse the [Site index](../help/site-index.md) to see all guides listed by topic tags
 
 ## Blog: Ultra
 

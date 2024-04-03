@@ -64,5 +64,5 @@ We have placeholders in the module **Information & Assessment** sections these a
 The **Reading List tool** allows students to access all readings you have setup. If you need to add readings to the tool, please find more advice or help implementing the reading lists on the [ reading list guide page](https://vle-support.york.ac.uk/other-tools/reading-list/). 
 
 
-The **Panopto LTI tool** allows you to access replays of lecture capture recordings and record videos for the module site. More advice on how to use panopto can be found at the [panopto guide page](\panopto).
+The **Panopto LTI tool** allows you to access replays of lecture capture recordings and record videos for the module site. More advice on how to use panopto can be found at the [panopto guide page](../panopto/index.md).
 

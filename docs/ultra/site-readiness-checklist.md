@@ -33,7 +33,7 @@ Firstly, make sure that you and other teaching staff have access to the site.
 
 ??? essential "1.1 The site has been created and you have access"
 
-    - If you’re enrolled on a site, find it in your Course list by searching for the SITS code and/or module name. You can Favourite the site to pin it to the top of your Course list. See our [accessing Courses guide for more details](access-courses.md)
+    - If you’re enrolled on a site, find it in your Course list by searching for the SITS code and/or module name. You can Favourite the site to pin it to the top of your Course list. See our [accessing sites guide for more details](access-sites.md)
     - If you can’t find the site in your Course list, contact your departmental administrator or professional support team to check that the site exists and/or enroll you. These teams generally have access to all of a department’s sites.
 
 ??? essential "1.2 Other module teaching staff have access"

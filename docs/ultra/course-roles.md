@@ -13,7 +13,7 @@ tags:
 
 ## Roles available
 
-If you manually [enrol a user](/ultra/enrol-user) on your site (eg. a GTA assisting in your module), you will need to select an appropriate role. Usually staff are given the Instructor role, but there are alternatives if that is not suitable.
+If you manually [enrol a user](enrol-user.md) on your site (eg. a GTA assisting in your module), you will need to select an appropriate role. Usually staff are given the Instructor role, but there are alternatives if that is not suitable.
 
 There are six main roles available on Learn Ultra, summarised below from the most to the least permissive: 
 
@@ -36,6 +36,6 @@ For more information on each Role's access level and what they can do, see [our 
       **Don't give an individual the Guest role**. The Guest role is not available for individual users in Ultra sites, so users manually assigned this role will not be able to access a site.
 
 
-The Guest role is used for [automatic enrolments through cohort user groups](/ultra/enrol-cohort) (aka "SITS Group Users" and "People Group Users"), so you might see 'Guest' in your class register - this is correct!
+The Guest role is used for [automatic enrolments through cohort user groups](enrol-cohort.md) (aka "SITS Group Users" and "People Group Users"), so you might see 'Guest' in your class register - this is correct!
 
 These user groups automatically pull user data from SITS and enrol individual users. For example, this is how students are enrolled on module sites.

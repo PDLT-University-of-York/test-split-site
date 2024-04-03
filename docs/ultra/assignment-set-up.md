@@ -34,7 +34,7 @@ The Assignment tool does techncally allow anonymous submissions, however **we do
 1. be turned off with a single button click, and can't be turned back on
 2. limit the marking tools and filtering options available
 
-If you want to run an anonymous summative assignment, see our [TurnItIn Feedback Studio set up guide](/assessment/turnintin-feedback-studio-set-up).
+If you want to run an anonymous summative assignment, see our [TurnItIn Feedback Studio set up guide](../assessment/tfs/set-up.md).
 
 ## Submission points
 

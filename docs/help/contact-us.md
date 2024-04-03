@@ -33,11 +33,11 @@ If you're not sure how to do something using one of our tools:
 
 - explore our guide topics in the navigation menu
 - search for specific content with the search box (top right)
-- browse the [Site index](/help/site-index) to see all guides listed by topic tags
+- browse the [Site index](site-index.md) to see all guides listed by topic tags
 
 ### Troubleshooting
 
-Many general errors or issues with our systems (particularly **Learn Ultra** and **Panopto**) can be easily and quickly fixed by following standard [troubleshooting steps](/help/troubleshooting) yourself.
+Many general errors or issues with our systems (particularly **Learn Ultra** and **Panopto**) can be easily and quickly fixed by following standard [troubleshooting steps](troubleshooting.md) yourself.
 
 ## Help from other teams
 

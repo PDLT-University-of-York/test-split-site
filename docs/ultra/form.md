@@ -23,11 +23,11 @@ For example, Forms could be be used to collect:
 - difficulties/topics to focus on in review sessions
 
 !!! Warning
-    Although it is possible, **don't use a Form as a graded assessment** - please [use the Test tool](/ultra/test) instead.
+    Although it is possible, **don't use a Form as a graded assessment** - please [use the Test tool](test.md) instead.
 
 !!! tip "Alternative tools"
     
-    [Padlet](/other-tools/padlet) or [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can be used in a similar way, but allow anonymous responses.
+    [Padlet](../other-tools/padlet.md) or [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can be used in a similar way, but allow anonymous responses.
 
 ## Form content
 

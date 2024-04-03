@@ -43,7 +43,7 @@ What does a good site look like?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdNYhUzYgIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Video - Part 1: VLE Site Design Principles](https://youtu.be/hdNYhUzYgIc)
 
-You can also view the full [VLE Site Design Principles guide](/ultra/site-design-principles)
+You can also view the full [VLE Site Design Principles guide](../ultra/site-design-principles.md)
 
 ### Part 2: Introduction to Ultra
 
@@ -80,7 +80,7 @@ This section particularly focuses on using content from Original sites (22/23 or
 [Ultra Essentials Part 4C - Reusing Module Content](https://youtu.be/7voZAnYNvhU)
 
 ### Full Workshop Recording:
-Watch a full workshop covering parts 1,2,3 and 4 via panpoto (you maybe required to sign in to view this).
+Watch a full workshop covering parts 1,2,3 and 4 via Panpoto (UoY only, you maybe required to sign in to view this).
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0d8003bb-20ad-404f-b364-b09800e1de01&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="315" width="560" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
-[Video - Full Workshop: VLE Ultra Essentials]
+[Video - Full Workshop: VLE Ultra Essentials](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0d8003bb-20ad-404f-b364-b09800e1de01)

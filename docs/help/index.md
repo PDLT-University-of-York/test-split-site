@@ -12,7 +12,7 @@
     ---
     
     - :octicons-arrow-right-24: Search this site for relevant guides
-    - [:octicons-arrow-right-24: Site index](site-index.md) (guides listed by topic)
+    - [:octicons-arrow-right-24: Site index](site-index.md) (guides listed by topic tag)
     - [:octicons-arrow-right-24: Troubleshoot common issues](troubleshooting.md)
 
 -   **:material-help-circle-outline: Get help from us**
