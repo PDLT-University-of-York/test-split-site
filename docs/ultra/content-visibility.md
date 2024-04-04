@@ -28,7 +28,7 @@ To support this, make sure that module materials are available in advance - we r
 
 For a single content item:
 
-1. Hover over the current visibility status (e.g. **Hidden from students**) of the content item, then click the arrow.
+1. Click the current visibility status (e.g. **Hidden from students**) of the content item to open the drop-down options.
 2. Select the required visibility option: Visible to students, Hidden from students, Release conditions <br> ![Decorative](images/content-visibility-options.png)
 
 !!! Warning
