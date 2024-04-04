@@ -26,6 +26,6 @@ This means that:
 
 ## Restoring access
 
-If required, we can restore full or partial VLE access for the student to access module content and make submissions while they are on LoA, or for staff to be able to view and mark work already submitted. [Contact us](../help/contact-us.md) to arrange this.
+If required, we can restore full or partial VLE access for the student to access module content and make submissions while they are on LoA, or for staff to be able to view and mark work already submitted. [Contact us](mailto:vle-support@york.ac.uk) to arrange this.
 
 For more details, see [Leave of Absence (LoA) and how it can impact submission and marking](https://docs.google.com/document/d/1gLyAEIMEfRzzzN2uSot_wKR9AkiHBVu-bxCY6gt5y68/edit#heading=h.kwjc6mnxsx6i).
