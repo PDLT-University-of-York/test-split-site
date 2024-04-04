@@ -28,7 +28,7 @@ The Ultra module site template has a pre-built overall structure:
 - **Assessment**: Pre-built content & placeholders collating all assessment information. All assessment information for the site must be added to this section.
 - **Module information**: Placeholders for key module information (module overview, staff contacts etc.) and pre-built departmental information. In some departments, this may be separated into distinct module and departmental sections.
 - **Module materials**: Containers for you to add your module content to (slides, quizzes, Padlets etc.). This could be a single container, or separate containers for each week/part of the module (see below).
-- **Reading List**: an LTI link to the [Reading List](..other-tools/reading-list.md) tool. The Reading List must be used to provide all set  readings for the module.
+- **Reading List**: an LTI link to the [Reading List](../other-tools/reading-list.md) tool. The Reading List must be used to provide all set  readings for the module.
 - **Panopto Replay content**: an LTI link to the Replay Lecture Capture content area for lecture capture recordings.
 
 There are small differences across Department- and School-specific templates, particularly in terms of how these components are organised, but each template has the same broad structure.
