@@ -1,18 +1,18 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Administration
+    - Key guide - tutors
     - Ultra
 ---
+
+!!! Note
+
+    This guide will be updated for the 2024/25 academic year.
 
 # Copying content
 
 !!! Summary
 
     Content items and containers can be copied within Ultra sites and also across different Ultra sites.
-
-
 
 ## Video Steps
 
