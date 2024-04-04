@@ -18,6 +18,12 @@ Items in the Course Content area can be set to **Visible to students** or **Hidd
 
 You can check that items are shown or hidden correctly using the Student Preview tool.
 
+## Content visibility and accessibility
+
+A key accessibility requirement is that students have sufficient time to use materials to prepare for a session, particularly if they use any assistive tools. For example, a dyslexic student may need to read lecture slides in advance to help them follow the session.
+
+To support this, make sure that module materials are available in advance - we recommend **at least one week before the session**.
+
 ## Change content visibility
 
 For a single content item:
