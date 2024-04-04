@@ -118,7 +118,7 @@ The learning module image is automatically marked as decorative, which hides the
 
 !!! Warning
 
-    You must not use copyrighted material when creating your site’s course image.
+    You must not use copyrighted material for site images.
 
 Images should be high quality: use the [University’s photo library](https://brand.york.ac.uk/account/dashboard/) or [Unsplash.com](https://unsplash.com/) to source copyright-free images.
 
