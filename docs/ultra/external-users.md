@@ -13,7 +13,7 @@ tags:
 
 Different settings are required depending on whether you want your external user to only access the VLE, or to access the VLE but also have access to other IT systems such as email. 
 
-!!! Note
+!!! Warning
 
     This document details the process as best we understand it, but as we are not experts on the People Database (which is where most of the process occurs) it is possible that our guidance here is not complete. If you are a People Database Administrator and you’re aware that the below information is incorrect or unclear do please contact us to let us know.
 

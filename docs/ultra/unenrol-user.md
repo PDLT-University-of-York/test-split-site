@@ -10,13 +10,13 @@ tags:
 
     Users can be manually unenrolled from a Learn Ultra course or organisation. There are different methods depending on whether their data should be deleted or retained.
 
-## Quick Start Guide
+## Overview
 
 These methods can be used to unenrol a user that was manually enrolled on the site.
 
 If a user was automatically [enrolled through a Group user](enrol-cohort.md) (this applies to most students), extra steps are needed to prevent them being re-enrolled again after they are removed. [Contact us](mailto:vle-support@york.ac.uk) to unenrol these users. 
 
-### Remove a user and delete their data
+## Remove a user and delete their data
 
 !!! Warning
 
@@ -34,7 +34,7 @@ In the relevant Learn Ultra site:
 ![decorative](images/unenrol-user-remove-member.png)
 6. When prompted, click **remove member**. **This cannot be undone**.
 
-### Remove a user's access but retain their data
+## Remove a user's access but retain their data
 
 The user won't be able to access the course, but any marks, submissions or contributions will remain in the site.
 
