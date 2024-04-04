@@ -112,7 +112,7 @@ nav:
       - Edit, move & delete content: ultra/edit-delete-move-content.md
       - Batch edit: ultra/batch-edit.md
       - Copy content: ultra/copy-content.md
-      - Manage content in shared sites: ultra/content-shared-sites.md
+      # - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
       # - Facilitate groupwork: ultra/groupwork.md

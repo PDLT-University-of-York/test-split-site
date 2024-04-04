@@ -1,6 +1,6 @@
 ---
 tags:
-    - Key guide - tutors
+    - Key guide - teaching
     - Accessibility
     - Ultra
     - Panopto

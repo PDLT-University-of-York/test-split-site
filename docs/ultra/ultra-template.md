@@ -1,7 +1,7 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Key guide - tutors
+    - Key guide - teaching
     - Accessibility
     - Ultra
 ---
