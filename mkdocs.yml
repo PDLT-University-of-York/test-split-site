@@ -152,11 +152,11 @@ nav:
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contentsx.md
       # - Adding Additional Streams: panopto/addstreams.md
     # - Assessment submissions: panopto/submissions.md
-  - Accessibility:
-    - accessibility/index.md
-    - Ally accessibility checker: accessibility/ally-accessibility-checker.md
-    - Accessible Ultra content: accessibility/accessible-ultra-content.md
-    - Accessible maths: accessibility/accessible-maths.md
+  # - Accessibility:
+  #   - accessibility/index.md
+  #   - Ally accessibility checker: accessibility/ally-accessibility-checker.md
+  #   - Accessible Ultra content: accessibility/accessible-ultra-content.md
+  #   - Accessible maths: accessibility/accessible-maths.md
   - Assessment:
     - assessment/index.md 
     - Which assessment tool?: assessment/which-assessment-tool.md

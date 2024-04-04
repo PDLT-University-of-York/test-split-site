@@ -1,14 +1,8 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
----
-
 # Accessible Ultra content
+
+!!! Warning "Under construction"
+
+    Page coming soon
 
 !!! Summary
 
