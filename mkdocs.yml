@@ -90,20 +90,21 @@ nav:
       - Course image (site banner): ultra/course-image.md
       - Course staff: ultra/course-staff.md
     - Content creation:
-      - Documents | pages: ultra/documents.md
-      - Images: ultra/images.md
+      - Document | pages: ultra/documents.md
+      - Link: ultra/links.md
+      - Test | quizzes & exams: ultra/test.md
+      - Assignment | set up: ultra/assignment-set-up.md
+      - Assignment | marking: ultra/assignment-marking.md
+      - Form | survey: ultra/form.md
+      - Journal | reflection: ultra/journal.md
+      - Discussion: ultra/discussions.md
       - Upload Files: ultra/files.md
-      - Links: ultra/links.md
+      - Images: ultra/images.md
       - Video | Panopto: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
       - Embed content: ultra/embedded-content.md
       - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      - Assignment | set up: ultra/assignment-set-up.md
-      - Assignment | marking: ultra/assignment-marking.md
-      - Test | quizzes & exams: ultra/test.md
-      - Form | survey: ultra/form.md
-      - Journal | reflection: ultra/journal.md
       # - Gradebook: ultra/gradebook.md
       # - Accessible Ultra content: accessibility/accessible-ultra-content.md
     - Content management:
@@ -117,7 +118,7 @@ nav:
       - Announcements: ultra/announcements.md
       # - Facilitate groupwork: ultra/groupwork.md
       - Course Groups: ultra/course-groups.md
-      - Discussions: ultra/discussions.md
+      - Discussion: ultra/discussions.md
       - Messages: ultra/messages.md
       - Notifications: ultra/notifications.md
     - Site access & users: 
