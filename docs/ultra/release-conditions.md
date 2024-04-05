@@ -1,6 +1,6 @@
 ---
 tags:
-    - Key guide - admins
+    - Key guide - admin
     - Ultra
 ---
 

@@ -1,4 +1,4 @@
-# TurnItIn Feedback Studio
+# TurnItIn Feedback Studio (TFS)
 !!! Summary
 
     The majority of assessments in 2023/24 will use TurnItIn Feedback Studio (TFS) to collect student submissions, manage the marking process and return feedback to students, all through the Learn Ultra VLE.
@@ -18,14 +18,14 @@ The video below gives an overview of using TFS as a staff member to support asse
 
     ---
     
-    - [:octicons-arrow-right-24: TFS - set up](../assessment/tfs/set-up.md)
-    - [:octicons-arrow-right-24: TFS & E:vision - release feedback & marks](../assessment/tfs/feedback-marks.md)
+    - [:octicons-arrow-right-24: TFS - set up](../../assessment/tfs/set-up.md)
+    - [:octicons-arrow-right-24: TFS & E:vision - release feedback & marks](../../assessment/tfs/feedback-marks.md)
 
 -  **For markers**
 
     ---
 
-    - [:octicons-arrow-right-24: TFS - marking](../assessment/tfs/marking.md)
+    - [:octicons-arrow-right-24: TFS - marking](../../assessment/tfs/marking.md)
 
 </div>
 

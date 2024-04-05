@@ -1,7 +1,7 @@
 ---
 tags:
     - Key guide - teaching
-    - Key guide - admins
+    - Key guide - admin
     - Accessibility
     - Assessment
     - Ultra

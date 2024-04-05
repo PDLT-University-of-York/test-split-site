@@ -26,9 +26,9 @@ Further instructions on this with screenshots are available on Mentimeter’s [s
 
 If you share the presentation link with participants, they will be able to use it to open the presentation and navigate independently through the slides and view any existing results.
 
-If you are sharing the presentation online, for example in the VLE, you can add this link (see the following guidance page for information on [how to add links in the VLE](../ultra/links.md) if needed).
+If you are sharing the presentation online, for example in the VLE, you can add this link (see the following guidance page for information on [how to add links in the VLE](../../ultra/links.md) if needed).
 
-You can also copy an embed code which can be used to display the presentation in a frame on the page. The following [embedding content](../ultra/embedded-content.md) guidance page shows you how to do this in the VLE. 
+You can also copy an embed code which can be used to display the presentation in a frame on the page. The following [embedding content](../../ultra/embedded-content.md) guidance page shows you how to do this in the VLE. 
 
 When embedding the presentation on a VLE page, it is necessary to provide the link so that it can be viewed in full screen if needed. This can be added above the embed by choosing the ‘add content options’ and using the text editing tools to add a hyperlink (see example below).
 
