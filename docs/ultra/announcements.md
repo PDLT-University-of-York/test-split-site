@@ -8,7 +8,7 @@ tags:
 
 !!! Summary
 
-    Announcements are a one-way communication channel for urgent, time-sensitive or important updates.
+    Announcements are a one-way communication channel for urgent, time-sensitive or important updates sent to all users.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -17,7 +17,7 @@ tags:
 
 ## Overview
 
-Use Announcements to send urgent, time-sensitive or important updates to all users on the site. These can be scheduled in advance.
+Use Announcements to send urgent, time-sensitive or important updates to **all users** on the site. These can be scheduled in advance.
 
 Announcements are useful for information such as:
 

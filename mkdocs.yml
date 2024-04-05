@@ -118,7 +118,7 @@ nav:
       # - Facilitate groupwork: ultra/groupwork.md
       - Course Groups: ultra/course-groups.md
       - Discussions: ultra/discussions.md
-      - Messages: ultra/messages-tool.md
+      - Messages: ultra/messages.md
       - Notifications: ultra/notifications.md
     - Site access & users: 
       - Site availability: ultra/site-availability.md
@@ -275,6 +275,7 @@ plugins:
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
+        'ultra/messages-tool.md': 'ultra/messages.md'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/ultra-essentials.md'
         'ultra/international-access.md': 'help/international-access.md'
         'contact-us/index.md': 'help/contact-us.md'
