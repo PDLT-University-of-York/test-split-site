@@ -1,5 +1,6 @@
 ---
 tags:
+    - Key guide - admin
     - Assessment
     - Ultra
 ---
