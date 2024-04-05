@@ -47,7 +47,7 @@ Journals listed as either a formative or summative assessment in your module cat
 2. Give the Journal a descriptive **name** at the top left.
 3. Add a **prompt** with instructions.
 4. Choose whether the Journal is graded and adjust other settings as needed.
-5. Set the test as **Visible to students** or specify  **Release conditions** in the top right.
+5. Set the Journal as **Visible to students** or specify **Release conditions** in the top right.
 
 ![decorative](images/journal-create.png)
 
