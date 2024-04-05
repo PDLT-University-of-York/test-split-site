@@ -31,7 +31,7 @@ The navigation menu below the site name gives access to a number of course tools
 | [Announcements](../ultra/announcements.md)| View or create an announcement email to all site users. |
 | [Discussions](../ultra/discussions.md) | Quick access all of the course's discussion boards. |
 | [Gradebook](../ultra/gradebook.md) | Grade information and access to submissions for all of the markable items in a course. |
-| [Messages](../ultra/messages-tool.md) | Send private messages to individual students or groups (off by default, but you can turn on). Students can't reply to Messages. |
+| [Messages](../ultra/messages.md) | Send private messages to individual students or groups (off by default, but you can turn on). Students can't reply to Messages. |
 | Analytics | Not currently used at York |
 | [Groups](../ultra/course-groups.md) |Use Groups to manage teaching, administration and assessment activities in your course |
 | Student Preview | View the course as it appears to a student |
