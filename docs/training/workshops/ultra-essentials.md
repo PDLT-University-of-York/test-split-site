@@ -43,7 +43,7 @@ What does a good site look like?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdNYhUzYgIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Video - Part 1: VLE Site Design Principles](https://youtu.be/hdNYhUzYgIc)
 
-You can also view the full [VLE Site Design Principles guide](../ultra/site-design-principles.md)
+You can also view the full [VLE Site Design Principles guide](../../ultra/site-design-principles.md)
 
 ### Part 2: Introduction to Ultra
 

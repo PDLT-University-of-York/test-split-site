@@ -131,7 +131,7 @@ Use question pools to present a random subset of questions so that each student 
 
 ## Accessible Test Content
 
-As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](../ultra/accessible-ultra-content.md), but it is **particularly** important that you take into consideration accessiblility when using tables, images or mathematical content in test questions.
+As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](../accessibility/accessible-ultra-content.md), but it is **particularly** important that you take into consideration accessiblility when using tables, images or mathematical content in test questions.
 
 - Guidance on creating accessible images, table and maths can be found on [our "Ultra Accessibility" VLE page](https://vle.york.ac.uk/ultra/courses/_106795_1/outline). (Don't have access? [Contact us](mailto:vle-support@york.ac.uk)).
 - [Examples of quality alternative text on graphs, diagrams and other complex images can be found here](https://www.routledge.com/our-customers/authors/publishing-guidelines/accessible-content/general-samples).

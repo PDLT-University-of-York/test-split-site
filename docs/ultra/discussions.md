@@ -12,7 +12,7 @@ tags:
     Discussions let students communicate asynchronously with each other and teaching staff on a particular topic.
 
 !!! Warning
-    It's not currently possible to **subscribe** for notifications of when posts are made. However, this feature will be available in the future (expected some time later in 2024). For now we recommend using a [Padlet](../padlet/padlet-discussion-alternative.md) board for discussions you need to subscribe to.
+    It's not currently possible to **subscribe** for notifications of when posts are made. However, this feature will be available in the future (expected some time later in 2024). For now we recommend using a [Padlet](../other-tools/padlet.md) board for discussions you need to subscribe to.
 
 ## Create a discussion
 
@@ -66,7 +66,7 @@ Posts will not automatically be anonymous, but users will have the *option* to m
 
 ![Decorative](images/discussions-anonymous-post.png)
 
-You can also use [Padlet](../padlet/padlet-discussion-alternative.md) for anonymous discussions.
+You can also use [Padlet](../other-tools/padlet.md) for anonymous discussions.
 
 ## Using discussions to support teaching
 

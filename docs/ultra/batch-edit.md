@@ -39,4 +39,4 @@ Batch Edit can be especially useful to update and prepare content for a new acad
 
 You can also watch BlackBoard Help's demonstration of Batch Edit:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJ0UxI-Qx_E" title="YouTube video Batch Edit in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Batch Edit - Bb Help [YouTube]]((https://www.youtube.com/watch?v=XJ0UxI-Qx_E))
+[Batch Edit - Bb Help [YouTube]](https://www.youtube.com/watch?v=XJ0UxI-Qx_E)

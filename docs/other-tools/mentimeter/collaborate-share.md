@@ -4,11 +4,11 @@
 
 ## Collaborating
 
- If you would like to give edit access to your Mentimeter presentations, you can do so using the information on the [collaborate on presentations](https://help.mentimeter.com/en/articles/5422663-collaborate-on-presentations-with-friends-and-colleagues) Mentimeter help page.  You can only share with others who have a [University Mentimeter account](mentimeter-logging-in.md), or who otherwise have a pro or enterprise Mentimeter licence.   Everyone who you have invited as editors can edit and work on the same presentation at the same time. 
+ If you would like to give edit access to your Mentimeter presentations, you can do so using the information on the [collaborate on presentations](https://help.mentimeter.com/en/articles/5422663-collaborate-on-presentations-with-friends-and-colleagues) Mentimeter help page.  You can only share with others who have a [University Mentimeter account](log-in.md), or who otherwise have a pro or enterprise Mentimeter licence.   Everyone who you have invited as editors can edit and work on the same presentation at the same time. 
 
 ## Giving others a copy of your presentation 
 
-To give others a copy of your existing presentations that they can use in their own Mentimeter account, you can [share the presentation results](mentimeter-results.md) setting it to 'Link to results - Anyone with the link can access'.  When a logged-on user accesses the link, they see the results view and get a 'copy to your own account' option. Once copied, they can then edit and use their own copy in their own account as normal. 
+To give others a copy of your existing presentations that they can use in their own Mentimeter account, you can [share the presentation results](results.md) setting it to 'Link to results - Anyone with the link can access'.  When a logged-on user accesses the link, they see the results view and get a 'copy to your own account' option. Once copied, they can then edit and use their own copy in their own account as normal. 
 
 ![decorative](images/collaborate-share-copy-to-your-account.png)
 

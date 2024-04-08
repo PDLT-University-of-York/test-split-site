@@ -19,4 +19,4 @@ You can enable [chat](https://help.mentimeter.com/en/articles/4194716-allow-comm
 
 !!! Warning
      By default, Mentimeter is completely anonymous.  For strategies to reduce the likelihood of any misuse of anonymous word cloud or open-ended questions, and to limit the impact of any inappropriate or offensive responses, please see the following page:
-     [Using open text responses safely and dealing with inappropriate or offensive posts](mentimeter-safe-anonymity.md).
+     [Using open text responses safely and dealing with inappropriate or offensive posts](safe-anonymity.md).

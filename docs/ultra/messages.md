@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-Messages are similar to [Announcements](../ultra/announcements/), but can be **targeted to specific users or groups**. Students can't reply to Messages or create a new Message themselves.
+Messages are similar to [Announcements](../ultra/announcements.md), but can be **targeted to specific users or groups**. Students can't reply to Messages or create a new Message themselves.
 
 Messages are turned off by default, but you can choose to turn them on for your site.
 
