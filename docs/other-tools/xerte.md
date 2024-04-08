@@ -26,7 +26,7 @@ There are two main ways to use Xerte objects:
     Great for integrated or flipped learning resources, such as preparation or review tasks.
 
     [Example slide deck Xerte: Critical reading guide](https://xerte.york.ac.uk/play.php?template_id=1746)
-    ![MCQ quiz within a slides-stlye Xerte object](images/xerte-quiz.png)
+    </br>![MCQ quiz within a slides-stlye Xerte object](images/xerte-quiz.png)
 
 - As a **simple web page** (Bootstrap type)
 
@@ -36,7 +36,7 @@ There are two main ways to use Xerte objects:
     Great for standalone resources or presenting large amounts of content, such as semester-long workbooks or guides.
 
     [Example webpage Xerte: Achaeology Using ArcGis Pro workbook](https://xerte.york.ac.uk/play.php?template_id=1267)
-    ![Webpage style Xerte workbook with section and navigation](images/xerte-bootstrap.png)
+    </br>![Webpage style Xerte workbook with section and navigation](images/xerte-bootstrap.png)
 
 </div>
 
@@ -66,7 +66,7 @@ Xerte allows very flexible content presentation:
 Xerte offers various ways to integrate media with text content, including:
 
 - image/audio slideshow
-- thumbnail image & text carosel
+- thumbnail image & text carousel
 - media synched with text
 
 ### Maths content
