@@ -33,4 +33,4 @@ The latest offerings include:
 - [Neuroscience Based Learning: Strategies for making your content stick](https://academy.mentimeter.com/courses/neuroscience-based-learning)
 - [Inclusive teaching: Strategies for engaging all students](https://academy.mentimeter.com/courses/inclusive-teaching-strategies-for-engaging-all-students)
 
-You can access these short courses at your own pace, engage with example questions and presentations, and copy these resources into your own Mentimeter account to adapt and use with your own students. 
+You can access these short courses at your own pace, engage with example questions and presentations, and copy the presentations used into your own Mentimeter account to adapt and use with your own students. 

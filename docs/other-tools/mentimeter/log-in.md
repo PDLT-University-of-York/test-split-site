@@ -17,4 +17,4 @@ This will take you to the University single-sign on page to allow you to log in.
 
 Once you have activated your account, you can log in by following the same link above.
 
-If you don't have the joining link to hand, you can also navigate to the [Mentimeter homepage](https://www.mentimeter.com/) and select ‘Log-in’. Then choose ‘**log in with SSO**’ which will take you to the ‘single sign on’ page. Add ‘**University of York**’ under ‘Your organization’s name’ and select the ‘Authenticate’ button. This will take you to the University single-sign on page to allow you to log on (Duo authentication required).
+If you don't have the joining link to hand, you can also navigate to the [Mentimeter homepage](https://www.mentimeter.com/) and select ‘Log-in’. Then choose ‘**log in with SSO**’ which will take you to the ‘single sign on’ page. Add ‘**University of York**’ under ‘Your organization’s name’ and select the ‘Authenticate’ button. This will take you to the University single-sign on page to allow you to log on ([Duo authentication](https://www.york.ac.uk/it-services/tools/duo/) required).
