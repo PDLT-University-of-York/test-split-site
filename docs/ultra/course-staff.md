@@ -9,7 +9,7 @@ tags:
  
     Set up your Course Staff (Instructors) list to show module teaching staff first.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 1.3 Essential: Provide module staff details and communication expectations.
 

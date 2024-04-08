@@ -9,7 +9,7 @@ tags:
 
     Ultra VLE sites have a standardised naming format which is required for various systems to run. **Do not rename Ultra VLE sites**.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 1.4 Essential: Site title contains the SITS code and official module name.
 

@@ -14,7 +14,7 @@ tags:
 
     This guide covers how to use and set up a Journal, and is primarily aimed at **teaching staff**.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 4.1 Essential: The assessment section contains all information about module assessments.
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
@@ -47,7 +47,7 @@ Journals listed as either a formative or summative assessment in your module cat
 2. Give the Journal a descriptive **name** at the top left.
 3. Add a **prompt** with instructions.
 4. Choose whether the Journal is graded and adjust other settings as needed.
-5. Set the test as **Visible to students** or specify  **Release conditions** in the top right.
+5. Set the Journal as **Visible to students** or specify **Release conditions** in the top right.
 
 ![decorative](images/journal-create.png)
 

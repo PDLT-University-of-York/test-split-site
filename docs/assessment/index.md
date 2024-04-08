@@ -13,15 +13,15 @@
 
     ---
     
-    - [:octicons-arrow-right-24: Which assessment tool](which-assessment-tool.md)
-    - [:octicons-arrow-right-24: Tools for group assignments](group-assignment.md)
-    - [:octicons-arrow-right-24: Tools for assessed presentations](assessed-presentation.md)
+    - [:octicons-arrow-right-24: Which assessment tool](../assessment/which-assessment-tool.md)
+    - [:octicons-arrow-right-24: Tools for group assignments](../assessment/group-assignment.md)
+    - [:octicons-arrow-right-24: Tools for assessed presentations](../assessment/assessed-presentation.md)
 
 -  **Using the tools**
 
     ---
     
-    - [:octicons-arrow-right-24: Turnitin Feedback Studio](tfs/index.md)
+    - [:octicons-arrow-right-24: Turnitin Feedback Studio](../assessment/tfs/index.md)
     - [:octicons-arrow-right-24: Ultra Assignment](../ultra/assignment-set-up.md)
     - [:octicons-arrow-right-24: Ultra Test](../ultra/test.md)
 

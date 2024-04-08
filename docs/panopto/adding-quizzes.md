@@ -21,7 +21,7 @@
 
     Short summary here
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
 

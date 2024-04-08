@@ -90,35 +90,36 @@ nav:
       - Course image (site banner): ultra/course-image.md
       - Course staff: ultra/course-staff.md
     - Content creation:
-      - Documents | pages: ultra/documents.md
-      - Images: ultra/images.md
-      - Upload Files: ultra/files.md
-      - Links: ultra/links.md
-      - Video | Panopto: panopto/embed-panopto-ultra.md
-      - Video | YouTube: ultra/youtube.md
-      - Embed content: ultra/embedded-content.md
-      - HTML objects: ultra/html-objects.md
-      - Maths content: ultra/maths.md
+      - Document | pages: ultra/documents.md
+      - Link: ultra/links.md
+      - Test | quizzes & exams: ultra/test.md
       - Assignment | set up: ultra/assignment-set-up.md
       - Assignment | marking: ultra/assignment-marking.md
-      - Test | quizzes & exams: ultra/test.md
       - Form | survey: ultra/form.md
       - Journal | reflection: ultra/journal.md
-      - Gradebook: ultra/gradebook.md
-      - Accessible Ultra content: accessibility/accessible-ultra-content.md
+      - Discussion: ultra/discussions.md
+      - Upload Files: ultra/files.md
+      - Images: ultra/images.md
+      - Video | Panopto: panopto/embed-panopto-ultra.md
+      - Video | YouTube: ultra/youtube.md
+      - Embed content: ultra/embed-content.md
+      - Upload HTML: ultra/html-objects.md
+      - Maths content: ultra/maths.md
+      # - Gradebook: ultra/gradebook.md
+      # - Accessible Ultra content: accessibility/accessible-ultra-content.md
     - Content management:
       - Content visibility: ultra/content-visibility.md
       - Release conditions: ultra/release-conditions.md
       - Edit, move & delete content: ultra/edit-delete-move-content.md
       - Batch edit: ultra/batch-edit.md
       - Copy content: ultra/copy-content.md
-      - Manage content in shared sites: ultra/content-shared-sites.md
+      # - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
       # - Facilitate groupwork: ultra/groupwork.md
       - Course Groups: ultra/course-groups.md
-      - Discussions: ultra/discussions.md
-      - Messages: ultra/messages-tool.md
+      - Discussion: ultra/discussions.md
+      - Messages: ultra/messages.md
       - Notifications: ultra/notifications.md
     - Site access & users: 
       - Site availability: ultra/site-availability.md
@@ -127,6 +128,7 @@ nav:
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
+    - Training | Ultra Essentials: training/ultra-essentials.md
   - Panopto Videos:
     - panopto/index.md
     - Getting Started with Panopto: 
@@ -152,11 +154,11 @@ nav:
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contentsx.md
       # - Adding Additional Streams: panopto/addstreams.md
     # - Assessment submissions: panopto/submissions.md
-  - Accessibility:
-    - accessibility/index.md
-    - Ally accessibility checker: accessibility/ally-accessibility-checker.md
-    - Accessible Ultra content: accessibility/accessible-ultra-content.md
-    - Accessible maths: accessibility/accessible-maths.md
+  # - Accessibility:
+  #   - accessibility/index.md
+  #   - Ally accessibility checker: accessibility/ally-accessibility-checker.md
+  #   - Accessible Ultra content: accessibility/accessible-ultra-content.md
+  #   - Accessible maths: accessibility/accessible-maths.md
   - Assessment:
     - assessment/index.md 
     - Which assessment tool?: assessment/which-assessment-tool.md
@@ -170,8 +172,8 @@ nav:
       - Ultra Assignment | marking: ultra/assignment-marking.md
       - Ultra Test | quizzes & exams: ultra/test.md
       - Ultra Journal: ultra/journal.md
-      - Ultra Gradebook: ultra/gradebook.md
-      - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
+      # - Ultra Gradebook: ultra/gradebook.md
+      # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
     # - Panopto assessment submissions: panopto/submissions.md
     - Group assignments: assessment/group-assignment.md
     - Assessed presentations: assessment/assessed-presentation.md
@@ -199,9 +201,7 @@ nav:
       - Integrating Mentimeter: other-tools/mentimeter/integrate.md
       - Asynchronous use of Mentimeter: other-tools/mentimeter/asynchronous-use.md
       - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
-    - Padlet (pinboards):
-      - Getting started with Padlet: other-tools/padlet.md
-      - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
+    - Padlet | pinboards: other-tools/padlet.md
     - Reading List: other-tools/reading-list.md
     - System data & analytics: other-tools/analytics.md
     - Xerte | interactive content: other-tools/xerte.md
@@ -272,8 +272,11 @@ plugins:
       redirect_maps:
         'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
+        'ultra/text.md': 'ultra/documents.md'
+        'ultra/embedded-content.md': 'ultra/embed-content.md'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
+        'ultra/messages-tool.md': 'ultra/messages.md'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/ultra-essentials.md'
         'ultra/international-access.md': 'help/international-access.md'
         'contact-us/index.md': 'help/contact-us.md'
@@ -292,7 +295,7 @@ plugins:
         'canvas/index.md': 'other-tools/canvas.md'
         'mentimeter/index.md': 'other-tools/mentimeter/index.md'
         'padlet/index.md': 'other-tools/padlet.md'
-        'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
+        'padlet/padlet-discussion-alternative.md': other-tools/padlet.md'
         'readinglist/index.md': 'other-tools/reading-list.md'
         'xerte/index.md': 'other-tools/xerte.md'
         'system-data-and-analytics/index.md': 'other-tools/analytics.md'

@@ -1,5 +1,6 @@
 ---
 tags:
+    - Key guide - admin
     - Assessment
     - Ultra
 ---
@@ -12,7 +13,7 @@ tags:
 
     This guide covers setting up Assignment submission points, and is aimed at **Administrators** and **Teaching staff**.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 4.1 Essential: The assessment section contains all information about module assessments.
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.

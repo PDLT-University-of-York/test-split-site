@@ -13,7 +13,7 @@ tags:
 
     This guide covers how to use and set up a Test, and is primarily aimed at **teaching staff**.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
     - 4.1 Essential: The assessment section contains all information about module assessments.
@@ -131,7 +131,7 @@ Use question pools to present a random subset of questions so that each student 
 
 ## Accessible Test Content
 
-As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](https://vle-support.york.ac.uk/ultra/accessible-ultra-content/), but it is **particularly** important that you take into consideration accessiblility when using tables, images or mathematical content in test questions.
+As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](../ultra/accessible-ultra-content.md), but it is **particularly** important that you take into consideration accessiblility when using tables, images or mathematical content in test questions.
 
-- Guidance on creating accessible images, table and maths can be found on [our "Ultra Accessibility" VLE page](https://vle.york.ac.uk/ultra/courses/_106795_1/outline). (Don't have access? [Contact Us](https://vle-support.york.ac.uk/contact-us/)).
+- Guidance on creating accessible images, table and maths can be found on [our "Ultra Accessibility" VLE page](https://vle.york.ac.uk/ultra/courses/_106795_1/outline). (Don't have access? [Contact us](mailto:vle-support@york.ac.uk)).
 - [Examples of quality alternative text on graphs, diagrams and other complex images can be found here](https://www.routledge.com/our-customers/authors/publishing-guidelines/accessible-content/general-samples).

@@ -1,20 +1,14 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
----
-
 # Accessible Ultra content
+
+!!! Warning "Under construction"
+
+    Page coming soon
 
 !!! Summary
 
     Tips on improving the accessibility of your Ultra site and materials.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - Section 3: Module materials & site content
     - 2.1 Essential: Site structure includes sections for module information, assessment, Reading List, Replay Content and module materials.

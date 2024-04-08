@@ -1,8 +1,8 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Key guide - tutors
-    - Key guide - admins
+    - Key guide - teaching
+    - Key guide - admin
     - Accessibility
     - Assessment
     - Communication
@@ -20,7 +20,7 @@ tags:
 
     Short summary here
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
 

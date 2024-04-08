@@ -1,6 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Key guide - teaching
     - Key guide - admin
     - Ultra
@@ -11,7 +10,7 @@ tags:
 !!! Summary
     Prevent or allow students to access your Ultra VLE sites.
  
-## Quick Start Guide
+## Overview
 
 You can set your site availabilty to control student access:
 

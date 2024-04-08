@@ -1,6 +1,6 @@
 ---
 tags:
-    - Key guide - tutors
+    - Key guide - teaching
     - Accessibility
     - Ultra
     - Panopto
@@ -122,11 +122,11 @@ Check that site content and materials are accessible, in the right place and vis
     
     For more details, see our:
     - [guide to adding Links](../ultra/links.md)
-    - [guide to embedded content](../ultra/embedded-content.md)
+    - [guide to embedded content](../ultra/embed-content.md)
 
 ??? essential "2.8 Groups"
 
-    If you’re planning to use Groups within your site (eg. for seminar or project groups), check that these have been set up correctly. See our [guide to Groups](../ultra/groups.md) for more details.
+    If you’re planning to use Groups within your site (eg. for seminar or project groups), check that these have been set up correctly. See our [guide to Groups](../ultra/course-groups.md) for more details.
 
 ## 3. Students can access the site
 For students to access a site, they must be enrolled on the site AND the site must be open for students.

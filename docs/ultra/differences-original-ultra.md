@@ -57,7 +57,7 @@ Ultra displays site content in separate Document items. These are similar to Ori
 To reuse content, you may need to adapt Original pages so that the information displays appropriately in Ultra. To help with this, you could treat each Original page as a Folder; each item within it would appear as a separate item in Ultra that must be clicked on to show the content.
 
 ## New Ultra module site templates
-New departmental Ultra module site templates have been developed based on [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles/). These have a pre-built structure with sections for module information, assessment and weekly/topic materials. 23/24 sites will be a copy of this template ready for staff to populate with module content.
+New departmental Ultra module site templates have been developed based on [VLE site design principles](../ultra/site-design-principles.md/). These have a pre-built structure with sections for module information, assessment and weekly/topic materials. 23/24 sites will be a copy of this template ready for staff to populate with module content.
 
 To reuse content, consider how your Original content fits into the Ultra template structure. Within template sections, you can adapt the structure to meet your module’s needs, but sites should maintain the overall structure to give students a consistent experience across modules.
 

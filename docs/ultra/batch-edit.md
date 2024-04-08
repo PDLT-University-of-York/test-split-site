@@ -1,8 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Advanced
-    - Teaching
     - Ultra
 ---
 
@@ -10,57 +7,36 @@ tags:
 
 !!! Summary
 
-    In Ultra, **batch edit** is a function used to update common settings across all content, such as **content visibility** and **due dates**. You can also use the tool to **delete** a group of selected course content. The following items that appear on the Course Content page are supported in batch edit:
+    Use Batch Edit to update common settings for multiple items at once.
 
-    * Documents, files, and links
-    * Folders and learning modules
-    * Teaching tools with LTI connection
-    * Assessments, such as tests and assignments
-    * Discussions and journals
+## Overview
 
-    This guide provides the key information you need to control content settings with batch edit all in one place.
+You can use Batch Edit to update multiple contents items at once, which can be much faster than manually updating items individually.
 
+Settings that can be edited:
 
-## Quick Start Guide
+- Date/time settings: change due dates or show/hide dates
+- Visibility settings: set items as visible or hidden
+- Delete items: permanently delete
 
+Batch Edit can be especially useful to update and prepare content for a new academic year.
 
-### Video Steps
+## Using Batch Edit
 
-Below is an embedded video detailing how to **Batch Edit in the Ultra Course View**. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=XJ0UxI-Qx_E).
+1. At the top right of the **Course Content area**, click the **three dots** then **Batch Edit**.
+    </br> ![Decorative](images/batch-edit-batch-edit.png)
+2. A list of site content appears on the **Batch Edit page**, with any current date settings and visibility.
+3. At the left of the page, select the **check box** next to items to edit. If you select a Folder or a Learning Module, the content items are also selected. To exclude items from batch editing, click the container to open it and untick the relevant items.
+4. At the bottom of the page, select one of the edit options: **Edit dates**, **Edit visibility**, **Delete items**
+    </br> ![Decorative](images/batch-edit-select-item-type.png)
+    - **Edit dates**: change due dates or show/hide dates to a specific date/time or shift dates by a set number of days. This will only update existing date settings - items without date settings will not have them added.
+        </br> ![Decorative](images/batch-edit-date.png)
+    - **Edit visibility**: set items as visible to or hidden from students. This will override any existing visibility settings. Visibility can't be set using Release Conditions using Batch Edit.
+        </br> ![Edit visibility](images/batch-edit-visibility.png)
+    - **Delete items**: permanently delete the items. This can't be undone.
+        </br> ![Delete](images/batch-edit-delete.png)
+4. After you confirm the action, it may take a few seconds to process the edits. When complete, a success message will be displayed above the item list on the Batch Edit page.
 
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
-
+You can also watch BlackBoard Help's demonstration of Batch Edit:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJ0UxI-Qx_E" title="YouTube video Batch Edit in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Text Steps
-
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
-
-#### **To use the batch edit function**
-
-1. At the right of the **Course Content area**, click the **three dots** > **Batch Edit**.
-
-    ![Click three dots and batch edit](images/batch-edit-batch-edit.png "Click three dots and batch edit")
-2. On the **Batch Edit page**, all your content appears as a list. At the left of the page, select the **check box** next to items you want to change. If you want to edit items inside a Learning Module or Folder, click the Learning Module or Folder to see and check the items inside.
-
-    ![Choose items to batch edit](images/batch-edit-choose.png "Choose items")
-3. At the bottom right of the page, select one of the options in **Edit selection**. (see a,b,c below)
-
-    ![Choose an edit dates/edit visibility/delete](images/batch-edit-options.png "Choose an option")
-    **a. Edit dates**
-        ![Edit dates](images/batch-edit-date.png "Edit dates")
-    **b. Edit visibility**
-        ![Edit visibility](images/batch-edit-visibility.png "Edit visibility")
-    **c. Delete**
-        ![Delete](images/batch-edit-delete.png "Delete")
-4. After you confirm the action, you’ll see a message about the success of the selected action. Click **View Details** to confirm the success of each selected item.
-
-    ![View details and confirm](images/batch-edit-done.png "Confirm")
-
-!!! Warning
-    Batch Edit only lets you edit content within the folder you're currently viewing. You can't choose content within two different folders and update visibility, change dates, or delete at the same time. Make a selection on the current screen and complete your task before you leave. You can select a mix of items and folders, but you can only edit the items together if they appear on the same screen. When you navigate into or out of a folder, your previous content selections are cleared.
-
-## Further Help
-* [Blackboard Help: Batch Edit](https://help.blackboard.com/Learn/Instructor/Ultra/Course_Content/Ultra_Batch_Edit)
+[Batch Edit - Bb Help [YouTube]]((https://www.youtube.com/watch?v=XJ0UxI-Qx_E))

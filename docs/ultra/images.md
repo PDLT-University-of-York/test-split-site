@@ -1,9 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Teaching
-    - Administration
     - Ultra
 ---
 
@@ -12,16 +8,16 @@ tags:
 
 !!! Summary
 
-    Images can be added into Documents in or between chunks of text. Images cannot be cropped or resized after being added to a Document, so make sure to add the final version.
+    Images can be added into Documents in or between chunks of text.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 2.3 Essential: Design and images adhere to the UoY Brand.
     - 3.4 Essential: Site and materials content is accessible.
 
 ## Uploading Images
 
-The preferred way to add images is to upload them directly in the same way as files. See also our [adding files guide](files.md).
+The preferred way to add images is to upload them directly in the same way as files. See also our [adding files guide](../ultra/files.md).
 
 ### Video steps
 
@@ -41,8 +37,6 @@ Video: [Adding images in Ultra (via upload)](https://youtu.be/dQOaGmi6u0E)
 !!! Note
 
     These steps are also applicable when using the Attachment tool within the text editor.
-
-
 
 ## Linking Images
 Images can also be added to Documents by uploading them from a static source on the internet. Make sure you have the appropriate rights to use an image in this way, and that the source address will not be changed while the image is in use.

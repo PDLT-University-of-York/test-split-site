@@ -4,14 +4,13 @@ tags:
    - Ultra 
 ---
 
-# Enrol a cohort/group
+# Enrol a cohort or user group
 
 !!! Summary
  
     Cohorts can be automatically enrolled on a Learn Ultra site based on SITS module enrolment or a larger student or staff cohort grouping (eg. All Yr 1 UGs in Dept X). 
 
-## Background
-
+## Overview
 ### Group Users
 On Learn Ultra sites, student enrolments and larger staff group enrolments are automatically managed through “group users” based on SITS module enrolments (SITS group users) or larger cohort groupings (People Group Users).
 

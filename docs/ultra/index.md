@@ -19,7 +19,7 @@ A module Ultra site can:
 - facilitate synchronous and asynchronous online and blended learning.
 </div>
 
-![Example of course materials in an Ultra site](images/index-ultra.png)
+![Decorative](images/index-ultra.png)
 
 </div>
 
@@ -33,25 +33,25 @@ Start with these key guides:
 
     ---
     
-    - [:octicons-arrow-right-24: VLE site design principles](site-design-principles.md)
-    - [:octicons-arrow-right-24: Navigate Ultra sites](navigate-ultra-site.md)
-    - [:octicons-arrow-right-24: Personalise your site](personalise-site-design.md)
+    - [:octicons-arrow-right-24: VLE site design principles](../ultra/site-design-principles.md)
+    - [:octicons-arrow-right-24: Navigate Ultra sites](../ultra/navigate-ultra-site.md)
+    - [:octicons-arrow-right-24: Personalise your site](../ultra/personalise-site-design.md)
 
 
 -  **:material-content-paste: Organise & build content**
 
     ---
     
-    - [:octicons-arrow-right-24: Folders & Learning Modules](folder-learning-module.md)
-    - [:octicons-arrow-right-24: Documents (pages)](documents.md)
+    - [:octicons-arrow-right-24: Folders & Learning Modules](../ultra/folder-learning-module.md)
+    - [:octicons-arrow-right-24: Documents (pages)](../ultra/documents.md)
 
 -   **:octicons-megaphone-16: Communication & interaction**
 
     ---
     
-    - [:octicons-arrow-right-24: Announcements](announcements.md)
-    - [:octicons-arrow-right-24: Discussions](discussions.md)
-    - [:octicons-arrow-right-24: Manage your notifications](notifications.md)
+    - [:octicons-arrow-right-24: Announcements](../ultra/announcements.md)
+    - [:octicons-arrow-right-24: Discussions](../ultra/discussions.md)
+    - [:octicons-arrow-right-24: Manage your notifications](../ultra/notifications.md)
 
 -   **:material-school: Ultra Training**
 

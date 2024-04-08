@@ -54,7 +54,7 @@ You can easily:
 
 - [add and format text content](https://vle-support.york.ac.uk/ultra/text).
 - [upload images](https://vle-support.york.ac.uk/ultra/images) and [files from your computer](https://vle-support.york.ac.uk/ultra/files). Most documents will preview within a Document without needing to be downloaded.
-- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embedded-content) such as Padlet or Xerte.
+- [embed interactive tools](https://vle-support.york.ac.uk/ultra/embed-content) such as Padlet or Xerte.
 - use the built in tool to quickly [add YouTube videos](https://vle-support.york.ac.uk/ultra/youtube)
 - [set up discussion boards](https://vle-support.york.ac.uk/ultra/discussions).
 
