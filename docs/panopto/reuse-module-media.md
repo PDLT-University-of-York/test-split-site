@@ -12,8 +12,8 @@ tags:
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-   - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.
-   - 5.1 Recommended: Ensure that students can see and access module materials and content.
+    - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.
+    - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
 !!! Warning
 
