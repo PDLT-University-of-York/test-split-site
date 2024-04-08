@@ -128,7 +128,7 @@ nav:
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
-    - Training | Ultra Essentials: training/ultra-essentials.md
+    - Training | Ultra Essentials: training/workshops/ultra-essentials.md
   - Panopto Videos:
     - panopto/index.md
     - Getting Started with Panopto: 
@@ -207,8 +207,9 @@ nav:
     - Xerte | interactive content: other-tools/xerte.md
   - Training:
     - training/index.md
-    - Workshops & resources | learn skills: 
-      - Training | Ultra Essentials: training/ultra-essentials.md
+    - Workshops & resources | learn skills:
+      - training/workshops/index.md
+      - Ultra Essentials: training/workshops/ultra-essentials.md
     - Webinars | share practice: training/webinars.md
     - CMALT | professional development: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST

@@ -1,11 +1,3 @@
----
-tags:
-    - Advanced
-    - Teaching
-    - Ultra
-    - Workshop
----
-
 # Workshops: Ultra Bitesize
 
 !!! Summary

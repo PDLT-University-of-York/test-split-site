@@ -1,13 +1,3 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
----
-
 # Ultra Drop-in Sessions
 
 We are running regular drop-in sessions for all colleagues using Ultra, particularly those who are less confident. DET staff will be present throughout each session, and can help with:

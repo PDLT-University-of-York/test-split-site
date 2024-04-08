@@ -13,4 +13,4 @@ Usernames can be found in a number of places, including the People Database and 
 
 Search for the user's name or email address (whichever you have) in the box at the top of the page. An entry will then show for them, which will include their username:
 
-![decorative](images/contactus-username.png)
+![decorative](images/usernames-people-datatbase.png)

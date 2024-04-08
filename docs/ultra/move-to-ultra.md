@@ -1,17 +1,12 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Teaching
-    - Ultra
----
+!!! Note
+
+    This content will be updated for 24/25
 
 # Moving to Ultra: introduction for module staff
 
 !!! Summary
 
     Module sites will run as new Ultra sites from September 2023. This overview explains what this means for module staff and how you'll be supported.
-
 
 ## Key differences between Original & Ultra sites
 There are some  structural differences that may affect how you present your module materials:

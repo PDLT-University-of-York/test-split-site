@@ -1,12 +1,3 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
----
 
 # General Ultra Support and Turnitin Marker Support Drop In
 

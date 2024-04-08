@@ -31,6 +31,6 @@ If you're contacting us for help with issues like this, please try these steps f
 4. Enable pop ups
 5. Consider cookie settings
 
-For more information on how to complete these steps, see our [troubleshooting guide](https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit?usp=sharing).
+For more information on how to complete these steps, see our [troubleshooting guide](https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit?usp=sharing) (also embedded below).
 
 <iframe width=100% height=750 src="https://docs.google.com/document/d/e/2PACX-1vSZmYfVJT6vsFJlWsGwWcgyKslfiR7YpsxjfNSrVvGax_rU7wQz0KjVR7hyO_3VMEuTsa1LDEytPhLf/pub?embedded=true"></iframe>
