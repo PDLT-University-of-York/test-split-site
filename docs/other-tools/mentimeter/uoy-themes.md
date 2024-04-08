@@ -1,3 +1,9 @@
+---
+tags:
+    - Interactive content
+    - Other tools
+---
+
 # Using University templates and changing the style of your slides
 
 !!! Summary

@@ -1,3 +1,9 @@
+---
+tags:
+    - Interactive content
+    - Other tools
+---
+
 # Question types: Q&A, comments and chat
 
 !!! Summary

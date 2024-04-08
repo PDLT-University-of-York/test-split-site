@@ -1,3 +1,8 @@
+---
+tags:
+    - Interactive content
+    - Other tools
+---
 # Other question types
 
 !!! Summary
