@@ -11,7 +11,7 @@ tags:
 
 !!! Tip
 
-    You can also learn about updates and issues via our [news channels](news.md) 
+    You can also learn about updates and issues via our [news channels](../help/news.md) 
 
 ## Support dashboards (Google Looker Studio)
 
@@ -50,4 +50,4 @@ To receive an email each time we update this update and known issues information
 
 **Important**: Make sure you are [logged into Google](https://accounts.google.com/ServiceLogin) using your University of York account before trying to access the Google Group to join.
 
-![decorative](images/Updates-Subscribe-AskToJoin.png)
+![decorative](images/updates-subscribe-ask.png)
