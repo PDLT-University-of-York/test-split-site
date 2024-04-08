@@ -1,7 +1,6 @@
 ---
 tags:
-    - Foundation
-    - Teaching
+    - Key guide - teaching
     - Panopto
 ---
 
