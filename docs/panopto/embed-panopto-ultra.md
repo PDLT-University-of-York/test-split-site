@@ -16,7 +16,7 @@ Lecture capture recordings are available though the LTI link to the module's Pan
 
 !!! Warning
 
-    If you wish to reuse videos from a previous year, current students will not automatically have access to older content. Refer to our [Reusing Media guide](../panopto/reusing-module-media.md) for details on how to set this up correctly.
+    If you wish to reuse videos from a previous year, current students will not automatically have access to older content. Refer to our [Reusing Media guide](../panopto/reuse-module-media.md) for details on how to set this up correctly.
 
 ## Link to a Video in the Course Content area
 

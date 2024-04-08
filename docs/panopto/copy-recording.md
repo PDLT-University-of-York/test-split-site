@@ -33,6 +33,6 @@ tags:
 
 ## More Details and Troubleshooting 
 
-1. If you need to copy over content from a previous academic year, refer to [our Reusing Module Media guide](../panopto/reusing-module-media.md)
+1. If you need to copy over content from a previous academic year, refer to [our Reusing Module Media guide](../panopto/reuse-module-media.md)
 
 2. For more details on how Reference Copies in Panopto work, refer to [Panopto's Guide on using Reference Copies](https://support.panopto.com/s/article/Learn-About-Video-Reference-Copies).

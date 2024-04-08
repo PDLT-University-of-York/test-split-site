@@ -141,15 +141,15 @@ nav:
       - Copy a recording: panopto/copy-recording.md
       # - Moving a Recording: panopto/move-recording.md
       # - Sharing a Recording: panopto/sharing-recordings.md
-      - Using Replay in teaching rooms: panopto/lecture-capture.md
+      - Replay lecture capture: panopto/lecture-capture.md
     - Managing video content: 
-      - Reuse module media: panopto/reusing-module-media.md
+      - Reuse module media: panopto/reuse-module-media.md
       # - Panopto Captions: panopto/captioning.md
       # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
       # - Changing Video Availability: panopto/change-availability.md
       - Embed a Panopto video in Ultra: panopto/embed-panopto-ultra.md
     - Advanced Editing: 
-      # - Adding Quizzes: panopto/adding-quizzes.md
+      # - Adding Quizzes: panopto/add-quizzes.md
       - Adding Presentation Slides: panopto/add-presentation.md
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contentsx.md
       # - Adding Additional Streams: panopto/addstreams.md
@@ -282,6 +282,7 @@ plugins:
         'ultra/international-access.md': 'help/international-access.md'
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
+        'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
         'contact-us/index.md': 'help/contact-us.md'
         'updates/index.md': 'help/updates-issues.md'
         'updates/suggestions.md': 'help/contact-us.md'
