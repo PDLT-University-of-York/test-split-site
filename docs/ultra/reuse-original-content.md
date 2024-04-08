@@ -1,11 +1,6 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Ultra
----
+!!! Note
+
+    This content will be updated for 24/25
 
 # Reusing Original site content in Ultra
 
