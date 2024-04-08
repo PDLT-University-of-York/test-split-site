@@ -275,6 +275,7 @@ plugins:
         'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/text.md': 'ultra/documents.md'
+        'ultra/embedded-content.md': 'ultra/embed-content.md'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
         'ultra/messages-tool.md': 'ultra/messages.md'

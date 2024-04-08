@@ -1,6 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Key guide - teaching
     - Accessibility
     - Ultra
