@@ -1,3 +1,9 @@
+---
+tags:
+    - Interactive content
+    - Other tools
+---
+
 # Question types: Open (Students add text-based responses)
 
 !!! Summary

@@ -1,3 +1,9 @@
+---
+tags:
+    - Interactive content
+    - Other tools
+---
+
 # Using open text responses safely and dealing with inappropriate or offensive posts
 
 !!! Summary
