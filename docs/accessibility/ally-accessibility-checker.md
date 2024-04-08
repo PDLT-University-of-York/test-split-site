@@ -15,7 +15,7 @@ Below is an embedded video showing how to set up Groups in Ultra. Alternatively,
 
 As an instructor on your vle course site, you will see coloured dials called Accessibility Scores and an alternative format download symbol to the right of your content. 
 
-![described in text.](<Images/Accessibility gauge - origins.png>)
+![described in text.](<images/Accessibility gauge - origins.png>)
 
 Your students will not see the accessibility score; they will only see the alternative format symbol.
 
@@ -25,13 +25,13 @@ Your students will not see the accessibility score; they will only see the alter
 4. Having worked through the guidance to improve your file, you can re-upload the content in the feedback panel. This will update your score.
     a. The feedback panel below shows a pdf with areas highlighted in red boxes that need action to improve accessibility. A panel on the right contains guidance on how to improve these files and allows you to directly upload the fixed file after corrections.
 
-![described in preceding text](<Images/Accessibility feedback panel.png>)
+![described in preceding text](<images/Accessibility feedback panel.png>)
 
 Text editor
 The text editor in Blackboard has a checker built-in too. 
 When editing an item, click the dial top right of the text editor to see guidance. This checker tells you if there is poor contrast on text, if tables don’t have header rows, if images don’t have alt text etc. 
 
-![Accessibility checking dial is highlighted at the top right of the text editing area.](<Images/Accessibility text editor gauge.png>)
+![Accessibility checking dial is highlighted at the top right of the text editing area.](<images/Accessibility text editor gauge.png>)
 
 # Course accessibility reports
 
@@ -41,7 +41,7 @@ Below is an embedded video showing how to set up Groups in Ultra. Alternatively,
 
 ## About the reports
 
-![Described in subsequent text](<Images/Ally accessibility report.png>)
+![Described in subsequent text](<images/Ally accessibility report.png>)
 
 Access the site report by going to Books & Tools (in the left hand menu), then Accessibility Report.
 The course accessibility report shows the 
