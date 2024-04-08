@@ -26,7 +26,7 @@ There are also recordings from webinars held here at the University to support t
 - [Getting started with Mentimeter (November 2021)](https://elearningyork.wpcomstaging.com/lunchtime-webinar-archive/#gswm)
 - [Using Mentimeter for interactive polling and questioning in learning and teaching (October 2021)](https://elearningyork.wpcomstaging.com/lunchtime-webinar-archive/#umfipaqilat)
 
-The ‘[Mentimeter academy](https://academy.mentimeter.com/)’ also offers a range of on-demand courses for those with a range of existing knowledge and experience, from complete beginner’s to advanced users.
+The ‘[Mentimeter academy](https://academy.mentimeter.com/)’ also offers a range of on-demand courses for those with a range of existing knowledge and experience, from complete beginners to advanced users.
 
 The latest offerings include:
 

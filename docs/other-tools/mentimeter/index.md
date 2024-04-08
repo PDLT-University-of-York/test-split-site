@@ -17,7 +17,11 @@ Participants respond online to the variety of questions available through a mobi
 
 [Mentimeter’s own help pages](https://help.mentimeter.com/en/) are comprehensive and well categorised, and individual guides contain step-by step instructions with screenshots and/or video walkthroughs.  
 
-These pages provide information on Mentimeter at the University of York with case studies from staff making use of the tool to support active and inclusive learning, opportunities to access training and resources and join communication channels, and guidance on how to use it at the University.
+These pages provide information on Mentimeter at the University of York with:
+
+- case studies from staff making use of the tool to support active and inclusive learning
+- opportunities to access training and resources and join communication channels
+- guidance on how to use Mentimeter at the University.
 
 ## Accessibility
 
