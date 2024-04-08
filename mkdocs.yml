@@ -133,13 +133,13 @@ nav:
     - panopto/index.md
     - Getting started with Panopto: 
       # - Quick Start Lecturer Guide:
-      - Log into Panopto: panopto/login-panopto.md
+      - Log into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
+      - Basic editing: panopto/basic-editing.md
       - Copy a recording: panopto/copy-recording.md
       # - Moving a Recording: panopto/move-recording.md
-      - Basic editing: panopto/basic-editing.md
       # - Sharing a Recording: panopto/sharing-recordings.md
       - Using Replay in teaching rooms: panopto/lecture-capture.md
     - Managing video content: 
@@ -280,6 +280,7 @@ plugins:
         'ultra/messages-tool.md': 'ultra/messages.md'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/workshops/ultra-essentials.md'
         'ultra/international-access.md': 'help/international-access.md'
+        'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
         'contact-us/index.md': 'help/contact-us.md'
         'updates/index.md': 'help/updates-issues.md'
