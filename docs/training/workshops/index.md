@@ -15,7 +15,7 @@ You may find these useful if you:
 - are less confident with using learning technology tools.
 - would like to learn more generally about a workshop topic.
 - want to be able to ask questions during the session.
-- can wait for a scheduled session
+- can wait for a scheduled session.
 
 ### On-demand resources
 

@@ -1,11 +1,3 @@
----
-tags:
-    - Foundation
-    - Administration
-    - Ultra
-    - Workshop
----
-
 # Workshop: Ultra Essentials for admin staff
 
 !!! Summary

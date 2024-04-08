@@ -1,15 +1,3 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
-    - Reading List
-    - Workshop
----
-
 # Overview
 
 Our Ultra training series comprises of five key areas.
