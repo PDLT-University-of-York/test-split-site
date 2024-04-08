@@ -22,7 +22,7 @@ Colleagues have undertaken writing a CMALT portfolio to:
 Find out more:
 
 <iframe allowfullscreen="true" frameborder="0" height="360" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQRFWFlr9r3R73cyolO2148AKbSc8-mS5dy_Xbhd2jVTDtQIhBW4AljSUBBl_edz0jrynD7SfT0ILqp/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="560"></iframe>
-[CMALT Accreditation framework (Google Slides)](https://docs.google.com/presentation/d/1339--zohjt0GaPXKpEAcW4hFwI49U182-ZqcDDrC_0g/edit?usp=sharing)
+[CMALT Accreditation framework [Google Slides]](https://docs.google.com/presentation/d/1339--zohjt0GaPXKpEAcW4hFwI49U182-ZqcDDrC_0g/edit?usp=sharing)
 
 ## CMALT portfolio writing group
 
