@@ -43,4 +43,4 @@ You can also watch a demonstration of changing content visibility:
 
 ## Release conditions
 
-Content visibility can be set based on certain conditions, such as releasing content on a certain date or only to specific groups. For more details see our [Release Conditions guide](..ultra/release-conditions.md).
+Content visibility can be set based on certain conditions, such as releasing content on a certain date or only to specific groups. For more details see our [Release Conditions guide](../ultra/release-conditions.md).

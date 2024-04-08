@@ -52,7 +52,7 @@ Accessible text tips:
 - Use the default formatting settings for font, text size, colour and alignment (Open Sans, 14pt, black, left-aligned). This is important to maximise readabilty.
 - Use the **Text Style** menu to add headings - don't just format text. This is important for navigating with a screenreader.
 
-![Decorative](documents-text-styles.png)
+![Decorative](images/documents-text-styles.png)
 
 ### Add LaTeX
 

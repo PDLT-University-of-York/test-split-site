@@ -47,4 +47,4 @@ For advice on setting up your Reading List or using third-party materials approp
 ## Further help
 
 - For help with planning your reading materials: contact [your Faculty Librarian](https://subjectguides.york.ac.uk/subjectguides)
-- For technical help with setting up your Reading List: [contact the Library's Reading List Team](lib-readinglists@york.ac.uk)
+- For technical help with setting up your Reading List: [contact the Library's Reading List Team](mailto:lib-readinglists@york.ac.uk)

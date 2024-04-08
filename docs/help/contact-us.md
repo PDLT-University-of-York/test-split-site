@@ -17,9 +17,9 @@ tags:
 ## Information to include
 To help us to help you more quickly, please include:
 
-- **Screenshots/Photos**: Screenshots or photos of your device's entire screen showing issues and/or error messages help us understand your problem - [Help with Screenshotting](../help/screenshots/)
-- **Usernames**: for issues relating to a specific user (or numerous specific users) please include their usernames (eg. abc123) so we can find the correct account - [Help with finding Usernames](../help/usernames/)
-- **YCodes**: for issues about a particular site on the Learn Ultra VLE, please include its "YCode" (unique ID code) so we can find the site you need help with - [Help with finding YCodes](../help/ycodes/).
+- **Screenshots/Photos**: Screenshots or photos of your device's entire screen showing issues and/or error messages help us understand your problem - [Help with Screenshotting](../help/screenshots.md)
+- **Usernames**: for issues relating to a specific user (or numerous specific users) please include their usernames (eg. abc123) so we can find the correct account - [Help with finding Usernames](../help/usernames.md)
+- **YCodes**: for issues about a particular site on the Learn Ultra VLE, please include its "YCode" (unique ID code) so we can find the site you need help with - [Help with finding YCodes](../help/ycodes.md).
 
 ## Can you fix it yourself? 
 

@@ -4,7 +4,7 @@ tags:
     - Panopto
 ---
 
-# Panopto: Making Basic Edits to your Videos
+# Basic editing with the Panopto web editor
 
 !!! Summary
 
