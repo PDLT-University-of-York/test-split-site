@@ -12,27 +12,27 @@
 
 <div class="grid cards" markdown>
 
-- :material-book-open-outline: **[Reading List](reading-list.md)**
+- :material-book-open-outline: **[Reading List](../other-tools/reading-list.md)**
 
     Collate module readings within VLE sites and inform Library stock levels.
 
-- :material-laptop: **[Canvas VLE](canvas.md)**
+- :material-laptop: **[Canvas VLE](../other-tools/canvas.md)**
 
     The VLE used for York Online programmes.
 
-- :material-human-male-board-poll: **[Mentimeter](mentimeter/index.md)**
+- :material-human-male-board-poll: **[Mentimeter](../other-tools/mentimeter/index.md)**
     
     Add polling, knowledge checks and other interaction to presentations or sessions.
 
-- :fontawesome-brands-padlet: **[Padlet](padlet.md)**
+- :fontawesome-brands-padlet: **[Padlet](../other-tools/padlet.md)**
     
     A flexible web-based tool for pinboards, discussion and project work.
 
-- :material-hammer-wrench: **[Xerte](xerte.md)**
+- :material-hammer-wrench: **[Xerte](../other-tools/xerte.md)**
     
     Create interactive online content.
 
-- :material-poll: **[System data & analytics](analytics.md)**
+- :material-poll: **[System data & analytics](../other-tools/analytics.md)**
     
     Explore interaction data and usage reporting for our tools.
 
