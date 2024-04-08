@@ -14,4 +14,4 @@ To give others a copy of your existing presentations that they can use in their 
 
 ## Running the same presentation simultaneously
 
-It is not possible for two different people to run the same presentation in two different places at the same time, even if the presentation owner has invited the second person to collaborate on the presentation. To be able to do this, the secons person needs to take a separate copy of the presentation for their own account as described in the [How to hold simultaneous presentations](https://help.mentimeter.com/en/articles/410938-how-to-hold-simultaneous-presentations) guidance.
+It is not possible for two different people to run the same presentation in two different places at the same time, even if the presentation owner has invited the second person to collaborate on the presentation. To be able to do this, the second person needs to take a separate copy of the presentation for their own account as described in the [How to hold simultaneous presentations](https://help.mentimeter.com/en/articles/410938-how-to-hold-simultaneous-presentations) guidance.
