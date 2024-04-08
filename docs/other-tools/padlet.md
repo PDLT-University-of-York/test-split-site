@@ -23,6 +23,10 @@ See our dedicated [Padlet guide](https://subjectguides.york.ac.uk/skills/padlet)
 
 <iframe width="100%" height="800px" src="https://subjectguides.york.ac.uk/skills/padlet" title="Padlet guide"></iframe>
 
+## Embed a Padlet in an Ultra site
+
+For details on how to embed your Padlet so it displays directly within your Ultra site, see our [embedded content guide](../ultra/embed-content.md) 
+
 ## Padlet as an alternative to Ultra Discussions
 
 ### Anonymous Padlets
