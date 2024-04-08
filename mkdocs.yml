@@ -201,9 +201,7 @@ nav:
       - Integrating Mentimeter: other-tools/mentimeter/integrate.md
       - Asynchronous use of Mentimeter: other-tools/mentimeter/asynchronous-use.md
       - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
-    - Padlet (pinboards):
-      - Getting started with Padlet: other-tools/padlet.md
-      - Padlet - alternative to Ultra discussions: other-tools/padlet-discussion-alternative.md
+    - Padlet | pinboards: other-tools/padlet.md
     - Reading List: other-tools/reading-list.md
     - System data & analytics: other-tools/analytics.md
     - Xerte | interactive content: other-tools/xerte.md
@@ -297,7 +295,7 @@ plugins:
         'canvas/index.md': 'other-tools/canvas.md'
         'mentimeter/index.md': 'other-tools/mentimeter/index.md'
         'padlet/index.md': 'other-tools/padlet.md'
-        'padlet/padlet-discussion-alternative.md': 'other-tools/padlet-discussion-alternative.md'
+        'padlet/padlet-discussion-alternative.md': other-tools/padlet.md'
         'readinglist/index.md': 'other-tools/reading-list.md'
         'xerte/index.md': 'other-tools/xerte.md'
         'system-data-and-analytics/index.md': 'other-tools/analytics.md'
