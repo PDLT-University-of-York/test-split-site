@@ -59,7 +59,7 @@ Start with these key guides:
 
     On-demand resources and live sessions
     
-    - [:octicons-arrow-right-24: Ultra Essentials](../training/ultra-essentials.md)
+    - [:octicons-arrow-right-24: Ultra Essentials](../training/workshops/ultra-essentials.md)
 
 </div>
 

@@ -9,7 +9,7 @@ tags:
 
 !!! Summary
 
-    An introduction to the key skills needed to an Ultra site from a departmental template.
+    An introduction to the key skills needed to build an Ultra site from a departmental template.
 
 !!! Note
 
