@@ -1,6 +1,6 @@
 site_name: Guides for Online Learning Tools at University of York, UK
 site_author: University of York
-copyright: <img src="./overrides\assets\images\uoy-logo-white-small.png" alt="University of York"> <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
+copyright: <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
 
 theme:
   name: material
@@ -8,7 +8,7 @@ theme:
   font:
     text: Inter
   icon:
-    logo: material/home-circle
+    logo: material/home
     tag:
       KeyGuideTeaching: simple/go
       KeyGuideAdmin: simple/go
