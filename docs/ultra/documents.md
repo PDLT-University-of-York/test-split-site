@@ -68,4 +68,4 @@ See our dedicated guides to adding other content types to a Document:
 - [Images](../ultra/images.md)
 - [Panopto videos](../panopto/embed-panopto-ultra.md)
 - [YouTube videos](../ultra/youtube.md)
-- [Other embedded content](../ultra/embedded-content.md) (eg. Padlet, Xerte)
+- [Other embedded content](../ultra/embed-content.md) (eg. Padlet, Xerte)

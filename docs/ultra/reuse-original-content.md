@@ -74,7 +74,7 @@ The most useful tasks for building content are:
 - [adding text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
 - [uploading files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). You can now choose where in the text the file appears, and most file formats will display directly in the Document instead of requiring download.
 - [uploading images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
-- [embedding external items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
+- [embedding external items](https://vle-support.york.ac.uk/ultra/embed-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
 
 ### Copy Content tool
 

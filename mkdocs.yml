@@ -102,7 +102,7 @@ nav:
       - Images: ultra/images.md
       - Video | Panopto: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
-      - Embed content: ultra/embedded-content.md
+      - Embed content: ultra/embed-content.md
       - HTML objects: ultra/html-objects.md
       - Maths content: ultra/maths.md
       # - Gradebook: ultra/gradebook.md

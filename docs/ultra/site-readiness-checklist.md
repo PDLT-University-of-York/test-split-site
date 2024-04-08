@@ -122,7 +122,7 @@ Check that site content and materials are accessible, in the right place and vis
     
     For more details, see our:
     - [guide to adding Links](../ultra/links.md)
-    - [guide to embedded content](../ultra/embedded-content.md)
+    - [guide to embedded content](../ultra/embed-content.md)
 
 ??? essential "2.8 Groups"
 
