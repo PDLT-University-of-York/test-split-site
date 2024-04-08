@@ -8,35 +8,32 @@
 <div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
--   **Workshops & resources: learn skills**
+-   :material-human-male-board-poll: **[Workshops & resources: learn skills](../training/workshops.md)**
 
     ---
 
     Learn new skills with our synchronous sessions or on-demand resources.
 
-    - [:octicons-arrow-right-24: Ultra Essentials](ultra-essentials.md)
-
--   **Webinars: share practice**
+-   :material-laptop: **[Webinars: share practice](../training/webinars.md)**
 
     ---
 
-    Share knowledge and explore best practice with colleagues from across the university:
+    Share knowledge and explore best practice with colleagues from across the university.
     
-    - [:octicons-arrow-right-24: Webinars](webinars.md)
 
--   **CMALT: professional development**
+-   :material-school: **[CMALT: professional development](../training/cmalt.md)**
 
     ---
 
-    Develop your learning technology practice and gain accreditation by the Association for Learning Technology:
+    Develop your learning technology practice and gain accreditation by the Association for Learning Technology.
     
-    - [:octicons-arrow-right-24: CMALT](cmalt.md)
+- :material-wrench: **Bespoke training**
+
+    ---
+
+    Don't see what you need? [Contact us](mailto:vle-support@york.ac.uk) to discuss bespoke training or resources to support particular needs.
 
 </div>
-
-!!! tip "Bespoke training"
-
-    Don't see what you need? We may be able to offer bespoke training or resources to support particular departmental or team needs. Contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk) to arrange a consultation.
 
 <!-- ## Events calendar
 
