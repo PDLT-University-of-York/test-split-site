@@ -4,7 +4,7 @@ tags:
     - Other tools
 ---
 
-# Creating a  presentation
+# Creating a presentation
 
 !!! Summary
      Create your first Mentimeter presentation and learn about question and content slides.
@@ -20,4 +20,4 @@ Mentimeter guides:
 
 You can use a variety of question types within your Mentimeter presentations. Explore these guides to find out more.
 
-You can also use Mentimeter to build content slides which make it possible to present an entire presentation using Mentimeter if you wish.  You can also use engagement and response tools such as Q&A and emoji reactions as well as mentimote (see the 'presenting' guidance below for more information) throughout your presentation.
+You can also use Mentimeter to build content slides which make it possible to present an entire presentation using Mentimeter if you wish.  You can also use engagement and response tools such as Q&A and emoji reactions throughout your presentation, and use mentimote to control your presentation using a mobile device (see the [presenting guide](present.md) for more information).
