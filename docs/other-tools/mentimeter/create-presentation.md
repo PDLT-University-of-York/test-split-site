@@ -48,7 +48,7 @@ Use [Mentimeter content slides](https://help.mentimeter.com/en/articles/410480-c
 
 Mentimeter content slides can include:
 
-- headings and paragraoh text
+- headings and paragraph text
 - bullet points
 - images (including instant access to a library of copyright free images and gifs)
 - embedded videos
