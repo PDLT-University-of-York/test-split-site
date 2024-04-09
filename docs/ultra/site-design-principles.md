@@ -1,11 +1,12 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Teaching
-    - Administration
+    - Key guide - teaching
+    - Key guide - admin
+    - Accessibility
+    - Assessment
     - Ultra
-    - Canvas
+    - Panopto
+    - Other tools
 ---
 
 # VLE site design principles

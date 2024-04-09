@@ -1,10 +1,7 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Advanced
-    - Administration
-    - Ultra
-
+   - Key guide - admin
+   - Ultra 
 ---
 
 # External User Access
@@ -14,12 +11,14 @@ tags:
     External users (ie. those without a HR record) need to be set up very specifically in the People Database in order to get access to systems such as the Learn VLE and email.
 
 
-Different settings are required depending on whether you want your external to only access the VLE, or to access the VLE but also have access to other IT systems such as email. 
+Different settings are required depending on whether you want your external user to only access the VLE, or to access the VLE but also have access to other IT systems such as email. 
 
-**Caveat**: This document details the process as best we understand it, but as we are not experts on the People Database (which is where most of the process occurs) it is possible that our guidance here is not complete. If you are a People Database Administrator and you’re aware that the below information is incorrect or unclear do please contact us to let us know.
+!!! Warning
+
+    This document details the process as best we understand it, but as we are not experts on the People Database (which is where most of the process occurs) it is possible that our guidance here is not complete. If you are a People Database Administrator and you’re aware that the below information is incorrect or unclear do please contact us to let us know.
 
 
-## Settings Option 1: Access to VLE **only**
+## Option 1: Access to VLE **only**
 To gain access to the VLE your external user(s) will first need temporary People Database accounts creating by the People Database Administrator (PDA) of your Department. 
 
 1. Locate [your department’s PDA](https://www.york.ac.uk/it-services/help/pda/) and contact them to request the account(s)
@@ -30,7 +29,7 @@ To gain access to the VLE your external user(s) will first need temporary People
     ii. Subtype: either "School student/teacher" or "non-accredited student" (**no other subtype will work**). 
 
 
-## Settings Option 2: Access to the VLE **plus** a UoY IT account (email, etc)
+## Option 2: Access to the VLE **plus** a UoY IT account (email, etc)
 
 To gain access to the VLE your external user(s) will first need temporary People Database accounts creating by the People Database Administrator (PDA) of your Department. 
 
@@ -48,5 +47,5 @@ The welcome email contains a link to [the IDM](https://idm.york.ac.uk/idm/user/l
 
 As soon as the account appears within the VLE you will be able to enrol the external user on to any required VLE site(s) as usual; give them the relevant role as required. We strongly advise against using the "Guest" role.
 
-- [Guidance on available roles](https://vle-support.york.ac.uk/ultra/course-roles/)
-- [How to enrol a user](https://vle-support.york.ac.uk/ultra/enrol-user/).
+- [Guidance on available roles](course-roles.md)
+- [How to enrol a user](enrol-user.md)

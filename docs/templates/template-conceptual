@@ -1,18 +1,17 @@
 ---
 tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
+    - Key guide - teaching
+    - Key guide - admin
+    - Accessibility
+    - Assessment
+    - Communication
+    - Interactive content
+    - Training
+    - Help
     - Ultra
     - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
+    - Other tools
 ---
 
 # Guide title (short and to the point)
@@ -21,7 +20,7 @@ tags:
 
     Short summary here
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
 

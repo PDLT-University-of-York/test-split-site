@@ -1,8 +1,6 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Teaching
+    - Key guide - teaching
     - Ultra
 ---
 
@@ -10,71 +8,60 @@ tags:
 
 !!! Summary
 
-    Blackboard Ultra has a new user interface designed to make sites easy to use and accessible.
+    An introduction to the key areas and structure of an Ultra site.
 
 ## Overview
 
-There are three menus used to navigate an Ultra site:
+There are three navigation bar menus used to navigate an Ultra site:
 
-1. **[Top Menu](#top-menu)**: access course tools including the **Gradebook** and **Messages**.
-2. **[Course Content](#course-content) area**: course content is created and accessed here.
-3. **[Details & Actions](#details--actions)** access site tools including the **Class Register** and **Announcements**.
+1. **Top Menu**: Access course tools including the **Gradebook** and **Messages**.
+2. **Course Content area**: The main site area. Create and access course content here.
+3. **Details & Actions** access site tools including the **Class Register** and **Course Image**.
 
-![Clicking on a Learning Module to expand it and then clicking on an item within the Learning Module to open it](images/navigate-ultra-site-template.png)
+![Ultra site showing Top Menu as a navigation bar below site name, Course Content area in the main body of the site, and details & Actions as a sammler left hand navigation panel.](images/navigate-ultra-site-key-sections.png)
 
 ### Top menu
 
-The menu above the **Course Content** area gives access to a number of course tools.
+The navigation menu below the site name gives access to a number of course tools:
 
 | Menu item | Description |
 | ----------- | ----------- |
 | Content | Return to the **Course Content** area |
-| Calendar | View the Blackboard Calendar for this course |
-| [Discussions](https://vle-support.york.ac.uk/ultra/discussions/) | Quick access all of the course's discussion boards |
-| Gradebook | Quick access grade information for all of the marked items in a course |
-| Messages | Send private messages to individual students or groups |
+| Calendar | View the Calendar showing events within Ultra for this site (eg. assignment deadlines). This is not integrated with Google Calendar or the University's timetabling system. |
+| [Announcements](../ultra/announcements.md)| View or create an announcement email to all site users. |
+| [Discussions](../ultra/discussions.md) | Quick access all of the course's discussion boards. |
+| [Gradebook](../ultra/gradebook.md) | Grade information and access to submissions for all of the markable items in a course. |
+| [Messages](../ultra/messages.md) | Send private messages to individual students or groups (off by default, but you can turn on). Students can't reply to Messages. |
 | Analytics | Not currently used at York |
+| [Groups](../ultra/course-groups.md) |Use Groups to manage teaching, administration and assessment activities in your course |
 | Student Preview | View the course as it appears to a student |
-
-!!! Warning
-
-    The Blackboard Calendar is not currently integrated with Google Calendar or the University's timetabling system.
 
 ### Course Content
 
-Content is created and accessed in the **Course Content** area.
+Content is created and accessed in the **Course Content** area appearing in teh main body area of the site.
 
-Items can be organised in content containers such as **Folders** or **Learning Modules**.
+Items can be organised in content containers such as **Folders** or **Learning Modules**. Click a content container to expand it to show the items within, and click again to collapse.
 
-Click a content container to expand it. You will see a list of all the items in the content container. 
+![Decorative](images/navigate-ultra-site-learning-module.png)
 
-You can open any of the items in a content container by clicking on them. You can collapse the Learning Module or Folder by clicking on it again.
+To open an item, click on it in the **Course Content** area. This will open the content in a new layer across the site. To close the item and return to the **Course Content** area, click **X**.
 
-![Clicking on a Learning Module to expand it and then clicking on an item within the Learning Module to open it](images/navigate-ultra-site-learning-module.png)
-
-To open an item, click the item in the **Course Content** area.
-
-To close the item and return to the **Course Content** area, click **X**.
-
-![Clicking on an item in the course content area to open it and then clicking the X to close it](images/navigate-ultra-site-open-close-item.png)
+![decorative](images/navigate-ultra-site-open-close-item.png)
 
 !!! Tip
 
-    For more information on Folders and Learning Modules, please refer to the [Folders vs Learning Modules](https://vle-support.york.ac.uk/ultra/folder-learning-module/) guide.
+    For more information on Folders and Learning Modules, see the [Folders vs Learning Modules guide](../ultra/folder-learning-module.md).
 
-### Details & Actions {#details--actions}
+### Details & Actions
 
-This menu on the left hand side of the screen gives access to a number of different tools.
+This menu on the left hand side of the screen gives access to a number of different tools:
 
 | Menu item | Description |
 | ----------- | ----------- |
-| Class register | List of everyone enrolled on the site, including staff members |
-| [Course Groups](https://vle-support.york.ac.uk/ultra/groups/) | Create and manage student groups |
-| [Course Image](https://vle-support.york.ac.uk/ultra/course-image/) | Upload, edit or remove the site's Course Image |
-| Course is open / Course is private | Set the course as visible or invisible to students |
+| Class register | List of everyone enrolled on the site, including staff members (by default this is hidden from students) |
+| [Course Image](../ultra/course-image.md) | Upload, edit or remove the site's Course Image |
+| [Course is open / Course is private](../ultra/site-availability.md) | Set site availability as visible or hidden to students |
 | Class Collaborate | Access the Blackboard Collaborate virtual classroom |
 | Attendance | Not used at York |
-| [Announcements](https://vle-support.york.ac.uk/ultra/announcements/) | Create announcements and view previous announcements  |
-| Books & Tools | Access LTI tools such as Reading Lists and Panopto/Replay |
-| Question banks | Build and manage sets of questions shared between tests |
-
+| Books & Tools | Access LTI tools such as [Reading Lists](../other-tools/reading-list.md) and Panopto/Replay |
+| Question banks | Build and manage sets of questions shared between [Tests](../ultra/test.md) |

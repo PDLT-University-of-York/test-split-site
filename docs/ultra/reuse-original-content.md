@@ -1,11 +1,6 @@
----
-tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Ultra
----
+!!! Note
+
+    This content will be updated for 24/25
 
 # Reusing Original site content in Ultra
 
@@ -18,7 +13,7 @@ tags:
 
 Some differences between Original (‘old’) and Ultra (‘new’) sites have implications for reusing content between the site types. These are summarised here; for more detail, see our [guide to key differences between Original and Ultra](https://vle-support.york.ac.uk/ultra/differences-original-ultra). 
 
-- **Ultra module site templates**: 23/24 sites will use new departmental Ultra module site templates based on [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles/). These have a pre-built overall structure ready for staff to populate with module content. To reuse content, you should retain the overall template structure, but can adapt the structure within sections to meet your module’s needs.
+- **Ultra module site templates**: 23/24 sites will use new departmental Ultra module site templates based on [VLE site design principles](../ultra/site-design-principles.md/). These have a pre-built overall structure ready for staff to populate with module content. To reuse content, you should retain the overall template structure, but can adapt the structure within sections to meet your module’s needs.
 - **Unavailable content types**: Some rarely-used Original content types aren't available in Ultra; Blogs, some Test question types (Jumbled sentence, Either/Or, File Response, Opinion Scale, Likert, Ordering, Quiz Bowl, Short Answer), Wikis, Surveys. To reuse this content, alternatives are required.
 - **Nesting**: Original allowed unlimited nesting, but Ultra is restricted to two levels of nesting. To reuse nested  Orginal content, you’ll need to restructure this to fit the new Ultra structure. The new Ultra template will help you do this.
 - **Content display**: Original displays simple site content like text, images, uploaded files and embedded items directly on the same page with folders and more complex content. Ultra displays this simple content in separate Document items that users must open to view the content. To reuse content, Original content may need restructuring to display appropriately in Ultra.
@@ -74,7 +69,7 @@ The most useful tasks for building content are:
 - [adding text](https://vle-support.york.ac.uk/ultra/text/) by copy/pasting from Original. Headings and formatting are preserved.
 - [uploading files](https://vle-support.york.ac.uk/ultra/files/) from your computer (eg. lecture slides). You can now choose where in the text the file appears, and most file formats will display directly in the Document instead of requiring download.
 - [uploading images](https://vle-support.york.ac.uk/ultra/images/) from your computer. Make sure to add ALT text or mark as decorative.
-- [embedding external items](https://vle-support.york.ac.uk/ultra/embedded-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
+- [embedding external items](https://vle-support.york.ac.uk/ultra/embed-content/) (eg. Padlet, Xerte). Make sure to also include a direct link to open the item.
 
 ### Copy Content tool
 

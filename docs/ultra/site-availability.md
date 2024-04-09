@@ -1,43 +1,81 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Teaching
-    - Administration
+    - Key guide - teaching
+    - Key guide - admin
     - Ultra
 ---
 
 # Site Availability
 
 !!! Summary
-    Ultra VLE sites can be set so that students cannot enter them, even when they are enrolled. Sites made unavailable in this way are known as "private".
+    Prevent or allow students to access your Ultra VLE sites.
  
-## Quick Start Guide
+## Overview
 
-### Text Steps
-Enter your Ultra VLE site and look in the "Details & Actions" pane on the left of the screen.
+You can set your site availabilty to control student access:
 
- - If the list states **"Course is private", then students cannot currently access the site**; click on the nearby "Students can't access this course" link to make it available to them if desired,
- - If the list states **"Course is open", then students can currently access the site**; click on the "Students can access this course" link to make it unavailable to them if desired.
+- **Private**: students can see the site in their Course list, but can't enter it.
+- **Open**: students can see and enter the site.
+
+!!! Warning
+
+    Sites are not automatically made available each semester, so you must make the site 'Open' when it is ready for students.
+
+You can view and change availability status in two locations:
+
+### View & change site availability: Course list
+
+In the Course list entry, site availability is shown under the site name as Open or Private.
+
+For private sites, a padlock icon is also shown next to the status (List view) or over the thumbnail image(Grid view).
+
+![decorative](images/site-availability-see-status.png)
+
+To change availability status:
+
+1. Click the **three dots icon** (in Grid view, hover over the course to show the icon)
+2. Click **Open course** or **Complete or Make course private** as required.
+3. Confirm in the pop-up.
+
+![decorative](images/site-availability-change-status.png)
+
+### View & change site availability: within a site
+
+Within an Ultra site, site availability is shown in the "Details & Actions" pane on the left of the screen as either:
+
+- **Course is open** with open padlock icon and "Students can access this course"
+- **Course is private** with closed padlock icon and "Students can't access this course".
+
+To change availability status:
+
+1. Click the **Students can/can't access this course link**.
+2. Confirm in the pop-up.
+
+![decorative](images/site-availability-details-actions.png)
 
 ## More Details and Troubleshooting 
 
-### What Do Students See?
-Sites that are set as private still appear in enrolled users' VLE [Courses page](https://vle.york.ac.uk/ultra/course) and [Communities page](https://vle.york.ac.uk/ultra/organization) but are labelled as ‘Private’ and cannot be entered. This means that students will see the names of their upcoming sites as soon as they’re enrolled, but not be able to enter them if they're set to 'private'.
+### Who can access private sites?
+Users with the following roles can access private VLE sites:
 
-### Who Can Access a Site When It's "Private"?
-All instructors will still be able to access (and edit) a VLE site when it's private. Users with the following (less-commonly-used) roles can also access private VLE sites:
+- Instructors
+- Markers (aka Graders)
+- Course Builders
+- Teaching Assistants
+ 
+### What do students see?
+Private sites appear on an students' Course list, but they are labelled as "Private" and cannot be entered.
 
- - Markers (aka Graders)
- - Course Builders
- - Teaching Assistants. 
+This means that students will see their upcoming sites as soon as they’re enrolled, but can't enter them until they are changed to "Open".
 
-### Are Students Alerted when a VLE Site is Made Available?
-Students will receive a message on their [Activity Stream](https://help.blackboard.com/Learn/Student/Ultra/Stay_in_the_Loop/Activity_Stream) telling them that a “New Course is available”. This message contains the site’s name, and a link to click to access the site.
+### Are students notified when a site is made available?
+If students have chosen to recieve Ultra notifications, they will receive a message in their Activity Stream and also by email when a site is made available.
 
-Students will also receive an email notification, but *when* this is sent is dictated by which email notification preference they’ve selected on their account:
+However, note that students can:
 
- - If they have selected “Email me straight away” they should receive an email notification within a few minutes
- - If they have selected “Email me once a day” the notification will appear as part of their ‘Daily Notification’ digest email that comes through at 09:15 am (UK time) each day.
+- opt out of receiving Ultra notifications
+- choose to receive immediate emails or a daily digest (sent around 09:15)
 
+### What is "Make site complete"?
+When changing status from Open, you are given the option to "Complete or Make course private". Marking a course as Complete means that students can enter the course and view resources, but can't make contributions (to Discussions, submission points etc.). This is not a feature that we use at UoY, so you do not have to set this status after the semester end.
 

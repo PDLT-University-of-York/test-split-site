@@ -1,9 +1,5 @@
 ---
 tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Teaching
-    - Administration
     - Ultra
 ---
 
@@ -12,19 +8,16 @@ tags:
 
 !!! Summary
 
-    Images can be added into Documents in or between chunks of text. Images cannot be cropped or resized after being added to a Document, so make sure to add the final version.
+    Images can be added into Documents in or between chunks of text.
 
-!!! principle "Relevant [VLE site design principles](https://vle-support.york.ac.uk/ultra/site-design-principles)"
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 2.3 Essential: Design and images adhere to the UoY Brand.
     - 3.4 Essential: Site and materials content is accessible.
 
-
-
-
 ## Uploading Images
 
-The preferred way to add images is to upload them directly in the same way as files. See also our [adding files guide](https://vle-support.york.ac.uk/ultra/adding-files).
+The preferred way to add images is to upload them directly in the same way as files. See also our [adding files guide](../ultra/files.md).
 
 ### Video steps
 
@@ -37,15 +30,13 @@ Video: [Adding images in Ultra (via upload)](https://youtu.be/dQOaGmi6u0E)
 1. In a Document click the plus icon to add content and/or click **Upload from Computer**
 ![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
 2. Locate the item you would like to upload, select it, and click **Open**
-![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png)
+<!-- ![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png) -->
 3. Add a brief description of the image in the alternative text box (eg "Cartoon coffee cup") or mark it as decorative, select the appropriate file options, and then click **Save**
 ![Annotated screenshot highlighting the image options, alternative text box, and Save button](images/adding-content-image-options.png)
 
 !!! Note
 
     These steps are also applicable when using the Attachment tool within the text editor.
-
-
 
 ## Linking Images
 Images can also be added to Documents by uploading them from a static source on the internet. Make sure you have the appropriate rights to use an image in this way, and that the source address will not be changed while the image is in use.
