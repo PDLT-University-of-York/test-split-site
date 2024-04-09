@@ -40,3 +40,9 @@ All staff can use these communication channels to receive updates about Mentimet
 - Slack channel: [# mentimeter-york](https://uoy.slack.com/archives/C02N2FPDN84).
 
 If you have any questions or would like to discuss Mentimeter, you can also [contact us](mailto:vle-support@york.ac.uk).
+
+## Blog: Mentimeter
+
+Our [DET Blog: Mentimeter](https://elearningyork.wpcomstaging.com/category/tool/polling-mentimeter/) covers Mentimeter-specific in-depth news items, research news and time-sensitive updates (also embedded below).
+
+<iframe width="100%" height="600px" title="Digital Edutation Team blog - Learn Ultra" src="https://elearningyork.wpcomstaging.com/category/tool/polling-mentimeter/"></iframe>

@@ -11,7 +11,7 @@
 
     ---
     
-    - :octicons-arrow-right-24: Search this site for relevant guides
+    - :octicons-arrow-right-24: Search this site for relevant guides (in top right)
     - [:octicons-arrow-right-24: Site index](../help/site-index.md) (guides listed by topic tag)
     - [:octicons-arrow-right-24: Troubleshoot common issues](../help/troubleshooting.md)
 
