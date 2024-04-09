@@ -11,6 +11,10 @@ tags:
 
 Log onto the console computer, open a browser window, and log into your Mentimeter account (remember your phone as [Duo authentication](https://www.york.ac.uk/it-services/services/duo/) is needed to log into Mentimeter). Open your Mentimeter presentation and select ‘Present’ to open it in presentation mode in full screen.
 
+## Integrating Mentimeter with other presentation platforms
+
+See our guide to [Integrating Mentimeter guide](../mentimeter/create-presentation.md/#integrating-mentimeter-with-other-presentation-platforms) for advice on using Mentimeter to present alongside (or instead of) PowerPoint or Google Slides.
+
 ## Giving joining instructions
 
 Your participants will need to join your Mentimeter presentation to be able to respond (either by using a QR code or by inserting the joining code at menti.com). You can use the following options to make this a smooth process:
