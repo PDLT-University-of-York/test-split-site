@@ -3,6 +3,7 @@ tags:
     - Interactive content
     - Other tools
 ---
+
 # Question types: Closed (Students select from options presented to them)
 
 !!! Summary
