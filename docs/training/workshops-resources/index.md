@@ -39,7 +39,7 @@ You may find these useful if you:
 <div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
--   **[Ultra Essentials](../../training/workshops/ultra-essentials.md)**
+-   **[Ultra Essentials](../../training/workshops-resources/ultra-essentials.md)**
 
     ---
 

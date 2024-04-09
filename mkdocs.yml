@@ -128,7 +128,7 @@ nav:
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
-    - Training | Ultra Essentials: training/workshops/ultra-essentials.md
+    - Training | Ultra Essentials: training/workshops-resources/ultra-essentials.md
   - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
@@ -201,7 +201,7 @@ nav:
       # - Integrating Mentimeter: other-tools/mentimeter/integrate.md
       - Asynchronous use of Mentimeter: other-tools/mentimeter/asynchronous-use.md
       - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
-      - Mentimeter training: training/workshops/mentimeter.md
+      - Training | Mentimeter resources: training/workshops-resources/mentimeter.md
     - Padlet | pinboards: other-tools/padlet.md
     - Reading List: other-tools/reading-list.md
     - System data & analytics: other-tools/analytics.md
@@ -209,9 +209,9 @@ nav:
   - Training:
     - training/index.md
     - Workshops & resources | learn skills:
-      - training/workshops/index.md
-      - Ultra Essentials: training/workshops/ultra-essentials.md
-      - Mentimeter: training/workshops/mentimeter.md
+      - training/workshops-resources/index.md
+      - Ultra Essentials: training/workshops-resources/ultra-essentials.md
+      - Mentimeter: training/workshops-resources/mentimeter.md
     - Webinars | share practice: training/webinars.md
     - CMALT | professional development: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST
