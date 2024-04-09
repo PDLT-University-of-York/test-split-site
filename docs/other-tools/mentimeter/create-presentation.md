@@ -68,7 +68,7 @@ Add interactivity to your presentation with one of the various question or inter
 
 ## Integrating Mentimeter with other presentation platforms
 
-It is possible to integrate Mentimeter slides into other presenttaion platforms, particularly PowerPoint or Google Slides.
+It is possible to integrate Mentimeter slides into other presentation platforms, particularly PowerPoint or Google Slides.
 
 Our guide to [Integrating Mentimeter questions into presentations](https://elearningyork.wpcomstaging.com/2023/10/26/integrating-mentimeter-questions-into-presentations/) covers three options on how to do this:
 
