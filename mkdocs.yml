@@ -186,7 +186,6 @@ nav:
     - Mentimeter | polling:
       - other-tools/mentimeter/index.md
       - Case studies: other-tools/mentimeter/case-studies.md
-      - Communications, training & resources: other-tools/mentimeter/communications-training-resources.md
       - Log in: other-tools/mentimeter/log-in.md
       - Create a presentation: other-tools/mentimeter/create-presentation.md
       - Question types:
@@ -202,6 +201,7 @@ nav:
       # - Integrating Mentimeter: other-tools/mentimeter/integrate.md
       - Asynchronous use of Mentimeter: other-tools/mentimeter/asynchronous-use.md
       - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
+      - Mentimeter training: training/workshops/mentimeter.md
     - Padlet | pinboards: other-tools/padlet.md
     - Reading List: other-tools/reading-list.md
     - System data & analytics: other-tools/analytics.md
@@ -211,6 +211,7 @@ nav:
     - Workshops & resources | learn skills:
       - training/workshops/index.md
       - Ultra Essentials: training/workshops/ultra-essentials.md
+      - Mentimeter: training/workshops/mentimeter.md
     - Webinars | share practice: training/webinars.md
     - CMALT | professional development: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST

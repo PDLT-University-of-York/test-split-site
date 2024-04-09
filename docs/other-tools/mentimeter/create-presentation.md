@@ -11,7 +11,7 @@ tags:
 
 Create a Mentimeter presentation to build content and interactive/question slides. You can use this as a standalone presentation or integrate with PowerPoint/Google Slides.
 
-You can also use engagement and response tools such as Q&A and emoji reactions throughout your presentation, and use mentimote to control your presentation using a mobile device (see the [presenting guide](/docs/other-tools/mentimeter/present.md) for more information).
+You can also use engagement and response tools such as Q&A and emoji reactions throughout your presentation, and use mentimote to control your presentation using a mobile device (see the [presenting guide](../other-tools/mentimeter/present.md) for more information).
 
 ## Create a new presentation
 
@@ -61,10 +61,10 @@ Mentimeter content slides can include:
 
 Add interactivity to your presentation with one of the various question or interaction types:
 
-- [closed question types](/docs/other-tools/mentimeter/question-types-closed.md)
-- [open question types](/docs/other-tools/mentimeter/question-types-open.md)
-- [Q&A and comment question types](/docs/other-tools/mentimeter/question-types-qa-comments.md)
-- [other question types](/docs/other-tools/mentimeter/question-types-other.md)
+- [closed question types](../other-tools/mentimeter/question-types-closed.md)
+- [open question types](../other-tools/mentimeter/question-types-open.md)
+- [Q&A and comment question types](../other-tools/mentimeter/question-types-qa-comments.md)
+- [other question types](../other-tools/mentimeter/question-types-other.md)
 
 ## Integrating Mentimeter with other presentation platforms
 
