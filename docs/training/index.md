@@ -8,7 +8,7 @@
 <div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
--   :material-human-male-board-poll: **[Workshops & resources: learn skills](../training/workshops/index.md)**
+-   :material-human-male-board-poll: **[Workshops & resources: learn skills](../training/workshops-resources/index.md)**
 
     ---
 

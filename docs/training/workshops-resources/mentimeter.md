@@ -1,6 +1,7 @@
 ---
 tags:
     - Interactive content
+    - Training
     - Other tools
 ---
 
