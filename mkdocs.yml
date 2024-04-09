@@ -185,7 +185,6 @@ nav:
     - Canvas | VLE for York Online: other-tools/canvas.md
     - Mentimeter | polling:
       - other-tools/mentimeter/index.md
-      - Case studies: other-tools/mentimeter/case-studies.md
       - Log in: other-tools/mentimeter/log-in.md
       - Create a presentation: other-tools/mentimeter/create-presentation.md
       - Question types:
@@ -193,14 +192,12 @@ nav:
         - Open questions: other-tools/mentimeter/question-types-open.md
         - Q&A and comments: other-tools/mentimeter/question-types-qa-comments.md
         - Other question types: other-tools/mentimeter/question-types-other.md
-      # - Content slides: other-tools/mentimeter/content-slides.md
-      # - University templates: other-tools/mentimeter/uoy-themes.md
-      - Presenting with Mentimeter: other-tools/mentimeter/present.md
-      - Dealing with results: other-tools/mentimeter/results.md
-      - Collaboration: other-tools/mentimeter/collaborate-share.md
-      # - Integrating Mentimeter: other-tools/mentimeter/integrate.md
-      - Asynchronous use of Mentimeter: other-tools/mentimeter/asynchronous-use.md
-      - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
+        - Safe anonymity for open responses: other-tools/mentimeter/safe-anonymity.md
+      - Collaborate & share: other-tools/mentimeter/collaborate-share.md
+      - Present with Mentimeter: other-tools/mentimeter/present.md
+      - Use asynchronously: other-tools/mentimeter/asynchronous-use.md
+      - Display & analyse results: other-tools/mentimeter/results.md
+      - Case studies: other-tools/mentimeter/case-studies.md
       - Training | Mentimeter resources: training/workshops-resources/mentimeter.md
     - Padlet | pinboards: other-tools/padlet.md
     - Reading List: other-tools/reading-list.md
