@@ -26,4 +26,4 @@ A range of examples were also shared in the following blog post following an exp
 
 [Active and inclusive learning and teaching: A key role for Mentimeter classroom polling.](https://elearningyork.wpcomstaging.com/2022/02/21/active-and-inclusive-learning-and-teaching-post-pandemic-a-key-role-for-mentimeter-classroom-polling/)
 
-We are always keen to highlight and share effective practices with polling tools for learning and teaching. If you have examples you would like to share please contact Rob Shaw, Digital Education Adviser ([rob.shaw@york.ac.uk](mailto:rob.shaw@york.ac.uk)).
+We are always keen to highlight and share effective practices with polling tools for learning and teaching. If you have examples you would like to share please [contact us](mailto:vle-support@york.ac.uk).
