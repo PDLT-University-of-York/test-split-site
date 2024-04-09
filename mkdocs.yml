@@ -182,17 +182,18 @@ nav:
   - Other Tools:
     - other-tools/index.md
     - Tools at a glance: https://bit.ly/yorktools
-    - Canvas VLE: other-tools/canvas.md
+    - Canvas | VLE for York Online: other-tools/canvas.md
     - Mentimeter | polling:
       - other-tools/mentimeter/index.md
       - Case studies: other-tools/mentimeter/case-studies.md
       - Communications, training & resources: other-tools/mentimeter/communications-training-resources.md
       - Logging in to Mentimeter: other-tools/mentimeter/log-in.md
       - Creating a presentation: other-tools/mentimeter/create-presentation.md
-      - Closed questions: other-tools/mentimeter/question-types-closed.md
-      - Open questions: other-tools/mentimeter/question-types-open.md
-      - Q&A and comments: other-tools/mentimeter/question-types-qa-comments.md
-      - Other question types: other-tools/mentimeter/question-types-other.md
+      - Question types:
+        - Closed questions: other-tools/mentimeter/question-types-closed.md
+        - Open questions: other-tools/mentimeter/question-types-open.md
+        - Q&A and comments: other-tools/mentimeter/question-types-qa-comments.md
+        - Other question types: other-tools/mentimeter/question-types-other.md
       - Content slides: other-tools/mentimeter/content-slides.md
       - University templates: other-tools/mentimeter/uoy-themes.md
       - Presenting with Mentimeter: other-tools/mentimeter/present.md
