@@ -8,7 +8,7 @@ theme:
   font:
     text: Inter
   icon:
-    logo: material/home
+    logo: octicons/home-16
     tag:
       KeyGuideTeaching: simple/go
       KeyGuideAdmin: simple/go
