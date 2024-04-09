@@ -13,8 +13,10 @@ tags:
 
 When you display a Mentimeter presentation, the results can be displayed on the screen as they come in from participants. You can select to [hide the responses](https://help.mentimeter.com/en/articles/422266-hide-or-show-results) to questions until students have answered, or you can display the results from the beginning and show how the ‘story’ changes as answers are received. You can also share a presentation and its results so that they can be accessed afterwards, or so that students can display this on their own computers, for example in remote teaching sessions (see [sharing your presentation and results](#sharing-your-presentation-and-results)).
 
-!!! Tip
-     Feedback from students at the University shows a preference in knowledge checking MCQ questions for the answers to be hidden as they are received to give all students the chance to respond without being influenced by the answers of others. For word clouds, students report that they appreciate the opportunity to see ideas as they emerge. See the following Mentimeter guide to learn how to [show or hide responses](https://help.mentimeter.com/en/articles/422266-hide-or-show-results).
+!!! tip "Uoy feedback"
+     In knowledge checking MCQ questions, students prefer the answers to be hidden as they are received so they can respond without being influenced by the answers of others.
+     
+     For word clouds, students like to see ideas as they emerge. See the following Mentimeter guide to learn how to [show or hide responses](https://help.mentimeter.com/en/articles/422266-hide-or-show-results).
 
 ## Using responses to support teaching
 
