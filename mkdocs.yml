@@ -187,19 +187,19 @@ nav:
       - other-tools/mentimeter/index.md
       - Case studies: other-tools/mentimeter/case-studies.md
       - Communications, training & resources: other-tools/mentimeter/communications-training-resources.md
-      - Logging in to Mentimeter: other-tools/mentimeter/log-in.md
-      - Creating a presentation: other-tools/mentimeter/create-presentation.md
+      - Log in: other-tools/mentimeter/log-in.md
+      - Create a presentation: other-tools/mentimeter/create-presentation.md
       - Question types:
         - Closed questions: other-tools/mentimeter/question-types-closed.md
         - Open questions: other-tools/mentimeter/question-types-open.md
         - Q&A and comments: other-tools/mentimeter/question-types-qa-comments.md
         - Other question types: other-tools/mentimeter/question-types-other.md
-      - Content slides: other-tools/mentimeter/content-slides.md
-      - University templates: other-tools/mentimeter/uoy-themes.md
+      # - Content slides: other-tools/mentimeter/content-slides.md
+      # - University templates: other-tools/mentimeter/uoy-themes.md
       - Presenting with Mentimeter: other-tools/mentimeter/present.md
       - Dealing with results: other-tools/mentimeter/results.md
       - Collaboration: other-tools/mentimeter/collaborate-share.md
-      - Integrating Mentimeter: other-tools/mentimeter/integrate.md
+      # - Integrating Mentimeter: other-tools/mentimeter/integrate.md
       - Asynchronous use of Mentimeter: other-tools/mentimeter/asynchronous-use.md
       - Safe anonymity: other-tools/mentimeter/safe-anonymity.md
     - Padlet | pinboards: other-tools/padlet.md
