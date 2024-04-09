@@ -1,4 +1,4 @@
-# Workshops: learn new skills
+# Workshops & resources: learn new skills
 
 !!! Summary
 
@@ -19,7 +19,7 @@ You may find these useful if you:
 
 ### On-demand resources
 
-We also offer on-demand online resources for each workshop that you can access at any time.
+We also offer on-demand online resources for each workshop and in additional areas which you can access at any time.
 
 You may find these useful if you:
 
@@ -44,5 +44,18 @@ You may find these useful if you:
     ---
 
     An introduction to the key skills needed to build and teach with an Ultra site.
+
+</div>
+
+### Other tools
+
+<div class="grid cards" markdown>
+<!-- renders in Live as a grid of index cards -->
+
+-   **[Mentimeter](../../training/workshops-resources/mentimeter.md)**
+
+    ---
+
+    Resources to develop your skills in using Mentimeter for polling and other interactivity.
 
 </div>
