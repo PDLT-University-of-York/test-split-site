@@ -292,6 +292,7 @@ plugins:
         'contact-us/ycodes.md': 'help/ycodes.md'
         'contact-us/screenshots.md': 'help/screenshots.md'
         'tags-index.md': 'help/site-index.md'
+        'eassessment/index.md': 'assessment/index.md'
         'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
         'eassessment/ultratest.md': 'ultra/test.md'
         'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
