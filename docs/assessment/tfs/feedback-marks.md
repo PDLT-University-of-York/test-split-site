@@ -58,7 +58,7 @@ In some situations, you might need or want to withold marks and feedback for par
 - marking is not yet complete
 - the student is being investigated for academic misconduct
 
-See our guide to [Withholding feedback and marks entered into TurnItIn](https://docs.google.com/document/d/1Beerr8SjiwAGcUrvRK508IJ6HDjXK6SrQ8kRpDHsjRk/edit?usp=sharing) for details of:
+See our guide to [Withholding feedback and marks entered into TurnItIn [Google Doc]](https://docs.google.com/document/d/1Beerr8SjiwAGcUrvRK508IJ6HDjXK6SrQ8kRpDHsjRk/edit?usp=sharing) for details of:
 
 - when this might be an appropriate action
 - moving the work to a new submission point

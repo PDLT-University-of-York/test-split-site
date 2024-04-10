@@ -19,7 +19,7 @@ The video below gives an overview of using TFS as a staff member to support asse
     ---
     
     - [:octicons-arrow-right-24: TFS - set up](../../assessment/tfs/set-up.md)
-    - [:octicons-arrow-right-24: TFS & E:vision - release feedback & marks](../../assessment/tfs/feedback-marks.md)
+    - [:octicons-arrow-right-24: TFS & E:vision - manage feedback & marks](../../assessment/tfs/feedback-marks.md)
 
 -  **For markers**
 

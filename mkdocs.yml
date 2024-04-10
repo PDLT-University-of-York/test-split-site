@@ -169,7 +169,7 @@ nav:
       - assessment/tfs/index.md
       - TFS | set up: assessment/tfs/set-up.md
       - TFS | marking: assessment/tfs/marking.md
-      - TFS & E:Vision | release feedback & marks: assessment/tfs/feedback-marks.md
+      - TFS & E:Vision | manage feedback & marks: assessment/tfs/feedback-marks.md
     - Ultra assessment tools:
       - Ultra Assignment | set up: ultra/assignment-set-up.md
       - Ultra Assignment | marking: ultra/assignment-marking.md
