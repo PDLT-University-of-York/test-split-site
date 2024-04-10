@@ -8,7 +8,7 @@ tags:
 # TFS & E:Vision: release feedback & marks
 !!! Summary
 
-    **Administrator guide**: the process for releasing student feedback in Turnitin Feedback Studio (TFS) and marks on E:Vision
+    **Administrator guide**: the process for releasing (or witholding) student feedback in Turnitin Feedback Studio (TFS) and marks on E:Vision
 
 ## Overview of process
 
@@ -49,3 +49,16 @@ flowchart TB
 A detailed walk through of this process is given in our [guide to releasing feedback and marks in TFS [Google Doc]](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0/edit?usp=sharing).
 
 This is aimed at workflows using the Assessment Tracker, but the same process can be used without the Tracker.
+
+## Withholding feedback and marks
+
+In some situations, you might need or want to withold marks and feedback for particular students after they are released for the rest of the cohort. For example:
+
+- marking is not yet complete
+- the student is being investigated for academic misconduct
+
+See our guide to [Withholding feedback and marks entered into TurnItIn](https://docs.google.com/document/d/1Beerr8SjiwAGcUrvRK508IJ6HDjXK6SrQ8kRpDHsjRk/edit?usp=sharing) for details of:
+
+- when this might be an appropriate action
+- moving the work to a new submission point
+- removing marks and feedback from the original submission point.
