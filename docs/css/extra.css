@@ -50,7 +50,7 @@ a {
 .md-typeset a:focus,
 .md-typeset a:hover {
     background-color: var(--md-accent-fg-color);
-    color: #fff;
+    color: var(--md-accent-bg-color);
 }
 
 .md-typeset .admonition, .md-typeset details, .md-typeset details * {
