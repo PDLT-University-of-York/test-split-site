@@ -5,12 +5,13 @@ tags:
     - Ultra
 ---
 
-# TFS & E:Vision: release feedback & marks
+# TFS & E:Vision: manage feedback & marks
 !!! Summary
 
     **Administrator guide**: the process for releasing (or witholding) student feedback in Turnitin Feedback Studio (TFS) and marks on E:Vision
 
-## Overview of process
+## Releasing feedback & marks
+### Overview of process
 
 Once the marking/moderation staff have confirmed that marking is complete, feedback has been given and final marks have been agreed, admin staff take over again to release feedback and marks to students. 
 
@@ -44,7 +45,7 @@ flowchart TB
 ```
 **Note**: There are also considerations for managing extensions and late submissions.
 
-## In-depth guide
+### In-depth guide
 
 A detailed walk through of this process is given in our [guide to releasing feedback and marks in TFS [Google Doc]](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0/edit?usp=sharing).
 
