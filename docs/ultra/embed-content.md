@@ -49,3 +49,23 @@ Watch a demonstration:
 1. Open Xerte in your browser and click the name of the Xerte object you want to embed.
 2. In the **Project Details** box, copy the embed code from the **Embed Code** text box.
 3. When creating the link to your Xerte item, copy the **URL** above the **Embed code** text box. <br> ![Accessing the project details in Xerte and showing the embed code and URL](images/embed-content-xerte.png)
+
+### Google Docs, Sheets, Slides & Forms
+
+Changes to a Google file will be updated in the embedded document, so this can be a good option for sharing the same content in multiple VLE sites.
+
+!!! Warning
+
+    To embed a Google file you must publish it to the web first, which makes it widely accessible. Before doing this, review [Google's guide to publishing and embedding files](https://support.google.com/docs/answer/183965?sjid=4495254535868291123-EU) and consider if this is an appropriate choice for your file.
+
+    As an alternative, you can [link](../ultra/links.md) to a Google file instead of embedding to maintain sharing settings.
+
+1. Open the Google file you want to embed and click **File** > **Share** > **Publish to the web**.
+2. In the pop-up window, click **Embed**, select any options for that file type and click **Publish** and **Ok** in the confirmation pop-up.
+</br>![Decorative](images/embed-content-google-publish.png)
+3. Copy the embed code that appears.
+</br>![Decorative](images/embed-content-google-embed.png)
+4. Make sure that **Automatically republish when changes are made** is ticked.
+5. Optional: to restrict access to the published file, click **Published content and settings** and tick **Restrict access to the following**, making sure that University of York is shown in the drop-down.
+6. If you want to stop publishing and fully restrict access in the future, click **Stop publishing**.
+</br>![Decorative](images/embed-content-google-settings.png)
