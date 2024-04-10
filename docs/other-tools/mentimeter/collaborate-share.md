@@ -10,13 +10,9 @@ tags:
 
 ## Collaborate on your presentation
 
-See [Mentimeter's guide to collaborating on presentations](https://help.mentimeter.com/en/articles/5422663-collaborate-on-presentations-with-friends-and-colleagues) for details of how give others access to edit your Mentimeter presentations. All those you have invited as editors can edit and work on the same presentation at the same time. 
+See [Mentimeter's guide to collaborating on presentations and folders](https://help.mentimeter.com/en/articles/5422663-collaborate-on-presentations-with-friends-and-colleagues) for details of how give others access to edit your Mentimeter presentations. This can be done with single presentations or at folder level. All those you have invited as editors can edit and work on the same presentation at the same time. You can also give access to others 
  
 You can only share with others who have a [University Mentimeter account](log-in.md), or who otherwise have a pro or enterprise Mentimeter licence.
-
-!!! Warning
-
-     We do not use Teams or workspace presentations within Mentimeter, so the *Shared presentation* option will not work.
 
 ## Giving others a copy of your presentation 
 
