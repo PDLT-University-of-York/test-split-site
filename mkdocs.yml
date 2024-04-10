@@ -78,13 +78,9 @@ markdown_extensions:
 nav:
   - Learn Ultra VLE:
     - ultra/index.md
-    - Getting started with Ultra:
+    - Site structure & design:
       - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
-      - Access your sites: ultra/access-sites.md
-      - Notifications: ultra/notifications.md
-      - Troubleshooting common issues: help/troubleshooting.md
-    - Site structure & design:
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
       - Standard Ultra site names: ultra/site-name.md
       - Use the Ultra template: ultra/ultra-template.md
@@ -124,14 +120,16 @@ nav:
       - Discussion: ultra/discussions.md
       - Messages: ultra/messages.md
       - Notifications: ultra/notifications.md
-    - Site access & users: 
-      - Site availability: ultra/site-availability.md
+    - Site access & users:
+      - Access your sites: ultra/access-sites.md
+      - Site availability | student access: ultra/site-availability.md
       - Course roles: ultra/course-roles.md
       - Enrol a user: ultra/enrol-user.md
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
     - Training | Ultra Essentials: training/workshops-resources/ultra-essentials.md
+    - Troubleshooting common issues: help/troubleshooting.md
   - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
