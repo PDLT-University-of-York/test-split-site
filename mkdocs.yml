@@ -85,10 +85,11 @@ nav:
       - Standard Ultra site names: ultra/site-name.md
       - Use the Ultra template: ultra/ultra-template.md
       - Personalise site design: ultra/personalise-site-design.md
-      - Folders & Learning Modules: ultra/folder-learning-module.md
+      - Learning Modules & Folders: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
       - Course staff: ultra/course-staff.md
     - Content creation:
+      - Learning Modules & Folders: ultra/folder-learning-module.md
       - Document | pages: ultra/documents.md
       - Link: ultra/links.md
       - Test | quizzes & exams: ultra/test.md

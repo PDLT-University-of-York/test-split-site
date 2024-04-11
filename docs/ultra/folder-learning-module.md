@@ -1,15 +1,14 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Key guide - teaching
     - Ultra
 ---
 
-# Folders & Learning Modules 
+# Learning Modules & Folders 
 
 !!! Summary
 
-    Folders and Learning Modules are containers types for organising course content.
+    Learning Modules and Folders are containers for organising course content.
 
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
@@ -18,19 +17,21 @@ tags:
     - 3.4 Essential: Site and materials content is accessible.
 
 
-## Overview of the container types
+## Overview: content container types
 
-Folders and Learning Modules are containers types for organising course content. They function largely the same for staff, but the student experience differs:
+Learning Modules and Folders are the containers available to ortganise your content. They function largely the same for staff, but students navigate the content items within the two container types differently. This means that there are some situations where either a Learning Module or a Folder may be more suitable.
 
 === "Learning Module"
 
     **Learning Modules** make it easy for students to move between items, so are most appropriate for providing module materials.
+    
+    ![Decorative](images/folder-learning-module-example-lm.png)
 
-    - Used in template structure
-    - Design: grey bar, can add personalised icon/image
-    - Item access: any order or forced sequence
+    - Used throughout the Ultra template structure
     - Can contain sub-folders (nested folders function like Learning Modules)
-    - Students can navigate between items without closing them (but staff can’t):   
+    - Default Learning Module icon, can [change to a personalised image](#learning-module-images)
+    - Students can access items in any order, or you can use **Forced sequence** to make them work through items in order
+    - Students can navigate between items without closing them (but staff can’t)
     
     ![Use previous/next options to navigate between items in a Learning Module](images/folder-learning-module-LM-navigate.png)
 
@@ -38,10 +39,13 @@ Folders and Learning Modules are containers types for organising course content.
 
     **Folders** are best used for reference items where students are likely to need only a specific item.
     
-    - Design: white bar, fixed folder icon
-    - Item access: any order
-    - Can contain sub-folders
-    - Students must close an item before selecting another:
+    ![Decorative](images/folder-learning-module-example-f.png)
+    
+    - Generally not included in the Ultra template structure, but you can add Folders to your site if needed
+    - Can contain sub-folders (nested folders function like Folders)
+    - Default Folder icon, can't be personalised
+    - Students can always access items in any order
+    - Students must close an item before selecting another
 
     ![Click 'X' icon to close a folder item](images/folder-learning-module-folder-close-item.png)
 
@@ -51,41 +55,34 @@ This video also gives an overview of how to differentiate Folders vs Learning Mo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aFUico3YEBc" title="YouTube video Folders vs Learning Modules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Folders vs Learning Modules [YouTube]](https://www.youtube.com/watch?v=aFUico3YEBc)
 
-## Create a Folder or Learning Module
+## Create a Learning Module or Folder
 
-1. In the Content page, hover your mouse where you want to add a learning module/folder and click the **plus icon** > **Create**.
+Where the same applies for both Learning Modules and Folders, we'll use "container" for simplicity.
 
-    ![click plus sign](images/folder-learning-module-plus.png "Click plus sign")
+Containers can be created within the Course Content area (your template will have pre-built containers for your content). Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder, but a Folder within a Learning Module navigates like a Learning Module. Learning Modules cannot be directly created inside another container.
 
-    ![click create](images/folder-learning-module-create.png "Click create")
+1. Hover where the container should appear. Click the **plus icon** then **Create**.
+</br> ![Decorative](images/folder-learning-module-plus-create.png)
+2. Under **Course Content Items**, select **Learning Module** or **Document**.
+</br> ![Decorative](images/folder-learning-module-create.png)
+3. Enter a descriptive title for the container (eg. *Week 3: equipment & safety*).
+4. Set the [item visibility](../ultra/content-visibility.md) (you an also set this later).
+5. Add a brief **description** that will display in the Course Content area.
+</br> ![Decorative](images/folder-learning-module-settings.png)
+6. [Learning Modules only] If you want students to access content items in order, click **Forced Sequence**.
+7. [Learning Modules only] You can add a custom image to display on the Course Content page. See the Learning Module images(#learning-module-images) section below for details.
+8. Click **Save**.
+</br>![Decorative](images/folder-learning-module-sequence-image-save.png)
 
-2. In the Create Item panel, choose **Learning module** or **Folder**.
-
-    ![add learning module or folder](images/folder-learning-module-add-item.png "add learning module or folder")
-3. **Enter the name** of your Learning Module/Folder by selecting it or using the pen icon.
-
-    ![Enter the name](images/folder-learning-module-name.png "Enter name")
-4. By default, the learning module/folder is hidden from students. You can change the visibility of the learning module/folder to “**Visible to students”**, “**Hidden from students**”, or set “**Release conditions**”.
-
-    ![set visibility](images/folder-learning-module-visibility.png "set visibility")
-5. Optionally, you can **add a description to the learning module/folder**. Providing a description for content gives students a preview of what's to come.
-
-    ![enter description](images/folder-learning-module-description.png "enter description")
-6. **[Learning Modules Only]** You can enable **Forced Sequence** so that students can access a learning module’s content in sequence.
-    ![enable force sequence](images/folder-learning-module-sequence.png "enable force sequence")
-7. Click **Save**.
-
-    ![click save](images/folder-learning-module-save.png "Click save")
-
-Below is an embedded video detailing how to **Create Learning Modules in the Ultra Course View**. Alternatively, you can [open the video in a new browser tab](https://www.youtube.com/watch?v=Uzpx_sCkVwc).
-
+Watch a demonstration of the basics of creating a Learning Module:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uzpx_sCkVwc" title="YouTube video Create Learning Modules in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[BLackBoard's guide to Create Learning Modules in Ultra Course View [YouTube]](https://www.youtube.com/watch?v=Uzpx_sCkVwc)
 
 ## Learning Module images
 
 Learning Modules can display a small image on the Course Content page. This can be used to reflect the topic of weekly content.
 
-The image will appear on the left of the module on the course content page, helping to make the site more visually appealing and aid navigation. You can't change the size or shape of the image shown.
+The image will appear on the left of the module on the Course Content area, helping to make the site more visually appealing and aid navigation. You can't change the size or shape of the image shown.
 
 ![Learning module displayed on Course Content area with image to left of item name](images/folder-learning-module-image-example.png)
 
