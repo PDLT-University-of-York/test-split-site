@@ -1,6 +1,6 @@
 ---
 tags:
-    - Other tools
+    - Training
 ---
 
 # Building and rolling out the Ultra VLE template in the Department of Biology
