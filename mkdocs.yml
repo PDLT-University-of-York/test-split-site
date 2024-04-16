@@ -187,6 +187,7 @@ theme:
       Ultra: material/laptop
       Panopto: fontawesome/solid/video
       OtherTools: material/toolbox
+      CaseStudy: material/account-voice
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -270,6 +271,7 @@ extra:
     Ultra: Ultra
     Panopto: Panopto
     Other tools: OtherTools
+    Case study: CaseStudy
   analytics:
     provider: google
     property: G-Q6B3RZT1K0
@@ -333,6 +335,7 @@ plugins:
         - Ultra
         - Panopto
         - Other tools
+        - Case study
 
 # Extra folders that the local server should watch for changes (also watches docs folder & mkdocs.yml)
 watch:

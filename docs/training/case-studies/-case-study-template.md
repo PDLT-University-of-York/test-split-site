@@ -1,3 +1,4 @@
+<!-- UNHIDE WHEN DONE
 ---
 tags:
     - Case study
@@ -9,7 +10,7 @@ tags:
     - Ultra
     - Panopto
     - Other tools
----
+--- -->
 
 # Case study: [TITLE]
 
