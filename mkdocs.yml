@@ -135,12 +135,13 @@ nav:
     - Xerte | interactive content: other-tools/xerte.md
   - Training:
     - training/index.md
-    - Workshops & resources | learn skills:
+    - Workshops & resources:
       - training/workshops-resources/index.md
       - Ultra Essentials: training/workshops-resources/ultra-essentials.md
       - Mentimeter: training/workshops-resources/mentimeter.md
-    - Webinars | share practice: training/webinars.md
-    - CMALT | professional development: training/cmalt.md
+    - Webinars: training/webinars.md
+    - Case studies: training/case-studies/index.md 
+    - CMALT: training/cmalt.md
         # - VLE Ultra training: #RETIRE/MOVE MOST
     #   - Workshop calendar: ultra/workshop-calendar.md
     #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md

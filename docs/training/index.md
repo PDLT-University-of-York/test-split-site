@@ -19,6 +19,12 @@
     ---
 
     Share knowledge and explore best practice with colleagues from across the university.
+
+-   :material-account-voice: **[Case Studies: dig deep](../training/case-studies/index.md)**
+
+    ---
+
+    In-depth vignettes & examples of implementing our tools to support learnng and teaching.
     
 
 -   :material-school: **[CMALT: professional development](../training/cmalt.md)**
