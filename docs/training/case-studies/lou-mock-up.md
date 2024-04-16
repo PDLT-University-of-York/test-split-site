@@ -71,7 +71,7 @@ Watch their presentation:
 
 Could be open or collapsible, depnding on page needs. We can put together a cheat sheet of copy/pastable links and boxes.
 
-!!! Summary "Case study : A cross-departmental approach to consistency in the VLE for Archaeology"
+!!! case-study "Case study : A cross-departmental approach to consistency in the VLE for Archaeology"
 
     Michelle Alexander and Jess Bates discuss how they approached the transition to Blackboard Ultra in the Department of Archaeology.  Some key points they mention are:
 
