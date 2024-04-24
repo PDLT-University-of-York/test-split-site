@@ -9,7 +9,7 @@ tags:
 
 !!! Summary
 
-    **Administrator guide**: setting up submission points and managing the marking workflow in Turnitin Feedback Studio (TFS).
+    **Administrator guide**: setting up submission points and managing the marking workflow in Turnitin Feedback Studio (TFS). Also see our [guide to releasing marks & feedback](../../assessment/tfs/feedback-marks.md/)
 
 !!! principle "Relevant [VLE site design principles](../../ultra/site-design-principles.md)"
 
@@ -59,14 +59,13 @@ Using the Tracker to:
 - [Set up marking groups](https://docs.google.com/document/d/1lDRzx1iLPyyx2Et9IyFV0UtgK_PmHXsJkX1DsP5NRJY)
 - [Manage extensions and exceptions](https://docs.google.com/document/d/1wzBtWZh8e7CVqsD4VyWNT-9ena_S-BlRr_BUC_iOY6E)
 - [Track submission and marking progress](https://docs.google.com/document/d/1NC8reuDxaf5DvI9V3n81P9r6JwIxcIDnc3yR4H1qd6E)
-- [Track visa holders' assessment activity](https://docs.google.com/document/d/1xclQRdnrFN-q8lGni-gku17gYLvcfVolIrFv9HgjL4M)
-- [Release feedback and marks](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0)
 
 ## Managing Submissions
 
 - [Clearing a student’s submission](https://docs.google.com/document/d/1__bA3BPwWUyksE46aRDB1NN3Baa9qAxlm37DTX12Uuc)
 - [Uploading a submission on behalf of a student](https://docs.google.com/document/d/1JV0hac0ASVatOiJauHlKm2jonO2uYGQjSLmRiTzDkqM)
 - [Identifying students who haven’t made a submission using the VLE’s Gradebook](https://docs.google.com/document/d/17NILG_SwmQeCs9LPzsHnJMj9wWRkk-BrG-695KSQjDg)
+- [Track visa holders' assessment activity](https://docs.google.com/document/d/1xclQRdnrFN-q8lGni-gku17gYLvcfVolIrFv9HgjL4M)
 - [Converting a student's "non-searchable"/"non-selectable" PDF into a version that can be run through TurnItIn](https://docs.google.com/document/d/1Zv7SoE9w2j2YqY4-TOz_PZI4yxwIGHE9tVNjUdqFqQU/edit?usp=sharing)
 - [How Leave of Absence (LoA) can impact assignment submission and marking](https://docs.google.com/document/d/1gLyAEIMEfRzzzN2uSot_wKR9AkiHBVu-bxCY6gt5y68/edit#heading=h.kwjc6mnxsx6i)
 
