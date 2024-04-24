@@ -6,7 +6,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 
 ## Learn Ultra
 
-- [The Age of Ultra in Biology](../../training/case-studies/biology-barnes-evans.md)
+- [Building and rolling out the Ultra VLE template in the Department of Biology](../../training/case-studies/biology-barnes-evans.md)
 - [Blackboard and Openstax](../../training/case-studies/health-sciences-graham.md)
 - [A cross-departmental approach to consistency in the VLE for Archaeology](../../training/case-studies/archaeology-alexander-bates.md)
 - [Using Ultra to overcome teaching and learning challenges in a first semester history module](../../training/case-studies/history-howlett.md)

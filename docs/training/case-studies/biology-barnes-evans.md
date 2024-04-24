@@ -14,7 +14,7 @@ They describe how they utilised the resources available as part of the project t
 
 Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Age of Ultra in Biology" ></iframe>
 
-[The Age of Ultra in Biology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23) (11 mins 44 secs, UoY log-in required)
+[Building and rolling out the Ultra VLE template in the Department of Biology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23) (11 mins 44 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 
