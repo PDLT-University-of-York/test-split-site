@@ -59,6 +59,7 @@ Using the Tracker to:
 - [Set up marking groups](https://docs.google.com/document/d/1lDRzx1iLPyyx2Et9IyFV0UtgK_PmHXsJkX1DsP5NRJY)
 - [Manage extensions and exceptions](https://docs.google.com/document/d/1wzBtWZh8e7CVqsD4VyWNT-9ena_S-BlRr_BUC_iOY6E)
 - [Track submission and marking progress](https://docs.google.com/document/d/1NC8reuDxaf5DvI9V3n81P9r6JwIxcIDnc3yR4H1qd6E)
+- [Track visa holders' assessment activity](https://docs.google.com/document/d/1xclQRdnrFN-q8lGni-gku17gYLvcfVolIrFv9HgjL4M)
 - [Release feedback and marks](https://docs.google.com/document/d/1vFc560KVNJGQDmlV8mE4HKsPTtVHtwoth1tLFwD6LT0)
 
 ## Managing Submissions
