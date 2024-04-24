@@ -1,25 +1,26 @@
+
 ---
 tags:
-    - Training
+    - Case study
+    - Ultra
 ---
 
-# Using Ultra to overcome teaching and learning challenges in a first semester history module
+# Case study: Using Ultra to overcome teaching and learning challenges in a first semester history module
 
-!!! Summary ""
+Department of History<br />Jon Howlett
 
-    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5427ff56-74e5-4cb7-a841-b0bd00e8e16a&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Jon Howlett: Using Ultra to overcome teaching and learning challenges in a first semester history module" ></iframe>
+Jon Howlett gives an overview of how he developed the VLE site for the new ‘Arguments and Analysis’ module in the Department of History.  He  focuses on three key challenges that shaped the approaches taken:
 
-    Jon Howlett, Department of History<br />[Using Ultra to overcome teaching and learning challenges in a first semester history module](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5427ff56-74e5-4cb7-a841-b0bd00e8e16a) (Panopto viewer, 11 mins 43 secs, UoY log-in required)
+- Supporting a diverse student cohort
 
-??? Summary "Overview"
-    Jon Howlett, Department of History, gives an overview of how he developed the VLE site for the new ‘Arguments and Analysis’ module.  He  focuses on three key challenges that shaped the approaches taken:
+- Integrating academic skills
 
-    - **Supporting a diverse student cohort**: Jon aimed to provide consistency through structured weekly sections outlining lectures, seminar activities, and independent work in order to meet the needs of students from varying educational backgrounds and pandemic disruptions.
+- Supporting new teaching staff
 
-    - **Integrating academic skills**: Seeking to make required but often unpopular 'skills modules' more engaging, Jon created seven asynchronous (self-paced) 'skills challenges' tied to historical content. These real-world exercises were timed to support genuine developmental needs in the module. Jon describes how they aimed to encourage active learning, and how they were closely linked to seminars to promote reflection and utilisation of available student guidance resources.
+Watch their presentation:
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5427ff56-74e5-4cb7-a841-b0bd00e8e16a&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Jon Howlett: Using Ultra to overcome teaching and learning challenges in a first semester history module" ></iframe>
 
-    - **Supporting new teaching staff**: To aid lecturers new to the module, Jon compiled a 'staff guide' area looking to share best practice and increase clarity and consistency across teaching groups.  This area provided pedagogical narratives explaining the module design rationales, an outline of the requirements for assessment and feedback at key points in the module, and a guide to teaching on the module with suggested weekly plans aiming to increase consistency and efficiency.
-
+[Using Ultra to overcome teaching and learning challenges in a first semester history module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5427ff56-74e5-4cb7-a841-b0bd00e8e16a) (11 mins 43 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 

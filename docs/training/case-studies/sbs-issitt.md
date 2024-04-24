@@ -1,30 +1,26 @@
 ---
 tags:
-    - Training
+    - Case study
+    - Ultra
 ---
 
-# Developing the ‘Humanity, Economics & Management’ module
+# Case study: Developing the ‘Humanity, Economics & Management’ module
 
+School of Business and Society<br />John Issitt
 
+John Issitt provides an overview of his approach to developing the VLE site for the ‘Humanity, Economics & Management’ module, outlining the pedagogical approaches that underpinned the design of the module and the structure of the site.  He describes the framework for weekly activities within the module involving:
 
-!!! Summary ""
+- Online recordings introducing key ideas, and made available alongside the scripts.
 
-    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9b8a62cd-235c-444e-aedf-b0c400e5284a&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="John Issitt, SBS, Humanity, Economics &amp; Management" ></iframe>
+- Supporting materials and links to ‘leads’ for further study.
 
-    John Issitt, School of Business and Society<br />[Developing the ‘Humanity, Economics & Management’ module](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b8a62cd-235c-444e-aedf-b0c400e5284a) (Panopto viewer, 6 mins 56 secs, UoY log-in required)
+- Weekly two hour workshops with activities related to each theme
 
-??? Summary "Overview"
+- Weekly one-hour ‘lectures’ packaged to students as ‘performances, mini lectures and debates’ and intending to stimulate interest in the subject.
 
-    John Issitt, School of Business and Society, provides an overview of his approach to developing the VLE site for the ‘Humanity, Economics & Management’ module, outlining the pedagogical approaches that underpinned the design of the module and the structure of the site.  He describes the framework for weekly activities within the module involving:
+Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9b8a62cd-235c-444e-aedf-b0c400e5284a&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="John Issitt, SBS, Humanity, Economics &amp; Management" ></iframe>
 
-    - Online recordings introducing key ideas, and made available alongside the scripts.
-    - Supporting materials and links to ‘leads’ for further study.
-    - Weekly two hour workshops with activities related to each theme
-    - Weekly one-hour ‘lectures’ packaged to students as ‘performances, mini lectures and debates’ and intending to stimulate interest in the subject.
-    
-    He describes how he sets out to involve students as ‘contributors’ rather than simply as ‘receivers’ of information in the module, using the framework as a start point and looking to set expectations from the outset that students take their own ideas forward and undertake their own research to follow on from the introductory ideas.  
-    
-    Finally, he outlines his approach to collaboration with e-learning support within the school, and to ensuring that Graduate Teaching Assistants can contribute fully to workshop activities.  This, he feels, has helped to bring creativity and dynamism to the module.  
+[Developing the ‘Humanity, Economics & Management’ module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b8a62cd-235c-444e-aedf-b0c400e5284a) (6 mins 56 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 

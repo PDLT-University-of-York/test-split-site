@@ -1,28 +1,20 @@
 ---
 tags:
-    - Training
+    - Case study
+    - Ultra
 ---
 
-# Building and rolling out the Ultra VLE template in the Department of Biology
+# Case study: Building and rolling out the Ultra VLE template in the Department of Biology
 
-!!! Summary ""
+Department of Biology<br />Amanda Barnes and Gareth Evans
 
-    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Age of Ultra in Biology" ></iframe>
+Amanda Barnes and Gareth Evans provide an overview of how they approached the process of building and rolling out the Biology Department’s VLE template in collaboration with other members of their Ultra Adoption group, student interns, and the VLE transformation project team. 
 
-      Amanda Barnes and Gareth Evans, Department of Biology<br />[The Age of Ultra in Biology](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23)  (Panopto viewer, 11 mins 44 secs, UoY log-in required)
+They describe how they utilised the resources available as part of the project to implement support for all module staff when building their module sites, aiming to achieve a higher level of consistency and accessibility.
 
-??? Summary "Overview"
-    Amanda Barnes and Gareth Evans from the Department of Biology provide an overview of how they approached the process of building and rolling out the Biology Department’s VLE template in collaboration with other members of their Ultra Adoption group, student interns, and the VLE transformation project team. 
+Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Age of Ultra in Biology" ></iframe>
 
-    A key goal was to improve the consistency of the student learning experience across all the module sites on the VLE by harmonising the structure and the ‘look and feel’ of the sites, and taking a cross-departmental approach to accessibility and communication.
-    
-    Their ‘planners and banners’ approach set up a framework for embedding consistent features in module sites such as module planning documents and course images, whilst anonymous discussion boards were consistently implemented using embedded google forms and docs.
-    
-    Amanda and Gareth outline how they utilised the resources available as part of the project to implement support for all module staff when building their module sites, aiming to achieve a higher level of consistency and accessibility. 
-    
-    They conclude with an indication of their thoughts on the impact so far on staff and students in the department.
-
-
+[The Age of Ultra in Biology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23) (11 mins 44 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 

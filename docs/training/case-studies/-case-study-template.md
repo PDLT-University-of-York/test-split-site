@@ -14,8 +14,7 @@ tags:
 
 # Case study: [TITLE]
 
-[DEPARTMENT]
-[AUTHOR(S)]
+[DEPARTMENT]</ br>[AUTHOR(S)]
 
 [Overview - concise, but doesn't have to be short]
 

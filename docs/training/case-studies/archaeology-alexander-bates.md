@@ -1,25 +1,25 @@
 ---
 tags:
-    - Training
+    - Case study
+    - Communication
+    - Ultra
 ---
 
-# A cross-departmental approach to consistency in the VLE for Archaeology
+# Case study: A cross-departmental approach to consistency in the VLE for Archaeology
 
-!!! Summary ""
+Department of Archaeology<br />Michelle Alexander and Jess Bates
 
-    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=dd76e543-8be4-4b3f-a0e3-b0c100f43f96&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Cross-departmental approach to consistency to the VLE in Archaeology" ></iframe>
+Michelle Alexander and Jess Bates give an overview of how they approached the transition to Blackboard Ultra in the Department of Archaeology.  Some key points they mention are:
 
-    Michelle Alexander and Jess Bates, Department of Archaeology<br />[A cross-departmental approach to consistency in the VLE for Archaeology](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd76e543-8be4-4b3f-a0e3-b0c100f43f96) (Panopto viewer, 15 mins 25 secs, UoY log-in required)
+- **Consistent Structure** - All modules follow a uniform weekly structure marked by common icons, providing continuity from previous approaches and allowing for clear student navigation and accessibility.
 
-??? Summary "Overview"
-    Michelle Alexander and Jess Bates give an overview of how they approached the transition to Blackboard Ultra in the Department of Archaeology.  Some key points they mention are:
+- **Collaboration** - The transition process has reinforced collaboration practices between module teams and student services staff. Clearly delineated responsibilities ensure core information on policies, procedures, and support is provided consistently across modules and with accessibility in mind, while still allowing customisation for different teaching approaches.
 
-    - **Consistent Structure** - All modules follow a uniform weekly structure marked by common icons, providing continuity from previous approaches and allowing for clear student navigation and accessibility.
-    - **Collaboration** - The transition process has reinforced collaboration practices between module teams and student services staff. Clearly delineated responsibilities ensure core information on policies, procedures, and support is provided consistently across modules and with accessibility in mind, while still allowing customisation for different teaching approaches.
-    - **Engagement Tools** - Tools like Padlet and discussion boards have been integrated to support greater student engagement. Initial findings suggest Padlet is boosting participation notably in undergraduate contexts, while post-graduates seem to prefer discussion boards for deeper intellectual exchange.
-    
-    While loss of a left sidebar menu has required some adjustment from staff and students, Michelle and Jess felt that the move to Ultra has allowed them to retain and develop positive aspects of their previous VLE approaches. The overall consistency of design and commitment to accessibility supports parity in experience for all students. Meanwhile teams still have flexibility in how they utilise Ultra's capabilities for their particular module approach, for example by. incorporating tools like padlet or discussion boards.
+- **Engagement Tools** - Tools like Padlet and discussion boards have been integrated to support greater student engagement. Initial findings suggest Padlet is boosting participation notably in undergraduate contexts, while post-graduates seem to prefer discussion boards for deeper intellectual exchange.
 
+Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=dd76e543-8be4-4b3f-a0e3-b0c100f43f96&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Cross-departmental approach to consistency to the VLE in Archaeology" ></iframe>
+
+[A cross-departmental approach to consistency in the VLE for Archaeology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd76e543-8be4-4b3f-a0e3-b0c100f43f96) (15 mins 25 secs, UoY log-in required)
 
 
 ??? Abstract "Transcript"
