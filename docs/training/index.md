@@ -20,7 +20,7 @@
 
     Share knowledge and explore best practice with colleagues from across the university.
 
--   :material-account-voice: **[Case Studies: dig deep](../training/case-studies/index.md)**
+-   :material-account-voice: **[Case Studies: dig deeper](../training/case-studies/index.md)**
 
     ---
 
