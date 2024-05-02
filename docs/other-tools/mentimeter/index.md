@@ -23,6 +23,10 @@ These pages provide information on Mentimeter at the University of York with:
 - opportunities to access training and resources and join communication channels
 - guidance on how to use Mentimeter at the University.
 
+!!! Warning
+
+    Mentimeter has robust data protection measures in place but it should never be used to process ‘internal, confidential or special categories of personal data, nor any other personal data that is particularly worthy of protection’.
+
 ## Accessibility
 
 Mentimeter have published the following:
