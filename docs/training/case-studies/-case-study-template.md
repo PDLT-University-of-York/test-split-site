@@ -1,4 +1,4 @@
-<!-- UNHIDE WHEN DONE
+<!-- UNHIDE WHEN DONE AND DELETE THIS LINE
 ---
 tags:
     - Case study

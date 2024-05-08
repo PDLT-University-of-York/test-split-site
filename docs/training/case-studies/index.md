@@ -20,11 +20,14 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [VLE Test for assessment](../../training/case-studies/cs-yuan.md)
 - [Designing appropriate assessments](../../training/case-studies/law-slorach.md)
 - [Portfolio approaches in the Undergraduate Global Development degree programme](../../training/case-studies/politics-krauss.md)
+- [Philosophy and Society Podcasts for assessed groupwork](../../training/case-studies/philosophy-jay-lee.md)
+- [Video feedback for students in Psychology](../../training/case-studies/psychology-quinn.md)
 
 ## Communication
 
 - [Use of discussion boards in the Popular Culture, Media and Society module](../../training/case-studies/sociology-beer.md)
 - [Student and teacher experiences of asynchronous activities with Padlet and Google docs](../../training/case-studies/hoa-sinclair-vyvyan.md)
+- [Philosophy and Society Podcasts for assessed groupwork](../../training/case-studies/philosophy-jay-lee.md)
 
 ## Module development
 
@@ -33,6 +36,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [Developing the ‘Business Planning and Sustainable Entrepreneurship’ module](../../training/case-studies/sbs-sinclair.md)
 - [Developing the ‘Structure of English’ module site](../../training/case-studies/lls-rye.md)
 - [Enhancing in-person learning opportunities by using recorded media](../../training/case-studies/law-slorach2.md)
+- [The longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module](../../training/case-studies/hoa-sinclair2.md)
 
 ## Interactive content
 

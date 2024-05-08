@@ -11,14 +11,14 @@ Department of Computer Science<br />Tommy Yuan
 
 Tommy Yuan shares his experiences of using the VLE test tool for formative and summative assessment, an assessment method which has increased in use within the Computer Science Department recently.
 
-Key advantages for staff included:
+Key reported advantages for staff include:
 
 - Automated grading and feedback bringing significant time savings especially for larger cohorts
 - Automated submission at the end of the allocated exam time easing the administration burden of dealing with late submissions
 - Features such as randomisation of questions and question order reducing the likelihood of collusion and academic misconduct
-- Question analysis allowing easier identification of questions that may be poor discriminators for future improvement of exams.
+- Question analysis allowing easier identification of questions that may be poor discriminators for future improvement of exams
 
-While for students, advantages included the ability to provide formative quizzes in preparation for exams.  This evaluated well in student feedback on the module.
+For students, advantages included the ability to provide formative quizzes in preparation for exams.  This evaluated well in student feedback on the module.
 
 Potential drawbacks included the need to ensure a good fit between the assessment type and the use of the test tool, the chance of technical issues, and challenges around saving exam papers for internal or external review.
 

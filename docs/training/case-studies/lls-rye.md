@@ -9,7 +9,7 @@ tags:
 
 Department of Language and Linguistic Science<br />Ellie Rye
 
-Ellie Rye provided an overview of the design and delivery of the VLE site for the Structure of English module, a stage one introductory module taught via a one-hour lecture and a one-hour seminars each week, and assessed via an open piece of coursework between weeks four and seven, and a five hour online exam in the revision and assessment period.
+Ellie Rye provides an overview of the design and delivery of the VLE site for the Structure of English module, a stage one introductory module taught via a one-hour lecture and a one-hour seminar each week, and assessed via an open piece of coursework between weeks four and seven along with a five hour online exam in the revision and assessment period.
 
 Ellie provided a walkthrough of the module site, describing how it was built using the department Ultra template for consistency of structure and navigation to include:
 
@@ -17,7 +17,7 @@ Ellie provided a walkthrough of the module site, describing how it was built usi
 - learning modules for each week providing materials and activities related to the lectures and seminars (e.g. preparatory work before seminars and suggested answers afterwards)
 - Summaries of the essential, recommended and background reading material linked through to the module reading list (Leganto)
 
-The discussion board tool was also used to provide an opportunity for Q&A related to each week and to the assignments.  There was minimal engagement with these boards, however, prompting the module team to review future use. Quizzes were also provided drawn from an existing pool of quiz materials.  These were made available towards the end of the module for revision purposes.  Ellie provided an analysis of quiz usage. Although around half the students engaged with the quizzes there was only a weak positive correlation between the number of quizzes attempted and assessment outcomes. Again this has prompted a review of their use with plans for phased release of quizzes related to the weekly contents. 
+The discussion board tool was also used to provide an opportunity for Q&A related to each week and to the assignments.  There was minimal engagement with these discissions, however, prompting the module team to review future use. Quizzes were also provided drawn from an existing pool of quiz materials.  These were made available towards the end of the module for revision purposes.  Ellie provided an analysis of quiz usage. Although around half the students engaged with the quizzes there was only a weak positive correlation between the number of quizzes attempted and assessment outcomes. Again this has prompted a review of their use with plans for phased release of quizzes related to the weekly contents. 
 
 Responses to the module evaluation suggested satisfaction with the VLE site and online resources.
 
