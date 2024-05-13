@@ -1,8 +1,7 @@
 # Howdy! This is the file that powers the site.
 # Any line with # at the start is "commented out"/hidden - used for instructions, details or draft stuff.
 
-# Navigation structure
-
+# Navigation 
 nav:
   - Learn Ultra VLE:
     - ultra/index.md
@@ -158,6 +157,7 @@ nav:
     - Taking screenshots: help/screenshots.md
     - Finding Usernames: help/usernames.md
     - Finding YCodes: help/ycodes.md
+    - Intro for new staff: help/new-staff.md
     - International access: help/international-access.md
     - Site index: help/site-index.md
   
