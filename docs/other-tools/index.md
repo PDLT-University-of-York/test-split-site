@@ -8,31 +8,55 @@
 
     Our [Tools at a glance guide](https://bit.ly/yorktools) categorises the learning technology tools available at the University by theme or approach to learning, helping you to find the tool most suited to support your needs.
 
-## Tools we support
+## Our tools
 
 <div class="grid cards" markdown>
 
+- :material-laptop: **[Learn Ultra (VLE)](../ultra/index.md)**
+
+    ---
+
+    The VLE used by most departments (including Hull York Medical School).
+
+- :material-video: **[Panopto](../panopto/index.md)**
+
+    ---
+    
+    The Lecture Capture and video creation and sharing tool used by most departments.
+
+- :material-laptop: **[Canvas (VLE)](../other-tools/canvas.md)**
+
+    ---
+    
+    The VLE used for York Online programmes.
+    
 - :material-book-open-outline: **[Reading List](../other-tools/reading-list.md)**
 
-    Collate module readings within VLE sites and inform Library stock levels.
-
-- :material-laptop: **[Canvas VLE](../other-tools/canvas.md)**
-
-    The VLE used for York Online programmes.
+    ---
+    
+    Collate module readings within VLE sites and inform Library stock levels (with the Reading List team).
 
 - :material-human-male-board-poll: **[Mentimeter](../other-tools/mentimeter/index.md)**
     
-    Add polling, knowledge checks and other interaction to presentations or sessions.
+    ---
+    
+    Polling, knowledge checks and other interactions.
 
 - :fontawesome-brands-padlet: **[Padlet](../other-tools/padlet.md)**
+    
+    ---
     
     A flexible web-based tool for pinboards, discussion and project work.
 
 - :material-hammer-wrench: **[Xerte](../other-tools/xerte.md)**
     
+    ---
+    
     Create interactive online content.
 
 - :material-poll: **[System data & analytics](../other-tools/analytics.md)**
+    
+    ---
     
     Explore interaction data and usage reporting for our tools.
 
@@ -44,15 +68,26 @@
 
 - :fontawesome-brands-google: **[Google Workspace tools](https://subjectguides.york.ac.uk/google)**
 
-    Google Drive, GMail, Google Calendar and more. [IT Services]
+    Google Drive, GMail, Google Calendar and more.
+    Supported by: IT Services
 
 - :simple-zoom: **[Zoom](https://www.york.ac.uk/it-services/tools/zoom/)**
 
-    Web-based video conferencing. [IT Services]
+    Web-based video conferencing.
+    Supported by: IT Services
 
 - :material-calendar-clock: **[Timetable](https://timetable.york.ac.uk/help)**
 
-    Timetabling teaching activities and requesting lecture capturing [Timetabling]
+    Timetabling teaching activities and requesting lecture capturing
+    Supported by: Timetabling
+
+- :material-laptop: **Moodle (VLE)**
+
+    The VLE used by the Department of Mathematics.
+
+- :material-video: **Echo360**
+
+    The Lecture Capture and video creation and sharing tool used by Hull York Medical School.
 
 </div>
 
