@@ -3,14 +3,17 @@ tags:
     - Case study
     - Interactive content
     - Panopto
-
 ---
 
 # Case study: Enhancing in-person learning opportunities by using recorded media
 
 York Law School<br />Scott Slorach
 
-Scott Slorach describes how current approaches to learning in a first year skills module in the Law School have been shaped by resources and activities developed during the remote teaching phases of the COVID-19 pandemic. Prior to the pandemic, learning activities on the module were built around an introductory plenary session at the start of each block of the module, followed by a workshop providing opportunities for practice, reflection and feedback.  During the pandemic, the introductory plenary was replaced by online resources built on short video recordings.  The continued use of these resources has allowed for a plenary session to be re-introduced, but this is now used at the end of each block for consolidation, reflection and feed-forward activities.  This is serving to increase the overall number of learning points during each block of the module and to increase the load of active rather than passive learning.
+Scott Slorach describes how current approaches to learning in a first year skills module in the Law School have been shaped by resources and activities developed during the remote teaching phases of the COVID-19 pandemic.
+
+Prior to the pandemic, learning activities on the module were built around an introductory plenary session at the start of each block of the module, followed by a workshop providing opportunities for practice, reflection and feedback. During the pandemic, the introductory plenary was replaced by online resources built on short video recordings.
+
+The continued use of these resources has allowed for a plenary session to be re-introduced, but this is now used at the end of each block for consolidation, reflection and feed-forward activities. This is serving to increase the overall number of learning points during each block of the module and to increase the load of active rather than passive learning.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=354323bb-698d-49ee-aa1f-aecc00f9063d&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Enhancing in-person learning opportunities by using recorded media - Scott Slorach" ></iframe>

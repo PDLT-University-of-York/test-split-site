@@ -1,4 +1,3 @@
-
 ---
 tags:
     - Case study
@@ -10,7 +9,7 @@ tags:
 
 The International Pathway College<br />Phil Martin and Dawn Genner Lowson
 
-Phil Martin and Dawn Genner Lowson outline how they are continuing to use Xerte to create interactive materials with built-in feedback to support asynchronous learning.  Students are provided with preparatory information and tasks within Xerte objects and they are expected to engage with these prior to live sessions. This support a 'flipped classroom' model, allowing more time to be devoted to discussion and a focus on higher-order thinking skills.
+Phil Martin and Dawn Genner Lowson outline how they are continuing to use Xerte to create interactive materials with built-in feedback to support asynchronous learning. Students are provided with preparatory information and tasks within Xerte objects and they are expected to engage with these prior to live sessions. This support a 'flipped classroom' model, allowing more time to be devoted to discussion and a focus on higher-order thinking skills.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d87fc4fc-b05a-4ee3-af92-aecc00cf2948&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Using Xerte to enhance asynchronous learning - Phil Martin and Dawn Genner Lowson" ></iframe>

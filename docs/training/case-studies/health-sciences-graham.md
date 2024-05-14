@@ -4,15 +4,15 @@ tags:
     - Ultra
 ---
 
-# Case study: The VLE and Open Educational Resources (Openstax)
+# Case study: Ultra and Open Educational Resources (Openstax)
 
 Department of Health Sciences<br />David Graham
 
-David Graham describes how he incorporated Open Educational resources (OER) within the year 1 Bioscience and Pharmacology module to support for students with varying levels of prior knowledge and understanding. He integrated sections of the OpenStax Anatomy and Physiology textbook within the weekly structure of the module.
+David Graham describes how he incorporated Open Educational resources (OER) within the year 1 Bioscience and Pharmacology module to support students with varying levels of prior knowledge and understanding. He integrated sections of the OpenStax Anatomy and Physiology textbook within the weekly structure of the module.
 
-Openstax is a collection of peer-reviewed OER textbooks developed by Rice University in Texas, USA.  The textbooks provide instructor and student support materials, and all resources are developed with digital accessibility in mind.  
+Openstax is a collection of peer-reviewed OER textbooks developed by Rice University in Texas, USA. The textbooks provide instructor and student support materials, and all resources are developed with digital accessibility in mind.  
 
-David described how he incorporated the text book using a Blackboard cartridge.  This provided pages of content with descriptive links through to specific sections of the textbook.  He was then able to adapt this content by adding narrative text to make connections to specific module aims.
+David described how he incorporated the text book using a Blackboard cartridge. This provided pages of content with descriptive links through to specific sections of the textbook. He was then able to adapt this content by adding narrative text to make connections to specific module aims.
 
 Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e831a1bd-cee8-444b-8b23-b0ad011db140&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Blackboard and Openstax" ></iframe>
 

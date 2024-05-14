@@ -5,11 +5,11 @@ tags:
     - Ultra
 ---
 
-# Case study: VLE Test for assessment
+# Case study: Ultra Test for assessment
 
 Department of Computer Science<br />Tommy Yuan
 
-Tommy Yuan shares his experiences of using the VLE test tool for formative and summative assessment, an assessment method which has increased in use within the Computer Science Department recently.
+Tommy Yuan shares his experiences of using the Ultra test tool for formative and summative assessment, an assessment method which has increased in use within the Computer Science Department recently.
 
 Key reported advantages for staff include:
 

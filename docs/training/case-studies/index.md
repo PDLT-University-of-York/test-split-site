@@ -36,7 +36,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [Developing the ‘Business Planning and Sustainable Entrepreneurship’ module](../../training/case-studies/sbs-sinclair.md)
 - [Developing the ‘Structure of English’ module site](../../training/case-studies/lls-rye.md)
 - [Enhancing in-person learning opportunities by using recorded media](../../training/case-studies/law-slorach2.md)
-- [The longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module](../../training/case-studies/hoa-sinclair2.md)
+- [The longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module](../../training/case-studies/hoa-sinclair.md)
 
 ## Interactive content
 

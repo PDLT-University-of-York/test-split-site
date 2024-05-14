@@ -1,4 +1,3 @@
-
 ---
 tags:
     - Case study

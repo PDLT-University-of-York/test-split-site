@@ -1,21 +1,21 @@
 ---
 tags:
     - Case study
-    - Ultra
+    - Assessment
+    - Communication
 ---
 
 # Case study: Designing appropriate assessments
 
 York Law School<br />Scott Slorach
 
-Scott Slorach describes how a third year undergraduate law module assessment is designed to allow students to 'flourish' by exploring their interests and personalising learning and assessment whilst demonstrating relevant practical skills as well as knowledge.  In the two-part assessment, students are asked to:
+Scott Slorach describes how a third year undergraduate law module assessment is designed to allow students to 'flourish' by exploring their interests and personalising learning and assessment whilst demonstrating relevant practical skills as well as knowledge. In the two-part assessment, students are asked to:
 
 1. Collaborate to analyse and explore a problem incorporating individual research (30%).
 
 2. Propose two practical outputs based on this analysis and chosen to demonstrate the learning outcomes (70%). (e.g. journal article, case analysis, training materials for specialist and non-specialist audiences, op-ed newspaper piece, pitch for a radio programme, parliamentary committee submission)
 
-This gives students freedom to explore their interests and preferences whilst also encouraging a sense of control and ownership over how the learning outcomes can be met and demonstrated.  Scott describes the assessment, its rationale and its outcomes.
-
+This gives students freedom to explore their interests and preferences whilst also encouraging a sense of control and ownership over how the learning outcomes can be met and demonstrated. Scott describes the assessment, its rationale and its outcomes.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=55e9b22c-0b13-4289-9a08-ad56009d986e&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Designing Appropriate Assessments" ></iframe>

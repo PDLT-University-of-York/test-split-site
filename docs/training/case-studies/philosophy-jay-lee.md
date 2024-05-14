@@ -2,19 +2,19 @@
 tags:
     - Case study
     - Assessment
-
+    - Communication
 ---
 
-# Case study: Philosophy and Society Podcasts for assessed groupwork
+# Case study: Philosophy and Society podcasts for assessed groupwork
 
 Department of Philosophy<br />Chris Jay and Barry Lee
 
-Chris Jay and Barry Lee outline outline their approach to diversifying assessment in the Undergraduate degree programme by introducing a group-based podcast assessment.  They outline the rationale for the approach, the processes they undertook, the outcomes of consultation they carried out with students and other departments to design the assessment, the ways in which they supported the students undertaking groupwork activities, and the outcomes of the initiative including feedback from their students.
+Chris Jay and Barry Lee describe their approach to diversifying assessment in the Undergraduate degree programme by introducing a group-based podcast assessment. They outline the rationale for the approach, the processes they undertook, the outcomes of consultation they carried out with students and other departments to design the assessment, the ways in which they supported the students undertaking groupwork activities, and the outcomes of the initiative including feedback from their students.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ad061b32-b8ce-407d-869f-ad56009d98e4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Philosophy and Society Podcasts for assessed groupwork" ></iframe>
 
-[Philosophy and Society Podcasts for assessed groupwork (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ad061b32-b8ce-407d-869f-ad56009d98e4) (11 mins 39 secs, UoY log-in required)
+[Philosophy and Society podcasts for assessed groupwork (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ad061b32-b8ce-407d-869f-ad56009d98e4) (11 mins 39 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 

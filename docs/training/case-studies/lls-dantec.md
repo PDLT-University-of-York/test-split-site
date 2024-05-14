@@ -10,9 +10,9 @@ Department of Language and Linguistic Science<br />Cathy Dantec
 
 ## Summary
 
-Cathy Dantec in the Department of Language and Linguistic Science had observed that some of her first year students were having difficulty adjusting to the level of independent learning required at university, as well as the different language norms and writing styles needed for academic writing. She wanted to use a blend of technology and face-to-face practice to address these issues. In particular, Cathy wanted to provide students with a means to better internalise the change in their thinking that needs to occur for progression in Higher Education.
+Cathy Dantec in the Department of Language and Linguistic Science had observed that some of her first year students were having difficulty adjusting to the level of independent learning required at university, as well as the different language norms and writing styles needed for academic writing. She wanted to use a blend of technology and face-to-face practice to address these issues. In particular, Cathy wanted to provide students with a means independent learning required at university.
 
-Cathy chose to address these needs using a dialogical design based on the creation of feedback interactions between instructors and individual students.  The feedback interactions were conducted both face-to-face and also mediated via a cloud-based assignment mark-up tool (Google Docs). The overall aims were to:
+Cathy chose to address these needs using a dialogical design based on the creation of feedback interactions between instructors and individual students. The feedback interactions were conducted both face-to-face and also mediated via a cloud-based assignment mark-up tool (Google Docs). The overall aims were to:
 
 - Improve students’ transition to university study, promoting self-regulation.
 - Provide a framework for investigating effective feedback, from the perspective of both tutors and students.

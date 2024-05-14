@@ -2,14 +2,13 @@
 tags:
     - Case study
     - Assessment
-
 ---
 
-# Case study: Portfolio approaches in the Undergraduate Global Development degree programme
+# Case study: Portfolio approaches in the undergraduate Global Development degree programme
 
 Department of Politics<br />Judith Krauss
 
-Judith Krauss outlines how portfolio approaches are used within the Undergraduate Global Development degree programme by focusing on the assessment for the first year undergraduate module ‘Foundations of Global Development’. This module is part of a series of core modules at each level of the course involving problem-based learning (PBL) approaches.  The portfolio assessment is intended to develop students’ transferable skills by focusing specifically on engagement in the PBL process.  The assessment includes marks for contributions and personal reflections alongside an individual essay and a group-based report and presentation.  Judith reports challenges involved in developing frameworks and criteria to support the assessment and dealing with the increased burden on staff of increased administration and transactional costs of a more diverse and complex form of assessment.  However, this has had benefits for students in being able to learn and be assessed in a different way, balancing individual and group learning and placing increased focus on reflection and the individual student development journey.
+Judith Krauss outlines how portfolio approaches are used within the Undergraduate Global Development degree programme by focusing on the assessment for the first year undergraduate module ‘Foundations of Global Development’. This module is part of a series of core modules at each level of the course involving problem-based learning (PBL) approaches. The portfolio assessment is intended to develop students’ transferable skills by focusing specifically on engagement in the PBL process. The assessment includes marks for contributions and personal reflections alongside an individual essay and a group-based report and presentation. Judith reports challenges involved in developing frameworks and criteria to support the assessment and dealing with the increased burden on staff of increased administration and transactional costs of a more diverse and complex form of assessment. However, this has had benefits for students in being able to learn and be assessed in a different way, balancing individual and group learning and placing increased focus on reflection and the individual student development journey.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e6e1724-736c-462b-b21c-b164010235fa&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Portfolio approaches in the Undergraduate Global Development degree programme" ></iframe>

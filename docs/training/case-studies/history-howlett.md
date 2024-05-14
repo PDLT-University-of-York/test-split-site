@@ -8,7 +8,7 @@ tags:
 
 Department of History<br />Jon Howlett
 
-Jon Howlett gives an overview of how he developed the VLE site for the new ‘Arguments and Analysis’ module in the Department of History.  He  focuses on three key challenges that shaped the approaches taken:
+Jon Howlett gives an overview of how he developed the Ultra site for the new ‘Arguments and Analysis’ module in the Department of History.  He  focuses on three key challenges that shaped the approaches taken:
 
 - Supporting a diverse student cohort
 

@@ -1,14 +1,13 @@
 ---
 tags:
     - Case study
-
 ---
 
-# Case study: The longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module
+# Case study: The longer-term benefits of COVID-era flipped classroom techniques for a core PGT MA skills module
 
 Department of History of Art<br />Nicola Sinclair
 
-Nicola Sinclair outlines some of the longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module in the History of Art Department.  During the remote phases of the Pandemic, Nicola shifted from a workshop-only teaching structure to a blend of online activities and shorter workshops carried out synchronously online.  Since the return to campus, she has continued with this structure, asking students to complete short online tasks and bring specific outputs to the workshops for discussion and group work activities.  Whilst feedback suggested that students valued longer face-to-face workshops, it also showed that they appreciated the balance between more supported independent and face to face work.
+Nicola Sinclair outlines some of the longer-term benefits of COVID-era flipped classroom techniques for a core PGT MA skills module in the History of Art Department. During the remote phases of the Pandemic, Nicola shifted from a workshop-only teaching structure to a blend of online activities and shorter workshops carried out synchronously online. Since the return to campus, she has continued with this structure, asking students to complete short online tasks and bring specific outputs to the workshops for discussion and group work activities. Whilst feedback suggested that students valued longer face-to-face workshops, it also showed that they appreciated the balance between more supported independent and face to face work.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bf614389-0afc-47bb-a0e0-aec40112aba5&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="The longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module" ></iframe>
