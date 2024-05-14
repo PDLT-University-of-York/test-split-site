@@ -45,6 +45,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 ## Panopto
 
 - [Enhancing in-person learning opportunities by using recorded media](../../training/case-studies/law-slorach2.md)
+- [The challenges and opportunities of pre-recorded lecture content](../../training/case-studies/archaeology-spikins.md)
 
 ## Other tools
 
