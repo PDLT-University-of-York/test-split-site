@@ -7,7 +7,7 @@ tags:
 
 # Case study: Video feedback for students in Psychology
 
-Department of PhPsychology<br />Sally Quinn
+Department of Psychology<br />Sally Quinn
 
 Sally Quinn outlines her use of video for feedback to her project students.  After providing written feedback comments on three sections of project drafts, Sally brings the work up on screen and records further elaboration on key aspects.  These recordings vary in focus and length depending on individual needs but the videos are usually a maximum of 10-15 minutes in length. She then makes the written comments and the recordings available to students via a private folder in google drive in advance of a feedback meeting.  Sally says she believes that the time needed to create the feedback recordings has a direct pay-off in increased student engagement with the feedback and increased efficiency of face-to-face feedback meetings. She found that students were more likely to come to these meetings fully prepared, the quality of discussion improved and the need for further clarification afterwards was reduced.  Students appreciated the further elaboration on key comments and valued having a permanent record of both the written and the verbal comments to draw on both immediately for the meeting and later when further developing their project work.
 
