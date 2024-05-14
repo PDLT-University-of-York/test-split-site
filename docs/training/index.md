@@ -41,6 +41,10 @@
 
 </div>
 
+## New staff member?
+
+See our [information for new staff](../help/new-staff.md) for a quick tour of our tools and what we offer.
+
 <!-- ## Events calendar
 
 EMBED HERE (or on its own page?) -->
