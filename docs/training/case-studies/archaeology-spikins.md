@@ -12,7 +12,7 @@ Penny Spikins reflects on her experiences of recording pre-recorded lecture cont
 
 Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="The challenges and opportunities of pre-recorded lecture content" ></iframe>
 
-[The challenges and opportunities of pre-recorded lecture content (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4) (15 mins 25 secs, UoY log-in required)
+[The challenges and opportunities of pre-recorded lecture content (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4) (13 mins 58 secs, UoY log-in required)
 
 
 ??? Abstract "Transcript"
