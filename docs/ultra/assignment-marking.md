@@ -31,7 +31,7 @@ See Blackboard's guide to [Flex Grading Assignments](https://help.blackboard.com
 
 If assignments to the same submission point are divided between multiple markers, this can be managed in a few ways:
 
-- Markers **can see** other marks: [set up marking groups](../ultra/course-groups.md) and each marker can [filter their gradebook view](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Views_of_the_Gradebook#:~:text=The%20grid%20view%20provides%20an%20overview) to see just their group(s)
+- Markers **can see** other marks: [set up marking groups](../ultra/course-groups.md) and each marker can [filter their gradebook view](../ultra/gradebook.md/#filter-the-gradebook-view) to see just their group(s)
 - Markers **must not see** other marks: use [parallel grading functionality](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments/Grade_Assignments/ULTRA_Parallel_Grading#ultra_workflow)
 
 !!! Tip

@@ -32,7 +32,7 @@ nav:
       - Embed content: ultra/embed-content.md
       - Upload HTML: ultra/html-objects.md
       - Maths content: ultra/maths.md
-      # - Gradebook: ultra/gradebook.md
+      - Gradebook: ultra/gradebook.md
       # - Accessible Ultra content: accessibility/accessible-ultra-content.md
     - Content management:
       - Content visibility: ultra/content-visibility.md
@@ -101,7 +101,7 @@ nav:
       - Ultra Assignment | marking: ultra/assignment-marking.md
       - Ultra Test | quizzes & exams: ultra/test.md
       - Ultra Journal: ultra/journal.md
-      # - Ultra Gradebook: ultra/gradebook.md
+      - Ultra Gradebook: ultra/gradebook.md
       # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
     # - Panopto assessment submissions: panopto/submissions.md
     - Group assignments: assessment/group-assignment.md
