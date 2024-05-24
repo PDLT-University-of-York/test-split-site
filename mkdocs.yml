@@ -193,7 +193,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: custom #UoY branding - dark blue
-      accent: custom #UoY branding - light blue
+      accent: custom #UoY branding - purple
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode

@@ -2,16 +2,13 @@
 
 :root {
     --md-primary-fg-color: #001E82;
-    --md-accent-fg-color: #00C2DE;
+    --md-accent-fg-color: #3C0032;
     /* --md-primary-bg-color--light: #ffffffd1 */
-}
-
-[data-md-color-scheme="slate"] {
-    --md-hue: 200; /* [0, 360] */
 }
 
 .md-nav__item .md-nav__link--active {
     color: var(--md-accent-fg-color);
+    font-weight: bold;
 }
 
 /* Remove Announcement banner margin */
@@ -42,6 +39,11 @@ a {
     text-decoration: underline;
 }
 
+nav a {
+    text-decoration: none;
+
+}
+
 .md-typeset a {
     padding: 0.15em;
     color: var(--md-accent-fg-color);
@@ -57,8 +59,8 @@ a {
     font-size: inherit;
 }
 
-nav a {
-    text-decoration: none;
+.md-typeset .md-button.toggle.closed {
+    color: var(--md-accent-fg-color);
 }
 
 /* grid cards styling */
@@ -142,7 +144,7 @@ background-color: var(--md-code-hl-string-color);
  }
 .md-typeset .admonition.recommended,
 .md-typeset details.recommended {
-    border-color: var(--md-accent-fg-color);
+    border-color: var(--md-code-hl-keyword-color);
 }
 .md-typeset .recommended > .admonition-title,
 .md-typeset .recommended > summary {
@@ -150,7 +152,7 @@ background-color: var(--md-code-hl-string-color);
 }
 .md-typeset .recommended > .admonition-title::before,
 .md-typeset .recommended > summary::before {
-    background-color: var(--md-accent-fg-color);
+    background-color: var(--md-code-hl-keyword-color);
     -webkit-mask-image: var(--md-admonition-icon--recommended);
             mask-image: var(--md-admonition-icon--recommended);
 }
