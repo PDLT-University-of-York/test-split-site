@@ -3,7 +3,15 @@
 :root {
     --md-primary-fg-color: #001E82;
     --md-accent-fg-color: #3C0032;
-    /* --md-primary-bg-color--light: #ffffffd1 */
+    --md-code-hl-function-color--light: #a846b91a;
+    --md-admonition-essential: #00C2DE; 
+    --md-admonition-essential--light: #00C2DE1a;
+    --md-admonition-recommended: #78BF26;
+    --md-admonition-recommended--light: #78BF261a;
+    --md-admonition-principle: #E31A82;
+    --md-admonition-principle--light: #E31A821a;
+    --md-admonition-casestudy: #FD5000;
+    --md-admonition-casestudy--light: #FD50001a;
 }
 
 .md-nav__item .md-nav__link--active {
@@ -41,7 +49,6 @@ a {
 
 nav a {
     text-decoration: none;
-
 }
 
 .md-typeset a {
@@ -49,18 +56,20 @@ nav a {
     color: var(--md-accent-fg-color);
 }
 
+.md-typeset .md-button.toggle {
+    color: var(--md-accent-fg-color);
+}
+
 .md-typeset a:focus,
-.md-typeset a:hover {
+.md-typeset a:hover,
+.md-typeset .md-button.toggle:focus,
+.md-typeset .md-button.toggle:hover {
     background-color: var(--md-accent-fg-color);
     color: var(--md-accent-bg-color);
 }
 
 .md-typeset .admonition, .md-typeset details, .md-typeset details * {
     font-size: inherit;
-}
-
-.md-typeset .md-button.toggle.closed {
-    color: var(--md-accent-fg-color);
 }
 
 /* grid cards styling */
@@ -125,15 +134,17 @@ nav a {
 }
 .md-typeset .admonition.essential,
 .md-typeset details.essential {
-border-color: var(--md-code-hl-string-color);
+border-color: var(--md-admonition-essential);
+/* var(--md-code-hl-string-color); */
 }
 .md-typeset .essential > .admonition-title,
 .md-typeset .essential > summary {
-background-color: var(--md-typeset-ins-color);
+background-color: var(--md-admonition-essential--light);
+/* var(--md-typeset-ins-color); */
 }
 .md-typeset .essential > .admonition-title::before,
 .md-typeset .essential > summary::before {
-background-color: var(--md-code-hl-string-color);
+background-color: var(--md-admonition-essential);
 -webkit-mask-image: var(--md-admonition-icon--essential);
         mask-image: var(--md-admonition-icon--essential);
 }
@@ -144,15 +155,17 @@ background-color: var(--md-code-hl-string-color);
  }
 .md-typeset .admonition.recommended,
 .md-typeset details.recommended {
-    border-color: var(--md-code-hl-keyword-color);
+    border-color:  var(--md-admonition-recommended);
+    /* var(--md-code-hl-keyword-color); */
 }
 .md-typeset .recommended > .admonition-title,
 .md-typeset .recommended > summary {
-    background-color: var(--md-accent-fg-color--transparent);
+    background-color: var(--md-admonition-recommended--light);
+    /* var(--md-code-hl-color--light); */
 }
 .md-typeset .recommended > .admonition-title::before,
 .md-typeset .recommended > summary::before {
-    background-color: var(--md-code-hl-keyword-color);
+    background-color: var(--md-admonition-recommended);
     -webkit-mask-image: var(--md-admonition-icon--recommended);
             mask-image: var(--md-admonition-icon--recommended);
 }
@@ -163,15 +176,17 @@ background-color: var(--md-code-hl-string-color);
 }
 .md-typeset .admonition.principle,
 .md-typeset details.principle {
-border-color: #7c4dff;
+border-color:  var(--md-admonition-principle);
+/* var(--md-code-hl-function-color) */
 }
 .md-typeset .principle > .admonition-title,
 .md-typeset .principle > summary {
-background-color: #7c4dff1a;
+background-color: var(--md-admonition-principle--light);
+/* var(--md-code-hl-function-color--light) */
 }
 .md-typeset .principle > .admonition-title::before,
 .md-typeset .principle > summary::before {
-background-color:#7c4dff;
+background-color: var(--md-admonition-principle);
 -webkit-mask-image: var(--md-admonition-icon--principle);
         mask-image: var(--md-admonition-icon--principle);
 }
@@ -183,15 +198,15 @@ background-color:#7c4dff;
 }
 .md-typeset .admonition.case-study,
 .md-typeset details.case-study {
-border-color: #f50057;
+border-color: var(--md-admonition-casestudy);
 }
 .md-typeset .case-study > .admonition-title,
 .md-typeset .case-study > summary {
-background-color: #f500571a;
+background-color: var(--md-admonition-casestudy--light);
 }
 .md-typeset .case-study > .admonition-title::before,
 .md-typeset .case-study > summary::before {
-background-color: #f50057;
+background-color:var(--md-admonition-casestudy);
 -webkit-mask-image: var(--md-admonition-icon--case-study);
         mask-image: var(--md-admonition-icon--case-study);
 }
