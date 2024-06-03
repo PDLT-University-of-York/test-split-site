@@ -3,33 +3,37 @@ tags:
     - Key guide - teaching
     - Key guide - admin
     - Ultra
-
 ---
 
 # Access your sites
 
 !!! Summary
 
-    Explore the various ways to access your Ultra sites through the Courses and Communities pages which appear in the main Ultra navigation menu.
+    Tips & tricks to quickly access your key sites.
 
 ## Course sites
 
-The Courses page contains:
+Access module sites through the Courses page. By default, this lists every site that you are enrolled on.
 
-- **module sites**
-- Academic Integrity Tutorial and Turnitin Tutorial
-- other module-adjacent support sites, eg. department-specific academic skills sites
-- programme or course handbook sites
+Use the options to select relevant sites and customise the page appearance:
 
-You can customise which sites are shown and how the page appears:
+![Customisation options on the Courses page (described in list)](images/access-sites-courses-page.png)
 
-1. **Filter** courses by academic year: the default **Current Courses** list shows all your sites from all years organised alphabetically. Click Current Courses and select a specific year to see only courses from that year.
-2. Change **layout**: choose list or grid layout
-3. **Search** courses to quickly find the one you need
-4. Adjust **how many courses** are shown per page
-5. **Favourite** a site to pin it to the top of the page by clicking the star icon.
+1. **Layout**: select list or grid layout (grid layout contains image thumbnails)
+2. **Search** courses by module/site name or keyword </br>
+![decorative](images/access-sites-search.png)
+3. **Terms**: select a specific academic year </br>
+![decorative](images/access-sites-terms.png)
+4. **Filters**: various course types (which aren't used at UoY)
+5. **Items per page**: Show 25, 50 or 100 sites per page
+6. **Favourite** sites with the star icon to pin to the top of the default all sites list and  any applicable search/filter results. </br>
+![decorative](images/access-sites-favourite.png)
 
-![Customisation options on the Courses page (described in text)](images/access-sites-courses-page.png)
+!!! Tip
+
+    These settings and filters are maintained across log-ins and different devices, so you don't have to repeat them every time.
+
+You can also bookmark relevant sites in your internet browser for easy access.
 
 ## Community sites
 
