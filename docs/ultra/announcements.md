@@ -44,35 +44,17 @@ Announcements are sent to all enrolled users (including staff). To send targeted
 2. At the **top right corner** of the Course Announcement page, click the **plus icon** to create an announcement.
 <br> ![Decorative](images/announcement-plus.png)
 3. On the **New Announcement** page, enter a descriptive title and the message text of your announcement. You can use the toolbar to format text, embed multimedia, and attach files (but remember that any module content included must also be added to the site itself).
-<br> ![Decorative](images/announcement-edit.png)
-4. To display an announcement at specific times, click **Schedule Announcement** then set Show on/Hide on dates.
-<br> ![Schedule announcement](images/announcement-schedule.png "Schedule")  
-5. You can use **Send an email copy to recipients** for critical announcements (e.g. changes of exam schedule). Students will receive emails at the address associated with their VLE account, even if they don’t log into the course. See [What emails do announcements generate?](../ultra/announcements.md/#what-emails-do-announcements-generate) below for more details.
-<br> ![Decorative](images/announcement-send-email.png)
-
-    !!! Tip
-
-        It is not currently possible to send an email copy of scheduled announcements.
-
-6. Click **Save**. Your announcement is saved as a draft on your Course Announcements page.
+4. Optional features: **Send an email copy** (See [What emails do announcements generate?](../ultra/announcements.md/#what-emails-do-announcements-generate) below for more details), or **Schedule annoucement** to automatically post later. [Note: a future update will allow both options to be chosen]
+5. Click **Post** to send immediately, or  **Save draft** to review later via the Announcments panel.
 <br> ![Decorative](images/announcement-save.png)
-7. To post your announcement immediately, select **Post Now**. If you scheduled your announcement to show on a future date, Ultra will automatically post the announcement at the scheduled time. Note: if the site is not open for students, the Post Now button will be greyed out.
-<br> ![Decorative](images/announcement-post.png)
-
-You can also watch Blackboard Help's guide to creating Announcements: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5IrqfVswb0" title="YouTube video Create Announcements in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Create Announcements in the Ultra Course View - Bb Help [YouTube]](https://www.youtube.com/watch?v=h5IrqfVswb0&t=)
 
 ## Edit, copy or delete an announcement
 
-1. Find the announcement you want to edit, copy or delete. On the right, click the **three dots** > **Edit/Copy/Delete.**
-
-    ![Decorative](images/announcement-edit-copy-delete.png)
-
-!!! Warning
-
-     This feature only works before you 'post' your announcement. Once 'posted', the announcement can't be edited to then send an email, a new copy of the announcement must be made.
-
+1. Select **Announcements** in the top navigation menu.
+<br>![Decorative](images/announcement-nav.png)
+2. Find the announcement you want to edit, copy or delete. On the right, click the **three dots** > **Edit/Copy/Delete.**
+<br>![Decorative](images/announcement-edit-copy-delete.png)
+3. If editing, follow steps 3-5 above to make your edits.
 
 ## What emails do announcements generate?
 The Announcement tool on Ultra VLE sites can email out the announcement in several different ways to different users, depending on a number of factors. See [our summary guidance on Announcements Emails](https://docs.google.com/document/d/1FAmb1tOh7zPL930c7f3_kWBYCCtXXIqTpKx4e3K57KA/edit?usp=sharing) for details, and key recommendations/ tips for tasks such as: 
