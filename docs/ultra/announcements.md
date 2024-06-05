@@ -40,13 +40,13 @@ Announcements are sent to all enrolled users (including staff). To send targeted
 ## Create an announcement
 
 1. Select **Announcements** in the top navigation menu.
-<br> ![Decorative](images/announcement-nav.png)
+<br>![Decorative](images/announcement-nav.png)
 2. At the **top right corner** of the Course Announcement page, click the **plus icon** to create an announcement.
-<br> ![Decorative](images/announcement-plus.png)
+<br>![Decorative](images/announcement-plus.png)
 3. On the **New Announcement** page, enter a descriptive title and the message text of your announcement. You can use the toolbar to format text, embed multimedia, and attach files (but remember that any module content included must also be added to the site itself).
 4. Optional features: **Send an email copy** (See [What emails do announcements generate?](../ultra/announcements.md/#what-emails-do-announcements-generate) below for more details), or **Schedule annoucement** to automatically post later. [Note: a future update will allow both options to be chosen]
-5. Click **Post** to send immediately, or  **Save draft** to review later via the Announcments panel.
-<br> ![Decorative](images/announcement-save.png)
+5. Click **Post** to send immediately, or  **Save draft** to review later via the Announcements panel.
+<br>![Decorative](images/announcement-create.png)
 
 ## Edit, copy or delete an announcement
 
