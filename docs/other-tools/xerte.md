@@ -40,6 +40,19 @@ There are two main ways to use Xerte objects:
 
 </div>
 
+!!! case-study "Case study: Using Xerte to enhance asynchronous learning"
+
+    Phil Martin and Dawn Genner Lowson outline how they use Xerte to create interactive materials with built-in feedback to support asynchronous learning.
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d87fc4fc-b05a-4ee3-af92-aecc00cf2948&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Using Xerte to enhance asynchronous learning - Phil Martin and Dawn Genner Lowson" ></iframe>
+
+    [Using Xerte to enhance asynchronous learning (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d87fc4fc-b05a-4ee3-af92-aecc00cf2948) (2 mins 47 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/ipc-martin-genner.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+
 ## Interactivity & content types
 
 ### Interactive tasks
