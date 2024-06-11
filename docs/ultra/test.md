@@ -31,12 +31,6 @@ Most question types are automatically marked and so don't need input from teachi
 - formative tests/practice exams
 - summative exams, either online or in-person (consult us first)
 
-!!! Danger
-
-    You **must** discuss with the Digital Education Team well in advance if you want to run a summative and/or synchronous exam (in person or online) using Ultra Test.
-    
-    [Contact us](mailto:vle-support@york.ac.uk) to arrange a consultation.
-
 ## Robust assessments using Test
 
 Test has various options that can reduce opportunities for collusion and help build a robust assessment: 
@@ -45,6 +39,17 @@ Test has various options that can reduce opportunities for collusion and help bu
 - Question banks and pools: present a random selection of questions for each student.
 - Multiple Choice and Matching questions: randomise the order of answer options.
 - Calculated formula questions: use randomised values to automatically generate different questions for each student.
+
+!!! case-study "Case study: Ultra Test for assessment"
+
+    Tommy Yuan shares his experiences of using the Ultra test tool for formative and summative assessment. Topics include how it can save time for lecturers and administrators, and reduce the likelihood of collusion and academic misconduct.
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0ed26b92-2446-45e4-9815-b141010d308f&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Tommy Yuan: VLE Test for assessment" ></iframe>
+
+    [VLE Test for assessment (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ed26b92-2446-45e4-9815-b141010d308f) (6 mins 59 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/cs-yuan.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
 
 ## Question types
 
@@ -74,18 +79,21 @@ For more information on which question types are available and how to use them, 
 
     If you are setting up a summative Test, also review this more detailed guide:   
     [Staff Help: Considerations Around & Setting up a **Summative** VLE Test](https://docs.google.com/document/d/1sn85oHTEuxNuw3_6R_TqdGlgrlWAgyCEtv7FXyd0his/edit?usp=sharing)
+    
+    You **must** discuss with the Digital Education Team well in advance if you want to run a summative and/or synchronous exam (in person or online) using Ultra Test.
+    
+    [Contact us](mailto:vle-support@york.ac.uk) to arrange a consultation.
 
 
 ### Test location
 Consider where students would expect the Test to appear.
 
-#### With module materials
-Tests used for informal self-tests, knowledge checks or quizzes are best placed alongside the relevant module materials. For example, put a quiz for students to check their understanding of lecture content in the relevant weekly content folder with the lecture materials.
+**With module materials**: informal self-tests, knowledge checks or quizzes are best placed alongside the relevant module materials.
 
 ![decorative](images/test-in-weekly-content.png)
 
-#### In the Assessment section
-Tests listed as either a formative or summative assessment in your module catalogue entry should appear (or information about the Test, if run on VLEEXAM) in the Assessment section of the site. If you also want the Test to be accessible through a weekly content folder, use a Course Link.
+**Assessment section**
+Tests listed as either a formative or summative assessment in your module catalogue entry must appear (or information about the Test, if run on VLEEXAM) in the Assessment section of the site. If you also want the Test to be accessible through a weekly content folder, use a [Course Link](../ultra/links.md).
 
 ![decorative](images/test-in-assessment-section.png)
 

@@ -58,3 +58,7 @@ Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Page
     With ultra exams, we discovered a bug that unintentionally deletes manual feedback when updating a section score. One workaround is to enter scores before writing feedback and always save the feedback before changing a score. 
     
     Although our experience of using VLE exams have been encouraging, despite the limitations discussed above, we have noted an increase in the year of VLE exams within the Computer Science department.
+
+!!! case-study "Guides related to this case study"
+
+    - [Ultra Test: quizzes & exams](../../ultra/test.md)

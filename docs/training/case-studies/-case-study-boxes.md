@@ -49,7 +49,7 @@ cs-yuan
     [VLE Test for assessment (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ed26b92-2446-45e4-9815-b141010d308f) (6 mins 59 secs, UoY log-in required)
 
     See the [full case study for more details and the transcript](../training/case-studies/cs-yuan.md).
-    You can also browse our [full set of case studies](../training/case-studies/index.md).v
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
 
 # Case study: The VLE and Open Educational Resources (Openstax)
 health-sciences-graham
@@ -110,7 +110,7 @@ hoa-sinclair
     See the [full case study for more details and the transcript](../training/case-studies/hoa-sinclair.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
-# Case study: Using Xerte to enhance asynchronous learning
+# Case study: Using Xerte to enhance asynchronous learning 
 ipc-martin-genner
 
 !!! case-study "Case study: Using Xerte to enhance asynchronous learning"
