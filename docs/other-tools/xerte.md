@@ -40,6 +40,8 @@ There are two main ways to use Xerte objects:
 
 </div>
 
+## Case study
+
 !!! case-study "Case study: Using Xerte to enhance asynchronous learning"
 
     Phil Martin and Dawn Genner Lowson outline how they use Xerte to create interactive materials with built-in feedback to support asynchronous learning.

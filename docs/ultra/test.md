@@ -21,7 +21,7 @@ tags:
 
 ![Example test showing multiple choice and fill in the blank question types](images/test-example.png)
 
-## When to use Test
+## Using Test
 
 Most question types are automatically marked and so don't need input from teaching staff. This means Tests can be useful in various situations:
 
@@ -31,14 +31,14 @@ Most question types are automatically marked and so don't need input from teachi
 - formative tests/practice exams
 - summative exams, either online or in-person (consult us first)
 
-## Robust assessments using Test
-
 Test has various options that can reduce opportunities for collusion and help build a robust assessment: 
 
 - Randomise the order of questions.
 - Question banks and pools: present a random selection of questions for each student.
 - Multiple Choice and Matching questions: randomise the order of answer options.
 - Calculated formula questions: use randomised values to automatically generate different questions for each student.
+
+## Case study
 
 !!! case-study "Case study: Ultra Test for assessment"
 
