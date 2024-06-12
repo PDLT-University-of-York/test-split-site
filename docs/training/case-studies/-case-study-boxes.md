@@ -274,7 +274,6 @@ sociology-beer
     See the [full case study for more details and the transcript](../training/case-studies/sociology-beer.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
-
 !!! case-study "Case study: [TITLE]"
 
     [Short overview - a few lines max]

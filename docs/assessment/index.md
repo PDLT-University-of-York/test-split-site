@@ -79,4 +79,15 @@ Explore how staff have applied our tools to support formative and summative asse
 
     See the [full case study for more details and the transcript](../training/case-studies/politics-krauss.md).
 
+??? case-study "Case study: Video feedback for students in Psychology"
+
+    Sally Quinn explores her use of video to provide individualised feedback on project drafts and efficient targetted feedback in larger modules. She describes using video to supplement written feedback has helped students process and act on feedback, and how the upfront time investment pays off in reduced need for further clarification.
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ceff9a9e-39dc-478e-a52a-aaf800fd6187&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Video feedback for students in Psychology" ></iframe>
+
+    [Video feedback for students in Psychology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ceff9a9e-39dc-478e-a52a-aaf800fd6187) (13 mins 23 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/psychology-quinn.md).
+
 You can also browse our [full set of case studies](../training/case-studies/index.md).
