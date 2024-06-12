@@ -27,11 +27,25 @@ See our dedicated [Padlet guide](https://subjectguides.york.ac.uk/skills/padlet)
 
 For details on how to embed your Padlet so it displays directly within your Ultra site, see our [embedded content guide](../ultra/embed-content.md) 
 
+## Case study
+
+!!! case-study "Case study: Student and teacher experiences of asynchronous activities with Padlet and Google docs"
+
+    Nicola Sinclair and Gabriel Vyvyan provide an insight into staff and student experiences of asynchronous discussion-based activities linked to live seminars.
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=151dd32d-4f93-48a3-94ce-ad4f0187a782&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Student and teacher experiences of asynchronous activities" ></iframe>
+
+    [Student and teacher experiences of asynchronous activities with Padlet and Google docs (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=151dd32d-4f93-48a3-94ce-ad4f0187a782) (9 mins 56 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/hoa-sinclair-vyvyan.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
 ## Padlet as an alternative to Ultra Discussions
 
 ### Anonymous Padlets
 
-Ultra Discussions allow students to *choose* to post anonymously. If you want a discussion to be anonymous by default, you can do this using Padlet:
+[Ultra Discussions](../ultra/discussions.md) allow students to *choose* to post anonymously. If you want a discussion to be anonymous by default, you can do this using Padlet:
 
 1. Within your Padlet, open the **Share settings** to make sure that the privacy settings selected are **Secret** and **Visitors can write**. This will let students post to your padlet without needing to log in.
 </br>![decorative](images/padlet-sharing-settings.png)
