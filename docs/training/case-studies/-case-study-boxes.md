@@ -189,7 +189,7 @@ lls-rye
 # Case study: Philosophy and Society Podcasts for assessed groupwork
 philosophy-jay-lee
 
-!!! case-study "Case study:  Philosophy and Society podcasts for assessed groupwork"
+!!! case-study "Case study: Philosophy and Society podcasts for assessed groupwork"
 
     Chris Jay and Barry Lee ive an overview of diversifying assessment with a group-based podcast assessment; the rationale, process, how they supported students and outcomes.
 
@@ -204,7 +204,7 @@ philosophy-jay-lee
 # Case study: Portfolio approaches in the undergraduate Global Development degree programme
 politics-krauss
 
-!!! case-study "Case study: Portfolio approaches in the undergraduate Global Development degree programme"
+!!! case-study "Case study: Portfolio assessments in the undergraduate Global Development degree programme"
 
     Judith Krauss gives an overview of diverse portfolio assessments to develop transferable skills. Components include contributions to problem-based learning tasks, personal reflections, individual essay and group group-based report and presentation. Judith reflects on the challenges and benefits of this form of assessment.
 
