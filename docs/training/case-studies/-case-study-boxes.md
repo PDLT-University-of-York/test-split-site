@@ -177,7 +177,7 @@ lls-rye
 
 !!! case-study "Case study: Developing the ‘Structure of English’ module site"
 
-    Ellie Rye provides a walkthrough of the Ultra site, describing how the Ultra template 
+    Ellie Rye provides a walkthrough of the Ultra site, describing how they applied the Ultra template to present teaching content, and reflects on the use of Discussions and Tests for formative practice quizzes.
 
     Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Ellie Rye, LLS, Structure of English" ></iframe>
 
