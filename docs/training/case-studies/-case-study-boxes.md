@@ -216,6 +216,65 @@ politics-krauss
     See the [full case study for more details and the transcript](../training/case-studies/politics-krauss.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
+# Case study: Video feedback for students in Psychology
+psychology-quinn
+
+!!! case-study "Case study: Video feedback for students in Psychology"
+
+    Sally Quinn explores her use of video to provide individualised feedback on project drafts and efficient targetted feedback in larger modules. She describes using video to supplement written feedback has helped students process and act on feedback, and how the upfront time investment pays off in reduced need for further clarification.
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ceff9a9e-39dc-478e-a52a-aaf800fd6187&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Video feedback for students in Psychology" ></iframe>
+
+    [Video feedback for students in Psychology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ceff9a9e-39dc-478e-a52a-aaf800fd6187) (13 mins 23 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/psychology-quinn.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+# Case study: Developing the ‘Humanity, Economics & Management’ module
+sbs-issitt
+
+!!! case-study "Case study: Developing the ‘Humanity, Economics & Management’ module"
+
+    John Issitt provides an overview of his approach to developing the VLE site for a first year module in SBS. He outlines the pedagogical approaches that underpinned the design of the module and the site to nurture students' development as curious, independent thinkers.
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9b8a62cd-235c-444e-aedf-b0c400e5284a&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="John Issitt, SBS, Humanity, Economics &amp; Management" ></iframe>
+
+    [Developing the ‘Humanity, Economics & Management’ module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b8a62cd-235c-444e-aedf-b0c400e5284a) (6 mins 56 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/sbs-issitt.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+# Case study: Developing the ‘Business Planning and Sustainable Entrepreneurship’ module
+sbs-sinclair
+
+!!! case-study "Case study: Developing the ‘Business Planning and Sustainable Entrepreneurship’ module"
+
+    Claire Sinclair explores how she used the VLE to support delivery of a very large SBS module where students work in small interdisciplinary teams to plan a sustainable business aligned with the UN Sustainable Development Goal through a flipped classroom model and coaching-style tutorials. 
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=75ad78e9-5445-43bf-bd4e-b15b00d96708&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Claire Sinclair, SBS, Business Planning and Sustainable Entrepreneurship (presentation)" ></iframe>
+
+    [Business Planning and Sustainable Entrepreneurship (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=75ad78e9-5445-43bf-bd4e-b15b00d96708) (8 mins 10 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/sbs-sinclair.md), and a discussion with students reflecting on their experiences on the module.
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+# Case study: Use of discussion boards in the Popular Culture, Media and Society module
+sociology-beer
+
+!!! case-study "Case study: Use of discussion boards in the Popular Culture, Media and Society module"
+
+    David Beer reflects on using discussion boards in a regular pattern of activities triggered by online videos posing a key question related to weekly lectures. This facilitated contributions from many students who were less likely to contribute to in-person / synchronous sessions and provided a useful entry point for approaching challenging key concepts within the module. 
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9e70e40b-1080-407a-bafa-ad4f0188ef82&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Use of discussion boards, David Beer, Sociology" ></iframe>
+
+    [Use of discussion boards in the Popular Culture, Media and Society module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9e70e40b-1080-407a-bafa-ad4f0188ef82) (15 mins 05 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/sociology-beer.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+
 !!! case-study "Case study: [TITLE]"
 
     [Short overview - a few lines max]
