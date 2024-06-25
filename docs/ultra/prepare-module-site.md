@@ -46,23 +46,27 @@ based on using a departmental template, but most advice also applicable to other
 ## Section 1: General site settings
 
 === "Update after rollover"
+
+    ![Decorative](images/prepare-site-rollover-site-settings.png)
     
     - **Site name**</br>
     Site names have a standardised format needed for various systems to run. You must not rename your site. If there are problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
     [Detailed guide: Site name](../ultra/site-name.md)
-    - **Course image (site banner)**</br>
-    Check that the course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.</br> 
+    - **Check Course Image**</br>
+    Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.</br> 
     [Detailed guide: Course image](../ultra/course-image.md)
-    - **Course staff: set Primary Instructor**</br>
+    - **Course staff: check Primary Instructor**</br>
     Check that the correct module staff for that year are shown at the top of the Course Staff list. If needed, identify/update module staff using the Primary Instructor setting.</br>
     [Detailed guide: Course staff](../ultra/course-staff.md)
 
 === "Set up new site"
 
+    ![Decorative](images/prepare-site-new-site-settings.png)
+
     - **Site name**</br>
     Site names have a standardised format needed for various systems to run. You must not rename your site. If there are problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
     [Detailed guide: Site name](../ultra/site-name.md)
-    - **Choose a Course image (site banner)**</br>
+    - **Select a Course Image**</br>
     Your departmental template contains a default course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.</br>
     [Detailed guide: Course image](../ultra/course-image.md)
     - **Course staff: set Primary Instructor**</br>
