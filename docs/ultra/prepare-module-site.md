@@ -43,20 +43,31 @@ contact us to reset site to departmental template
 
 based on using a departmental template, but most advice also applicable to other sites
 
-## 1. General site settings
+## Section 1: General site settings
 
-### Site name
-Site names have a standardised format needed for various systems to run - do not rename your site.
+=== "Update after rollover"
+    
+    - **Site name**</br>
+    Site names have a standardised format needed for various systems to run. You must not rename your site. If there are problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
+    [Detailed guide: Site name](../ultra/site-name.md)
+    - **Course image (site banner)**</br>
+    Check that the course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.</br> 
+    [Detailed guide: Course image](../ultra/course-image.md)
+    - **Course staff: set Primary Instructor**</br>
+    Check that the correct module staff for that year are shown at the top of the Course Staff list. If needed, identify/update module staff using the Primary Instructor setting.</br>
+    [Detailed guide: Course staff](../ultra/course-staff.md)
 
-[Detailed guide: Site name](../ultra/site-name.md)
+=== "Set up new site"
 
-
-### Course image (site banner)
-You can update the course image to something relevant to your module.
-
-[Detailed guide: Course image](../ultra/course-image.md)
-
-
+    - **Site name**</br>
+    Site names have a standardised format needed for various systems to run. You must not rename your site. If there are problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
+    [Detailed guide: Site name](../ultra/site-name.md)
+    - **Choose a Course image (site banner)**</br>
+    Your departmental template contains a default course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.</br>
+    [Detailed guide: Course image](../ultra/course-image.md)
+    - **Course staff: set Primary Instructor**</br>
+    If non-module staff are also enrolled on the site, identify the module staff using the Primary Instructor setting. This will make sure the correct staff are shown in the Course Staff list.</br>
+    [Detailed guide: Course staff](../ultra/course-staff.md)
 
 --- 
 
