@@ -5,19 +5,69 @@ tags:
     - Ultra
 ---
 
-!!! Note
-
-    This guide will be updated for the 2024/25 academic year.
-
-# Using the Ultra template
+# Prepare module sites for teaching:</br>rollover updates & new sites
 
 !!! Summary
 
-    Introducing the structure and content of the Ultra module site template and step-by-step guidance on using it to prepare a site.
+    Get ready for teaching with this walkthrough of updating an existing site after rollover or setting up a new site from a departmental template:
 
+    - develop an accessible, high-quality site.
+    - save time by focusing on what's important to get right.
+    - avoid common start-of-semester issues.
+    - explore Learn Ultra features that might be useful in your teaching.
+
+<!-- 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-    - The template has been designed to apply the site design principles as a whole.
+    - The template has been designed to apply the site designb principles as a whole. -->
+
+## Introduction
+
+The easy-to-follow walkthrough takes you through the steps to update an existing site or prepare a new site. 
+
+Work through the sections in order or use the navigation on the right to jump to a specific section. Each section also 
+
+- checklist of what to do/consider
+- good practice examples
+- links to relevant in-depth guides
+- advice on meeting relevant [VLE site design principles](../ultra/site-design-principles.md).
+
+Following this guide will help you:
+    
+- develop an accessible, high-quality site meeting the [VLE site design principles](../ultra/site-design-principles.md).
+- save time by showing you what to focus on.
+- avoid common start-of-semester issues.
+- explore Learn Ultra features that might be useful in your teaching.
+
+contact us to reset site to departmental template
+
+based on using a departmental template, but most advice also applicable to other sites
+
+## 1. General site settings
+
+### Site name
+Site names have a standardised format needed for various systems to run - do not rename your site.
+
+[Detailed guide: Site name](../ultra/site-name.md)
+
+
+### Course image (site banner)
+You can update the course image to something relevant to your module.
+
+[Detailed guide: Course image](../ultra/course-image.md)
+
+
+
+--- 
+
+
+
+
+
+
+
+
+
 
 ## Template structure
 
