@@ -7,15 +7,19 @@ tags:
 
 !!! Summary
 
-    Use a Course link to show an item in another area of the same site. This helps users navigate easily between content in different areas.
+    Course link display an item in another area of the same site.
 
-For example, you could use a Course link in a weekly materials section to direct students to an item in the Assessment section.
+## When to use Course links
+Course links help users navigate easily between content in different areas of the site. This is particularly useful to direct students from a materials section to a reference item needed at that time.
 
-A Course Link appears in the Course Content area with a small link icon. Editing or deleting this link does not change the original item.
+For example, a Course link could be added to a weekly materials section to send students to details of an assessment task intreoduced that week.
+
+## Identifying a Course link
+A Course link appears in the Course Content area with a small link icon. Editing or deleting this link does not change the original item.
 
 ![Decorative](images/links-course-link-example.png)
 
-### Add a Course Link
+## Add a Course Link
 1. Hover over where you want to add the link and click the plus icon.
 2. Choose **Create** then select **Link**.
 </br> ![Decorative](images/links-standalone-create.png)
