@@ -43,7 +43,8 @@ contact us to reset site to departmental template
 
 based on using a departmental template, but most advice also applicable to other sites
 
-## Section 1: General site settings
+## 1: General site settings
+For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
 
 === "Update after rollover"
 
@@ -52,10 +53,10 @@ based on using a departmental template, but most advice also applicable to other
     - **Site name**</br>
     Site names have a standardised format needed for various systems to run. You must not rename your site. If there are problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
     [Detailed guide: Site name](../ultra/site-name.md)
-    - **Check Course Image**</br>
+    - **Check the Course Image**</br>
     Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.</br> 
     [Detailed guide: Course image](../ultra/course-image.md)
-    - **Course staff: check Primary Instructor**</br>
+    - **Course staff: check Primary Instructor setting**</br>
     Check that the correct module staff for that year are shown at the top of the Course Staff list. If needed, identify/update module staff using the Primary Instructor setting.</br>
     [Detailed guide: Course staff](../ultra/course-staff.md)
 
@@ -69,9 +70,152 @@ based on using a departmental template, but most advice also applicable to other
     - **Select a Course Image**</br>
     Your departmental template contains a default course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.</br>
     [Detailed guide: Course image](../ultra/course-image.md)
-    - **Course staff: set Primary Instructor**</br>
-    If non-module staff are also enrolled on the site, identify the module staff using the Primary Instructor setting. This will make sure the correct staff are shown in the Course Staff list.</br>
+    - **Course staff: set Primary Instructor(s)**</br>
+    If non-module staff are also enrolled on the site, identify all module teaching staff using the Primary Instructor setting. This will make sure the correct staff are shown first in the Course Staff list.</br>
     [Detailed guide: Course staff](../ultra/course-staff.md)
+
+
+## 2: Module information
+
+<div class='grid' markdown>
+
+<div markdown>
+The Module information section contains pages for:
+
+- module-specific content: module overview, staff contact details etc.
+- pre-built departmental information
+</div>
+
+<figure markdown="span">
+![Module specific pages: Welcome to [Module name], Module overview, Module staff details & communication, Technical requirements](images/prepare-site-module-specific-information.png)
+<figcaption>Module-specific pages</figcaption>
+</figure>
+
+</div>
+
+=== "Update after rollover"
+
+    ![Decorative](images/prepare-site-rollover-module-information.png)
+    
+    Make sure content is correct for the new academic year:
+
+    - **check module information** is complete and up to date
+    - **check and update contact details** for all teaching staff on the *Module staff details & communication* page
+    - **remove any remaining placeholder text** from the template (this text is usually within [square brackets] and may be coloured red)
+    - **update links** to specific year-based documents to the new version (or even better, a stable ongoing link so you don't have to update it again in the future)
+    - **hide or remove any unused pages**. Eg. if no specific software or equipment is needed for the module, hide or remove the Technical requirements page
+    - **don't adapt or hide departmental pages**: *Accessibility information*, *Key departmental information*, *Technology, Library and skills support*
+
+    [Detailed guide: Edit, delete and move content](../ultra/edit-delete-move-content.md)
+
+=== "Set up new site"
+
+    ![Decorative](images/prepare-site-new-module-information.png) 
+
+    Input your module-specific information into the template shell:
+
+    - **update all template placeholder text** with module information (this text is usually within [square brackets] and may be coloured red).
+    - **complete contact details** for all teaching staff on the *Module staff details & communication* page
+    - **use stable ongoing links** rather than links to year-based documents - this will make your site easier to maintain.
+    - **hide or remove any unused pages**. Eg. if no specific software or equipment is needed for the module, hide or remove the Technical requirements page
+    - **don't adapt or hide departmental pages**: *Accessibility information*, *Key departmental information*, *Technology, Library and skills support*
+
+    [Detailed guide: Edit, delete and move content](../ultra/edit-delete-move-content.md)
+
+## 3: Assessment
+
+<div class='grid' markdown>
+
+<div markdown>
+This section collates all assessment-related information in one place:
+
+- overview of assessment tasks
+- specific task instructions and submission points
+- marking criteria
+- examples of past work or past papers
+</div>
+
+<div markdown>
+!!! tip "Address common problems"
+
+    **Problem**: it's hard for students to locate assessment instructions and submission points if they are spread throughout the site.
+
+    **Solution**: include all assessment information in this section and label items clearly
+
+If desired, you can direct students to items in the Assessment section from module materials sections using a course link.
+
+</div>
+
+<!-- <figure markdown="span">
+![Pages included: Assessment overview, Marking criteria, Summative report instructions, Past work examples](images/prepare-site-assessment-section.png)
+<figcaption>Sample Assessment section</figcaption>
+</figure> -->
+
+</div>
+
+=== "Update after rollover"
+
+    !!! Tip fix common problem
+
+    Assessment information not complete or appears in other sections of the site
+
+    guide: course links 
+
+    clear organisation - students know which assessment when
+    include assessment criteria (or link to them)
+    check assessment overview
+    update Ultra assessment deadlines wiuth bulk edit
+
+=== "Set up new site"
+
+
+## Section 4: Reading List & Replay tools
+
+=== "Update after rollover"
+
+=== "Set up new site"
+
+
+## 5: Module materials sections
+Tools to help you reach your teaching goals
+- group work
+- practice/knowledge check quizzes
+- discussions/q&a
+
+=== "Update after rollover"
+
+    - check every week (or other) section - materials up to date?
+    - accessibility - use the Ally checker to identify issues (and checkers for Word/GDocs) 
+    - fix common problem - use a consistent structure each week, give context for items
+    - update/check release conditions
+    - reused vids link to Panopto session below
+
+    guides: bulk edit -> change visibility, due dates, delete
+
+=== "Set up new site"
+
+6. Reading List
+
+=== "Update after rollover"
+check RL on site
+include all readings
+tag items
+fix common issue - readings provided in othegr ways (dropbox, Google Drive, links etc.) - library can't manage stock, copyright
+
+=== "Set up new site"
+
+set up new RL instructions
+
+
+7. Panopto (Replay content)
+
+- how to check on timetable if scheduled for recording
+- resued vids - check access
+
+=== "Update after rollover"
+
+=== "Set up new site"
+
 
 --- 
 
