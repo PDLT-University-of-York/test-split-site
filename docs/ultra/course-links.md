@@ -14,7 +14,7 @@ Course links help users navigate easily between content in different areas of th
 
 For example, a Course link could be added to a weekly materials section to send students to details of an assessment task intreoduced that week.
 
-## Identifying a Course link
+## Identifying Course links
 A Course link appears in the Course Content area with a small link icon. Editing or deleting this link does not change the original item.
 
 ![Decorative](images/links-course-link-example.png)
