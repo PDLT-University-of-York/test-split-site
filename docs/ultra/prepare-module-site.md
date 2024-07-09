@@ -43,6 +43,13 @@ contact us to reset site to departmental template
 
 based on using a departmental template, but most advice also applicable to other sites
 
+easiest way to prepare an effective site:
+
+- well organised - no out of date docs/info, files in logical place & order
+- USE THE READING LIST
+- remove any unused template placeholders
+
+
 ## 1: General site settings
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
 
@@ -103,8 +110,10 @@ This section contains general information about the module and department:
         - **check links are up to date** and **update links** for specific year-based documents to the new version (or even better, a stable ongoing link so you don't have to update it again in the future)
     2. *Technical Requirements* page
 
-        - **software/equipment needed**: check information on how to get the software/equipment and make sure the page is visible to students.
-        - **technical requirements**: delete the page or hide from students.
+        If your module has:
+
+        - **specific software/equipment needed**: check information on how to get the software/equipment and make sure the page is visible to students.
+        - **no technical requirements**: delete the page or hide from students.
     3. *Departmental pages*
     </br>The remaining pages contain departmental information; don't adapt, hide or delete these pages 
 
@@ -123,8 +132,10 @@ This section contains general information about the module and department:
         - **use stable, ongoing links** rather than links to year-based documents (eg. link to a page where current handbooks are hosted, not the specific document for this year). This will make your site easier to maintain.
     2. *Technical Requirements* page
 
-        - **software/equipment needed**: add information on how to get the software/equipment and make sure the page is visible to students.
-        - **technical requirements**: delete the page or hide from students.
+        If your module has:
+
+        - **specific software/equipment needed**: add information on how to get the software/equipment and make sure the page is visible to students.
+        - **no technical requirements**: delete the page or hide from students.
     3. *Departmental pages*
     </br>The remaining pages contain departmental information; don't adapt, hide or delete these pages 
 
@@ -180,38 +191,72 @@ This section collates all assessment-related information in one place, so studen
 
     - clear instructions given (Psych?)
     - course link to weekly section (Maths?)
+    - exemplar Y2023-017605 (HEA - midwifery)
 
-## Section 4: Reading List & Replay tools
-
-=== "Update after rollover"
-
-=== "Set up new site"
-
-=== "Good practice: examples"
-
-
-## 5: Module materials sections
-Tools to help you reach your teaching goals
-- group work
-- practice/knowledge check quizzes
-- discussions/q&a
+## 4: Module materials & content
 
 === "Update after rollover"
 
-    - check every week (or other) section - materials up to date?
-    - accessibility - use the Ally checker to identify issues (and checkers for Word/GDocs) 
-    - fix common problem - use a consistent structure each week, give context for items
-    - update/check release conditions
-    - reused vids link to Panopto session below
+    Carefully check each weekly (or topic etc.) materials section to make sure that:
 
-    guides: bulk edit -> change visibility, due dates, delete
+    - all files (eg. lecture slides) and content are up to date. Delete any material that is no longer needed.
+    - items are clearly labelled and organised in the relevant section (eg. Week 3 items are within the Week 3 section). Move or rename items as needed.
+    - all files and content are accessible (see Accessibility section below).
+    - items are visible and any release conditions (eg. show on a specific date) are up to date. Batch edit may be useful for this.
+    </br>[Detailed guide: Release conditions](../ultra/release-conditions.md) | [Detailed guide: Batch Edit](../ultra/batch-edit.md)
+    - any re-used Panopto videos are shared correctly for that year's cohort (see Panopto section below)
 
 === "Set up new site"
 
+    Most departmental templates have weekly (or topic-based) sections to add your content to. 
+    [pic]
+    
+    Placeholder items:
+    There may be placeholder Documents (pages) in these sections to help you stucture your content. You can edit these or delete them and add your own items as needed.
+    [pic]
+
+    Go through each materials section and add your module content:
+
+
 === "Good practice: examples"
 
+    well labelled
+    context given for items
 
-6. Reading List
+### Accessibility
+
+copy section 2.1 from site readiness checklist
+
+=== "All sites"
+
+=== "Good practice: examples"
+
+### Going beyond Ultra basics
+
+=== "All sites"
+    Ultra has some more advanced features that may support your teaching goals:
+
+    - [Course groups](../ultra/course-groups.md) for facilitating collaboration and group work
+    - [Discussions](../ultra/discussions.md) for Q&A forums and asynchronous student discussion
+    - [Tests](../ultra/test.md) for informal/practice quizzes
+    - [Journals](../ultra/journal.md) for reflective practice
+
+    You can also embded [interactive Xerte objects](../other-tools/xerte.md) in your Ultra site.
+
+=== "Good practice: examples"
+
+    !!! case-study "Case study: Developing the ‘Structure of English’ module site"
+
+        Ellie Rye explains how they applied the Ultra template to present teaching content, and reflects on the use of Discussions and Tests for formative practice quizzes.
+
+        Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Ellie Rye, LLS, Structure of English" ></iframe>
+
+        [Structure of English (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234) (8 mins 21 secs, UoY log-in required)
+
+        See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
+        You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+## 5. Reading List
 
 === "Update after rollover"
     
@@ -228,7 +273,9 @@ Tools to help you reach your teaching goals
 set up new RL instructions
 
 
-7. Panopto (Replay content)
+## 6. Panopto (Replay content)
+
+Just because you can see an embedded/reused video, doesn't mean that students can!
 
 - how to check on timetable if scheduled for recording
 - resued vids - check access
