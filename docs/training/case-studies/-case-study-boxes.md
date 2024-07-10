@@ -100,7 +100,7 @@ hoa-sinclair
 
 !!! case-study "Case study: The longer-term benefits of COVID-era flipped classroom techniques for a core PGT MA skills module"
 
-    Nicola Sinclair outlines how she has continued with using asynchronous online pre-tasks after the move back to  on-campus workshops and the benefits for students.
+    Nicola Sinclair outlines how she has continued with using asynchronous online pre-tasks after the move back to on-campus workshops and the benefits for students.
 
     Watch their presentation:
     <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bf614389-0afc-47bb-a0e0-aec40112aba5&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="The longer-term Benefits of COVID-era Flipped Classroom Techniques for a Core PGT MA Skills Module" ></iframe>

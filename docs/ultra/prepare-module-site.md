@@ -197,26 +197,27 @@ This section collates all assessment-related information in one place, so studen
 
 === "Update after rollover"
 
-    Carefully check each weekly (or topic etc.) materials section to make sure that:
+    Check the content in each weekly (or topic etc.) materials section:
 
-    - all files (eg. lecture slides) and content are up to date. Delete any material that is no longer needed.
-    - items are clearly labelled and organised in the relevant section (eg. Week 3 items are within the Week 3 section). Move or rename items as needed.
-    - all files and content are accessible (see Accessibility section below).
-    - items are visible and any release conditions (eg. show on a specific date) are up to date. Batch edit may be useful for this.
-    </br>[Detailed guide: Release conditions](../ultra/release-conditions.md) | [Detailed guide: Batch Edit](../ultra/batch-edit.md)
-    - any re-used Panopto videos are shared correctly for that year's cohort (see Panopto section below)
+    - **update materials** as needed for the new year (eg. new lecture slides)
+    - **delete** any old materials (files, text content etc.) or unused placeholder items.
+    - **organise materials cleary** and consistently within each section.
+    - **check item visibility** and **update any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
+    - check any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
+
 
 === "Set up new site"
 
-    Most departmental templates have weekly (or topic-based) sections to add your content to. 
-    [pic]
-    
-    Placeholder items:
-    There may be placeholder Documents (pages) in these sections to help you stucture your content. You can edit these or delete them and add your own items as needed.
-    [pic]
+    Add your content to the relevant weekly (or topic-based) sections provided in your template:
 
-    Go through each materials section and add your module content:
-
+    - most content is best provided within a **[Document](../ultra/documents.md)**, which is a flexible page type for adding text, images and files (eg. lecture slides) and embedded third-party content.
+    - **edit placeholder Documents** included in the template or **add your own Documents** as needed. 
+    - **delete** any unused placeholder Documents or content.
+    - **organise materials cleary** and consistently within each section.
+    - **set item visibility** and **add any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
+    - if reusing content or materials from previous years, check that:
+        - all **content and files are up to date**. Don't add any old material.
+        - any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
 
 === "Good practice: examples"
 
@@ -234,18 +235,25 @@ copy section 2.1 from site readiness checklist
 ### Going beyond Ultra basics
 
 === "All sites"
-    Ultra has some more advanced features that may support your teaching goals:
+    As well as providing lecture slides and other file-based content, Ultra has other tools and features available to support your teaching goals.
+    
+    There are advanced features built into the Ultra system:
 
     - [Course groups](../ultra/course-groups.md) for facilitating collaboration and group work
     - [Discussions](../ultra/discussions.md) for Q&A forums and asynchronous student discussion
     - [Tests](../ultra/test.md) for informal/practice quizzes
     - [Journals](../ultra/journal.md) for reflective practice
 
-    You can also embded [interactive Xerte objects](../other-tools/xerte.md) in your Ultra site.
+    You can also embded various third party teaching materials into your Ultra site, such as:
+    
+    - [interactive Xerte objects](../other-tools/xerte.md)
+    - [Padlet pinboards and discussions](../other-tools/padlet.md)
+    - [Panopto](../panopto/embed-panopto-ultra.md) or [YouTube](../ultra/youtube.md) video content
 
 === "Good practice: examples"
+    The case studies below demonstrate how advanced tools features have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
 
-    !!! case-study "Case study: Developing the ‘Structure of English’ module site"
+    ??? case-study "Case study: Developing the ‘Structure of English’ module site (using Discussions and Tests)"
 
         Ellie Rye explains how they applied the Ultra template to present teaching content, and reflects on the use of Discussions and Tests for formative practice quizzes.
 
@@ -253,8 +261,30 @@ copy section 2.1 from site readiness checklist
 
         [Structure of English (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234) (8 mins 21 secs, UoY log-in required)
 
-        See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
-        You can also browse our [full set of case studies](../training/case-studies/index.md).
+        See the [full case study for more details and the transcript (Rye)](../training/case-studies/lls-rye.md).
+    
+    ??? case-study "Case study: Using interactive Xerte objects to enhance asynchronous learning"
+
+        Phil Martin and Dawn Genner Lowson outline how they use Xerte to create interactive materials with built-in feedback to support asynchronous learning.
+
+        Watch their presentation:
+        <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d87fc4fc-b05a-4ee3-af92-aecc00cf2948&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Using Xerte to enhance asynchronous learning - Phil Martin and Dawn Genner Lowson" ></iframe>
+
+        [Using Xerte to enhance asynchronous learning (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d87fc4fc-b05a-4ee3-af92-aecc00cf2948) (2 mins 47 secs, UoY log-in required)
+
+        See the [full case study for more details and the transcript (Martin & Genner)](../training/case-studies/ipc-martin-genner.md).
+
+    ??? case-study "Case study: Use of discussion boards in the Popular Culture, Media and Society module"
+
+        David Beer reflects on using discussion boards in a regular pattern of activities triggered by online videos posing a key question related to weekly lectures. This facilitated contributions from many students who were less likely to contribute to in-person / synchronous sessions and provided a useful entry point for approaching challenging key concepts within the module. 
+
+        Watch their presentation:
+        <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9e70e40b-1080-407a-bafa-ad4f0188ef82&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Use of discussion boards, David Beer, Sociology" ></iframe>
+
+        [Use of discussion boards in the Popular Culture, Media and Society module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9e70e40b-1080-407a-bafa-ad4f0188ef82) (15 mins 05 secs, UoY log-in required)
+
+        See the [full case study for more details and the transcript (Beer)](../training/case-studies/sociology-beer.md).
+
 
 ## 5. Reading List
 
