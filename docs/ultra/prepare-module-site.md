@@ -57,44 +57,48 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
 
     ![Decorative](images/prepare-site-rollover-site-settings.png)
     
-    1. **Check the Site name**</br>
-    Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
-    [Detailed guide: Site name](../ultra/site-name.md)
-    2. **Check the Course Image**</br>
-    Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.</br> 
-    [Detailed guide: Course image](../ultra/course-image.md)
-    3. **Course staff: check Primary Instructor setting**</br>
-    Check that the correct module staff for that year are shown at the top of the Course Staff list. If needed, identify/update module staff using the Primary Instructor setting.</br>
-    [Detailed guide: Course staff](../ultra/course-staff.md)
+    1. **Check the [Site name](../ultra/site-name.md)**</br>
+    Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
+    2. **Check the [Course image](../ultra/course-image.md)**</br>
+    Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.
+    3. **[Course staff](../ultra/course-staff.md): check Primary Instructor setting**</br>
+    Check that the correct module staff for that year are shown at the top of the Course staff list. If needed, identify/update module staff using the Primary Instructor setting.
 
-=== "Set up new site"
+=== "Set up site from template"
 
     ![Decorative](images/prepare-site-new-site-settings.png)
 
-    1. **Site name**</br>
-    Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.</br>
-    [Detailed guide: Site name](../ultra/site-name.md)
-    2. **Select a Course Image**</br>
-    Your departmental template contains a default course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.</br>
-    [Detailed guide: Course image](../ultra/course-image.md)
-    3. **Course staff: set Primary Instructor(s)**</br>
-    If non-module staff are also enrolled on the site, identify all module teaching staff using the Primary Instructor setting. This will make sure the correct staff are shown first in the Course Staff list.</br>
-    [Detailed guide: Course staff](../ultra/course-staff.md)
-
-=== "Good practice: examples"
-
+    1. **Check the [Site name](../ultra/site-name.md)**</br>
+    Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
+    2. **Select a [Course image](../ultra/course-image.md)**</br>
+    Your departmental template contains a default Course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.
+    3. **[Course staff](../ultra/course-staff.md): set Primary Instructor(s)**</br>
+    If non-module staff are also enrolled on the site, identify all module teaching staff using the Primary Instructor setting. This will make sure the correct staff are shown first in the Course staff list.
 
 ## 2: Module information
 
+<div markdown class="grid">
+<div markdown>
 This section contains general information about the module and department:
 
 - module-specific content: module overview, staff contact details etc.
 - pre-built departmental information
 
-!!! tip "Good practice/Avoid common problems"
+Prepare this section by:
+
+- [editing, updating or deleting content](../ultra/edit-delete-move-content.md) in the pre-built pages.
+- you should not need to add new pages.
+</div>
+<figure markdown="span">
+![Module specific pages: Welcome to [Module name], Module overview, Module staff details & communication, Technical requirements](images/prepare-site-module-specific-information.png)
+<figcaption>Module-specific pages</figcaption>
+</figure>
+</div>
+
+<!-- !!! tip "Good practice/Avoid common problems"
 
     - All **placeholder text** is updated with module information or deleted. This text is usually within [square brackets] and may be coloured red.
-    - **Module staff contact details** are completed and up to date.
+    - **Module staff contact details** are completed and up to date. -->
 
 === "Update after rollover"
 
@@ -106,7 +110,7 @@ This section contains general information about the module and department:
 
         - **check module information** is complete and up to date
         - **check and update contact details** for all teaching staff on the *Module staff details & communication* page
-        - **remove any remaining placeholder text** from the template
+        - **delete any remaining placeholder content** from the template
         - **check links are up to date** and **update links** for specific year-based documents to the new version (or even better, a stable ongoing link so you don't have to update it again in the future)
     2. *Technical Requirements* page
 
@@ -117,10 +121,8 @@ This section contains general information about the module and department:
     3. *Departmental pages*
     </br>The remaining pages contain departmental information; don't adapt, hide or delete these pages 
 
-    [Detailed guide: Edit, delete and move content](../ultra/edit-delete-move-content.md)
 
-=== "Set up new site"
-
+=== "Set up site from template"
     ![Decorative](images/prepare-site-new-module-information.png)
 
     Complete the pages with your module information:
@@ -139,19 +141,32 @@ This section contains general information about the module and department:
     3. *Departmental pages*
     </br>The remaining pages contain departmental information; don't adapt, hide or delete these pages 
 
-    [Detailed guide: Edit, delete and move content](../ultra/edit-delete-move-content.md)
-
 === "Good practice: examples"
 
 ## 3: Assessment
 
-This section collates all assessment-related information in one place, so students can easily locate their assessment instructions and submission points.
+<div markdown class="grid">
+<div markdown>
+This section collates all assessment-related information in one place:
+    
+- students can easily locate assessment details across all their module sites
+- assessment information is easier for staff to update and maintain
 
-!!! tip "Good practice/Avoid common problems"
+Prepare this section by:
 
-    - **All assessment information appears in this section**. This helps student find assessment information in each of tehir module sites. 
-    - Materials are **clearly organised and labelled** so students know what to complete and when.
+- [editing, updating or deleting content](../ultra/edit-delete-move-content.md) in the pre-built pages.
+- adding instructions, Tests and submission points for your specific assessment tasks.
+</div>
+<figure markdown="span">
+![Pages included: Assessment overview, Marking criteria, Summative report instructions, Past work examples](images/prepare-site-assessment-section.png)
+<figcaption>Sample Assessment section</figcaption>
+</figure>
+</div>
 
+!!! Tip
+
+    Being able to find assessment information easily is very important to students; we have significant feedback that they highly value consistency and clear organisation in how assessment details are presented in this section.
+ 
 
 === "Update after rollover"
 
@@ -162,14 +177,12 @@ This section collates all assessment-related information in one place, so studen
     3. **Assessment tasks & submission points**:
         
         - check that all formative and summative assessment instructions, quizzes and asubmission points (as listed on the Module Catalogue) are up to date and included in this section.
-        - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a Course Link in the weekly section.
-        </br>[Detailed Guide: Course Links](../ultra/course-links.md)
+        - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
-    4. **Deadlines & release dates**: update for the new academic year. Batch edit may be useful for updating dates set in the system. Specific dates given in instruction text will need to be manually updated; consider changing to relative dates instead (eg. "Week 2, Friday 13:00").
-    </br>[Detailed guide: Batch Edit](../ultra/batch-edit.md)
+    4. **Deadlines & release dates**: update for the new academic year. [Batch Edit](../ultra/batch-edit.md) may be useful for updating dates set in the system. Specific dates given in instruction text must be manually updated; consider changing to relative dates instead (eg. "Week 2, Friday 13:00").
 
-=== "Set up new site"
+=== "Set up site from template"
 
     Add all assessment-related content to this section:
 
@@ -180,8 +193,7 @@ This section collates all assessment-related information in one place, so studen
     5. **Assessment tasks & submission points**:
         
         - include all formative and summative assessment instructions, quizzes and asubmission points (as listed on the Module Catalogue) in this section.
-        - for students to also access an assessment item from a particular week's materials, use a Course Link in the weekly section.
-        </br>[Detailed Guide: Course Links](../ultra/course-links.md)
+        - for students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
         - informal practice quizzes or tasks can be included in weekly materials sections.
@@ -200,13 +212,13 @@ This section collates all assessment-related information in one place, so studen
     Check the content in each weekly (or topic etc.) materials section:
 
     - **update materials** as needed for the new year (eg. new lecture slides)
-    - **delete** any old materials (files, text content etc.) or unused placeholder items.
+    - **delete** any old materials (files, text content etc.) or unused placeholder Documenst or content.
     - **organise materials cleary** and consistently within each section.
     - **check item visibility** and **update any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
     - check any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
 
 
-=== "Set up new site"
+=== "Set up site from template"
 
     Add your content to the relevant weekly (or topic-based) sections provided in your template:
 
@@ -295,7 +307,7 @@ copy section 2.1 from site readiness checklist
     tag items
     fix common issue - readings provided in othegr ways (dropbox, Google Drive, links etc.) - library can't manage stock, copyright
 
-=== "Set up new site"
+=== "Set up site from template"
 
 === "Good practice: examples"
 
@@ -312,7 +324,7 @@ Just because you can see an embedded/reused video, doesn't mean that students ca
 
 === "Update after rollover"
 
-=== "Set up new site"
+=== "Set up site from template"
 
 === "Good practice: examples"
 
@@ -377,14 +389,3 @@ The **Reading List tool** allows students to access all readings you have setup.
 
 
 The **Panopto LTI tool** allows you to access replays of lecture capture recordings and record videos for the module site. More advice on how to use panopto can be found at the [panopto guide page](../panopto/index.md).
-
-!!! case-study "Case study: Developing the ‘Structure of English’ module site"
-
-    Ellie Rye provides a walkthrough of the Ultra site, describing how they applied the Ultra template to present teaching content, and reflects on the use of Discussions and Tests for formative practice quizzes.
-
-    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Ellie Rye, LLS, Structure of English" ></iframe>
-
-    [Structure of English (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234) (8 mins 21 secs, UoY log-in required)
-
-    See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
-    You can also browse our [full set of case studies](../training/case-studies/index.md).
