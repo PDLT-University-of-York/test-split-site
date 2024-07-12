@@ -79,7 +79,7 @@ After opening the voting, the message ‘voting in progress will appear on the s
 
 ![decorative](images/question-types-open-voting-on-open-reponses4.png)
 
-Once you have received the number of votes you are expecting, you can press enter again to show the voting results (again, making sure to click on the Mentimeter presentation screen first to ensure it is in focus).  The results will be shown on the screen and also on the devices used by participants ordered by the number of votes from most to least.
+Once you have received the number of votes you are expecting, you can press enter again to show the voting results.  The results will be shown on the screen and also on the devices used by participants ordered by the number of votes from most to least.
 
 ![decorative](images/question-types-open-voting-on-open-reponses5.png)
 
