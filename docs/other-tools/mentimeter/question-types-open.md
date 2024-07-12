@@ -71,7 +71,7 @@ When you share your presentation with students during a session and present the 
 
 ![decorative](images/question-types-open-voting-on-open-reponses2.jpg)
 
-When you are satisfied with the number of open responses received, you can press ‘enter’ to begin the voting (making sure to click on the Mentimeter presentation screen first to ensure it is in focus).  Until this point participants who have submitted their responses will see a message telling them that the presentation is not yet open for votes.
+When you are satisfied with the number of open responses received, you can press ‘enter’ to begin the voting.  Until this point participants who have submitted their responses will see a message telling them that the presentation is not yet open for votes.
 
 ![decorative](images/question-types-open-voting-on-open-reponses3.png)
 
