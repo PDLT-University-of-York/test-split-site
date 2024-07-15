@@ -109,6 +109,7 @@ Prepare this section by:
     1. *Welcome to [Module]*, *Module overview* and *Module staff* pages:
 
         - **check module information** is complete and up to date
+        - **check any introductory Panopto videos** on these pages can be accessed by this year's students (see Panopto section below) 
         - **check and update contact details** for all teaching staff on the *Module staff details & communication* page
         - **delete any remaining placeholder content** from the template
         - **check links are up to date** and **update links** for specific year-based documents to the new version (or even better, a stable ongoing link so you don't have to update it again in the future)
@@ -224,7 +225,9 @@ Add your content to the relevant section by:
 
 !!! Tip
 
-    Don't be a 'digital hoarder'! Refresh your materials sections each year so all content is up to date and any clutter is removed. This will make it much easier to maintain your site and for students to find what they need.
+    Don't be a 'digital hoarder'! Refresh your materials sections each year so all content is up to date and any clutter is removed.
+    
+    This will make it much easier for you to maintain your site and for students to find what they need.
 
 === "Update after rollover"
 
@@ -339,46 +342,105 @@ As well as providing lecture slides and other file-based content, Ultra has othe
 
 ## 5. Reading List
 
+<div markdown class="grid">
+<div markdown>
+**Sites must use the Reading List** to provide course readings, unless there is a pressing reason not to (this should be discussed with your Faculty Librarian).
+
+Using the Reading List:
+
+- ensures consistent and equal access to reading materials for students.
+- allows the Library to manage stock and access rerquired to support modules.
+- helps you comply with copyright regulations.
+
+Note: the Reading Tool is supported by the [Library Reading List team](mailto:lib-readinglists@york.ac.uk).
+
+</div>
+![Item title: Reading List item in Course Content area (with books icon)](images/prepare-site-readinglist-coursecontent.png)
+</div>
+
+!!! Tip
+    The Reading List team can set up a brand new list or make major changes to an existing list for you. Use the [Reading List online submission form](https://forms.gle/q4JLKxwX39a4F8tr7) to arrange this.
+
 === "Update after rollover"
     
-    check RL on site
-    include all readings
-    tag items
-    fix common issue - readings provided in othegr ways (dropbox, Google Drive, links etc.) - library can't manage stock, copyright
+    Check the ***Reading List* item** in your Course Content area:
+    
+    - if it is missing, add the link by following the steps on the [Reading List guide](../other-tools/reading-list.md)
+    - make sure it is [visible to students](../ultra/content-visibility.md)
+    
+    Check and update your Reading List:
+
+    - access your Reading List by clicking the Reading List item in the Course Content area
+    - **check reading list items are up to date**, and delete any old materials that are no longer needed.
+    - make sure it is **structured to match materials sections** in your Ultra site (usually weekly sections)
+    - make sure readings are **tagged** as Essential, Recommended or Background
+    - make sure **all module readings are included** on the Reading List. Do not upload readings, link directly to websites or use Google Drive/DropBox - if previously used, these must be removed and items added to the Reading List instead. A [digitisation service](https://subjectguides.york.ac.uk/readinglists/digitisation) is available if required.
+    - **publish** the Reading List so students can access it
+    
+    [Video guide: Managing and editing your Reading Lists [YouTube]](https://youtu.be/KzjyUZmDcrs)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KzjyUZmDcrs?si=56LTihtbrnO3znb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    More quidance and videos can be found on the [Reading List: edit and manage lists guide](https://subjectguides.york.ac.uk/readinglists/manage).
 
 === "Set up site from template"
+    
+    Check the ***Reading List* item** in your Course Content area:
+    
+    - if it is missing, add the link by following the steps on the [Reading List guide](../other-tools/reading-list.md)
+    - make sure it is [visible to students](../ultra/content-visibility.md)
+
+    Set up your Reading List:
+
+    - create or access your Reading List by clicking the Reading List item in the Course Content area
+    - **structure your list to match materials sections** in your Ultra site (usually weekly sections)
+    - **tag** readings as Essential, Recommended or Background
+    - **include all module readings on the Reading List**. Do not upload readings, link directly to websites or use Google Drive/DropBox. A [digitisation service](https://subjectguides.york.ac.uk/readinglists/digitisation) is available if required.
+    - **publish** the Reading List so students can access it
+    
+    [Video guide: Creating a new Reading List [YouTube]](https://youtu.be/OBuh3W4-UWQ)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OBuh3W4-UWQ?si=gGtLT_aBfApgXlp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    More quidance and videos can be found on the [Reading List: getting started guide](https://subjectguides.york.ac.uk/readinglists/getting-started).
 
 === "Good practice: examples"
 
 
-set up new RL instructions
+## 6. Panopto (Replay content) / Lecture capture
+
+Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture capture recordings folder. You can also add your own at-desk recordings to this folder.
+
+!!! Warning
+    All video content must be streamed from a dedicated media player (eg. Panopto or YouTube) and captioned appropriately. Video files must not be directly uploaded to the site or inside slide decks.
 
 
-## 6. Panopto (Replay content)
+=== "All sites"
 
-Just because you can see an embedded/reused video, doesn't mean that students can!
+    Check your general Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up:
+    
+    - the ***Replay Lecture Capture (Panopto)* item** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
+    - on the ***UoY Timetable*** sessions to be captured have the triangular "play" icon showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
 
-- how to check on timetable if scheduled for recording
-- resued vids - check access
+    <div markdown class="grid">
+    <figure markdown="span">
+    ![Item title: Replay Lecture Capture (Panopto) with green icon](images/prepare-site-panopto-coursecontent.png)
+    <figcaption>Panopto item in Course Content area</figcaption>
+    </figure>
+    <figure markdown="span">
+    ![Lectures shown with green play icon, and note within specific event "Scheduled to be recorded with Replay Timetabled Lecture Capture"](images/prepare-site-panopto-timetable.png)
+    <figcaption>Replay-enabled sessions in the Timetable</figcaption>
+    </figure>
+    </div>
 
-=== "Update after rollover"
+    If using [linked/embedded Panopto videos](../panopto/embed-panopto-ultra.md) in materials sections or other areas of the site, check that:
 
-=== "Set up site from template"
+    - all pre-recorded or re-used videos are **accurately captioned** (including reused lecture captures from previous years).
+    - this year's students can access the videos (see [Reusing module recordings guide](../panopto/reuse-module-media.md)). Remember: **you being able to access a video doesn't mean that students can!**
 
 === "Good practice: examples"
 
 
 
 --- 
-
-
-
-
-
-
-
-
-
 
 ## Template structure
 
