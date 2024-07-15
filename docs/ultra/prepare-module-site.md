@@ -16,39 +16,28 @@ tags:
     - avoid common start-of-semester issues.
     - explore Learn Ultra features that might be useful in your teaching.
 
-<!-- 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-    - The template has been designed to apply the site designb principles as a whole. -->
+    This walkthrough will help you meet all of the essential VLE site design principles.
 
-## Introduction
+Work through the guide in order or use the navigation on the right to jump to a specific section.
 
-The easy-to-follow walkthrough takes you through the steps to update an existing site or prepare a new site. 
+Each section contains: 
 
-Work through the sections in order or use the navigation on the right to jump to a specific section. Each section also 
-
-- checklist of what to do/consider
-- good practice examples
+- a checklist to prepare your site after rollover or set up from a template
+- examples of good practice
 - links to relevant in-depth guides
-- advice on meeting relevant [VLE site design principles](../ultra/site-design-principles.md).
 
-Following this guide will help you:
-    
-- develop an accessible, high-quality site meeting the [VLE site design principles](../ultra/site-design-principles.md).
-- save time by showing you what to focus on.
-- avoid common start-of-semester issues.
-- explore Learn Ultra features that might be useful in your teaching.
+This guide focuses on sites based on a departmental template, but the advice is applicable to most other sites. 
 
-contact us to reset site to departmental template
+!!! Success "Top tips for an effective site"
 
-based on using a departmental template, but most advice also applicable to other sites
+    - Make sure all materials and information is complete and up to date.
+    - Remove any unused template placeholders.
+    - Include all assessment-related information in the Assessment section.
+    - Use the Reading List to provide all readings.
 
-easiest way to prepare an effective site:
-
-- well organised - no out of date docs/info, files in logical place & order
-- USE THE READING LIST
-- remove any unused template placeholders
-
+--- 
 
 ## 1: General site settings
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
@@ -94,11 +83,6 @@ Prepare this section by:
 <figcaption>Module-specific pages</figcaption>
 </figure>
 </div>
-
-<!-- !!! tip "Good practice/Avoid common problems"
-
-    - All **placeholder text** is updated with module information or deleted. This text is usually within [square brackets] and may be coloured red.
-    - **Module staff contact details** are completed and up to date. -->
 
 === "Update after rollover"
 
@@ -166,8 +150,7 @@ Prepare this section by:
 
 !!! Tip
 
-    Being able to find assessment information easily is very important to students; we have significant feedback that they highly value consistency and clear organisation in how assessment details are presented in this section.
- 
+    Students tell us that and well organised assessment information is extremely helpful to them, so a clear assessment section can be very effective to support their learning.
 
 === "Update after rollover"
 
@@ -405,6 +388,7 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
 === "Good practice: examples"
 
 
+
 ## 6. Panopto (Replay content) / Lecture capture
 
 Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture capture recordings folder. You can also add your own at-desk recordings to this folder.
@@ -438,27 +422,14 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
 === "Good practice: examples"
 
+    ??? case-study "Case study: Enhancing in-person learning opportunities by using recorded media"
 
+        Scott Slorach describes how he uses online resources built on short video recordings to increase the number of learning points and increase the overall load of active learning.
 
---- 
+        Watch their presentation:
+        <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=354323bb-698d-49ee-aa1f-aecc00f9063d&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Enhancing in-person learning opportunities by using recorded media - Scott Slorach" ></iframe>
 
-## Template structure
+        [Enhancing in-person learning opportunities by using recorded media (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=354323bb-698d-49ee-aa1f-aecc00f9063d) (2 mins 47 secs, UoY log-in required)
 
-The Ultra module site template has a pre-built overall structure:
-
-- **Staff Ultra guides**: Advice on building the site
-- **Assessment**: Pre-built content & placeholders collating all assessment information. All assessment information for the site must be added to this section.
-- **Module information**: Placeholders for key module information (module overview, staff contacts etc.) and pre-built departmental information. In some departments, this may be separated into distinct module and departmental sections.
-- **Module materials**: Containers for you to add your module content to (slides, quizzes, Padlets etc.). This could be a single container, or separate containers for each week/part of the module (see below).
-- **Reading List**: an LTI link to the [Reading List](../other-tools/reading-list.md) tool. The Reading List must be used to provide all set  readings for the module.
-- **Panopto Replay content**: an LTI link to the Replay Lecture Capture content area for lecture capture recordings.
-
-There are small differences across Department- and School-specific templates, particularly in terms of how these components are organised, but each template has the same broad structure.
-
-![Decorative](images/ultra-template-example.png)
-
-!!! Tip "Benefits of a consistent overall structure"
-
-    - For staff: the pre-built structure and placeholders for key information help minimise workload in developing sites.
-    - For students: we have significant feedback from students that broad consistency across module sites is key to helping them find important information across multiple sites.
-    - A consistent, predictable structure across sites is particularly important for improving accessibility.
+        See the [full case study for more details and the transcript](../training/case-studies/law-slorach2.md).
+        You can also browse our [full set of case studies](../training/case-studies/index.md).
