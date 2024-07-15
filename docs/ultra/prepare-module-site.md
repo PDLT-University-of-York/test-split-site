@@ -155,7 +155,7 @@ This section collates all assessment-related information in one place:
 Prepare this section by:
 
 - [editing, updating or deleting content](../ultra/edit-delete-move-content.md) in the pre-built pages.
-- adding instructions, Tests and submission points for your specific assessment tasks.
+- adding materials for your specific assessment tasks (instruction, Tests, submission points etc.).
 </div>
 <figure markdown="span">
 ![Pages included: Assessment overview, Marking criteria, Summative report instructions, Past work examples](images/prepare-site-assessment-section.png)
@@ -207,25 +207,48 @@ Prepare this section by:
 
 ## 4: Module materials & content
 
+<div markdown class="grid">
+<div markdown>
+These weekly sections contain lecture slides, seminar questions, workshop preparation materials etc. Some sites have topic-based sections instead.
+
+Add your content to the relevant section by:
+
+- [editing, updating or deleting content](../ultra/edit-delete-move-content.md) in the optional pre-built Documents for different content types. Delete any that you don't use.
+- building your own [Documents](../ultra/documents.md) or other items.
+</div>
+<figure markdown="span">
+![Week 5: navigation and route planning folder. Documents for lecture notes and workshop, practice quiz, discussion board activity](images/prepare-site-weekly-section.png)
+<figcaption>Sample weekly materials section</figcaption>
+</figure>
+</div>
+
+!!! Tip
+
+    Don't be a 'digital hoarder'! Refresh your materials sections each year so all content is up to date and any clutter is removed. This will make it much easier to maintain your site and for students to find what they need.
+
 === "Update after rollover"
 
-    Check the content in each weekly (or topic etc.) materials section:
+    Check the content in each weekly materials section:
 
-    - **update materials** as needed for the new year (eg. new lecture slides)
-    - **delete** any old materials (files, text content etc.) or unused placeholder Documenst or content.
-    - **organise materials cleary** and consistently within each section.
+    - **make sure all materials are accessible** (see section below)
+    - **update materials** as needed for the new year (eg. new lecture slides) and **delete** any old materials (files, text content etc.) or unused placeholder Documents/content.
+    - **label items and files clearly** to describe the content without having to open it and give **context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types.
+    - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
+    - **check video files are not directly uploaded** to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
+    - **check re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below).
     - **check item visibility** and **update any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
-    - check any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
 
 
 === "Set up site from template"
 
-    Add your content to the relevant weekly (or topic-based) sections provided in your template:
+    Add your content to the relevant weekly materials section:
 
-    - most content is best provided within a **[Document](../ultra/documents.md)**, which is a flexible page type for adding text, images and files (eg. lecture slides) and embedded third-party content.
+    - **make sure all materials are accessible** (see section below)
     - **edit placeholder Documents** included in the template or **add your own Documents** as needed. 
     - **delete** any unused placeholder Documents or content.
-    - **organise materials cleary** and consistently within each section.
+    - **label items and files clearly** to describe the content without having to open it, and give *context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types. 
+    - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
+    - **do not upload video files** directly to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
     - **set item visibility** and **add any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
     - if reusing content or materials from previous years, check that:
         - all **content and files are up to date**. Don't add any old material.
@@ -238,25 +261,41 @@ Prepare this section by:
 
 ### Accessibility
 
-copy section 2.1 from site readiness checklist
+!!! Warning 
+    It is a **legal requirement** that all our online content is accessible, including your VLE site and any materials or files provided through it.
+
+    Accessible materials also improve the learning experience for all students and make sites easier to maintain.
 
 === "All sites"
+
+    Check that your site and materials meet these key accessibility features:
+
+    - **Text content** on the site itself and any uploaded materials is easily readable and accessible: structured with Heading Styles, left-aligned text, sufficient colour contrast, legible font and text size, bulleted lists to break up content, tables only used for data etc. 
+    - Meaningful **[images](../ultra/images.md) and figures** have appropriate ALT text or other descriptions to allow screenreader users to access the information.
+    - **[Link](../ultra/links.md) text** accurately describes the destination content, eg. [how to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility). Don’t use generic text like ‘click here’ or ‘find out more’, and don’t paste the URL as text (eg. https://www.link.com).
+    - **[Files](../ultra/files.md) and external materials** are accessible
+        - the title describes the file content (eg. Week05_Slides_NavigationTechniques)
+        - Any PDF materials are good quality and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative text-based version is also provided.
+        - Do not scan and upload published materials 
+    - Pre-recorded **videos** are hosted in a streaming service (eg. Panopto/YouTube) and captioned accurately. 
+    - Use an **accessibility checker** for all text and materials to identify errors and receive guidance on how to fix them (eg. [Blackboard Ally](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor/Quick_Start) within Blackboard, [Grackle](https://www.grackledocs.com/) for Google Docs/Slides, [Microsoft Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)).
+    
+    <!-- For more detail, see our [guide to accessible Ultra content](../accessibility/accessible-ultra-content.md). You can also attend our [Creating Accessible Documents workshop](http://bit.ly/eaccess-training) for a practical introduction. -->
 
 === "Good practice: examples"
 
 ### Going beyond Ultra basics
+As well as providing lecture slides and other file-based content, Ultra has other tools and features available to support your teaching goals.
 
 === "All sites"
-    As well as providing lecture slides and other file-based content, Ultra has other tools and features available to support your teaching goals.
-    
-    There are advanced features built into the Ultra system:
+    Advanced built-in Ultra features:
 
     - [Course groups](../ultra/course-groups.md) for facilitating collaboration and group work
     - [Discussions](../ultra/discussions.md) for Q&A forums and asynchronous student discussion
     - [Tests](../ultra/test.md) for informal/practice quizzes
     - [Journals](../ultra/journal.md) for reflective practice
 
-    You can also embded various third party teaching materials into your Ultra site, such as:
+    Other materials you can embed in your Ultra site:
     
     - [interactive Xerte objects](../other-tools/xerte.md)
     - [Padlet pinboards and discussions](../other-tools/padlet.md)
@@ -361,31 +400,3 @@ There are small differences across Department- and School-specific templates, pa
     - For staff: the pre-built structure and placeholders for key information help minimise workload in developing sites.
     - For students: we have significant feedback from students that broad consistency across module sites is key to helping them find important information across multiple sites.
     - A consistent, predictable structure across sites is particularly important for improving accessibility.
-
-## Using the content in template
-
-The **staff ultra guides** learning module is designed to help staff easily find resources that can aid development and personalisation of the ultra site from the base template. It is important that the learning module is left on hidden, so students can not see this resoource.
-
-The **module materials section** can appear different in the template dependant on the department. The module materials section learning module can appear in the format of either:
-
-* **Chronological**: Each module materials section contains a week’s worth of readings, assignments,
-lecture notes, and discussion forums.
-* **By subject area**: Each module materials section contains lecture material and readings on a specific
-subject, along with assignments, discussion forums, and tests.
-* **By content type**: Similar content types are grouped together in a module materials section (e.g., all
-the lectures for the entire course).
-<figure markdown="span">
-![Module Materials Types](images/ultra-template-module-material-example.png)
-<figcaption>*Example of 3 types of module material layouts*</figcaption>
-</figure>
-We have placeholders in the module **Information & Assessment** sections these are **required** to be replaced with relevant information and module materials sections there are optional placeholders to help you build your site but feel free to delete them if not relevant. Below demonstrates an example of the placeholder information found in the template documents.
-
-<figure markdown="span">
-![Module Placeholder Info](images/ultra-template-placeholder-example.png)
-<figcaption>*Example of placeholder text in template*</figcaption>
-</figure>
-
-The **Reading List tool** allows students to access all readings you have setup. If you need to add readings to the tool, please find more advice or help implementing the reading lists on the [ reading list guide page](../other-tools/reading-list.md). 
-
-
-The **Panopto LTI tool** allows you to access replays of lecture capture recordings and record videos for the module site. More advice on how to use panopto can be found at the [panopto guide page](../panopto/index.md).
