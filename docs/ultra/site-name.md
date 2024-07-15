@@ -23,7 +23,7 @@ Ultra VLE sites have a standardised naming format which includes:
 
 For example, **[MAN00149M-S1-A] Business Information Systems** 
 
-![decorative](images/site-rename-example.png)
+![decorative](images/site-name-example.png)
 
 ## Why a standard name is required
 

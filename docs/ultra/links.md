@@ -60,20 +60,6 @@ These tips are important for assistive technology (eg. a screenreader can pick o
 
 ## Course Link
 
-Use Course Links to add a standalone link to another item within the same Ultra site. For example, you could link to an item in the Assessment section in the week it should be completed.
+Use a Course link to show an item in another area of the same site. This helps users navigate easily between content in different areas.
 
-A Course Link appears in the Course Content area with a small link icon. Editing or deleting this link does not change the original item.
-
-![Decorative](images/links-course-link-example.png)
-
-### Add a Course Link
-1. Hover over where you want to add the link and click the plus icon.
-2. Choose **Create** then select **Link**.
-</br> ![Decorative](images/links-standalone-create.png)
-3. Select **Course Link**. 
-4. Enter a keyword and/or select relevant Category.
-5. Click **Search**.
-6. Select the relevant item from results. You can adapt the display name and add a description for the link item (this does not change the original item).
-7. Click **Save**
-
-![Decorative](images/links-course-link-insert.png)
+For more details, see our dedicated [guide to Course links](../ultra/course-links.md).

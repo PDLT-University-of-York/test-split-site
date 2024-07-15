@@ -17,7 +17,7 @@ tags:
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-    - The template has been designed to apply the site designb principles as a whole.
+    - The template has been designed to apply the site design principles as a whole.
 
 ## Template structure
 

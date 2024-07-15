@@ -8,6 +8,7 @@ nav:
     - Site structure & design:
       - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
+      # - Prepare your module site: ultra/prepare-module-site.md
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
       - Standard Ultra site names: ultra/site-name.md
       - Use the Ultra template: ultra/ultra-template.md
@@ -19,6 +20,7 @@ nav:
       - Learning Modules & Folders: ultra/folder-learning-module.md
       - Document | pages: ultra/documents.md
       - Link: ultra/links.md
+      - Course link: ultra/course-links.md
       - Test | quizzes & exams: ultra/test.md
       - Assignment | set up: ultra/assignment-set-up.md
       - Assignment | marking: ultra/assignment-marking.md
@@ -51,6 +53,7 @@ nav:
     - Site access & users:
       - Access your sites: ultra/access-sites.md
       - Site availability | student access: ultra/site-availability.md
+      - Course staff: ultra/course-staff.md
       - Course roles: ultra/course-roles.md
       - Enrol a user: ultra/enrol-user.md
       - Enrol a cohort/group: ultra/enrol-cohort.md
@@ -214,6 +217,7 @@ theme:
     - navigation.top
     - navigation.tracking
     - search.suggest
+    - content.tabs.link # linked content tabs
 
 markdown_extensions:
   - meta
@@ -225,7 +229,7 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
-      alternate_style: true
+      alternate_style: true # set up content tabs
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
