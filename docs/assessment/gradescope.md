@@ -1,8 +1,7 @@
-<!-- ---
-tags:
-    - Assessment
-    - Other tools
---- -->
+---
+search:
+    exclude: true
+---
 
 # Gradescope
 
@@ -10,6 +9,8 @@ tags:
 
     Gradescope is an assessment system being piloted in some depts in 2023/24. 
     
+## What can Gradescope do?
+
 Gradescope allows for the online marking and feedback for in-person, paper assessments, as well as direct online submission of more unusual submission types such as code files (eg. .py python files). 
 
 Find out more: [What is Gradescope? [YouTube]](https://youtu.be/nJp_NN1oFcw)
