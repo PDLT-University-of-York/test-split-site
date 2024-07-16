@@ -32,7 +32,7 @@ This guide focuses on sites based on a departmental template, but the advice is 
 
 !!! Success "Top tips for an effective site"
 
-    - Make sure all materials and information is complete and up to date.
+    - Make sure all materials and information are complete and up to date.
     - Remove any unused template placeholders.
     - Include all assessment-related information in the Assessment section.
     - Use the Reading List to provide all readings.
@@ -150,7 +150,7 @@ Prepare this section by:
 
 !!! Tip
 
-    Students tell us that and well organised assessment information is extremely helpful to them, so a clear assessment section can be very effective to support their learning.
+    Students tell us that a well organised assessment information is extremely helpful to them, so a clear assessment section is very effective to support their learning.
 
 === "Update after rollover"
 
@@ -286,6 +286,7 @@ As well as providing lecture slides and other file-based content, Ultra has othe
     - [interactive Xerte objects](../other-tools/xerte.md)
     - [Padlet pinboards and discussions](../other-tools/padlet.md)
     - [Panopto](../panopto/embed-panopto-ultra.md) or [YouTube](../ultra/youtube.md) video content
+    - [Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md) and other interactions
 
 === "Good practice: examples"
     The case studies below demonstrate how advanced tools features have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
@@ -338,7 +339,10 @@ Using the Reading List:
 Note: the Reading Tool is supported by the [Library Reading List team](mailto:lib-readinglists@york.ac.uk).
 
 </div>
-![Item title: Reading List item in Course Content area (with books icon)](images/prepare-site-readinglist-coursecontent.png)
+<figure markdown="span">
+![Item title: Reading List item with books icon, set to 'visible to students'](images/prepare-site-readinglist-coursecontent.png)
+<figcaption>Reading List link in Course COntent area</figcaption>
+</figure>
 </div>
 
 !!! Tip
@@ -396,18 +400,17 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 !!! Warning
     All video content must be streamed from a dedicated media player (eg. Panopto or YouTube) and captioned appropriately. Video files must not be directly uploaded to the site or inside slide decks.
 
-
 === "All sites"
 
     Check your general Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up:
     
-    - the ***Replay Lecture Capture (Panopto)* item** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
+    - the ***Replay Lecture Capture (Panopto)* link** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
     - on the ***UoY Timetable*** sessions to be captured have the triangular "play" icon showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
 
     <div markdown class="grid">
     <figure markdown="span">
-    ![Item title: Replay Lecture Capture (Panopto) with green icon](images/prepare-site-panopto-coursecontent.png)
-    <figcaption>Panopto item in Course Content area</figcaption>
+    ![Item title: Replay Lecture Capture (Panopto) link with green icon, set to 'visible to students'](images/prepare-site-panopto-coursecontent.png)
+    <figcaption>Panopto link in Course Content area</figcaption>
     </figure>
     <figure markdown="span">
     ![Lectures shown with green play icon, and note within specific event "Scheduled to be recorded with Replay Timetabled Lecture Capture"](images/prepare-site-panopto-timetable.png)
