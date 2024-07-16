@@ -30,7 +30,7 @@ For written or other file-based group assignments, the most suitable tools avail
 
 The process for managing a group assignment is very similar to other written assignment workflows.
 
-As they are formative or non-anonyous, they can be set up the admin team or module teaching staff (refer to your departmental guidelines).
+As they are formative or non-anonyous, they can be set up by the admin team or module teaching staff (refer to your departmental guidelines).
 
 <!-- Guide to diagram: https://squidfunk.github.io/mkdocs-material/reference/diagrams/ -->
 ``` mermaid
