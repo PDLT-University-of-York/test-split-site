@@ -4,7 +4,7 @@ tags:
     - Panopto
 ---
 
-# Case study: The challenges and opportunities of pre-recorded lecture content
+# Case study: The challenges and accessibility opportunities of pre-recorded lecture content
 
 Department of Archaeology<br />Penny Spikins
 

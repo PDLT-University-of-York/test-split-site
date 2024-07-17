@@ -8,7 +8,7 @@ nav:
     - Site structure & design:
       - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
-      # - Prepare your module site: ultra/prepare-module-site.md
+      - Prepare your module site: ultra/prepare-module-site.md
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
       - Standard Ultra site names: ultra/site-name.md
       - Use the Ultra template: ultra/ultra-template.md

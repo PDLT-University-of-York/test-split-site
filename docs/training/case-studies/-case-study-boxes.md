@@ -22,6 +22,18 @@ archaeology-alexander-bates
     See the [full case study for more details and the transcript](../training/case-studies/archaeology-alexander-bates.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
+## Case study: The challenges and acessibility opportunities of pre-recorded lecture content
+archaeology-spikins
+
+!!! case-study "Case study: [The challenges and acessibility opportunities of pre-recorded lecture content]"
+
+    Penny Spikins reflects on her experiences used audio description and ‘podcasting’ approaches when pre-recording lecture content, and how this helped to meet her students' varied accessibility needs and stimulate thinking and engagement with students in different ways.
+
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="The challenges and opportunities of pre-recorded lecture content" ></iframe>
+    [The challenges and opportunities of pre-recorded lecture content (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4) (13 mins 58 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/archaeology-spikins.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
 
 # Building and rolling out the Ultra VLE template in the Department of Biology
 biology-barnes-evans
@@ -191,7 +203,7 @@ philosophy-jay-lee
 
 !!! case-study "Case study: Philosophy and Society podcasts for assessed groupwork"
 
-    Chris Jay and Barry Lee ive an overview of diversifying assessment with a group-based podcast assessment; the rationale, process, how they supported students and outcomes.
+    Chris Jay and Barry Lee give an overview of diversifying assessment with a group-based podcast assessment; the rationale, process, how they supported students and outcomes.
 
     Watch their presentation:
     <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ad061b32-b8ce-407d-869f-ad56009d98e4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Philosophy and Society Podcasts for assessed groupwork" ></iframe>
