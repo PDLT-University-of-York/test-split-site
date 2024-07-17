@@ -270,6 +270,28 @@ Add your content to the relevant section by:
 
 === "Good practice: examples"
 
+    The case studies below demonstrate how tools have been used to meet accessibility needs in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
+
+    ??? case-study "Case study: The challenges and acessibility opportunities of pre-recorded lecture content"
+
+        Penny Spikins reflects on her experiences used audio description and ‘podcasting’ approaches when pre-recording lecture content, and how this helped to meet her students' varied accessibility needs and stimulate thinking and engagement with students in different ways.
+
+        <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="The challenges and opportunities of pre-recorded lecture content" ></iframe>
+        
+        [The challenges and opportunities of pre-recorded lecture content (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96e799b8-0c24-4016-9f65-ad4f012112d4) (13 mins 58 secs, UoY log-in required)
+
+        See the [full case study for more details and the transcript (Spikins)](../training/case-studies/archaeology-spikins.md).
+
+    ??? case-study "Case study: Building and rolling out the Ultra VLE template in the Department of Biology"
+
+        Amanda Barnes and Gareth Evans describe their collaborative approach to developing the Biology Ultra template, aiming to achieve a higher level of consistency and accessibility.
+
+        Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Age of Ultra in Biology" ></iframe>
+
+        [Building and rolling out the Ultra VLE template in the Department of Biology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c753dbf6-5046-4125-bdff-b0bb013a6a23) (11 mins 44 secs, UoY log-in required)
+
+        See the [full case study for more details and the transcript (Barnes & Evans)](../training/case-studies/biology-barnes-evans.md).
+
 ### Going beyond Ultra basics
 As well as providing lecture slides and other file-based content, Ultra has other tools and features available to support your teaching goals.
 
@@ -277,6 +299,7 @@ As well as providing lecture slides and other file-based content, Ultra has othe
     Advanced built-in Ultra features:
 
     - [Course groups](../ultra/course-groups.md) for facilitating collaboration and group work
+    - [Group Assignments](../ultra/assignment-set-up/#group-assessment) for collaborative formative or summative assessment
     - [Discussions](../ultra/discussions.md) for Q&A forums and asynchronous student discussion
     - [Tests](../ultra/test.md) for informal/practice quizzes
     - [Journals](../ultra/journal.md) for reflective practice
@@ -289,7 +312,7 @@ As well as providing lecture slides and other file-based content, Ultra has othe
     - [Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md) and other interactions
 
 === "Good practice: examples"
-    The case studies below demonstrate how advanced tools features have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
+    The case studies below demonstrate how advanced tools and features have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
 
     ??? case-study "Case study: Developing the ‘Structure of English’ module site (using Discussions and Tests)"
 
@@ -391,7 +414,14 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
 
 === "Good practice: examples"
 
+    This example demonstrates features of a well-set up Reading List:
 
+    - **Published**: the list is open for students
+    - Organised in **weekly sections** using the same strcutre as the module site
+    - **Importance-level tags** are applied to each item: Essential, Recommended, Background
+    - All items, including **papers are included in the Reading List**. The site does not give direct links to journal pages or upload readings as PDFs.
+
+    ![Highlighted features as described in text](images/prepare-site-readinglist-example.png)
 
 ## 6. Panopto (Replay content) / Lecture capture
 

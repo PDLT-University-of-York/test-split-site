@@ -25,7 +25,7 @@ archaeology-alexander-bates
 ## Case study: The challenges and acessibility opportunities of pre-recorded lecture content
 archaeology-spikins
 
-!!! case-study "Case study: [The challenges and acessibility opportunities of pre-recorded lecture content]"
+!!! case-study "Case study: The challenges and acessibility opportunities of pre-recorded lecture content"
 
     Penny Spikins reflects on her experiences used audio description and ‘podcasting’ approaches when pre-recording lecture content, and how this helped to meet her students' varied accessibility needs and stimulate thinking and engagement with students in different ways.
 
