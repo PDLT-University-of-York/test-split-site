@@ -1,4 +1,4 @@
-/* adjust colours for UoY branding colour pallette */
+/*** adjust colours for UoY branding colour pallette */
 
 :root {
     --md-primary-fg-color: #001E82;
@@ -19,7 +19,7 @@
     font-weight: bold;
 }
 
-/* Remove Announcement banner margin */
+/*** Remove Announcement banner margin */
 .md-banner__inner {
     margin: 0;
 }
@@ -72,7 +72,7 @@ nav a {
     font-size: inherit;
 }
 
-/* grid cards styling */
+/*** grid cards styling */
 .grid.cards>ul>li {
     border: 0.1rem solid var(--md-typeset-kbd-border-color);
     border-radius: 0.5rem;
@@ -88,7 +88,14 @@ nav a {
     border-bottom: 0.05rem solid var(--md-typeset-kbd-border-color)
 }
 
-/* tabbed content styling */
+/*** centre images */
+
+div.centered-image {
+    display: flex;
+    justify-content: center;
+}
+
+/*** tabbed content styling */
 
 /* box containing tabbed content */
 .md-typeset .tabbed-set {
@@ -126,7 +133,7 @@ nav a {
         padding: 0.5rem;
     }
 
-/* Custom admonitions */
+/*** Custom admonitions */
 
 /* Site design principles: essential */
 :root {

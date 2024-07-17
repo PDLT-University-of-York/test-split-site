@@ -44,8 +44,10 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
 
 === "Update after rollover"
 
+    <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-site-settings.png)
-    
+    </div>
+
     1. **Check the [Site name](../ultra/site-name.md)**</br>
     Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
     2. **Check the [Course image](../ultra/course-image.md)**</br>
