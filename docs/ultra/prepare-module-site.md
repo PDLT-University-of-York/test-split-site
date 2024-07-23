@@ -25,17 +25,10 @@ Work through the guide in order or use the navigation on the right to jump to a 
 Each section contains: 
 
 - a checklist to prepare your site after rollover or set up from a template
-- examples of good practice
-- links to relevant in-depth guides
+- links to relevant in-depth guides for features and tasks
+- examples of good practice in site set up
 
-This guide focuses on sites based on a departmental template, but the advice is applicable to most other sites. 
-
-!!! Success "Top tips for an effective site"
-
-    - Make sure all materials and information are complete and up to date.
-    - Remove any unused template placeholders.
-    - Include all assessment-related information in the Assessment section.
-    - Use the Reading List to provide all readings.
+This guide focuses on sites based on a departmental template, but the advice is applicable to most other sites.
 
 --- 
 
@@ -43,6 +36,12 @@ This guide focuses on sites based on a departmental template, but the advice is 
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
 
 === "Update after rollover"
+
+    !!! question "What is rolled over?"
+
+        - **Site name**: automatically updated
+        - **Course image**, **Course staff**, **Primary Instructors**: copied, check and update as needed.
+        - **Course Groups**: blank copy (ie. empty groups included, but no enrollments)
 
     <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-site-settings.png)
@@ -54,10 +53,13 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.
     3. **[Course staff](../ultra/course-staff.md): check Primary Instructor setting**</br>
     Check that the correct module staff for that year are shown at the top of the Course staff list. If needed, identify/update module staff using the Primary Instructor setting.
+    4. **[Course groups](../ultra/course-groups.md)**: Check these are still appropriate and edit/delete as necessary, and update enrollments. Note: assessment administrators will manage any assessment-related groups.
 
 === "Set up site from template"
 
+    <div markdown class="centered-image">
     ![Decorative](images/prepare-site-new-site-settings.png)
+    </div>
 
     1. **Check the [Site name](../ultra/site-name.md)**</br>
     Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
@@ -88,8 +90,15 @@ Prepare this section by:
 
 === "Update after rollover"
 
+    !!! question "What is rolled over?"
+
+        - **Documents** (pages): exact copies
+        - **Discussions**: a blank copy with the same prompt and settings
+
+    <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-module-information.png)
-    
+    </div>
+
     Check and update content for the new academic year:
 
     1. *Welcome to [Module]*, *Module overview* and *Module staff* pages:
@@ -108,10 +117,12 @@ Prepare this section by:
     3. *Departmental pages*
     </br>The remaining pages contain departmental information; don't adapt, hide or delete these pages 
 
-
 === "Set up site from template"
+    
+    <div markdown class="centered-image">
     ![Decorative](images/prepare-site-new-module-information.png)
-
+    </div>
+    
     Complete the pages with your module information:
 
     1. *Welcome to [Module]*, *Module overview* and *Module staff* pages:
@@ -129,6 +140,23 @@ Prepare this section by:
     </br>The remaining pages contain departmental information; don't adapt, hide or delete these pages 
 
 === "Good practice: examples"
+
+    Explore your relevant Ultra demo site for examples of good practice in setting up the Module information section:
+
+    - [Sciences Ultra demo site](https://vle.york.ac.uk/ultra/courses/_106340_1/outline)
+    - [Social Sciences Ultra demo site]
+    - [Arts & Humanities Ultra demo site]
+
+    This Module Overview page from the Sciences Ultra demo is a good example, giving clear information on:
+
+    - **Module description**:
+    - **Module aims & learning outcomes**:
+    - **Module organisation**: topics covered in the five teaching blocks (topics) that lectures are categorised into in this department's modules.
+    - **Module activities**: how the teaching blocks are organised over teh module.
+
+    <div markdown class="centered-image">
+    ![Module overview page as described in text](images/prepare-site-module-overview-example.png)
+    </div>
 
 ## 3: Assessment
 
@@ -155,6 +183,12 @@ Prepare this section by:
     Students tell us that a well organised assessment information is extremely helpful to them, so a clear assessment section is very effective to support their learning.
 
 === "Update after rollover"
+    
+    !!! question "What is rolled over?"
+
+        - **Documents** (pages): exact copies
+        - **Turnitin Feedback Studio**, **Ultra Assignment**, **Test**: blank copies, settings and due dates retained (check and update as necessary).
+        - **Release conditions**: copied, but dates must be checked and updated as needed.
 
     Check all assessment information is up to date and appears in this section:
 
@@ -185,11 +219,11 @@ Prepare this section by:
         - informal practice quizzes or tasks can be included in weekly materials sections.
     6. **Deadlines & release dates**: to make dates easier to update for later years, set dates in the system or give relative dates (eg. "Week 2, Friday 13:00") instead of giving specific dates in instructions.
 
-=== "Good practice: examples"
+<!-- === "Good practice: examples"
 
     - clear instructions given (Psych?)
     - course link to weekly section (Maths?)
-    - exemplar Y2023-017605 (HEA - midwifery)
+    - exemplar Y2023-017605 (HEA - midwifery) -->
 
 ## 4: Module materials & content
 
@@ -210,11 +244,20 @@ Add your content to the relevant section by:
 
 !!! Tip
 
-    Don't be a 'digital hoarder'! Refresh your materials sections each year so all content is up to date and any clutter is removed.
+    Don't be a digital hoarder! Refresh your materials sections each year so all content is up to date and any clutter is removed.
     
     This will make it much easier for you to maintain your site and for students to find what they need.
 
 === "Update after rollover"
+
+    !!! question "What is rolled over?"
+
+        - **Documents** (pages), **uploaded files**, **external links**: exact copies
+        - **Course links**: copied updated to link to the relevant item in this year's site
+        - **Discussions**, **Journals**, **Forms**, formative **Tests**: blank copies, settings and due dates retained (check and update as necessary)
+        - **Embedded content**: copied exactly, so will embed the same item as the previous site. Anything particular to a cohort (eg. Panopto videos, Padlets) must be updated.
+        - **SCORM objects**: may need to be redeployed using the original package
+
 
     Check the content in each weekly materials section:
 
@@ -242,10 +285,10 @@ Add your content to the relevant section by:
         - all **content and files are up to date**. Don't add any old material.
         - any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
 
-=== "Good practice: examples"
+<!-- === "Good practice: examples"
 
     well labelled
-    context given for items
+    context given for items -->
 
 ### Accessibility
 
@@ -366,7 +409,7 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
 </div>
 <figure markdown="span">
 ![Item title: Reading List item with books icon, set to 'visible to students'](images/prepare-site-readinglist-coursecontent.png)
-<figcaption>Reading List link in Course COntent area</figcaption>
+<figcaption>Reading List link in Course Content area</figcaption>
 </figure>
 </div>
 
@@ -374,8 +417,13 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
     The Reading List team can set up a brand new list or make major changes to an existing list for you. Use the [Reading List online submission form](https://forms.gle/q4JLKxwX39a4F8tr7) to arrange this.
 
 === "Update after rollover"
+
+    !!! question "What is rolled over?"
+
+        **Reading List link** in Course Content: copied, but will not link to the Reading List itself until manually attached by the Reading List Team over the summer holiday period.
+
     
-    Check the ***Reading List* item** in your Course Content area:
+    Check the ***Reading List* link** in your Course Content area:
     
     - if it is missing, add the link by following the steps on the [Reading List guide](../other-tools/reading-list.md)
     - make sure it is [visible to students](../ultra/content-visibility.md)
@@ -396,7 +444,7 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
 
 === "Set up site from template"
     
-    Check the ***Reading List* item** in your Course Content area:
+    Check the ***Reading List* link** in your Course Content area:
     
     - if it is missing, add the link by following the steps on the [Reading List guide](../other-tools/reading-list.md)
     - make sure it is [visible to students](../ultra/content-visibility.md)
@@ -423,7 +471,9 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
     - **Importance-level tags** are applied to each item: Essential, Recommended, Background
     - All items, including **papers are included in the Reading List**. The site does not give direct links to journal pages or upload readings as PDFs.
 
+    <div markdown class="centered-image">
     ![Highlighted features as described in text](images/prepare-site-readinglist-example.png)
+    </div>
 
 ## 6. Panopto (Replay content) / Lecture capture
 
@@ -434,10 +484,17 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
 === "All sites"
 
-    Check your general Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up:
+    !!! question "What is rolled over?"
+
+        - **Replay Lecture Capture (Panopto) link**: copied
+        - **contents of Panopto folder**: not copied, empty folder (see below)
+
+    **General Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up**
+
+    Check that:
     
     - the ***Replay Lecture Capture (Panopto)* link** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
-    - on the ***UoY Timetable*** sessions to be captured have the triangular "play" icon showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
+    - sessions to be captured have the triangular "play" icon on the ***UoY Timetable event*** showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
 
     <div markdown class="grid">
     <figure markdown="span">
@@ -457,6 +514,8 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
 === "Good practice: examples"
 
+    The case studies below demonstrate how Panopto and recorded videos have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
+
     ??? case-study "Case study: Enhancing in-person learning opportunities by using recorded media"
 
         Scott Slorach describes how he uses online resources built on short video recordings to increase the number of learning points and increase the overall load of active learning.
@@ -466,5 +525,20 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
         [Enhancing in-person learning opportunities by using recorded media (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=354323bb-698d-49ee-aa1f-aecc00f9063d) (2 mins 47 secs, UoY log-in required)
 
-        See the [full case study for more details and the transcript](../training/case-studies/law-slorach2.md).
-        You can also browse our [full set of case studies](../training/case-studies/index.md).
+        See the [full case study for more details and the transcript (Slorach)](../training/case-studies/law-slorach2.md).
+
+    ??? case-study "Case study: Video feedback for students in Psychology"
+
+        Sally Quinn explores her use of video to provide individualised feedback on project drafts and efficient targetted feedback in larger modules. She describes using video to supplement written feedback has helped students process and act on feedback, and how the upfront time investment pays off in reduced need for further clarification.
+
+        Watch their presentation:
+        <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ceff9a9e-39dc-478e-a52a-aaf800fd6187&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Video feedback for students in Psychology" ></iframe>
+
+        [Video feedback for students in Psychology (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ceff9a9e-39dc-478e-a52a-aaf800fd6187) (13 mins 23 secs, UoY log-in required)
+
+        See the [full case study for more details and the transcript (Quinn)](../training/case-studies/psychology-quinn.md).
+
+<!-- ## 7. Final steps
+
+- make site available
+- check students enrolled (Groups) -->

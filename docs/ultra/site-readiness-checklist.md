@@ -21,6 +21,13 @@ Before a new teaching period, you need to make sure that your Learn Ultra VLE si
 
 Whether teaching staff or administrators/professional services team complete the readiness checklist (or parts of it) may vary by department.
 
+!!! Success "Top tips for an effective site"
+
+    - Make sure all materials and information are complete and up to date.
+    - Remove any unused template placeholders.
+    - Include all assessment-related information in the Assessment section.
+    - Use the Reading List to provide all readings.
+
 ## 1. The site exists and staff are enrolled
 
 Firstly, make sure that you and other teaching staff have access to the site.
