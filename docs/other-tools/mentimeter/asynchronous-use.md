@@ -9,10 +9,39 @@ tags:
 !!! Summary
     How to switch to 'survey mode' to use Mentimeter for asynchronous interaction to make all the question types and features available in Mentimeter available to support online learning and independent study between live sessions.
 
-You can change your Mentimeter presentation settings to make a presentation available for students to respond asynchronously in their own time by [switching from ‘Presentation mode’ to ‘survey mode’](https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation).  You can then [share the voting link](https://help.mentimeter.com/en/articles/410895-let-your-audience-connect-to-your-presentation-via-a-link) with them, for example by [creating a link](../../ultra/links.md) in your VLE site.
+You can change your Mentimeter presentation settings to make a presentation available for students to respond asynchronously in their own time by [switching from ‘Presentation mode’ to ‘survey mode’](https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation).  
 
-You will also need to [share the presentation results](results.md#sharing-your-presentation-and-results) to allow students to access them asynchronously.  You can do this by copying a link to use to [create a link](../../ultra/links.md) in your VLE site, or by copying an embed code which can be used to display the presentation in a frame on a VLE page ([embedding content](../../ultra/embed-content.md)).
+## Survey mode
 
-When embedding the presentation on a VLE page, it is necessary to provide the link so that it can be viewed in full screen if needed. This can be added above the embed by choosing the ‘add content options’ and using the text editing tools to add a hyperlink (see example below).
+To activate survey mode, select ‘survey’ from settings. The word ‘survey’ will appear next to the title of your presentation.  You can adjust the settings to allow multiple responses on the same device by selecting the option. 
 
-![Embedded Mentimeter presentation within the VLE with a link to the presentation shown above](images/results-vle-embed.png) 
+![Decorative](images/asynchronous-use-survey-mode.png) 
+
+You can also check the accessibility of your presentation which will flag any issues such as problems with colour contrast or missing ALT text on images
+
+![Decorative](images/asynchronous-use-accessibility-check.png) 
+
+## Sharing your survey
+
+You can share your survey with participants in a number of ways from the ‘share – participants’ options:
+
+![Decorative](images/asynchronous-use-sharing.png) 
+
+**Using the invite link** is the easiest way to share your survey in the VLE or via an announcement or email.  Students can follow the link to open the presentation and respond.
+
+**Using a QR code and or a numerical access code** is ideal for live sessions or when the students will not be able to access your link direct. You can bring these up on screen and student can use a QR code reader if they have one on their phone or device, or they can alternatively enter the access code at menti.com (nb access codes remain valid for 2 days by default but you can change the expiration to allow the link to be used for up to 14 days). 
+
+**A survey can also be embedded into the VLE** to allow students to respond and view results from within a VLE page. To do this, you need to insert the invite link into an HTML ‘embed code’ such as the following:
+
+`<iframe src="ADD INVITE LINK HERE" style="width:100%; height:820px; frameborder="0"></iframe>`
+
+You can add this within a page on a VLE site by following the guidance on embedding content.
+
+You can adjust the height settings by making the height number bigger or smaller in the embed code to ensure that the whole activity is displayed within the embed including the ‘submit’ or ‘Open Q&A’ buttons whilst avoiding any wasted space on the page.  It is important to include a link above the embed to ensure that it will be accessible even on a device with a very small screen or if a participant cannot see the embed frame for any reason. An example of an embedded Q&A slide is shown below.
+
+![Q&A slide embedded on a VLE page with a link to 'open the menti page in a new window' above the embed](images/asynchronous-use-vle-embed.png)
+
+## Sharing your survey results ##
+
+You can share the results of a survey in a live session or asynchronously in the VLE.  See [sharing your presentation and results](#sharing-your-presentation-and-results) for guidance.
+
