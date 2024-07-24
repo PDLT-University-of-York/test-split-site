@@ -2,6 +2,9 @@
 
 Videos from staff at the University of York showing approaches to learning, teaching and assessment with digital tools.
 
+!!! case-study "Case study archive"
+    You can also view a large number of case studies on the uses of digital tools for learning, teaching and assessment in our [case studies archive](https://elearningyork.wpcomstaging.com/learning-design-and-development/case-studies/).  While these give useful insights into approaches and practices that have proven to be effective in different departments, they may contain some outdated information or refer to tools that are no longer in use at the University.  If you would like to discuss how any of the approaches described in the case study archive could be applied in your context using the current suite of [digital tools](https://bit.ly/yorktools), please [contact us](https://vle-support.york.ac.uk/help/contact-us/).
+
 ---
 
 ## Learn Ultra
