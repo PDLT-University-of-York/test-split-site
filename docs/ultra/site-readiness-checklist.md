@@ -81,7 +81,7 @@ Check that:
 Check that:
 
 - all video content are streamed from Panopto (or YouTube etc.) and not directly uploaded to the site or inside slide decks.
-- the site contains a "Replay Lecture Capture (Panopto)" link in the Course Content area and lectures or sessions on teh Timetable to be captured have the triangular "play" icon showing they are Replay-enabled.
+- the site contains a "Replay Lecture Capture (Panopto)" link in the Course Content area and lectures or sessions on the Timetable to be captured have the triangular "play" icon showing they are Replay-enabled.
 - any pre-recorded or re-used Panopto content (eg. at-desk captures) is set up correctly so that this cohort's students can access them. Note that you being able to access a video doesn't mean that students can.
 
 ### Reading List
