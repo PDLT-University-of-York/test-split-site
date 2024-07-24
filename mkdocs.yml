@@ -11,7 +11,6 @@ nav:
       - Prepare your module site: ultra/prepare-module-site.md
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
       - Standard Ultra site names: ultra/site-name.md
-      - Use the Ultra template: ultra/ultra-template.md
       - Personalise site design: ultra/personalise-site-design.md
       - Learning Modules & Folders: ultra/folder-learning-module.md
       - Course image (site banner): ultra/course-image.md
@@ -300,6 +299,7 @@ plugins:
         'ultra/messages-tool.md': 'ultra/messages.md'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/workshops-resources/ultra-essentials.md'
         'ultra/international-access.md': 'help/international-access.md'
+        'ultra/ultra-template.md': ultra/prepare-module-site.md'
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
         'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
