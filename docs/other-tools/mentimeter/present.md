@@ -53,7 +53,7 @@ When presenting in Mentimeter, you can use keyboard shortcuts to manage presenta
 
 ## Survey mode
 
-By default, Mentimeter presentations run in '[presentation mode]'(https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation). The only slide visible to participants on their devices is the one shown on the presentation screen and the movement between slides is controlled by the presenter.
+By default, Mentimeter presentations run in '[presentation mode](https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation)'. The only slide visible to participants on their devices is the one shown on the presentation screen and the movement between slides is controlled by the presenter.
 
 However, you can also switch to 'survey mode' if you would like participants to be able to work through questions in their own time. This can be used to allow groups and individuals to respond at their own pace during teaching sessions, or to gather responses in advance of sessions for feedback, follow up, or to seed activities and discussion in the session itself.  Survey mode also makes all the question types and features in Mentimeter available for asynchronous access to support online learning and independent study between live sessions.
 
