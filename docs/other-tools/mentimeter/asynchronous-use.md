@@ -35,7 +35,7 @@ You can share your survey with participants in a number of ways from the ‘shar
 
 `<iframe src="ADD INVITE LINK HERE" style="width:100%; height:820px; frameborder="0"></iframe>`
 
-You can add this within a page on a VLE site by following the guidance on embedding content.
+You can add this within a page on a VLE site by following the guidance on [embedding content](../../ultra/embed-content.md).
 
 You can adjust the height settings by making the height number bigger or smaller in the embed code to ensure that the whole activity is displayed within the embed including the ‘submit’ or ‘Open Q&A’ buttons whilst avoiding any wasted space on the page.  It is important to include a link above the embed to ensure that it will be accessible even on a device with a very small screen or if a participant cannot see the embed frame for any reason. An example of an embedded Q&A slide is shown below.
 
