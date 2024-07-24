@@ -9,30 +9,38 @@ tags:
 
 !!! Summary
 
-    Get ready for teaching with this walkthrough of updating an existing site after rollover or setting up a new site from a departmental template:
+    Prepare a site for teaching with this in-depth checklist to update an existing site after rollover or set up a new site from a departmental template:
 
     - develop an accessible, high-quality site.
-    - save time by focusing on what's important to get right.
-    - avoid common start-of-semester issues.
-    - explore Learn Ultra features that might be useful in your teaching.
+    - save time and avoid common start-of-semester issues.
+    - see applied examples of good practice in site design and material use.
+    - explore more advanced Ultra features available to support your teaching.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-    This walkthrough will help you meet all of the essential VLE site design principles.
+    This checklist will help you meet all of the essential VLE site design principles.
 
-Work through the guide in order or use the navigation on the right to jump to a specific section.
+Guidance focuses on sites based on a departmental template, but the advice is applicable to most other sites. Work through the checklist in order or use the navigation on the right to jump to a specific section.
 
-Each section contains: 
-
-- a checklist to prepare your site after rollover or set up from a template
-- links to relevant in-depth guides for features and tasks
-- examples of good practice in site set up
-
-This guide focuses on sites based on a departmental template, but the advice is applicable to most other sites.
+Already prepared your content? See the [Site Readiness Checklist](../ultra/site-design-principles.md) for final pre-teaching checks.
 
 --- 
 
-## 1: General site settings
+## Accessing the new site
+
+New sites are usually created for the next academic year in June or July. This can be:
+
+- **standard rollover**: a copy of the previous year's site, including most of the content, settings and enrollments.
+- **new from departmental template**: a blank copy of the template with only placeholder structre and content. Used for new modules and to refresh existing module sites.
+
+Once the site has been created, you can [find the site in your Courses list](../ultra/access-sites.md) by:
+
+- setting the Term to the upcoming academic year
+- searching for your module name or SITS code
+
+If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enroll you. 
+
+## General settings & staff enrollments
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
 
 === "Update after rollover"
@@ -40,8 +48,9 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     !!! question "What is rolled over?"
 
         - **Site name**: automatically updated
-        - **Course image**, **Course staff**, **Primary Instructors**: copied, check and update as needed.
-        - **Course Groups**: blank copy (ie. empty groups included, but no enrollments)
+        - **Course image**: copied
+        - **Staff enrollments** and **Primary instructors**: copied, check and update as needed.
+        - **Course Groups**: empty groups included, but no enrollments
 
     <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-site-settings.png)
@@ -51,9 +60,11 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
     2. **Check the [Course image](../ultra/course-image.md)**</br>
     Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.
-    3. **[Course staff](../ultra/course-staff.md): check Primary Instructor setting**</br>
-    Check that the correct module staff for that year are shown at the top of the Course staff list. If needed, identify/update module staff using the Primary Instructor setting.
-    4. **[Course groups](../ultra/course-groups.md)**: Check these are still appropriate and edit/delete as necessary, and update enrollments. Note: assessment administrators will manage any assessment-related groups.
+    3. **Staff enrollments & Primary Instructors**:
+        - click *Class Register* under *Details & Actions* in the left menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor). 
+        - if needed, [enrol](../ultra/enrol-user.md) missing module staff or [unenrol](../ultra/unenrol-user.md) any GTAs or other staff members who don't need access to this year's site (you can also contact your departmental administrator or professional support team for help witrh this).
+        - check/update [**Primary Instructor** settings](../ultra/course-staff.md) so that module staff appear at the top of the *Course Staff* list.
+    4. **[Course groups](../ultra/course-groups.md)**: If used, check these are still appropriate and edit/delete settings. Note: assessment administrators will manage any assessment-related groups.
 
 === "Set up site from template"
 
@@ -65,10 +76,14 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
     2. **Select a [Course image](../ultra/course-image.md)**</br>
     Your departmental template contains a default Course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.
+    3. **Staff enrollments & Primary Instructors**:
+        - click *Class Register* under *Details & Actions* in the left menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor).
+        - if needed, [enrol](../ultra/enrol-user.md) missing module staff (you can also contact your departmental administrator or professional support team for help witrh this).
+        - apply [**Primary Instructor** settings](../ultra/course-staff.md) so that module staff appear at the top of the *Course Staff* list.
     3. **[Course staff](../ultra/course-staff.md): set Primary Instructor(s)**</br>
     If non-module staff are also enrolled on the site, identify all module teaching staff using the Primary Instructor setting. This will make sure the correct staff are shown first in the Course staff list.
 
-## 2: Module information
+## Module information
 
 <div markdown class="grid">
 <div markdown>
@@ -158,7 +173,7 @@ Prepare this section by:
     ![Module overview page as described in text](images/prepare-site-module-overview-example.png)
     </div>
 
-## 3: Assessment
+## Assessment
 
 <div markdown class="grid">
 <div markdown>
@@ -225,7 +240,7 @@ Prepare this section by:
     - course link to weekly section (Maths?)
     - exemplar Y2023-017605 (HEA - midwifery) -->
 
-## 4: Module materials & content
+## Module materials & content
 
 <div markdown class="grid">
 <div markdown>
@@ -392,7 +407,7 @@ As well as providing lecture slides and other file-based content, Ultra has othe
         See the [full case study for more details and the transcript (Beer)](../training/case-studies/sociology-beer.md).
 
 
-## 5. Reading List
+## Reading List
 
 <div markdown class="grid">
 <div markdown>
@@ -475,7 +490,7 @@ Note: the Reading Tool is supported by the [Library Reading List team](mailto:li
     ![Highlighted features as described in text](images/prepare-site-readinglist-example.png)
     </div>
 
-## 6. Panopto (Replay content) / Lecture capture
+## Panopto (Replay content) / Lecture capture
 
 Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture capture recordings folder. You can also add your own at-desk recordings to this folder.
 
