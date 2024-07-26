@@ -160,7 +160,7 @@ Prepare this section by:
 
     - [Sciences Ultra demo site](https://vle.york.ac.uk/ultra/courses/_106340_1/outline)
     - [Social Sciences Ultra demo site]
-    - [Arts & Humanities Ultra demo site]
+    - [Arts & Humanities Ultra demo site](https://vle.york.ac.uk/ultra/courses/_106233_1/outline)
 
     This Module Overview page from the Sciences Ultra demo is a good example, giving clear information on:
 
@@ -259,9 +259,7 @@ Add your content to the relevant section by:
 
 !!! Tip
 
-    Don't be a digital hoarder! Refresh your materials sections each year so all content is up to date and any clutter is removed.
-    
-    This will make it much easier for you to maintain your site and for students to find what they need.
+    We have very strong student feedback that clear materials organisation is one of the key ways that a VLE site can support their learning. It means they can quickly locate the materials they need at any point in the course, and can be confident that they haven't missed any important content. 
 
 === "Update after rollover"
 
@@ -300,10 +298,37 @@ Add your content to the relevant section by:
         - all **content and files are up to date**. Don't add any old material.
         - any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
 
-<!-- === "Good practice: examples"
+=== "Good practice: examples"
 
-    well labelled
-    context given for items -->
+    These examples are from the [Arts & Humanities Ultra demo site](https://vle.york.ac.uk/ultra/courses/_106233_1/outline) (based on a module in the Department of English and Related Literature). 
+
+    **Clear and consisent structure**
+
+    - Consistent weekly materials sections: each week contains (roughly) the same items in (roughly) the same order. 
+    - Items named with week number and content type (core reading, lecture, seminar): easy to know what the item is without having to open it, and helps identify items using a site search.
+    - Structure logically mirrors teaching activities: students are guided from core reading information to lecture content and finally seminar preparation.
+    - Old or unused items removed: no clutter, less opportunity for confusion or errors, easier to maintain.
+    
+    <div markdown class="centered-image">
+    ![Consistent weekly materials sections: Details given in text](images/prepare-site-consistent-materials-structure.png)
+    </div>
+
+    **Well-presented materials**
+
+    1. Accessible structure: consistent headings used throughout materials which ate set with heading styles. This aids navigation and is very important for students accessing the site with assistive technologies.
+    2. Relevant staff details given for this particular lecture: this is especially helpful on a module with multiple lecturers.
+    3. Brief introduction to the topic and lecture outcomes: gives context to the lecture topic and expectations.
+    4. Other useful information about lecture content, delivery or format: in this case an unusual A-Z format.
+    5. Lecture slides
+        - Flexible use: students can preview the slides directly within the Document, download the original file or download in an alternative format. This allows students to use the slides in a way that meets their needs. 
+        - File clearly named with module, week and topic: very helpful for organising and locating content if students download the file.
+        - Accessibility checker used to make sure the file meets key accessibility features.
+
+
+    <div markdown class="centered-image">
+    ![Lecture materials Document (page) with text information and inline preview of lecture slides. Details described in text.](images/prepare-site-materials-example.png)
+    </div>
+
 
 ### Accessibility
 
