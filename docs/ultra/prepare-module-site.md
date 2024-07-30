@@ -188,7 +188,7 @@ Prepare this section by:
 - adding materials for your specific assessment tasks (instruction, Tests, submission points etc.).
 </div>
 <figure markdown="span">
-![Pages included: Assessment overview, Marking criteria, Summative report instructions, Past work examples](images/prepare-site-assessment-section.png)
+![Pages included: Assessment overview, Formative and summative submission points, Assessment criteria, Sample work](images/prepare-site-assessment-section.png)
 <figcaption>Sample Assessment section</figcaption>
 </figure>
 </div>
@@ -202,8 +202,12 @@ Prepare this section by:
     !!! question "What is rolled over?"
 
         - **Documents** (pages): exact copies
-        - **Turnitin Feedback Studio**, **Ultra Assignment**, **Test**: blank copies, settings and due dates retained (check and update as necessary).
+        - **Turnitin Feedback Studio**, **Ultra Assignment**, **Test**: instructions, settings and due dates copied (check and update as necessary), submissions are not copied.
         - **Release conditions**: copied, but dates must be checked and updated as needed.
+
+    <div markdown class="centered-image">
+    ![Decorative](images/prepare-site-rollover-assessment.png)
+    </div>
 
     Check all assessment information is up to date and appears in this section:
 
@@ -219,9 +223,13 @@ Prepare this section by:
 
 === "Set up site from template"
 
+    <div markdown class="centered-image">
+    ![Decorative](images/prepare-site-new-site-assessment.png)
+    </div>
+
     Add all assessment-related content to this section:
 
-    1. ***Assessment overview***: complete the summary table listing formative and summative assessment tasks. The rest of the page contains departmental-level information, so you don't need to change that.
+    1. ***Assessment overview***: complete the summary table listing formative and summative assessment tasks, or link to the Module Catalogue page (don't include a year in the link, so it always goes to the current year). The rest of the page contains departmental-level information, so you usually won't need to change that.
     2. ***Assessment criteria***: for submission-based assessment, update with information on how work is marked. You could upload a document, or replace this item with a link to marking criteria in a course handbook. Delete or hide from students if not relevant.
     3. ***Sample work***: consider providing some examples of past work to help students understand task requirements and expectations for good submissions. Delete or hide from students if not relevant.
     4. ***Past papers***: check or update the link to online past paper repository, or consider replacing with a folder containing past papers. Delete or hide from students if not relevant.
@@ -271,26 +279,32 @@ Add your content to the relevant section by:
         - **Embedded content**: copied exactly, so will embed the same item as the previous site. Anything particular to a cohort (eg. Panopto videos, Padlets) must be updated.
         - **SCORM objects**: may need to be redeployed using the original package
 
-
+    <div markdown class="centered-image">
+    ![Decorative](images/prepare-site-rollover-materials.png)
+    </div>
+    
     Check the content in each weekly materials section:
 
     - **make sure all materials are accessible** (see section below)
     - **update materials** as needed for the new year (eg. new lecture slides) and **delete** any old materials (files, text content etc.) or unused placeholder Documents/content.
     - **label items and files clearly** to describe the content without having to open it and give **context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types.
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
+    - **check links and embedded content** are shared correctly for the new cohort. For example, update links to yearly handbook documents and check any re-used Panopto videos are shared correctly (see Panopto section below).
     - **check video files are not directly uploaded** to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
-    - **check re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below).
-    - **check item visibility** and **update any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
-
+    - **check item visibility** and **update any deadlines or [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
 
 === "Set up site from template"
+
+    <div markdown class="centered-image">
+    ![Decorative](images/prepare-site-new-site-materials.png)
+    </div>
 
     Add your content to the relevant weekly materials section:
 
     - **make sure all materials are accessible** (see section below)
     - **edit placeholder Documents** included in the template or **add your own Documents** as needed. 
     - **delete** any unused placeholder Documents or content.
-    - **label items and files clearly** to describe the content without having to open it, and give *context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types. 
+    - **label items and files clearly** to describe the content without having to open it, and give **context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types. 
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
     - **do not upload video files** directly to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
     - **set item visibility** and **add any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
@@ -315,7 +329,7 @@ Add your content to the relevant section by:
 
     **Well-presented materials**
 
-    1. Accessible structure: consistent headings used throughout materials which ate set with heading styles. This aids navigation and is very important for students accessing the site with assistive technologies.
+    1. Accessible structure: consistent headings used throughout (using heading styles). This aids navigation and is very important for users of assistive technologies.
     2. Relevant staff details given for this particular lecture: this is especially helpful on a module with multiple lecturers.
     3. Brief introduction to the topic and lecture outcomes: gives context to the lecture topic and expectations.
     4. Other useful information about lecture content, delivery or format: in this case an unusual A-Z format.

@@ -200,7 +200,7 @@ Click each principle to show details, examples and guidance on implementing the 
 
 ??? essential "4.3 Essential: Provide marking criteria or other grading policies showing how work is marked."
 
-    - This could be a rubric linked to an assignment within the site or a linked document. Where a site involves different methods of assessing work, include details of all of these (eg. PSRB requirements for professional courses).
+    - This could be a rubric linked to an assignment within the site or a linked document. Where a site involves different methods of assessing work, include details of all of these (eg. PSRB requirements for professional programmes).
     - A link to central [advice on using assessment criteria and feedback](https://subjectguides.york.ac.uk/academic-writing/assessment) may also be provided.
     - A placeholder for this information is provided in site templates, and relevant marking criteria may be included in departmental templates.
 
