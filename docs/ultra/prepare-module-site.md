@@ -561,10 +561,12 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
     </figure>
     </div>
 
-    If using [linked/embedded Panopto videos](../panopto/embed-panopto-ultra.md) in materials sections or other areas of the site, check that:
+    **Pre-recorded/re-used videos**
+
+    If you have [linked/embedded Panopto videos](../panopto/embed-panopto-ultra.md) in the site, make sure that:
 
     - all pre-recorded or re-used videos are **accurately captioned** (including reused lecture captures from previous years).
-    - this year's students can access the videos (see [Reusing module recordings guide](../panopto/reuse-module-media.md)). Remember: **you being able to access a video doesn't mean that students can!**
+    - recordings are in an Ongoing folder or the new site's folder so that the ** new cohort can access** the videos (see [Reusing module recordings guide](../panopto/reuse-module-media.md)). Remember: **you being able to access a video doesn't mean that students can!**
 
 === "Good practice: examples"
 
