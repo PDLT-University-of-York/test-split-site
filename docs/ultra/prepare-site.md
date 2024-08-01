@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# Prepare module sites for teaching:</br>rollover updates & new sites
+# Prepare sites for teaching:</br>rollover updates & new sites
 
 !!! Summary
 
@@ -20,7 +20,7 @@ tags:
 
     This checklist will help you meet all of the essential VLE site design principles.
 
-Guidance focuses on sites based on a departmental template, but the advice is applicable to most other sites. Work through the checklist in order or use the navigation on the right to jump to a specific section.
+Guidance focuses on sites based on a departmental module template, but the advice is also applicable to most other teaching sites. Work through the checklist in order or use the navigation on the right to jump to a specific section.
 
 Already prepared your content? See the [Site Readiness Checklist](../ultra/site-design-principles.md) for final pre-teaching checks.
 
@@ -392,14 +392,21 @@ Add your content to the relevant section by:
         See the [full case study for more details and the transcript (Barnes & Evans)](../training/case-studies/biology-barnes-evans.md).
 
 ### Going beyond Ultra basics
-As well as providing lecture slides and other file-based content, Ultra has other tools and features available to support your teaching goals.
 
 === "All sites"
-    Advanced built-in Ultra features:
 
-    - [Course groups](../ultra/course-groups.md) for facilitating collaboration and group work
+    You can use Ultra and our other tools for a lot more than providing lecture slides and other file-based content, such as:
+
+    - facilitating flipped learning, where students complete asynchronous tasks before an in-person session.
+    - providing knowledge check and practice activities.
+    - supporting collaboration and discussion.
+    - sharing student-created content.
+    
+    Useful Ultra features include:
+
+    - [Course groups](../ultra/course-groups.md): for facilitating collaboration and group work
     - [Group Assignments](../ultra/assignment-set-up/#group-assessment) for collaborative formative or summative assessment
-    - [Discussions](../ultra/discussions.md) for Q&A forums and asynchronous student discussion
+    - [Discussions](../ultra/discussions.md): Q&A forums, asynchronous discussion,  student-created content
     - [Tests](../ultra/test.md) for informal/practice quizzes
     - [Journals](../ultra/journal.md) for reflective practice
 
@@ -407,7 +414,7 @@ As well as providing lecture slides and other file-based content, Ultra has othe
     
     - [interactive Xerte objects](../other-tools/xerte.md)
     - [Padlet pinboards and discussions](../other-tools/padlet.md)
-    - [Panopto](../panopto/embed-panopto-ultra.md) or [YouTube](../ultra/youtube.md) video content
+    - pre-recorded [Panopto](../panopto/embed-panopto-ultra.md) or [YouTube](../ultra/youtube.md) video content
     - [Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md) and other interactions
 
 === "Good practice: examples"
@@ -536,12 +543,13 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 !!! Warning
     All video content must be streamed from a dedicated media player (eg. Panopto or YouTube) and captioned appropriately. Video files must not be directly uploaded to the site or inside slide decks.
 
-=== "All sites"
+=== "Update after rollover"
 
     !!! question "What is rolled over?"
 
         - **Replay Lecture Capture (Panopto) link**: copied
-        - **contents of Panopto folder**: not copied, empty folder (see below)
+        - **Panopto folder**: not copied, a new empty folder is created
+        - **linked and embedded recordings**: copied, but not updated. tudent access needs careful checking (see below). 
 
     **General Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up**
 
@@ -561,13 +569,45 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
     </figure>
     </div>
 
-    **Pre-recorded/re-used videos**
+    **Pre-recorded/reused videos**
 
-    If you have [linked/embedded Panopto videos](../panopto/embed-panopto-ultra.md) in the site, make sure that:
+    !!! Tip
 
-    - all pre-recorded or re-used videos are **accurately captioned** (including reused lecture captures from previous years).
-    - recordings are in an Ongoing folder or the new site's folder so that the ** new cohort can access** the videos (see [Reusing module recordings guide](../panopto/reuse-module-media.md)). Remember: **you being able to access a video doesn't mean that students can!**
+        Problems with student access to reused videos is very common, so check this carefully. You likely have more access than students, so **you seeing a video doesn't mean that students can**.
 
+    Make sure that students can access any pre-recorded [linked/embedded Panopto videos](../panopto/embed-panopto-ultra.md), and update embeds/links as needed. Either:
+
+    - check that recordings are stored in (and embedded from) an Ongoing Panopto folder.
+    - manually copy (don't move) the previous year's videos into the new Panopto folder and update the links/embeds.
+   
+    To share pre-recorded videos (eg. 'at-desk' mini lecture recordings), we recommend embedding Panopto videos in a Document with some context on when/how to use the video. Students can then watch the video within the site.
+
+=== "Set up site from template"
+
+    **General Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up**
+
+    Check that:
+    
+    - the ***Replay Lecture Capture (Panopto)* link** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
+    - sessions to be captured have the triangular "play" icon on the ***UoY Timetable event*** showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
+
+    <div markdown class="grid">
+    <figure markdown="span">
+    ![Item title: Replay Lecture Capture (Panopto) link with green icon, set to 'visible to students'](images/prepare-site-panopto-coursecontent.png)
+    <figcaption>Panopto link in Course Content area</figcaption>
+    </figure>
+    <figure markdown="span">
+    ![Lectures shown with green play icon, and note within specific event "Scheduled to be recorded with Replay Timetabled Lecture Capture"](images/prepare-site-panopto-timetable.png)
+    <figcaption>Replay-enabled sessions in the Timetable</figcaption>
+    </figure>
+    </div>
+
+    **Pre-recorded videos**
+
+    To share pre-recorded videos (eg. 'at-desk' mini lecture recordings), we recommend [embedding Panopto videos](../panopto/embed-panopto-ultra.md) in a Document with some context on when/how to use the video. Students can then watch the video within the site.
+
+    If you want to reuse pre-recorded videos in the future, consider setting up an Ongoing Panopto folder with this site so that later students can access the recordings. Alternatively, you can manually update embeds each year. See the [Reusing module recordings guide](../panopto/reuse-module-media.md) for further details.
+    
 === "Good practice: examples"
 
     The case studies below demonstrate how Panopto and recorded videos have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
