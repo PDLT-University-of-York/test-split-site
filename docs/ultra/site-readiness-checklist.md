@@ -19,7 +19,7 @@ tags:
 
 Before a new teaching period, you need to make sure that your Learn Ultra VLE site and content is ready for students. This checklist will help you identify and address critical issues so that students can use the site and materials effectively when teaching starts.
 
-It is assumed that more general checks have been made and site content is ready. If needed, follow our in-depth checklist on [Preparing module sites](../ultra/prepare-module-site.md) before using this final checklist.
+It is assumed that more general checks have been made and site content is ready. If needed, follow our in-depth checklist on [Preparing module sites](../ultra/prepare-site.md) before using this final checklist.
 
 Whether teaching staff or administrators/professional services team complete the readiness checklist (or parts of it) may vary by department.
 
@@ -31,7 +31,7 @@ Check that:
 - any GTAs from previous years that are no longer involved in the module are removed
 - Primary Instructor settings are used to identify module-specific staff (where other staff are also enrolled)
 
-For more details on these checks, see [General settings guidance in Preparing module sites](../ultra/prepare-module-site.md#general-settings).
+For more details on these checks, see [General settings guidance in Preparing module sites](../ultra/prepare-site.md#general-settings).
 
 ## 2. Site content is ready 
 
@@ -39,7 +39,7 @@ Check that site content and materials are accessible, in the right place and vis
 
 !!! Tip
 
-    If you have not already done so, we **strongly recommend** following the in-depth checklist on [Preparing module sites](../ultra/prepare-module-site.md) to appropriately prepare module content, Reading List and Panopto content.
+    If you have not already done so, we **strongly recommend** following the in-depth checklist on [Preparing module sites](../ultra/prepare-site.md) to appropriately prepare module content, Reading List and Panopto content.
 
 
 ### The site applies the template
@@ -98,7 +98,7 @@ For students to access a site, they must be enrolled on the site AND the site mu
 
 ### Students are enrolled
 
- **Student enrollment** is usually managed automatically through a group enrollment linked to SITS. Check this is set up correctly following the steps in [Release to students guidance in Preparing module sites](../ultra/prepare-module-site.md#release-to-students).
+ **Student enrollment** is usually managed automatically through a group enrollment linked to SITS. Check this is set up correctly following the steps in [Release to students guidance in Preparing module sites](../ultra/prepare-site.md/#release-to-students).
 
 ### The site is open to students
 
