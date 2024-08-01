@@ -40,7 +40,7 @@ Once the site has been created, you can [find the site in your Courses list](../
 
 If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enroll you. 
 
-## General settings & staff enrollments
+## General settings
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
 
 === "Update after rollover"
@@ -638,7 +638,7 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
 === "All sites"
 
-    **Student enrollment** is managed automatically through a group enrollment. To check this is set up correctly:
+    **Student enrollment** is usually managed automatically through a group enrollment linked to SITS. To check this is set up correctly:
 
     1. Search the Class Register for 'group'.
     2. Click on the item(s) 'Students enrolled in'.
@@ -648,6 +648,8 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
     ![Matching module code in site name and student group enrollment](images/prepare-site-student-group-user.png)
     </div>
     
+    If there are problems with student enrollments, contact your departmental administrator or professional support team for assistance.
+
     !!! Success "Final step"
     
         When you are happy that everything is ready, [**make the site available for students**](../ultra/site-availability.md). Congratulations!

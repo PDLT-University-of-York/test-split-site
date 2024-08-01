@@ -31,9 +31,7 @@ Check that:
 - any GTAs from previous years that are no longer involved in the module are removed
 - Primary Instructor settings are used to identify module-specific staff (where other staff are also enrolled)
 
-More details on how to make these checks are given in the *Site settings & staff enrollments* section of [Preparing module sites](../ultra/prepare-module-site.md).
-
-
+For more details on these checks, see [General settings guidance in Preparing module sites](../ultra/prepare-module-site.md#general-settings).
 
 ## 2. Site content is ready 
 
@@ -62,7 +60,7 @@ Check that:
 - Meaningful images and figures have appropriate ALT text or other descriptions to allow screenreader users to access the information.
 - Link text describes where the link goes or the content.
 - content is organised and labelled clearly and consistently.
-- Pre-recorded **videos** are hosted in a streaming service (eg. Panopto/YouTube) and captioned accurately.
+- Pre-recorded videos are hosted in a streaming service (eg. Panopto/YouTube) and captioned accurately.
 
 We recommend using the [Ally Course Accessibility Report](https://docs.google.com/document/d/1oDokxj1Fcfw_CmxOTTT6yOT-CCvZrNAgM3IsVVGE1Is/edit?usp=sharing) to check the accessibility of your site and help you address issues.
 
@@ -73,7 +71,7 @@ Check that:
 - all site materials are up to date.
 - any old or unused materials are removed.
 - items are visible to students or release conditions are set correctly.
-- any reused Panopto videos, links and third party tools (eg. Padlet) are shared correctly so students have permission to access the material.
+- any reused Panopto videos, links and third party tools (eg. Padlet) are shared correctly so students can access the material.
 - any groups used for teaching (eg. presenting different material to M and H level students) are set up correctly and students enrolled.
 
 ### Lecture Capture and Panopto are set up correctly
@@ -95,23 +93,13 @@ Check that:
 - the Reading List is structured to match the module amterials section, and items are tagged as Essential, Recommended or Background.
 - the Reading List is published to students.
 
-3. The site is set for students
-
 ## 3. Students can access the site
 For students to access a site, they must be enrolled on the site AND the site must be open for students.
 
 ### Students are enrolled
 
-Students are usually enrolled automatically onto VLE module sites using a “SITS Group User” enrolled on the site as a Guest, which then gives access to the relevant students. Check this is set up by seraching for a Guest role in your Class Register.
-
-If there are problems with student enrollments, contact your departmental administrator or professional support team for assistance.
+ **Student enrollment** is usually managed automatically through a group enrollment linked to SITS. Check this is set up correctly following the steps in [Release to students guidance in Preparing module sites](../ultra/prepare-module-site.md#release-to-students).
 
 ### The site is open to students
 
-When the site is ready for students, look for the padlock icon under Details & Actions in the left menu. If you see next to it:
-
-- Course is private/Students can’t access this course: click and select ‘Open to students’.
-- Course is open/Students can access this course: this is correctly set up for enrolled students to access the site.
-
-Note that enrolled students will be always able to see the site listed in their course list, but if the course is private, they won't be able to open the site.
-For more details, see [our guide to making your site open/private](../ultra/site-availability.md).
+When you are happy that everything is ready, [**make the site available for students**](../ultra/site-availability.md). Congratulations!
