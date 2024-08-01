@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# Prepare sites for teaching:</br>rollover updates & new sites
+# Prepare sites for teaching </br> (update after rollover or new site)
 
 !!! Summary
 
@@ -465,7 +465,7 @@ Using the Reading List:
 - allows the Library to manage stock and access rerquired to support modules.
 - helps you comply with copyright regulations.
 
-Note: the Reading Tool is supported by the [Library Reading List team](mailto:lib-readinglists@york.ac.uk).
+Note: the Reading List tool is supported by the [Library Reading List team](mailto:lib-readinglists@york.ac.uk).
 
 </div>
 <figure markdown="span">
@@ -634,7 +634,20 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
         See the [full case study for more details and the transcript (Quinn)](../training/case-studies/psychology-quinn.md).
 
-<!-- ## 7. Final steps
+## Release to students
 
-- make site available
-- check students enrolled (Groups) -->
+=== "All sites"
+
+    **Student enrollment** is managed automatically through a group enrollment. To check this is set up correctly:
+
+    1. Search the Class Register for 'group'.
+    2. Click on the item(s) 'Students enrolled in'.
+    3. Check the group's SITS module code is correct, the Role is set to *Guest* and 'Allow access to course' is ticked.
+
+    <div markdown class="centered-image">
+    ![Matching module code in site name and student group enrollment](images/prepare-site-student-group-user.png)
+    </div>
+    
+    !!! Success "Final step"
+    
+        When you are happy that everything is ready, [**make the site available for students**](../ultra/site-availability.md). Congratulations!
