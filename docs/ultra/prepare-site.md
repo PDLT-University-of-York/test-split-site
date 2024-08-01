@@ -638,7 +638,7 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
 === "All sites"
 
-    **Student enrollment** is usually managed automatically through a group enrollment linked to SITS. To check this is set up correctly:
+    **Student enrollment** is usually managed automatically through a group enrollment linked to SITS, which is set up in late August. To check this is added correctly:
 
     1. Search the Class Register for 'group'.
     2. Click on the item(s) 'Students enrolled in'.
