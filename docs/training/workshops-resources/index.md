@@ -35,13 +35,7 @@ Browse the calendar for details of our upcoming workshops and other training
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ac0ccc39ae6ffa04759a7b7ca8494154efc479b2ca56dcce7f20761121a9f4a7%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Our workshops
-
-!!! Note
-
-    More workshops are being prepared for 24/25
-
-### Ultra
+## Ultra
 
 <div class="grid cards" markdown>
 
@@ -53,7 +47,7 @@ Browse the calendar for details of our upcoming workshops and other training
 
 </div>
 
-### Other tools
+## Other tools
 
 <div class="grid cards" markdown>
 

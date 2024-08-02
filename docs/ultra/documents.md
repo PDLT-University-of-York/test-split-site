@@ -18,18 +18,15 @@ tags:
 
 ## Create a Document
 
-Documents can be created inside Learning Modules and Folders (recommended for module materials), or created directly within the Course Content area.
-
 1. Hover where the Document should appear. Click the **plus icon** then **Create**.
-</br> ![Decorative](images/discussions-plus-create.png)
 2. Under **Course Content Items**, select **Document**.
 </br> ![Decorative](images/documents-create.png)
 3. Enter a descriptive title for the Document (eg. *Lecture 5: navigation techniques*) and set the [item visibility](../ultra/content-visibility.md).
 </br> ![Decorative](images/documents-title-visibility.png)
-4. Optionally, click the **cog icon** to open the settings pane. Here you can add a brief **description** that will display in the Course Content area, or choose to **Allow class conversation** to attach a Discussion to the Document. Click **Save**.
+4. Click the **cog icon** and add a brief **description** to display in the Course Content area. Click **Save**.
 </br> ![Decorative](images/documents-settings.png)
 
-Watch a demonstration of creating a Document:
+**TO UPDATE** Watch a demonstration of creating a Document:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUl2fAfqCrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Creating Documents in Ultra [YouTube]](https://youtu.be/qUl2fAfqCrg).
 
