@@ -167,7 +167,7 @@ Prepare this section by:
     - **Module description**:
     - **Module aims & learning outcomes**:
     - **Module organisation**: topics covered in the five teaching blocks (topics) that lectures are categorised into in this department's modules.
-    - **Module activities**: how the teaching blocks are organised over teh module.
+    - **Module activities**: how the teaching blocks are organised over the module.
 
     <div markdown class="centered-image">
     ![Module overview page as described in text](images/prepare-site-module-overview-example.png)

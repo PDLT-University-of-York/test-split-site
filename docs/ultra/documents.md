@@ -8,7 +8,11 @@ tags:
 
 !!! Summary
 
-    Documents are the main 'page' content type where you can add text, images, files and more.  
+    Documents are the main 'page' content type where you can add text, images, files and more in a flexible layout. 
+    
+!!! Tip
+
+    This guide applies to the Enhanced Documents update on August 8th 2024, which is applied to both new and pre-existing Documents. 
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -22,47 +26,125 @@ tags:
 2. Under **Course Content Items**, select **Document**.
 </br> ![Decorative](images/documents-create.png)
 3. Enter a descriptive title for the Document (eg. *Lecture 5: navigation techniques*) and set the [item visibility](../ultra/content-visibility.md).
-</br> ![Decorative](images/documents-title-visibility.png)
-4. Click the **cog icon** and add a brief **description** to display in the Course Content area. Click **Save**.
+4. Optionally, click the **cog icon** and add a brief **description** to display in the Course Content area. Click **Save**.
 </br> ![Decorative](images/documents-settings.png)
 
-**TO UPDATE** Watch a demonstration of creating a Document:
+<!-- **TO UPDATE** Watch a demonstration of creating a Document:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUl2fAfqCrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Creating Documents in Ultra [YouTube]](https://youtu.be/qUl2fAfqCrg).
+[Creating Documents in Ultra [YouTube]](https://youtu.be/qUl2fAfqCrg). -->
 
-## Add content to a Document
+## Content blocks
 
-1. Hover where you want to add content and click **plus icon** (not needed on a blank Document).
-2. Select a content type:
-    - Add Content (for most content: text, images etc.)
-    - Add HTML (to manually embed items)
-    - Upload from Computer (files etc.)
-    - Browse Content Collection (not recommended)
+Documents are built from drag-and-drop content blocks. :
 
-![Decorative](images/documents-add-content.png)
+<div markdown class="centered-image">
+![Block: content, HTML, file upload, Content Collection, Convert a file](images/documents-content-blocks.png)
+</div>
 
-### Add text
+=== "Content (text editor)"
 
-Follow the steps above and select **Add content** to open the text editor.
+    Use this block to add a range of content via the text editor, including:
 
-Accessible text tips:
-- Use the default formatting settings for font, text size, colour and alignment (Open Sans, 14pt, black, left-aligned). This is important to maximise readabilty.
-- Use the **Text Style** menu to add headings - don't just format text. This is important for navigating with a screenreader.
+    - text: headings, lists, code snippets, [LaTeX](../ultra/maths.md) etc.
+    - data tables (note: don't use tables for layout only)
+    - [links](../ultra/links.md)
+    - [upload files](../ultra/files.md) (for user download only, files added this way can't be viewed in the site directly)
+    - [images](../ultra/images.md)
+    - embed [Panopto recordings](../panopto/embed-panopto-ultra.md) (via the Content Market) or [YouTube videos](../ultra/youtube.md)
 
-![Decorative](images/documents-text-styles.png)
+    <div markdown class="centered-image">
+    ![Decorative](images/documents-text-editor.png)
+    </div>
 
-### Add LaTeX
+=== "HTML"
 
-Insert standard LaTeX into text within double dollar signs, and it will render when the text chunk is saved.
+    Use this block to add HTML code to [embed content](../ultra/embed-content.md) from third-party tools, such as:
+    
+    - [interactive Xerte objects](../other-tools/xerte.md)
+    - [Padlet pinboards](../other-tools/padlet.md)
+    - [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md)
+    - manually embed Panopto or YouTube videos
 
-![Raw LaTeX input in the text editor, then rendered into a mathematical expression in the finished Document](images/documents-latex.png)
+    !!! Warning
 
-### Add other content
+        Only use the HTML content block for embedding third-party content. For other HTML uses, see our [Upload HTML guide](../ultra/html-objects.md).
 
-See our dedicated guides to adding other content types to a Document:
+=== "File upload"
 
-- [Files](../ultra/files.md) (eg. lecture slides)
-- [Images](../ultra/images.md)
-- [Panopto videos](../panopto/embed-panopto-ultra.md)
-- [YouTube videos](../ultra/youtube.md)
-- [Other embedded content](../ultra/embed-content.md) (eg. Padlet, Xerte)
+    Use this block to add PDF, Word, Powerpoint (etc.) files:
+
+    <div markdown class='grid'>
+    <div markdown>
+
+    1. Select the relevant file from your device.
+    2. Ensure *Display name* meaningfully describes the contents without having to open the file.
+    3. Set *File Options* to **View and download**.
+    4. Click Save.
+    </div>
+    ![File upload settings example, Display name: IFR_Week5_NavigationTechniques_Slides.pptx, File options: 'View and download'](images/documents-file-upload-settings.png)
+    </div>
+    
+    Users can preview the file directly within the site, or download it in the original or an alternative format.
+
+    <figure markdown>
+    ![](images/documents-file-preview.png)
+    <figcaption>Previewing the slides directly within the Document</figcaption>
+    </figure>
+    See our dedicated [guide to uploading files](../ultra/files) for more detail on this and other methods of adding files.
+
+=== "Content Collection"
+
+    The Content Collection is a storage method that is not generally used at UoY, so you are unlikely to need this block. You can achieve everything the Content Collection offers by adding content directly to your site.
+
+=== "Convert a File"
+
+    Use this block to convert a PDF, Word or PowerPoint file on your device to a Learn Ultra Document format.
+
+    This conversion is a step in content devlopment, not a final product. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. Careful checking is needed to tidy up the conversion.
+
+    Currently only available through the *hover to add* method.
+
+## Adding blocks
+
+Depending on the desired location, there are two methods to add a content block:
+
+- **Hover to add**: hover in the location to add, then click the **small plus icon** and select the block needed. A block can be added before or after any existing row.
+</br>![Decorative](images/documents-block-hover.png)
+- **Block left panel**: click the **boxed plus icon** in the top left, and select the block needed. The block will be added after the last existing row.
+</br>![Decorative](images/documents-block-panel.png)
+
+## Layout
+
+Content blocks can be arranged in rows up to 4 columns.
+
+!!! Tip
+
+    - Blocks are created in a new row only, and then can be moved into a column in another row.
+    - Columns are only one block deep; ie. blocks can't be stacked vertically within the same row.
+
+### Move a whole row
+
+Hover over the row and either:
+
+1. hold the six dots icon to the left of the row to drag and drop to the desired location.
+2. click the six dots icon and select from options to move up or down.
+
+![Decorative](images/documents-move-row.png)
+
+### Create columns within a row
+
+Hover over the block until the filled purple border and top icons appear and either:
+
+1. click the six dots icon at the top and choose the relevant size or location option.
+2. use the arrow icons on the left and right borders to resize and place the block within the columns.
+
+![Decorative](images/documents-create-column.png)
+
+### Move block into a column
+
+Create the block in a new row, hover over it until the filled purple border and top icons appear and either:
+
+1. Click the six dots icon and choose the relevant size or location option.
+2. Hold the six dots icon at the top and drag and drop into the desired position
+
+![Decorative](images/documents-move-into-column.png)

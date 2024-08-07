@@ -33,7 +33,7 @@ Watch a demonstration:
 
 !!! Warning
 
-    Only use **Add HTML** for embedding content from third-party tools. Don't add your own custom HTML here as the site CSS does not apply.
+    Only use the HTML content block for embedding third-party content. For other HTML uses, see our [Upload HTML guide](../ultra/html-objects.md).
 
 ## Where to find HTML embed codes
 
