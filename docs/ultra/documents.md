@@ -100,7 +100,7 @@ Documents are built from drag-and-drop content blocks. :
 
     Use this block to convert a PDF, Word or PowerPoint file on your device to a Learn Ultra Document format.
 
-    This conversion is a step in content devlopment, not a final product. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. Careful checking is needed to tidy up the conversion.
+    This conversion is a step in content development, not a final product. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. Careful checking is needed to tidy up the conversion.
 
     Currently only available through the *hover to add* method.
 
@@ -115,12 +115,19 @@ Depending on the desired location, there are two methods to add a content block:
 
 ## Layout
 
-Content blocks can be arranged in rows up to 4 columns.
+Content blocks can be arranged in rows up to 4 columns based on 25%, 50% or 75% widths. Each row has its own column layout, giving a lot of flexibility. Rows are responsive to screen size and will wrap on small screens.
+
+For example, a layout for some video resources could use:
+
+- a full-width row with some context on how to use the resources
+- a row with two 50% width columns each containing an embedded video
+
+![Decorative](images/documents-layout.png)
 
 !!! Tip
 
-    - Blocks are created in a new row only, and then can be moved into a column in another row.
-    - Columns are only one block deep; ie. blocks can't be stacked vertically within the same row.
+    - Blocks are created in a new row, and then can be moved into a column in another row.
+    - Rows are always only one block deep, meaning they can't be stacked vertically within the same column.
 
 ### Move a whole row
 
