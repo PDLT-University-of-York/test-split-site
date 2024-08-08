@@ -19,7 +19,7 @@ tags:
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
     - 4.3 Essential: Provide marking criteria or other grading policies showing how work is marked.
 
-![Example Assignment submission point for a formative essay with task instructions](images/assignment-set-up-submission-point-example.png)
+![Example Assignment for a formative essay with task instructions](images/assignment-example.png)
 
 ## When to use Assignment
 
@@ -39,13 +39,26 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 
 ## Submission points
 
+!!! Warning
+
+    All assessment information and assignment submnission points (including formative) must be located in the Assessment section of a module site.
+
 - As Ultra Assignments are used for formatives or non-anonymous summatives, submission points can be set up by teaching staff or admins.
 - Submission points must appear in the Assessment section of the module site. If desired, a Course Link to the submission point can also be added in a weekly content folder.
 - Give clear instructions on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section.
 - Marking criteria or grading policies for the assignment must be available or linked within the Assessment section.
 
-### Individual assessment
-- Formative or non-anonymous summative: [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
+### Individual assessment (Formative or non-anonymous summative)
+
+1. In the **Assessment section**, hover where you want to add the Assignment and click the **purple plus icon**.
+2. Select **Assignment**.
+3. Add a **title**, set [appropriate **visibility**](../ultra/content-visibility.md) and add **instructions** as text or a file.
+4. Click the **cog icon** to set a Due Date and adjust other marking settings.
+
+![Decorative](images/assignment-set-up.png)
+
+
+For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
 ### Group assessment
 - Formative: [Staff Help: Formative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/12prcsksWPTEzuP4d9QOnjH9l4zHjGwRZsP99QU8hyTw/edit?usp=sharing)
