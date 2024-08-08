@@ -11,21 +11,16 @@ tags:
 
     Discussions let students communicate asynchronously with each other and teaching staff on a particular topic.
 
-!!! Warning
-    It's not currently possible to **subscribe** for notifications of when posts are made. However, this feature will be available in the future (expected some time later in 2024). For now we recommend using a [Padlet](../other-tools/padlet.md) board for discussions you need to subscribe to.
-
 ## Create a discussion
 
 1. In the Course Content area, hover where the discussion should appear. Click the plus icon then Create. Click the **plus icon** then **Create**.</br>
 ![Decorative](images/discussions-plus-create.png)
 2. Under **Participation and Engagement**, select **Discussion**.</br>
 ![Decorative](images/discussions-create-discussion.png)
-3. Click the default "New Discussion" title and name the discussion.</br>
-![Decorative](images/discussions-title.png)
-4. Add instructions and/or a first post using the text editor.
-![Decorative](images/discussions-instructions.png)
-5. Click the **cog icon** to open Settings (eg. allow anonymous posts)
-6. Click **Save**.
+3. Add a title and instructions/first post, and [set the appropriate visbility](../ultra/content-visibility.md).
+4. Optionally, click the **cog icon** to open Settings (eg. allow anonymous posts)
+5. Click **Save**.
+</br>![Decorative](images/discussions-set-up.png)
 
 Watch a demonstration of creating a Discussion:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q404ODzUS5w" title="Setting up discussions in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,20 +30,24 @@ Watch a demonstration of creating a Discussion:
 
 Users can access discussions in two locations:
 
-- In the **Course Content area** where it was created. For example in a weekly materials section.</br>
+- In the **Course Content area**, for example in a weekly materials section.</br>
 ![Course content area: Week 2 section containing lecture and Discussion](images/discussions-access-course-content-area.png)
-- In the dedicated **Discussions area** reached from the top navigation bar. You can also create a discussion here.</br>
-![Decorative](images/discussions-access-discussion-area.png)
+- In the dedicated **Discussions area** reached from the top navigation bar. You can also create and organise Discussions here.</br>
+![Discussions Area: all Discussions in the course collated together](images/discussions-access-discussion-area.png)
 
-## Delete a discussion
+!!! Tip
 
-1. Click the three dots to the right of the discussion name.
-2. Select **Delete**.</br>
-![Decorative](images/discussions-delete.png)
-3. When prompted, press **Delete** again.
-4. Go to the Discussions area and check that the discussion does not appear here too. If it does, repeat this process.
+    Deleting a Discussion in the Course Content area may only delete the link to the discussion. Check the Discussions area to make sure it is deleted fully.
 
-## Using discussions anonymously
+## Follow (subscribe to) Discussions
+
+You can follow a Discussion to receive notifications of new activity. Currently these are only in the Activity Stream, with email notifications coming in a future release.
+
+1. Open the Discussion and click **Follow**.</br>
+![Decorative](images/discussions-follow.png)
+2. The default followed Discussions settings are to receive notifcations of new replies and new responses to your posts. You can change this in your [notification settings](../ultra/notifications.md).
+
+## Anonymous discussions
 Set up:
 
 1. Open a Discussion and click the **settings icon** towards the top right of the screen
@@ -80,22 +79,20 @@ You can split a discussion for different groups of students. For example, to:
 - provide a discussion space for each seminar group.
 - support project or collaborative work.
 
-![Discussion item assigned to groups with group icon and '3 groups' shown under title](images/discussions-groups-item.png)
+Set up:
 
-To assign a discussion to groups:
-
-1. Create and set up the discussion (only one is needed for all groups).
+1. Create and set up the discussion as above (only one is needed for all groups).
 2. Click the **Discussion Settings** cog icon.
-3. Under **Additional tools**, click **Group discussion/Assign to groups**.</br>
-![Decorative](images/discussions-groups-settings.png)
-4. Assign students by setting up new groups (see our [Groups guide](../ultra/course-groups.md) for details) or reusing existing groups.
-5. Click **Save**.
+3. Under **Additional tools**, click **Assign to groups**.
+4. Assign students by setting up new groups (see our [Groups guide](../ultra/course-groups.md) for details) or reusing existing groups and save.
+5. Back in the Discussions settings, the assigned groups are now shown. Click **Save** to finish.</br>
+![Groupwork discussion assigned to 3 groups](images/discussions-groups.png)
 
 To view each group's discussion:
 
 1. Open the discussion.
-2. Select the group name from the drop-down menu below the instructions.
-![An open discussion with menu showing three group names appearing below the instructions.](images/discussions-groups-view.png)
+2. Select the relevant group name from the drop-down menu below the instructions.
+![Decorative](images/discussions-groups-view.png)
 
 You can also limit discussion visibility using **Release Conditions**. However, this method requires a separate discussion for each group, so it needs more care to set up and manage. See our [Release conditions guide](../ultra/release-conditions.md) for details.
 
@@ -106,8 +103,6 @@ You can require students to post a reply before they can see other students' pos
 - summarise a topic/key points from a reading before they see other students' ideas.
 - create multiple choice questions for other students to test their understanding.
 - create their own discussion question before responding to other questions.
-
-![Decorative](images/discussions-post-first-student-view.png)
 
 To set up post first:
 
@@ -130,10 +125,9 @@ You can also grade discussions. This could be useful to:
 To mark a discussion:
 
 1. Open the discussion and click the **Discussion Settings** cog icon.
-2. Click **Mark discussion**.</br>
-![Decorative](images/discussions-mark.png)
+2. Select **Mark discussion**.</br>
 3. In the **Marking and Participation** section, set the due date and how the discussion is marked.</br>
-![Settings to adjust due date, mark category, mark using points/percent, maximum points](images/discussions-mark-settings.png)
+![Decorative](images/discussions-marking.png)
 4. If desired, **Add marking rubric**. You can create a rubric here or reuse a rubric already in your site.</br>
 ![Decorative](images/discussions-mark-add-rubric.png)
 5. Click **Save**.
