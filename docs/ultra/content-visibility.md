@@ -4,11 +4,11 @@ tags:
     - Ultra
 ---
 
-# Content visibility
+# Content visibility & release conditions
 
 !!! Summary
 
-    Manage whether content items are visible to or hidden from students.
+    Manage visibility of content items for all users or based on certain conditions.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -18,29 +18,96 @@ Items in the Course Content area can be set to **Visible to students** or **Hidd
 
 You can check that items are shown or hidden correctly using the Student Preview tool.
 
-## Content visibility and accessibility
+!!! Tip 
+    
+    It is best practice to make all materials available at the start of the module.
+    
+    If this isn't possible, they should be released **at least a week in advance** to allow students to prepare appropriately. For example, Week 3 materials released at the start of Week 2.
 
-A key accessibility requirement is that students have sufficient time to use materials to prepare for a session, particularly if they use any assistive tools. For example, a dyslexic student may need to read lecture slides in advance to help them follow the session.
+## Show/hide a single item
 
-To support this, make sure that module materials are available in advance - we recommend **at least one week before the session**.
+1. Open the item's visibility menu from either:
 
-## Change content visibility
+    - *Course content area*: under the item title
+    - *Within the item*: in the top right, near the cog settings icon
 
-For a single content item:
+![Decorative](images/content-visibility-dropdown-locations.png)
 
-1. Click the current visibility status (e.g. **Hidden from students**) of the content item to open the drop-down options.
-2. Select the required visibility option: Visible to students, Hidden from students, Release conditions <br> ![Decorative](images/content-visibility-options.png)
+2. Select the required visibility option:
+
+    - **Visible to students**: all students can access
+    - **Hidden from students**: no students can access the item. You can choose whether it is completely hidden or whether to show the item without allowing access.
+    - **Release conditions**: visibility managed based on certain conditions (see section below)
+
+![Decorative](images/content-visibility-options.png)
 
 !!! Warning
 
-    Making a Folder or Learning Module visible does not automatically change the visbility of items within it; individual items set to hidden will stay hidden even if the container is made visible.
+    Making a Learning Module or Folder visible using this method does not automatically make the items inside visible too (ie. hidden nested items will remain hidden).
 
-To change the visibility of multiple items, see our [Batch Edit guide](../ultra/batch-edit.md)
+## Show/hide multiple items
 
-You can also watch a demonstration of changing content visibility:
+Use the Batch Edit function to quickly change the visibility of multiple items at once. For example, you can use this to make a Learning Module and the items nested within it visible with only a few clicks.
+
+This is accessed in a different way to single item visibility. See our [Batch Edit guide](../ultra/batch-edit.md) for details.
+
+<!-- You can also watch a demonstration of changing content visibility:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1lNK0ob2ho" title="Content availability in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Content availability in Ultra [YouTube]](https://youtu.be/P1lNK0ob2ho)
+[Content availability in Ultra [YouTube]](https://youtu.be/P1lNK0ob2ho) -->
 
 ## Release conditions
 
-Content visibility can be set based on certain conditions, such as releasing content on a certain date or only to specific groups. For more details see our [Release Conditions guide](../ultra/release-conditions.md).
+![Decorative](images/content-visibility-release-conditions.png)
+
+Items can also be shown based on certain conditions:
+
+| Condition      | Details | Example uses |
+| -------------- | ------- | ------------ |
+| Select members | Show to specific users or groups | **Teaching**: release different project topic to each group </br> **Assessment**: limit access to resit submission point only to resit students
+| Date/time      | Show/hide at a specific time | **Teaching**: Release module materials at appropriate time </br> **Assessment**: show submission point from a specific date |
+| Performance    | Show based on score for/completion of a markable item | **Teaching**: release workshop materials after completing a pre-workshop quiz </br> **Assessment**: release extension activities only for high quiz scores |
+
+For greater control, conditions can be combined (eg. date and specific group) and multiple rules can be set (eg. different dates for different groups).
+
+### Create a rule
+
+1. Open the item visibility drop-down menu and and select **Release conditions**.
+2. Set conditions:
+    - *Select members*: click the **Specific members or groups** option, then the relevant Individual member(s) and/or Group(s).
+    </br>![Decorative](images/content-visibility-release-condition-members.png)
+    - *Date/time*: click the check box then enter **Access from** and/or **Access until** dates.
+    </br>![Decorative](images/content-visibility-release-condition-date.png)
+    - *Performance*: click the check box then select the relevant **Markable item** (Test, Assignment, Discussion etc.) and **Mark Requirement**. Mark options are based on how that specific item is marked.
+    </br>![Decorative](images/content-visibility-release-condition-performance.png)
+3. Click **Save**.
+
+<div markdown class='grid'>
+<div markdown>
+When will content appear?
+
+- After saving the rule, check the summary is correct.
+- If you have added Date/time or Performance conditions, select whether to **Show** (default) or **Hide** the item in the content area before the release conditions are met.
+</div>
+![Decorative](images/content-visibility-when-appear.png)
+</div>
+
+### Edit or delete a rule
+
+To make changes after setting up a rule:
+
+- If using multiple rules, click the relevant rule to show the options.
+- *Edit conditions*: make changes as above and click **Save**.
+- *Delete the rule*: click the **three dots icon** alongside the rule name and select **Delete**.
+
+### Multiple rules
+
+Multiple rules can be added to the same item to set different release conditions for different students. For example, use two rules to give one group early access to an item:
+
+- Rule 1: release to the early access group on date 1
+- Rule 2: release to all users on date 2
+
+To add multiple rules:
+
+1. Set up Rule 1 as above. It may be helpful to also click the **pencil icon** and set a descriptive rule name.
+2. Click the **Add new rule** button under *When will content appear?*.
+3. Repeat as needed.
