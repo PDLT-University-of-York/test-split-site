@@ -34,7 +34,9 @@ A module Ultra site can:
     - [:octicons-arrow-right-24: VLE site design principles](../ultra/site-design-principles.md)
     - [:octicons-arrow-right-24: Prepare sites for teaching](../ultra/prepare-site.md)
 
+-   **:fontawesome-solid-list: Introduction to Ultra**
 
+    ---
 
     - [:octicons-arrow-right-24: Navigate Ultra sites](../ultra/navigate-ultra-site.md)
     - [:octicons-arrow-right-24: Personalise your site](../ultra/personalise-site-design.md)
@@ -55,13 +57,6 @@ A module Ultra site can:
     - [:octicons-arrow-right-24: Discussions](../ultra/discussions.md)
     - [:octicons-arrow-right-24: Manage your notifications](../ultra/notifications.md)
 
--   **:material-school: Ultra Training**
-
-    ---
-
-    On-demand resources and live sessions
-    
-    - [:octicons-arrow-right-24: Ultra Essentials](../training/workshops-resources/ultra-essentials.md)
 
 </div>
 
