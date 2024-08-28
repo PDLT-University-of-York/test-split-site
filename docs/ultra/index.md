@@ -27,7 +27,7 @@ A module Ultra site can:
 
 <div class="grid cards" markdown>
 
--   **:fontawesome-regular-key: Site design & navigation**
+-   **:fontawesome-regular-compass: Site design & navigation**
 
     ---
     
