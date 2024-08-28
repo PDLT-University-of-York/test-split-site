@@ -5,8 +5,8 @@
 nav:
   - Learn Ultra VLE:
     - ultra/index.md
+    - VLE site design principles: ultra/site-design-principles.md
     - Site structure & design:
-      - VLE site design principles: ultra/site-design-principles.md
       - Site readiness checklist: ultra/site-readiness-checklist.md
       - Prepare sites for teaching: ultra/prepare-site.md
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
