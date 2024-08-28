@@ -6,9 +6,8 @@ nav:
   - Learn Ultra VLE:
     - ultra/index.md
     - VLE site design principles: ultra/site-design-principles.md
-    - Site structure & design:
-      - Site readiness checklist: ultra/site-readiness-checklist.md
-      - Prepare sites for teaching: ultra/prepare-site.md
+    - Prepare sites for teaching: ultra/prepare-site.md
+    - Introduction to Blackboard Ultra:
       - Navigate Ultra sites: ultra/navigate-ultra-site.md
       - Standard Ultra site names: ultra/site-name.md
       - Personalise site design: ultra/personalise-site-design.md
