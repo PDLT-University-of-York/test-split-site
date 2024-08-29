@@ -351,6 +351,10 @@ Add your content to the relevant section by:
 
     Accessible materials also improve the learning experience for all students and make sites easier to maintain.
 
+!!! bug ""
+
+    Blackboard Ultra has an accessibility checker called Ally that will help you to monitor the accessibility of your site and content. Refer to our [Instructor Guide](https://docs.google.com/document/d/1oDokxj1Fcfw_CmxOTTT6yOT-CCvZrNAgM3IsVVGE1Is/edit?usp=sharing).
+
 === "All sites"
 
     Check that your site and materials meet these key accessibility features:
