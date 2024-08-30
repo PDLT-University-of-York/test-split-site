@@ -58,13 +58,13 @@ As of February 2021, the University has established a central pool of student ca
    ![Captions tab in web editor](Images/captions-tab.png)
 
 2. **Review and Edit Captions**  
-   - Click on any caption text to make corrections to the auto-generated captions.
-   - Modify the text for accuracy, clarity, and punctuation.
+      - Click on any caption text to make corrections to the auto-generated captions.
+      - Modify the text for accuracy, clarity, and punctuation.
 
    ![Manually editing captions in Panopto](Images/edit-captions.png)
 
 3. **Adjust Caption Timing**  
-   - To synchronize captions with audio, adjust the start and end times by dragging the handles or manually entering the time.
+      - To synchronize captions with audio, adjust the start and end times by dragging the handles or manually entering the time.
 
    ![Opening edit menu for caption section](Images/edit-time-stamp.png)
 
