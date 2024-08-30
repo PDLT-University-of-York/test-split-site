@@ -20,54 +20,47 @@ Availability can be managed within the **Settings** at both the folder and indiv
 
 You can set a folder to make all new captures unavailable by default. This allows you to manually release them when ready.
 
-1. **Access Folder Settings**:
-   -  Click the **Settings** icon for the folder you want to configure.
-
-2. **Set Default Availability**:
-   -  In the settings pane, click on the **Settings** link on the left.
-   -  Scroll down to the **Sessions become available** section.
-   -  Choose **"never (unless set on the session)"** from the dropdown menu.
-
-3. **Save and Exit**:
-   -  Close the settings pane by clicking the **X** icon at the top.
+1.  Click the **Settings** icon for the folder you want to configure.
+2.  In the settings pane, click on the **Settings** link on the left.
+3.  Scroll down to the **Sessions become available** section.
+4.  Choose **"never (unless set on the session)"** from the dropdown menu.
+5.  Close the settings pane by clicking the **X** icon at the top.
 
 ### Releasing Captures That Were Unavailable by Default
 
 To release a capture that was set to be unavailable by default, follow these steps:
 
-1. **Access Capture Settings**:
-   -  Click the **Settings** icon next to the capture you want to release.
 
-2. **Change Availability**:
-   -  Under the **Session becomes available** section, choose **"now"** from the dropdown menu.
+1.  Click the **Settings** icon next to the capture you want to release.
 
-3. **Save and Exit**:
-   - Close the settings pane by clicking the **X** icon at the top.
+
+2.  Under the **Session becomes available** section, choose **"now"** from the dropdown menu.
+
+
+3.  Close the settings pane by clicking the **X** icon at the top.
 
 ### Making Individual Captures Unavailable Indefinitely
 
 To hide a specific capture indefinitely, set its availability to a past date.
 
-1. **Access Capture Settings**:
-   -  Click the **Settings** icon next to the capture you want to hide.
 
-2. **Set Availability to Past**:
-   - Under the **Session remains available** section, choose **"until"** and set the date and time to a past date.
+1.  Click the **Settings** icon next to the capture you want to hide.
 
-3. **Save and Exit**:
-   -  Close the settings pane by clicking the **X** icon at the top.
+
+2.  Under the **Session remains available** section, choose **"until"** and set the date and time to a past date.
+
+
+3.  Close the settings pane by clicking the **X** icon at the top.
 
 ### Making Individual Captures Visible/Hidden After a Specific Date
 
 You can configure a capture to become available or hidden on a specific date.
 
-1. **Access Capture Settings**:
-   - Click the **Settings** icon next to the capture you want to schedule.
 
-2. **Set Future Availability**:
-   - Under the **Session remains available** section in the **Overview** pane, choose **"until"** and set the desired date and time.
+1. Click the **Settings** icon next to the capture you want to schedule.
 
-3. **Save and Exit**:
-   - Close the settings pane by clicking the **X** icon at the top.
+2. Under the **Session remains available** section in the **Overview** pane, choose **"until"** and set the desired date and time.
+
+3. Close the settings pane by clicking the **X** icon at the top.
 
 
