@@ -2,7 +2,6 @@
 tags:
 # Delete to leave only relevant tags
     - Accessibility
-    - Training
     - Panopto
     
 ---
