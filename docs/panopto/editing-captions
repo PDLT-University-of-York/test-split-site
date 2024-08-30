@@ -25,7 +25,7 @@ Important - Please note the following before reading on:
 
 Pre-recorded videos should remain hidden until accurate captions are available, as [automatic captions alone are often insufficient without manual quality checking](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). To comply with these regulations, it’s possible to hide individual videos from your cohort if they are stored in a Panopto folder that has already been shared but the captions are not yet ready. 
 
-[Guidance on hiding individual videos (making them “unavailable”)](https://docs.google.com/document/d/15NNafw1G7QRZugOoCx2IkPbA4v1p58LvbTxXbV8wrJE/edit#heading=h.8h777z3bd659).
+[Guidance on hiding individual videos (making them “unavailable”)](panopto/change-availability.md).
 
 ## Need Help with Captioning?
 
@@ -95,6 +95,4 @@ As of February 2021, the University has established a central pool of student ca
 
 ## More Details and Troubleshooting 
 
-If you encounter issues or need further help:
 - Visit our comprehesive [Panopto Recordings and Captions] guide for details on how to edit captions on a larger scale and for more complex editing and troubleshooting tips(https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit) page.
-- For further support, Contact us at [vle-support@york.ac.uk](mailto:vle-support@york.ac.uk).
