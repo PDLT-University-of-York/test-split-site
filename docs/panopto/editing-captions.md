@@ -95,4 +95,4 @@ As of February 2021, the University has established a central pool of student ca
 
 ## More Details and Troubleshooting 
 
-- Visit our comprehesive [Panopto Recordings and Captions] guide for details on how to edit captions on a larger scale and for more complex editing and troubleshooting tips(https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit) page.
+- Visit our comprehesive [Panopto Recordings and Captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit) guide for details on how to edit captions on a larger scale and for more complex editing and troubleshooting tips page.
