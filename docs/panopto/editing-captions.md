@@ -13,9 +13,11 @@ tags:
 
     This guide will show you how to edit captions in Panopto to ensure your video content is accurate and accessible. Editing captions can help improve clarity and meet accessibility requirements.
 
-!!! Info 
+!!! Info
+      Important - Please note the following before reading on:    
 
-Important - Please note the following before reading on: 
+
+
 
 # Compliance with EU Accessibility Regulations
 
