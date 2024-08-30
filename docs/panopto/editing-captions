@@ -17,11 +17,11 @@ tags:
 
 # Compliance with EU Accessibility Regulations
 
-[EU Accessibility Regulations] (https://docs.google.com/document/d/1_NjwLqE2gYrt11JgCYWYLoWnj2xG3B_yi3xuUgvbHkQ/edit#heading=h.g9batbwu5bql) require that pre-recorded videos must only be released once accurate captions are in place. Please note that different standards apply to captioning for live lectures.
+[EU Accessibility Regulations](https://docs.google.com/document/d/1_NjwLqE2gYrt11JgCYWYLoWnj2xG3B_yi3xuUgvbHkQ/edit#heading=h.g9batbwu5bql) require that pre-recorded videos must only be released once accurate captions are in place. Please note that different standards apply to captioning for live lectures.
 
 ## Handling Pre-recorded Videos
 
-Pre-recorded videos should remain hidden until accurate captions are available, as [automatic captions alone are often insufficient without manual quality checking] (https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). To comply with these regulations, it’s possible to hide individual videos from your cohort if they are stored in a Panopto folder that has already been shared but the captions are not yet ready. 
+Pre-recorded videos should remain hidden until accurate captions are available, as [automatic captions alone are often insufficient without manual quality checking](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). To comply with these regulations, it’s possible to hide individual videos from your cohort if they are stored in a Panopto folder that has already been shared but the captions are not yet ready. 
 
 [Guidance on hiding individual videos (making them “unavailable”)](https://docs.google.com/document/d/15NNafw1G7QRZugOoCx2IkPbA4v1p58LvbTxXbV8wrJE/edit#heading=h.8h777z3bd659).
 
@@ -59,7 +59,7 @@ As of February 2021, the University has established a central pool of student ca
    - Click on any caption text to make corrections to the auto-generated captions.
    - Modify the text for accuracy, clarity, and punctuation.
 
-   ![Manually editing captions in Panopto](edit-captions.png)
+   ![Manually editing captions in Panopto](Images/edit-captions.png)
 
 3. **Adjust Caption Timing**  
    - To synchronize captions with audio, adjust the start and end times by dragging the handles or manually entering the time.
