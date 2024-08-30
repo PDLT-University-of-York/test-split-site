@@ -1,5 +1,5 @@
 ---
-# tags:
+ tags:
     - Panopto
 ---
 
@@ -9,13 +9,14 @@
 
     Panopto allows you to control the availability of lecture captures automatically based on dates or manually at the folder or capture level. This guide will walk you through how to make your lecture captures available or unavailable to students, ensuring they are released at the right time.
 
-!!! info "You will need 'Creator' or edit access to be able to adjust video availability settings.
+!!! info 
+       You will need 'Creator' or edit access to be able to adjust video availability settings
 
 ## Changing Availability Settings
 
 Availability can be managed within the **Settings** at both the folder and individual capture levels. If a capture is not available to students, Panopto will display "Not available to viewers" next to the recording.
 
-### a. Making Your Lecture Captures Unavailable by Default
+###  Making Your Lecture Captures Unavailable by Default
 
 You can set a folder to make all new captures unavailable by default. This allows you to manually release them when ready.
 
@@ -30,7 +31,7 @@ You can set a folder to make all new captures unavailable by default. This allow
 3. **Save and Exit**:
    - Close the settings pane by clicking the **X** icon at the top.
 
-### b. Releasing Captures That Were Unavailable by Default
+### Releasing Captures That Were Unavailable by Default
 
 To release a capture that was set to be unavailable by default, follow these steps:
 
@@ -43,7 +44,7 @@ To release a capture that was set to be unavailable by default, follow these ste
 3. **Save and Exit**:
    - Close the settings pane by clicking the **X** icon at the top.
 
-### c. Making Individual Captures Unavailable Indefinitely
+### Making Individual Captures Unavailable Indefinitely
 
 To hide a specific capture indefinitely, set its availability to a past date.
 
@@ -56,7 +57,7 @@ To hide a specific capture indefinitely, set its availability to a past date.
 3. **Save and Exit**:
    - Close the settings pane by clicking the **X** icon at the top.
 
-### d. Making Individual Captures Visible/Hidden After a Specific Date
+### Making Individual Captures Visible/Hidden After a Specific Date
 
 You can configure a capture to become available or hidden on a specific date.
 
