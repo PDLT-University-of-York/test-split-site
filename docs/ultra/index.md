@@ -1,7 +1,7 @@
 # Learn Ultra
 !!! Summary
 
-    [Learn Ultra](https://vle.york.ac.uk) is the VLE used to support teaching in modules for  **on-campus programmes** (except the Mathematics department).
+    [Learn Ultra](https://vle.york.ac.uk) is the VLE used to support teaching in modules for  **on-campus programmes**.
     
     [HYMS Learn Ultra](https://hymsvle.york.ac.uk) is accessed via a different URL, but runs on the same system.
 
