@@ -28,7 +28,7 @@ Find out more:
 
 We offer a CMALT portfolio writing group to support participants in planning their portfolio, gathering evidence and learning from colleagues.
 
-Explore our [dedicated CMALT webpage](https://www.york.ac.uk/staff/teaching/learning-design/cmalt/) for:
+Explore our [dedicated CMALT webpage](https://www.york.ac.uk/staff/teaching/technology/cmalt/) for:
 
 - details of the support offered in the portfolio writing group
 - example CMALT portfolios and reflections from past participants

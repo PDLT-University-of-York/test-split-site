@@ -110,6 +110,6 @@ You can browse the available sessions and sign up using the embedded google form
 
     Fill in the form below to sign up for sessions or [open the Google Form in a new window](https://forms.gle/BgDUEFvr9ZUptrJ78). You must be logged on to your UoY Google account to sign up.
     
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdm1sS5Z_xc3cOdsDIIzV52hMjMIOGzPeoyxlbmtQsq7GrwNA/viewform?embedded=true" width="800" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdm1sS5Z_xc3cOdsDIIzV52hMjMIOGzPeoyxlbmtQsq7GrwNA/viewform?embedded=true" width="800" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     
 </div>
