@@ -8,12 +8,8 @@ tags:
 
 !!! Summary
 
-    Documents are the main 'page' content type where you can add text, images, files and more in a flexible layout. 
+    Documents are the main 'page' content type where you can add text, images, files, embedded videos and more in a flexible layout. 
     
-!!! Tip
-
-    This guide applies to the Enhanced Documents update on August 8th 2024, which is applied to both new and pre-existing Documents. 
-
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.

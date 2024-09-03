@@ -10,15 +10,13 @@ tags:
 
     An introduction to the key areas and structure of an Ultra site.
 
-## Overview
+Within an Ultra site, there are three main sections:
 
-There are three navigation bar menus used to navigate an Ultra site:
-
-1. **Top Menu**: Access course tools including the **Gradebook** and **Messages**.
+1. **Top Menu**: Access course tools including the **Gradebook** and **Announcements**.
 2. **Course Content area**: The main site area. Create and access course content here.
 3. **Details & Actions** access site tools including the **Class Register** and **Course Image**.
 
-![Ultra site showing Top Menu as a navigation bar below site name, Course Content area in the main body of the site, and details & Actions as a sammler left hand navigation panel.](images/navigate-ultra-site-key-sections.png)
+![decorative](images/navigate-ultra-site-key-sections.png)
 
 ### Top menu
 
@@ -38,7 +36,7 @@ The navigation menu below the site name gives access to a number of course tools
 
 ### Course Content
 
-Content is created and accessed in the **Course Content** area appearing in teh main body area of the site.
+Content is created and accessed in the **Course Content** area appearing in the main body area of the site.
 
 Items can be organised in content containers such as **Folders** or **Learning Modules**. Click a content container to expand it to show the items within, and click again to collapse.
 
