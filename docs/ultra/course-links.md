@@ -12,7 +12,7 @@ tags:
 ## When to use Course links
 Course links help users navigate easily between content in different areas of the site. This is particularly useful to direct students from a materials section to a reference item needed at that time.
 
-For example, a Course link could be added to a weekly materials section to send students to details of an assessment task intreoduced that week.
+For example, a Course link could be added to a weekly materials section to send students to details of an assessment task introduced that week.
 
 ## Identifying Course links
 A Course link appears in the Course Content area with a small link icon. Editing or deleting this link does not change the original item.
