@@ -8,13 +8,25 @@ tags:
 
 !!! Summary
 
-    Documents are the main 'page' content type where you can add text, images, files, embedded videos and more in a flexible layout. 
+    Documents are the main 'page' item for providing site content. 
     
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 5.1 Recommended: Ensure that students can see and access module materials and content.
+
+Documents are used to provide most site materials. They have a flexible drag-and-drop layout using content blocks to easily add a wide range of materials, including:
+
+- text
+- links
+- images
+- files (eg. lecture slides)
+- embedded videos: Panopto, YouTube etc.
+- embedded interactive items: Padlet, Mentimeter, Xerte etc.
+- formative knowledge check questions
+
+![Lecture materials document with text, image, slides file and embedded video in a mix of columns](images/documents-example.png)
 
 ## Create a Document
 
@@ -24,10 +36,6 @@ tags:
 3. Enter a descriptive title for the Document (eg. *Lecture 5: navigation techniques*) and set the [item visibility](../ultra/content-visibility.md).
 4. Optionally, click the **cog icon** and add a brief **description** to display in the Course Content area. Click **Save**.
 </br> ![Decorative](images/documents-settings.png)
-
-<!-- **TO UPDATE** Watch a demonstration of creating a Document:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qUl2fAfqCrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Creating Documents in Ultra [YouTube]](https://youtu.be/qUl2fAfqCrg). -->
 
 ## Content blocks
 
@@ -123,7 +131,7 @@ For example, a layout for some video resources could use:
 !!! Tip
 
     - Blocks are created in a new row, and then can be moved into a column in another row.
-    - Rows are always only one block deep, meaning they can't be stacked vertically within the same column.
+    - Rows are always only one block deep, meaning blocks can't be stacked vertically within the same column.
 
 ### Move a whole row
 
