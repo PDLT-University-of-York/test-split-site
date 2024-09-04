@@ -38,7 +38,7 @@ Key pages accessed from the navigation bar are:
 
 The **Courses** page lists all your module sites. Here you can browse, filter and search for sites.
 
-[Detailed guide: Access your sites](../ultra/access-sites.md)
+[Detailed guide: Access your sites](../ultra/access-sites-search.md)
 
 ![decorative](images/access-sites-courses-page.png)
 
@@ -53,7 +53,7 @@ The **Courses** page lists all your module sites. Here you can browse, filter an
 These are a set of Essential (must meet) and Recommended (try to meet) principles to:
 
 - **highlight best practice** in site design (*what makes a good site?*).
-- help you meet **accessibility** and **copyright** legislation.
+- help your site and materials meet **accessibility** and **copyright** legislation.
 - **reduce workload** for preparing your Ultra site.
 
 Each principle includes details and notes to help you implement it in your site, for example:
