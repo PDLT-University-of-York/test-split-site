@@ -88,14 +88,32 @@ The Course Content area is pre-populated with placeholder items organised in thr
 
 [Detailed guide: Prepare sites for teaching](../ultra/prepare-site.md)
 
-## Basic content creation & editing
+## Basic editing & content creation
+
+### Manage Course Content items 
+
+To **add** an item in the Course Content area, hover where you would like to add it. Click the purple plus icon that appears and then select item type to add.
+
+![decorative](images/getting-started-add.png)
+
+To **edit** or **delete** an item, click the three dots icon on the right hand side of the item.
+
+![decorative](images/getting-started-edit-delete.png)
+
+To **move** an item drag and drop it using your mouse or tab to the six dots icon on the left with your keyboard. 
 
 ### Documents (pages)
 
 Documents are the main 'page' content type where you can add text, images, files, embedded videos and more in a flexible drag-and-drop layout.
 
-<div markdown class="centered-image">
-![Block: content, HTML, file upload, Content Collection, Convert a file](images/documents-content-blocks.png)
-</div>
+Find out more about creating and adding content in our [detailed guide: Documents](../ultra/documents.md)
 
-![](images/documents-example.png)
+![Lecture materials document with text, image, slides file and embedded video in a mix of columns](images/documents-example.png)
+
+!!! Success "Next steps"
+
+    Congratulations for making your first steps with Ultra! To further develop your skills, you can:
+
+    - work through our [Prepare sites for teaching](../ultra/prepare-site.md) guide.
+    - explore the other guides on this site.
+    - come to one of our [workshops or other tarining sessions](../training/index.md).
