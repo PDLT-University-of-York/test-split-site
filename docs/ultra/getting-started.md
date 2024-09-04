@@ -38,9 +38,9 @@ Key pages accessed from the navigation bar are:
 
 The **Courses** page lists all your module sites. Here you can browse, filter and search for sites.
 
-[Detailed guide: Access your sites](../ultra/access-sites-search.md)
+[Detailed guide: Access your sites](../ultra/access-sites.md)
 
-![decorative](images/access-sites-courses-page.png)
+![decorative](images/access-sites-search.png)
 
 !!! Tip
 
