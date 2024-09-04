@@ -94,7 +94,7 @@ This section contains general information about the module and department:
 
 Prepare this section by:
 
-- [editing, updating or deleting content](../ultra/getting-started/#manage-course-content-items) in the pre-built pages.
+- editing, updating or deleting content in the pre-built pages.
 - you should not need to add new pages.
 </div>
 <figure markdown="span">
@@ -184,7 +184,7 @@ This section collates all assessment-related information in one place:
 
 Prepare this section by:
 
-- [editing, updating or deleting content](../ultra/getting-started/#manage-course-content-items) in the pre-built pages.
+- editing, updating or deleting content in the pre-built pages.
 - adding materials for your specific assessment tasks (instruction, Tests, submission points etc.).
 </div>
 <figure markdown="span">
@@ -256,7 +256,7 @@ These weekly sections contain lecture slides, seminar questions, workshop prepar
 
 Add your content to the relevant section by:
 
-- [editing, updating or deleting content](../ultra/getting-started/#manage-course-content-items) in the optional pre-built Documents for different content types. Delete any that you don't use.
+- editing, updating or deleting content in the optional pre-built Documents for different content types. Delete any Documents that you don't use.
 - building your own [Documents](../ultra/documents.md) or other items.
 </div>
 <figure markdown="span">

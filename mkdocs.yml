@@ -136,8 +136,8 @@ nav:
     - training/index.md
     - Workshops & resources:
       - training/workshops-resources/index.md
-      - Ultra Essentials: training/workshops-resources/ultra-essentials.md
-      - Mentimeter: training/workshops-resources/mentimeter.md
+      # - Ultra Essentials: training/workshops-resources/ultra-essentials.md
+      # - Mentimeter: training/workshops-resources/mentimeter.md
     - Webinars: training/webinars.md
     - Case studies: training/case-studies/index.md 
     - CMALT: training/cmalt.md
