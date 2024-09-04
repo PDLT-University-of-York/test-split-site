@@ -27,7 +27,7 @@ There are two main ways to use Messages depending on how you want messages to ap
 
 ## Way 1: Use the Messages tool
 
-1. **Activite the "Messages" tool:** click on the ‘Course settings’ link in the top-right of your VLE site, then toggle on the ‘Allow course messages’ option in the course settings options.
+1. **Activate the "Messages" tool:** click on the ‘Course settings’ link in the top-right of your VLE site, then toggle on the ‘Allow course messages’ option in the course settings options.
 2. **Access the "Messages" tool:** normally you will do this by clicking on the "Messages" link on your site's top menu (under the name of your VLE site, alongside "Content", "Calendar", "Announcement", etc), but you can also messages from within the groups and gradebook areas of your site. Details of this are in "Way 2" below.
 3. **Create and send your message** (these are immediate, and cannot be scheduled for the future): 
 

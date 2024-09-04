@@ -127,7 +127,7 @@ nav:
       - Use asynchronously: other-tools/mentimeter/asynchronous-use.md
       - Display & analyse results: other-tools/mentimeter/results.md
       - Case studies: other-tools/mentimeter/case-studies.md
-      - Training | Mentimeter resources: training/workshops-resources/mentimeter.md
+     # - Training | Mentimeter resources: training/workshops-resources/mentimeter.md
     - Padlet | pinboards: other-tools/padlet.md
     - Reading List: other-tools/reading-list.md
     - System data & analytics: other-tools/analytics.md
@@ -136,8 +136,8 @@ nav:
     - training/index.md
     - Workshops & resources:
       - training/workshops-resources/index.md
-      - Ultra Essentials: training/workshops-resources/ultra-essentials.md
-      - Mentimeter: training/workshops-resources/mentimeter.md
+     # - Ultra Essentials: training/workshops-resources/ultra-essentials.md
+     # - Mentimeter: training/workshops-resources/mentimeter.md
     - Webinars: training/webinars.md
     - Case studies: training/case-studies/index.md 
     - CMALT: training/cmalt.md

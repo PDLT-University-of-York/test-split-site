@@ -76,7 +76,7 @@ Containers can be created within the Course Content area (your template will hav
 
 Watch a demonstration of the basics of creating a Learning Module:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uzpx_sCkVwc" title="YouTube video Create Learning Modules in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[BLackBoard's guide to Create Learning Modules in Ultra Course View [YouTube]](https://www.youtube.com/watch?v=Uzpx_sCkVwc)
+[Blackboard's guide to Create Learning Modules in Ultra Course View [YouTube]](https://www.youtube.com/watch?v=Uzpx_sCkVwc)
 
 ## Learning Module images
 
@@ -105,7 +105,7 @@ You can also watch a demonstration of adding a Learning Module image:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Wmyfp5i_Tw" title="How To Add Learning Module Icon Images To VLE Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [How To Add Learning Module Icon Images To VLE Ultra [YouTube]](https://youtu.be/3Wmyfp5i_Tw)
 
-### Accessiblity
+### Accessibility
 
 The learning module image is automatically marked as decorative, which hides the banner for students using assistive technologies. If the content of the image is important, uncheck **Mark the image as decorative** and enter a description of the image in the **Alternative text** field. 
 

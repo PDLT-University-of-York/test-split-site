@@ -16,7 +16,7 @@ tags:
 
 Forms use a selection of Test question types, making them particularly useful as **asynchronous surveys**. However, responses cannot be collected anonymously.
 
-For example, Forms could be be used to collect: 
+For example, Forms could be used to collect: 
 
 - module feedback (mid or end of semester)
 - topic preferences to assign students for group work, projects, presentations etc.

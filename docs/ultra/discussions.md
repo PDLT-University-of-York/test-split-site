@@ -45,7 +45,7 @@ You can follow a Discussion to receive notifications of new activity. Currently 
 
 1. Open the Discussion and click **Follow**.</br>
 ![Decorative](images/discussions-follow.png)
-2. The default followed Discussions settings are to receive notifcations of new replies and new responses to your posts. You can change this in your [notification settings](../ultra/notifications.md).
+2. The default followed Discussions settings are to receive notifications of new replies and new responses to your posts. You can change this in your [notification settings](../ultra/notifications.md).
 
 ## Anonymous discussions
 Set up:
