@@ -100,7 +100,7 @@ To **edit** or **delete** an item, click the three dots icon on the right hand s
 
 ![decorative](images/getting-started-edit-delete.png)
 
-To **move** an item drag and drop it using your mouse or tab to the six dots icon on the left with your keyboard. 
+To **move** an item drag and drop it using your mouse or tab to the six dots icon on the left with your keyboard, hit enter and use the up and down arrow keys. 
 
 ### Documents (pages)
 
