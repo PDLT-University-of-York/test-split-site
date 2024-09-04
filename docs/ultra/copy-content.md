@@ -4,10 +4,6 @@ tags:
     - Ultra
 ---
 
-!!! Note
-
-    This guide will be updated for the 2024/25 academic year.
-
 # Copying content
 
 !!! Summary
@@ -16,16 +12,12 @@ tags:
 
 ## Video Steps
 
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5CB9CfpSFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Video: [Copying content](https://youtu.be/n5CB9CfpSFI)
 
 
 ## Text Steps
-
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
 
 To copy content items:
 
