@@ -17,9 +17,10 @@ We offer a range of workshops to introduce you to tools and implement them to su
     ---
 
     For any colleagues who have joined the University in the last year, this session will provide an essential introduction to the Blackboard Learn Ultra VLE.
-    <!-- 
 
-    [On-demand guide: Getting started with Ultra]() -->
+    :octicons-arrow-right-24: Available as a synchronous session and an on-demand guide.
+    
+    [On-demand guide: Getting started with Ultra](../../ultra/getting-started.md)
 
 -   :fontawesome-regular-compass: **Prepare Ultra sites for teaching: Guided walkthrough**
 
