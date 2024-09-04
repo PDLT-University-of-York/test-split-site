@@ -291,7 +291,7 @@ Add your content to the relevant section by:
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
     - **check links and embedded content** are shared correctly for the new cohort. For example, update links to yearly handbook documents and check any re-used Panopto videos are shared correctly (see Panopto section below).
     - **check video files are not directly uploaded** to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
-    - **check item visibility** and **update any deadlines or [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
+    - **check item visibility** and **update any deadlines or [Release conditions](../ultra/content-visibility.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
 
 === "Set up site from template"
 
@@ -307,7 +307,7 @@ Add your content to the relevant section by:
     - **label items and files clearly** to describe the content without having to open it, and give **context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types. 
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
     - **do not upload video files** directly to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
-    - **set item visibility** and **add any [Release conditions](../ultra/release-conditions.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
+    - **set item visibility** and **add any [Release conditions](../ultra/content-visibility.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
     - if reusing content or materials from previous years, check that:
         - all **content and files are up to date**. Don't add any old material.
         - any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)

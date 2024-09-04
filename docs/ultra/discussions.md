@@ -94,7 +94,7 @@ To view each group's discussion:
 2. Select the relevant group name from the drop-down menu below the instructions.
 ![Decorative](images/discussions-groups-view.png)
 
-You can also limit discussion visibility using **Release Conditions**. However, this method requires a separate discussion for each group, so it needs more care to set up and manage. See our [Release conditions guide](../ultra/release-conditions.md) for details.
+You can also limit discussion visibility using **Release Conditions**. However, this method requires a separate discussion for each group, so it needs more care to set up and manage. See our [Release conditions guide](../ultra/content-visibility.md) for details.
 
 ### Post first
 

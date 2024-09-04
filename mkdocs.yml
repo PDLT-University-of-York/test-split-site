@@ -298,7 +298,7 @@ plugins:
         'ultra/international-access.md': 'help/international-access.md'
         'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
-        'ultra/release-conditions.md': 'ultra/content-visibility.md'
+        'ultra/content-visibility.md': 'ultra/content-visibility.md'
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
         'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
