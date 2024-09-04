@@ -40,9 +40,3 @@ To copy content items:
 6. At this point you can click **Courses** and repeat steps 2-5 if you want to copy items from multiple sites at once.
 <br> ![Annotated screenshot highlighting the Courses button in the copy content interface](images/copy-content-courses.png) <br>
 7. When you have selected all the items you want to copy, click **Start Copy**. Refreshing your browser tab may speed up the copying process.
-
-
-!!! Warning
-
-	If reusing content from a Blackboard Original site, please refer to our [Reusing content from Original sites guide](https://vle-support.york.ac.uk/ultra/reuse-original-content/).
-
