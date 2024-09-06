@@ -24,26 +24,26 @@ tags:
 
 ## Embed with built-in tool
 
-1. In the text editor, open the "Insert content" drop-down menu and select **YouTube video**
-![Decorative](images/adding-youtube-insert-content.png)
-2. Search for the video you'd like to embed and press **Select**
-![Decorative](images/adding-youtube-search-select.png)
-3. Choose the appropriate display options and press **Insert**
-![Decorative](images/adding-youtube-settings.png)
-4. Open the video in a new tab, then copy the URL of the video.
-![Decorative](images/adding-youtube-opening-youtube.png)
-5. Add in some contextual text for the embedded video, including a [hyperlink](../ultra/links.md/#integrated-hyperlink) to open the video directly. 
-![Decorative](images/adding-youtube-hyperlink.png)
-
+1. If needed, add a new Content block to your Document.
+</br>![Decorative](images/documents-add-block-content.png)
+2. In the text editor, open the "Insert content" drop-down menu and select **YouTube video**
+</br>![Decorative](images/youtube-insert-content.png)
+3. Search for a video title and select the video to embed.
+</br>![Decorative](images/youtube-search-select.png)
+4. Copy the video link (for the next step), adjust display options if needed and press **Insert**
+</br>![Decorative](images/youtube-settings.png)
+5. In the text editor, [add a link](../ultra/links.md/#integrated-hyperlink) to open the video directly. 
+</br>![Decorative](images/youtube-hyperlink.png)
+<!-- 
 Watch a video demonstration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDeLtobi36E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Video: [Adding YouTube videos in Ultra](https://youtu.be/oDeLtobi36E).
+Video: [Adding YouTube videos in Ultra](https://youtu.be/oDeLtobi36E). -->
 
 ## Embed with HTML embed code
 
-For more control and customisation, you can embed YouTube videos using a HTML embed code.
+For more control over how the video is displayed, you can embed YouTube videos using a HTML embed code.
 
 1. Find the video you want in YouTube.
 2. CLick **Share**, then **Embed** and copy the HTML code (see [YouTube's guide to embed videos](https://support.google.com/youtube/answer/171780?hl=en) for more details)
 3. In your Ultra site, use the 'Add HTML' content option and paste in the embed code (see our [guide to embed content](../ultra/embed-content.md) for more details).
-4. Using the text editor, add in some contextual text for the embedded video, including a [hyperlink](../ultra/links.md/#integrated-hyperlink) to open the video directly. 
+4. In the text editor, [add a link](../ultra/links.md/#integrated-hyperlink) to open the video directly. 

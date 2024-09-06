@@ -3,7 +3,6 @@ tags:
     - Ultra
 ---
 
-
 # Adding images to a Document
 
 !!! Summary
@@ -30,7 +29,6 @@ Video: [Adding images in Ultra (via upload)](https://youtu.be/dQOaGmi6u0E)
 1. In a Document click the plus icon to add content and/or click **Upload from Computer**
 ![Two annotated screenshots highlighting the "upload from computer" button in different menus](images/adding-content-upload-from-computer.png)
 2. Locate the item you would like to upload, select it, and click **Open**
-<!-- ![Annotated screenshot highlighting the Open button in the file explorer](images/adding-content-file-browser.png) -->
 3. Add a brief description of the image in the alternative text box (eg "Cartoon coffee cup") or mark it as decorative, select the appropriate file options, and then click **Save**
 ![Annotated screenshot highlighting the image options, alternative text box, and Save button](images/adding-content-image-options.png)
 
