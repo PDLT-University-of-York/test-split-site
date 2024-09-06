@@ -11,11 +11,47 @@ tags:
 
     Tips & tricks to quickly access your key sites.
 
-## Course sites
 
-Access module sites through the Courses page. By default, this lists every site that you are enrolled on.
+## Which site type?
 
-Use the options to select relevant sites and customise the page appearance:
+=== "Courses: module sites"
+
+    <div markdown class="grid">
+    <div markdown>
+    Access module sites on the **Courses** page.
+    
+    Academic-related sites also appear here, such as:
+    
+    - departmental skills sites
+    - for students, the Academic Integrity Tutorial and Turnitin Tutorial
+    </div>
+    <div markdown class="centered-image">
+    ![decorative](images/access-sites-courses-nav.png)
+    </div>
+    </div>
+
+=== "Communities: non-academic sites"
+
+    <div markdown class="grid">
+    <div markdown>
+    Non-academic sites are generally accessed on the **Communities** page.
+    
+    This could include sites such as:
+
+    - careers information
+    - departmental induction sites
+    - programme handbook sites
+    - student rep sites
+    
+    </div>
+    <div markdown class="centered-image">
+    ![decorative](images/access-sites-communities-nav.png)
+    </div>
+    </div>
+
+## Find a site
+
+By default, the Courses and Communities list all relevant sites that you are enrolled on. To find specific sites that you need, you can browse, search and filter the site list and customise the page appearance:
 
 ![Customisation options on the Courses page (described in list)](images/access-sites-courses-page.png)
 
@@ -34,12 +70,6 @@ Use the options to select relevant sites and customise the page appearance:
     These settings and filters are maintained across log-ins and different devices, so you don't have to repeat them every time.
 
 You can also bookmark relevant sites in your internet browser for easy access.
-
-## Community sites
-
-The Communities page (generally) contains non-academic sites. You may also see these sites described as 'Organisations'.
-
-You can customise the Communities page in the same way as the Courses page.
 
 ## Missing a site you need?
 
