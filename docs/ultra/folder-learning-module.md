@@ -19,7 +19,9 @@ tags:
 
 ## Overview: content container types
 
-Learning Modules and Folders are the containers available to ortganise your content. They function largely the same for staff, but students navigate the content items within the two container types differently. This means that there are some situations where either a Learning Module or a Folder may be more suitable.
+Learning Modules and Folders are containers to organise site content.
+
+They function largely the same for staff, but students navigate the content items within the two container types differently. This means that there are some situations where either a Learning Module or a Folder may be more suitable.
 
 === "Learning Module"
 
@@ -49,17 +51,15 @@ Learning Modules and Folders are the containers available to ortganise your cont
 
     ![Click 'X' icon to close a folder item](images/folder-learning-module-folder-close-item.png)
 
-
-This video also gives an overview of how to differentiate Folders vs Learning Modules: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aFUico3YEBc" title="YouTube video Folders vs Learning Modules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Folders vs Learning Modules [YouTube]](https://www.youtube.com/watch?v=aFUico3YEBc)
-
 ## Create a Learning Module or Folder
+
+!!! Tip
+
+    Module site templates have pre-built containers for your site materials, so you're unlikely to need to create containers yourself. 
 
 Where the same applies for both Learning Modules and Folders, we'll use "container" for simplicity.
 
-Containers can be created within the Course Content area (your template will have pre-built containers for your content). Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder, but a Folder within a Learning Module navigates like a Learning Module. Learning Modules cannot be directly created inside another container.
+Containers can be created within the Course Content area. Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder, but a Folder within a Learning Module navigates like a Learning Module. Learning Modules cannot be directly created inside another container.
 
 1. Hover where the container should appear. Click the **plus icon** then **Create**.
 </br> ![Decorative](images/folder-learning-module-plus-create.png)
@@ -70,13 +70,9 @@ Containers can be created within the Course Content area (your template will hav
 5. Add a brief **description** that will display in the Course Content area.
 </br> ![Decorative](images/folder-learning-module-settings.png)
 6. [Learning Modules only] If you want students to access content items in order, click **Forced Sequence**.
-7. [Learning Modules only] You can add a custom image to display on the Course Content page. See the Learning Module images(#learning-module-images) section below for details.
+7. [Learning Modules only] You can add a custom image to display on the Course Content page. See the [Learning Module images](#learning-module-images) section below for details.
 8. Click **Save**.
 </br>![Decorative](images/folder-learning-module-sequence-image-save.png)
-
-Watch a demonstration of the basics of creating a Learning Module:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uzpx_sCkVwc" title="YouTube video Create Learning Modules in the Ultra Course View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Blackboard's guide to Create Learning Modules in Ultra Course View [YouTube]](https://www.youtube.com/watch?v=Uzpx_sCkVwc)
 
 ## Learning Module images
 
@@ -125,6 +121,5 @@ Download images at a resolution that meets the minimum requirements for Ultra. T
 
 ### Creating icons
 
-[Guides on image manipulation to create an icon](https://subjectguides.york.ac.uk/media/images)
-
-[Images for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
+- [Guides on image manipulation to create an icon](https://subjectguides.york.ac.uk/media/images)
+- [Create icons: template for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
