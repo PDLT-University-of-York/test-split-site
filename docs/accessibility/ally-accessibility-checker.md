@@ -43,7 +43,7 @@ Below is an embedded video showing how to set up Groups in Ultra. Alternatively,
 
 ![Described in subsequent text](<images/Ally accessibility report.png>)
 
-Access the site report by going to Books & Tools (in the left hand menu), then Accessibility Report.
+Access the site report by going to Books & Tools (in the **Details &  Actions** menu), then Accessibility Report.
 The course accessibility report shows the 
 overall course accessibility score, 
 the distribution of course content by content type and 

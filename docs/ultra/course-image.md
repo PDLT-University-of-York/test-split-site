@@ -33,7 +33,7 @@ You can change the Course Image supplied with your site template to something re
 
 To set up your Ultra site's Course Image:
 
-1. Open your Ultra site and click **Edit display settings** under **Course Image** in the left hand menu. <br> ![Decorative](images/course-images-display-settings.png)
+1. Open your Ultra site and click **Edit display settings** under **Course Image** in the **Details &  Actions** menu. <br> ![Decorative](images/course-images-display-settings.png)
 2. Click **Upload new image**.
 3. Select the desired image from the browser. <br> ![Decorative](images/course-images-upload-images.png)
 4. Position the image as required, adjusting the zoom if necessary.

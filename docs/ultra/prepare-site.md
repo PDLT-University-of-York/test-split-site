@@ -61,7 +61,7 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     2. **Check the [Course image](../ultra/course-image.md)**</br>
     Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.
     3. **Staff enrollments & Primary Instructors**:
-        - click *Class Register* under *Details & Actions* in the left menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor). 
+        - click *Class Register* under the *Details & Actions* menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor). 
         - if needed, [enrol](../ultra/enrol-user.md) missing module staff or [unenrol](../ultra/unenrol-user.md) any GTAs or other staff members who don't need access to this year's site (you can also contact your departmental administrator or professional support team for help witrh this).
         - check/update [**Primary Instructor** settings](../ultra/course-staff.md) so that module staff appear at the top of the *Course Staff* list.
     4. **[Course groups](../ultra/course-groups.md)**: If used, check these are still appropriate and edit/delete settings. Note: assessment administrators will manage any assessment-related groups.
@@ -77,7 +77,7 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     2. **Select a [Course image](../ultra/course-image.md)**</br>
     Your departmental template contains a default Course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.
     3. **Staff enrollments & Primary Instructors**:
-        - click *Class Register* under *Details & Actions* in the left menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor).
+        - click *Class Register* under the *Details & Actions* menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor).
         - if needed, [enrol](../ultra/enrol-user.md) missing module staff (you can also contact your departmental administrator or professional support team for help witrh this).
         - apply [**Primary Instructor** settings](../ultra/course-staff.md) so that module staff appear at the top of the *Course Staff* list.
     3. **[Course staff](../ultra/course-staff.md): set Primary Instructor(s)**</br>
