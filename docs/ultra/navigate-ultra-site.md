@@ -30,15 +30,15 @@ The navigation menu below the site name gives access to a number of course tools
 | [Discussions](../ultra/discussions.md) | Quick access all of the course's discussion boards. |
 | [Gradebook](../ultra/gradebook.md) | Grade information and access to submissions for all of the markable items in a course. |
 | [Messages](../ultra/messages.md) | Send private messages to individual students or groups (off by default, but you can turn on). Students can't reply to Messages. |
-| Analytics | Not currently used at York |
-| [Groups](../ultra/course-groups.md) |Use Groups to manage teaching, administration and assessment activities in your course |
+| Analytics | Overview of student activity and question analysis of Tests deployed. |
+| [Groups](../ultra/course-groups.md) | Use Groups to manage teaching, administration and assessment activities in your course |
 | Student Preview | View the course as it appears to a student |
 
 ### Course Content
 
 Content is created and accessed in the **Course Content** area appearing in the main body area of the site.
 
-Items can be organised in content containers such as **Folders** or **Learning Modules**. Click a content container to expand it to show the items within, and click again to collapse.
+Items can be organised in two types of conent containers; [Learning Modules or Folders](../ultra/folder-learning-module.md). Click a content container to expand it to show the items within, and click again to collapse.
 
 ![Decorative](images/navigate-ultra-site-learning-module.png)
 
@@ -48,15 +48,18 @@ To open an item, click on it in the **Course Content** area. This will open the 
 
 !!! Tip
 
-    For more information on Folders and Learning Modules, see the [Folders vs Learning Modules guide](../ultra/folder-learning-module.md).
+    The module site template has a pre-populated Course Content area with containers for different content and pages to populate with your module-specific information.
+
+    For more details, see our guide to [Prepare sites for teaching](../ultra/prepare-site.md)
 
 ### Details & Actions
 
-This menu on the left hand side of the screen gives access to a number of different tools:
+This menu gives access to a number of different tools:
 
 | Menu item | Description |
 | ----------- | ----------- |
 | Class register | List of everyone enrolled on the site, including staff members (by default this is hidden from students) |
+| Progress Tracking | Allow students to track their progress through materials |
 | [Course Image](../ultra/course-image.md) | Upload, edit or remove the site's Course Image |
 | [Course is open / Course is private](../ultra/site-availability.md) | Set site availability as visible or hidden to students |
 | Class Collaborate | Access the Blackboard Collaborate virtual classroom |
