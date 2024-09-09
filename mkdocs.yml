@@ -1,4 +1,4 @@
-# Howdy! This is the file that powers the site.
+# Howdy! This is the config file that powers the site.
 # Any line with # at the start is "commented out"/hidden - used for instructions, details or draft stuff.
 
 # Navigation 
@@ -139,7 +139,7 @@ nav:
     - Webinars: training/webinars.md
     - Case studies: training/case-studies/index.md 
     - CMALT: training/cmalt.md
-   
+  - Help:
     - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
     - News: help/news.md
