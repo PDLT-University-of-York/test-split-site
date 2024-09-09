@@ -55,7 +55,6 @@ nav:
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
-    - Training | Ultra Essentials: training/workshops-resources/ultra-essentials.md
     - Troubleshooting common issues: help/troubleshooting.md
   - Panopto Videos:
     - panopto/index.md
@@ -140,14 +139,7 @@ nav:
     - Webinars: training/webinars.md
     - Case studies: training/case-studies/index.md 
     - CMALT: training/cmalt.md
-        # - VLE Ultra training: #RETIRE/MOVE MOST
-    #   - Workshop calendar: ultra/workshop-calendar.md
-    #   - Workshop - Ultra Essentials (teaching): ultra/workshop-ultra-essentials-teaching.md
-    #   # - Workshop - Ultra Essentials (admin): ultra/workshop-ultra-essentials-admin.md
-    #   - Workshops - Ultra Bitesize: ultra/workshop-ultra-bitesize.md
-    #   # - Workshops - Ultra Drop-ins: ultra/workshop-ultra-drop-ins.md
-    #   - Workshops - General Ultra and Turnitin Marker Support Drop-ins: ultra/workshop-turnitin-marker-support.md
-  - Help:
+   
     - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
     - News: help/news.md
