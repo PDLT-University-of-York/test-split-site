@@ -566,7 +566,7 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
         - **Replay Lecture Capture (Panopto) link**: copied
         - **Panopto folder**: not copied, a new empty folder is created
-        - **linked and embedded recordings**: copied, but not updated. tudent access needs careful checking (see below). 
+        - **linked and embedded recordings**: copied, but not updated. Student access needs careful checking (see below). 
 
     **General Panopto/[Lecture capture](https://www.york.ac.uk/staff/teaching/support/recording-lectures/timetabled/) set up**
 
