@@ -210,13 +210,14 @@ Prepare this section by:
 
     !!! Warning "Warning: action required"
 
-        **Due dates and release dates must be updated** for the new academic year. See our [guidance for updating deadlines in the different assessment types](../assessment/update-deadlines.md).
+        **Due dates and release dates must be updated** for the new academic year. Items can be hidden fom students if the new due date is still to be confirmed.
         
-        If dates are left from the previous year once the site is opened:
+        If old due dates are left visible once the site is opened:
 
-        - students may receive confusing/stressful notifications of overdue work.
+        - students may receive confusing/stressful automatic notifications of missing or overdue work.
         - items released based on date will be visible to students.
-    
+
+        So, before making your new Ultra site available to students, make sure to [update due dates](../assessment/update-due-dates.md) or hide submission points/tests from students (to update later).
 
     <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-assessment.png)
