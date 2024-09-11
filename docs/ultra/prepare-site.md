@@ -202,8 +202,21 @@ Prepare this section by:
     !!! question "What is rolled over?"
 
         - **Documents** (pages): exact copies
-        - **Turnitin Feedback Studio**, **Ultra Assignment**, **Test**: instructions, settings and due dates copied (check and update as necessary), submissions are not copied.
-        - **Release conditions**: copied, but dates must be checked and updated as needed.
+        - **Ultra Assignment**, **Test**, **Turnitin Feedback Studio**, **Gradescope**: 
+            - instructions and settings copied
+            - **deadlines copied, must be updated**
+            - submissions are not copied
+        - **Release conditions**: copied, dates must be updated as needed.
+
+    !!! Warning "Warning: action required"
+
+        **Due dates and release dates must be updated** for the new academic year. See our [guidance for updating deadlines in the different assessment types](../assessment/update-deadlines.md).
+        
+        If dates are left from the previous year once the site is opened:
+
+        - students may receive confusing/stressful notifications of overdue work.
+        - items released based on date will be visible to students.
+    
 
     <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-assessment.png)
