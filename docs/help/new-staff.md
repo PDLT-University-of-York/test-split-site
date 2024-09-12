@@ -80,11 +80,11 @@ This is used widely for:
     ---
 
     Used extensively for Gmail, Google Calendar, Drive, Docs, Sheets, Slides and more.
-    Supported by [IT Services](https://www.york.ac.uk/it-services/contact/).
+   Supported by the [Digital Inclusion, Skills & Creativity team](https://subjectguides.york.ac.uk/skills/about/disc) (DISC) & [IT Services](https://www.york.ac.uk/it-services/contact/).
 </div>
 
 ## Training available
 
 We offer a range of synchronous and on-demand training and resources on effectively implementing digital education tools to support teaching and learning. Explore what's available on our [Training page](../training/index.md).
 
-IT Services also offer a range of [IT and digital skills training](https://www.york.ac.uk/it-services/training/) on topics such as Google Workspace, presentations and managing data.
+The DISC team also offer a range of [IT and digital skills training](https://subjectguides.york.ac.uk/skills/training?audience=staff&type=dst) on topics such as Google Workspace, presentations and managing data.
