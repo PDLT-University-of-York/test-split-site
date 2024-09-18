@@ -59,7 +59,7 @@ This makes Test a useful tool in many situations, from short practice quizzes up
 
     Some examples:
 
-    - practice quizzes: providing an active opportunity to practice 'right answer' content (eg. matching vocabulary, )
+    - practice quizzes: providing an active opportunity to practice 'right answer' content (eg. match terminology, complete calculations)
     - revision quizzes covering part of or all module content
 
     Common features:
@@ -179,6 +179,8 @@ As with all teaching content, accessibility is very important when building test
 
 ## Add Test questions
 
+There are various ways to add questions to a Test. Which method is most appropriate depends on the amount of questions to add, whether to display all questions or a random subset, and whether questions have already been added elsewhere in the site.
+
 === "Knowledge check"
 
     **Method to add questions**
@@ -287,7 +289,7 @@ Question pools do not copy questions; any edits made to questions in a pool will
 5. Enter the number of questions to display and optionally update the points awarded per question. Click **Save**.
 </br>![decorative](images/test-question-pool-options.png)
 6. In edit mode a summary of the pool is shown where you can view the questions and edit settings. Students will see the questions pulled from the pool.
-</br>![decorative](images/test-question-pool-finished.png)
+</br>![Pool summary showing that 2 of 7 questions are displayed to students, with option to view all questions](images/test-question-pool-finished.png)
 
 For more details, see the [BlackBoard Help guide to Question pools](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/ULTRA_Reuse_Questions/Question_Pools).
 
@@ -296,13 +298,75 @@ For more details, see the [BlackBoard Help guide to Question pools](https://help
 
 ## Test Settings
 
+There are various settings possible for Tests, including;
+
+- due date and attempt management
+- randomising questions and answers
+- presenting marks and feedback to students
+
+!!! Tip
+
+    Randomising questions will present all questions in the Test in a random order. If you want to randomly select a subset of questions, use a Question Pool.
+
+Edit settings in the **Assessment settings** panel:
+
+- Click the **cog icon** to open the full Test settings
+- The settings summary gives quick access to some settings: Due date, Mark category, Marking, Attempts allowed, Originality Report
+
+![decorative](images/test-settings.png)
+
 === "Knowledge check"
 
-    
+    **Suggested settings**
+
+    - Details & Information
+        - tick *No due date*
+        - leave other options unticked
+    - Presentation Options
+        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
+        - leave other options unticked
+    - Formative Tools
+        - tick *Formative assessment*
+        - leave *Display formative label to students* ticked
+    - Marking & Submissions
+        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
+        - Attempts allowed: set to Unlimited
+        - Assessment mark: leave *Post assessment marks automatically* ticked
+        - leave other options unticked
+    - Assessment results: no action needed
+    - Assessment security: no action needed
+    - Additional Tools: no action needed
+    - Description: add an optional short description to display under the item's name in the Course Content area.
+
 === "Practice quiz"
 
+    **Suggested settings**
+
+    - Details & Information
+        - tick *No due date*
+        - leave other options unticked
+    - Presentation Options
+        - if no randomisation needed: leave all unticked
+        - if randomisation is needed: tick *Randomise questions*, *Randomise answers* or *Randomise pages* as desired
+        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
+    - Formative Tools
+        - tick *Formative assessment*
+        - leave *Display formative label to students* ticked
+    - Marking & Submissions
+        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
+        - Attempts allowed: set to Unlimited
+        - Assessment mark: leave *Post assessment marks automatically* ticked
+        - leave other options unticked
+    - Assessment results: no action needed
+    - Assessment security: no action needed
+    - Additional Tools: no action needed
+    - Description: add an optional short description to display under the item's name in the Course Content area.
     
 === "Formal exam"
+
+    It's essential that settings are correct for formal exams. This will depend on the structure of your Test and other requirements.
+    
+    [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
 
 
 ## Print or save a Test
@@ -318,6 +382,6 @@ You can print or save your Test as a PDF, either with or without answers. This c
     It is not currently possible to print Tests containing a Question Pool.
 
 1. Click **Print** at the top of the Test.
-2. Select to print **Questions only** (for students to take as a paper-based exam) or **Questions with answers**
+2. Select **Questions only** or **Questions with answers**
 ![decorative](images/test-print.png)
-3. Select to Save as PDF or send to the printer.
+3. Save as PDF or send to the printer.
