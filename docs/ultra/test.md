@@ -23,16 +23,13 @@ tags:
 
 ## When to use Test
 
-Test has a lot of flexible features that makes it useful in many situations:
+Test has a lot of flexible features, which makes it useful in many situations, from short practice quizzes to formal summative exams:
 
-- a wide range of question types, most with automatic marking and feedback
-- create questions within the test, import questions from file or reuse questions from existing banks or tests
-- possibility for (automatic) partial, negative and extra credit
-- randomise the order of questions and/or answer options
-- question banks and pools: present a random selection of questions for each student
-- calculated formula/numeric questions: use randomised values to automatically generate a large bank of different questions
-
-This makes Test a useful tool in many situations, from short practice quizzes up to summative exams.
+- **Wide range of question types**: most with automatic marking and feedback
+- **Multiple ways to add questions**: manually create questions, import questions from file or reuse questions from existing banks or tests
+- **Randomisation**: randomise the order of questions and/or answer options presented in each Test, or use calculated formula/numeric questions to automatically generate a large bank of different questions
+- **Question banks and pools**: present a random selection of questions for each student
+- **Flexible grading possibilities**: can set up partial, negative and extra credit
 
 === "Knowledge check"
 
@@ -48,10 +45,11 @@ This makes Test a useful tool in many situations, from short practice quizzes up
 
     Common features:
 
-    - Tend to be short: **up to 5 questions**
+    - Tend to be short: usually 5 or fewer questions
     - Question display: usually all possible questions
     - Question types: all **questions should be automatically marked** so no input is needed from teaching staff
     - Set up effort: low, usually quick and simple to set up
+    - Insights to inform teaching: easy to gauge engagement and identify learning gaps
 
 === "Practice quiz"
 
@@ -59,14 +57,15 @@ This makes Test a useful tool in many situations, from short practice quizzes up
 
     Some examples:
 
-    - practice quizzes: providing an active opportunity to practice 'right answer' content (eg. match terminology, complete calculations)
-    - revision quizzes covering part of or all module content
+    - **practice quizzes**: providing an active opportunity to practice 'right answer' content (eg. match terminology, complete calculations)
+    - **revision quizzes** covering part of or all module content
 
     Common features:
 
-    - Question display: commonly a random subset drawn from a larger question bank so that students can retake the quiz, but can also present the same questions each time.
+    - Question display: to allow students to retake the quiz, it's common for practice quizzes to use question pools to display a random subset of questions drawn from a larger question bank. However, it is also possible to display a fixed set of questions each time.
     - Question types: all **questions should be automatically marked** so no input is needed from teaching staff
     - Set up effort: low to medium, depending on how questions are created and whether random subsets are used.
+    - Insights to inform teaching: easy to gauge engagement and identify learning gaps, question analysis can help you monitor the efficacy of your question design
 
 === "Formal exam"
 
@@ -74,13 +73,13 @@ This makes Test a useful tool in many situations, from short practice quizzes up
 
     Some examples:
 
-    - Open book exam: students complete the exam during a given time window at a place of their choosing. Can't be invigilated.
-    - Closed book exam: students complete the exam at a set time in an on-campus computer lab. Can be invigilated.
-    - It is good practice to also run a formative/mock exam to familiarise students with the online exam process.
+    - **Remote exam**: students begin the exam during a given time window (eg. 10:00 - 10:30) at a place of their choosing. They then have the given time limit (or longer if accommodations are set) to complete the exam. Can't be invigilated.
+    - **Scheduled on-campus exam**: students complete the exam at a set time in an on-campus computer lab. Can be invigilated, but computer access to other tools can't be locked down. We will advise on set up, but the department must take full responsibility for delivering these exams. For example, it's not possible for central technical support staff to attend in the room.
+    - **Formative/mock exam**: to familiarise students with the online exam process.
     
     Common features:
     
-    - Question display: usually random subset(s) drawn from larger question banks to support robust assessment, but can also present the same questions to each student in closed book exams.
+    - Question display: to support robust assessment, formal exams generally use question pools to display a random subset of questions drawn from a larger question bank.
     - Question types: preferably automatically marked (to allow **non-anonymous** workflows, which are significantly easier to administer), but can include manually marked questions.
     - Set up effort: medium to high, as requires very careful set up and checking.
 
@@ -119,9 +118,9 @@ Find out more about how Test has been applied across the University:
 
 | Question type | Description | Grading type |
 | ----------- | ----------- | ----------- |
-| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Options can be fixed or randomised, can give partial or negative credit. | auto graded |
+| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Option order is randomised. Can give partial or negative credit. | auto graded |
 | [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Set if answers should be exact, match part of a specified answer or match a pattern. | auto graded |
-| [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised, can give partial or negative credit. | auto graded |
+| [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised. Can give partial or negative credit. | auto graded |
 | [True/False](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Choose True or False in response to a given statement. | auto graded |
 | [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded |
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Can set the answer as an extact number or within a range.| auto graded |
@@ -151,8 +150,8 @@ As with all teaching content, accessibility is very important when building test
 
     Locate the quiz where it will make most sense to students. This could be:
 
-    - practicing specific content: alongside weekly materials.
-    - general revision: in the Assessment section.
+    - practising specific content: alongside weekly materials.
+    - general revision: in the Assessment section (make sure to label clearly as a formative practice quiz to avoid confusion with formal assessment items)
 
     You can use a [Course Link](../ultra/course-links.md) to show a quiz in more than one location.
 
@@ -166,10 +165,10 @@ As with all teaching content, accessibility is very important when building test
     - Details of the exam: include in the Assessment section of your module site.
 
 1. Hover where you want the Test to appear, click the plus icon, then **Create**, then select **Test**.
-2. Give the Test a descriptive **name** at the top left.
+2. Enter a descriptive **name** at the top left. 
 3. Click the plus icon to add **questions** (see Test questions section below).
 4. Set the **Due date** and adjust other settings as needed (see Test settings section below).
-5. Once confident that the Test is ready, set the test as **Visible to students** or specify  **Release conditions** in the top right.
+5. Once confident that the Test is ready, set it as **Visible to students** or specify  **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
 
 ![decorative](images/test-create.png)
 
@@ -279,7 +278,7 @@ Question pools do not copy questions; any edits made to questions in a pool will
 
 !!! Warning
 
-    For fairness and to create a valid assessment, all questions in the pool must be of equivalent difficulty. To include questions at different levels, use a pool for each level.
+    For fairness and to create a valid assessment, all questions in the pool must be of equivalent difficulty. To include questions at different levels or points values, use multiple pools.
 
 1. Click the **plus + icon**.
 2. Select **Add question pool**.
@@ -301,12 +300,12 @@ For more details, see the [BlackBoard Help guide to Question pools](https://help
 There are various settings possible for Tests, including;
 
 - due date and attempt management
-- randomising questions and answers
-- presenting marks and feedback to students
+- randomising the order of pages, questions and answers
+- how marks and feedback are presented to students
 
 !!! Tip
 
-    Randomising questions will present all questions in the Test in a random order. If you want to randomly select a subset of questions, use a Question Pool.
+    Randomising questions will display **all questions** in the Test in a random order. If you want to randomly display a subset of questions, use a Question Pool.
 
 Edit settings in the **Assessment settings** panel:
 
@@ -368,7 +367,6 @@ Edit settings in the **Assessment settings** panel:
     
     [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
 
-
 ## Print or save a Test
 
 You can print or save your Test as a PDF, either with or without answers. This could be useful to:
@@ -385,3 +383,7 @@ You can print or save your Test as a PDF, either with or without answers. This c
 2. Select **Questions only** or **Questions with answers**
 ![decorative](images/test-print.png)
 3. Save as PDF or send to the printer.
+
+<!-- ## Viewing Test results and analytics -->
+
+
