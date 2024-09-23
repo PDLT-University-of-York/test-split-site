@@ -38,7 +38,16 @@ Once the site has been created, you can [find the site in your Courses list](../
 - setting the Term to the upcoming academic year
 - searching for your module name or SITS code
 
-If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enroll you. 
+!!! Tip
+
+    **Make sure that you update the correct site**. Check the site ID code (YCode) for the site's academic year (eg, Y2024 for 2024/2025).
+    
+    Find your site's YCode on the Courses list item or above your site name within the site. For more details, see our [guide to finding a YCode](https://vle-support.york.ac.uk/help/ycodes/).
+
+    ![decorative](../help/images/ycode-list.png)
+
+
+If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enroll you.
 
 ## General settings
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
