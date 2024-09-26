@@ -38,7 +38,7 @@ Once the site has been created, you can [find the site in your Courses list](../
 - setting the Term to the upcoming academic year
 - searching for your module name or SITS code
 
-!!! Tip
+!!! Warning
 
     **Make sure that you update the correct site**. Check the site ID code (YCode) for the site's academic year (eg, Y2024 for 2024/2025).
     

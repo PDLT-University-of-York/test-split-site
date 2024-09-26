@@ -304,7 +304,7 @@ plugins:
         'tags-index.md': 'help/site-index.md'
         'eassessment/index.md': 'assessment/index.md'
         'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
-        'eassessment/ultratest.md': 'ultra/test.md'
+        'eassessment/ultratest.md': 'ultra/test.md' 
         'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
         'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
         'eassessment/trainingassessment.md': 'training/index.md'
