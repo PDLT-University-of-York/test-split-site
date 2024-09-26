@@ -16,10 +16,6 @@ Assessment is most easily managed through the Gradebook tab. A counter displays 
 
 ![Top navigation bar with Gradebook tab displaying '6' icon](images/assignment-marking-counter.png)
 
-!!! Note
-
-    This guide is tailored for **non-anonymous marking**.
-
 ## 1. Open a submission
 
 There are various ways to open a submission for marking. All have the same outcome, so use whichever you prefer.
