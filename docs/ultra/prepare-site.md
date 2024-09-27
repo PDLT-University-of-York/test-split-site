@@ -30,8 +30,8 @@ Already prepared your content? See the [Site Readiness Checklist](../ultra/site-
 
 New sites are usually created for the next academic year in June or July. This can be:
 
-- **standard rollover**: a copy of the previous year's site, including most of the content, settings and enrollments.
-- **new from departmental template**: a blank copy of the template with only placeholder structre and content. Used for new modules and to refresh existing module sites.
+- **standard rollover**: a copy of the previous year's site, including most of the content, settings and enrolments.
+- **new from departmental template**: a blank copy of the template with only placeholder structure and content. Used for new modules and to refresh existing module sites.
 
 Once the site has been created, you can [find the site in your Courses list](../ultra/access-sites.md) by:
 
@@ -47,7 +47,7 @@ Once the site has been created, you can [find the site in your Courses list](../
     ![decorative](../help/images/ycode-list.png)
 
 
-If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enroll you.
+If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enrol you.
 
 ## General settings
 For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
@@ -58,8 +58,8 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
 
         - **Site name**: automatically updated
         - **Course image**: copied
-        - **Staff enrollments** and **Primary instructors**: copied, check and update as needed.
-        - **Course Groups**: empty groups included, but no enrollments
+        - **Staff enrolments** and **Primary instructors**: copied, check and update as needed.
+        - **Course Groups**: empty groups included, but no enrolments
 
     <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-site-settings.png)
@@ -69,9 +69,9 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
     2. **Check the [Course image](../ultra/course-image.md)**</br>
     Check that the Course image is still appropriate (eg. it doesn't reference a previous academic year) and update if needed.
-    3. **Staff enrollments & Primary Instructors**:
-        - click *Class Register* under the *Details & Actions* menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor). 
-        - if needed, [enrol](../ultra/enrol-user.md) missing module staff or [unenrol](../ultra/unenrol-user.md) any GTAs or other staff members who don't need access to this year's site (you can also contact your departmental administrator or professional support team for help witrh this).
+    3. **Staff enrolments & Primary Instructors**:
+        - click *Class Register* under the *Details & Actions* menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enroled on the site with the right access level (usually Instructor). 
+        - if needed, [enrol](../ultra/enrol-user.md) missing module staff or [unenrol](../ultra/unenrol-user.md) any GTAs or other staff members who don't need access to this year's site (you can also contact your departmental administrator or professional support team for help with this).
         - check/update [**Primary Instructor** settings](../ultra/course-staff.md) so that module staff appear at the top of the *Course Staff* list.
     4. **[Course groups](../ultra/course-groups.md)**: If used, check these are still appropriate and edit/delete settings. Note: assessment administrators will manage any assessment-related groups.
 
@@ -85,12 +85,12 @@ For an introduction to key parts of the site, see the [Detailed guide: Navigate 
     Site names have a standardised format needed for various systems to run. **You must not rename your site**. If there are any problems, please [contact us](mailto:vle-support@york.ac.uk) to resolve.
     2. **Select a [Course image](../ultra/course-image.md)**</br>
     Your departmental template contains a default Course image which shows as a banner in the site and a thumbnail on the Courses page. If desired, you can change this to something relevant to your specific module.
-    3. **Staff enrollments & Primary Instructors**:
-        - click *Class Register* under the *Details & Actions* menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enrolled on the site with the right access level (usually Instructor).
-        - if needed, [enrol](../ultra/enrol-user.md) missing module staff (you can also contact your departmental administrator or professional support team for help witrh this).
+    3. **Staff enrolments & Primary Instructors**:
+        - click *Class Register* under the *Details & Actions* menu and check that all relevant staff (lecturers, demonstrators, GTAs etc.) are enroled on the site with the right access level (usually Instructor).
+        - if needed, [enrol](../ultra/enrol-user.md) missing module staff (you can also contact your departmental administrator or professional support team for help with this).
         - apply [**Primary Instructor** settings](../ultra/course-staff.md) so that module staff appear at the top of the *Course Staff* list.
     3. **[Course staff](../ultra/course-staff.md): set Primary Instructor(s)**</br>
-    If non-module staff are also enrolled on the site, identify all module teaching staff using the Primary Instructor setting. This will make sure the correct staff are shown first in the Course staff list.
+    If non-module staff are also enroled on the site, identify all module teaching staff using the Primary Instructor setting. This will make sure the correct staff are shown first in the Course staff list.
 
 ## Module information
 
@@ -238,7 +238,7 @@ Prepare this section by:
     2. ***Assessment criteria***, ***sample work***, ***past papers***: check and update as needed. If these weren't set up in the previous year, see the 'Set up new site' tab for details.
     3. **Assessment tasks & submission points**:
         
-        - check that all formative and summative assessment instructions, quizzes and asubmission points (as listed on the Module Catalogue) are up to date and included in this section.
+        - check that all formative and summative assessment instructions, quizzes and submission points (as listed on the Module Catalogue) are up to date and included in this section.
         - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
@@ -258,7 +258,7 @@ Prepare this section by:
     4. ***Past papers***: check or update the link to online past paper repository, or consider replacing with a folder containing past papers. Delete or hide from students if not relevant.
     5. **Assessment tasks & submission points**:
         
-        - include all formative and summative assessment instructions, quizzes and asubmission points (as listed on the Module Catalogue) in this section.
+        - include all formative and summative assessment instructions, quizzes and submission points (as listed on the Module Catalogue) in this section.
         - for students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
@@ -339,7 +339,7 @@ Add your content to the relevant section by:
 
     These examples are from the [Arts & Humanities Ultra demo site](https://vle.york.ac.uk/ultra/courses/_106233_1/outline) (based on a module in the Department of English and Related Literature). 
 
-    **Clear and consisent structure**
+    **Clear and consistent structure**
 
     - Consistent weekly materials sections: each week contains (roughly) the same items in (roughly) the same order. 
     - Items named with week number and content type (core reading, lecture, seminar): easy to know what the item is without having to open it, and helps identify items using a site search.
@@ -398,7 +398,7 @@ Add your content to the relevant section by:
 
     The case studies below demonstrate how tools have been used to meet accessibility needs in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
 
-    ??? case-study "Case study: The challenges and acessibility opportunities of pre-recorded lecture content"
+    ??? case-study "Case study: The challenges and accessibility opportunities of pre-recorded lecture content"
 
         Penny Spikins reflects on her experiences used audio description and ‘podcasting’ approaches when pre-recording lecture content, and how this helped to meet her students' varied accessibility needs and stimulate thinking and engagement with students in different ways.
 
@@ -489,7 +489,7 @@ Add your content to the relevant section by:
 Using the Reading List:
 
 - ensures consistent and equal access to reading materials for students.
-- allows the Library to manage stock and access rerquired to support modules.
+- allows the Library to manage stock and access required to support modules.
 - helps you comply with copyright regulations.
 
 Note: the Reading List tool is supported by the [Library Reading List team](mailto:lib-readinglists@york.ac.uk).
@@ -528,7 +528,7 @@ Note: the Reading List tool is supported by the [Library Reading List team](mail
     [Video guide: Managing and editing your Reading Lists [YouTube]](https://youtu.be/KzjyUZmDcrs)
     <iframe width="560" height="315" src="https://www.youtube.com/embed/KzjyUZmDcrs?si=56LTihtbrnO3znb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    More quidance and videos can be found on the [Reading List: edit and manage lists guide](https://subjectguides.york.ac.uk/readinglists/manage).
+    More guidance and videos can be found on the [Reading List: edit and manage lists guide](https://subjectguides.york.ac.uk/readinglists/manage).
 
 === "Set up site from template"
     
@@ -548,7 +548,7 @@ Note: the Reading List tool is supported by the [Library Reading List team](mail
     [Video guide: Creating a new Reading List [YouTube]](https://youtu.be/OBuh3W4-UWQ)
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OBuh3W4-UWQ?si=gGtLT_aBfApgXlp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    More quidance and videos can be found on the [Reading List: getting started guide](https://subjectguides.york.ac.uk/readinglists/getting-started).
+    More guidance and videos can be found on the [Reading List: getting started guide](https://subjectguides.york.ac.uk/readinglists/getting-started).
 
 === "Good practice: examples"
 
@@ -583,7 +583,7 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
     Check that:
     
     - the ***Replay Lecture Capture (Panopto)* link** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
-    - sessions to be captured have the triangular "play" icon on the ***UoY Timetable event*** showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
+    - sessions to be captured have the triangular "play" icon on the ***UoY Timetable event*** showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [Timetabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
 
     <div markdown class="grid">
     <figure markdown="span">
@@ -616,7 +616,7 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
     Check that:
     
     - the ***Replay Lecture Capture (Panopto)* link** appears in your Course Content area. If it is missing, [contact us](mailto:vle-support@york.ac.uk) to set this up for you.
-    - sessions to be captured have the triangular "play" icon on the ***UoY Timetable event*** showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [TimeTabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
+    - sessions to be captured have the triangular "play" icon on the ***UoY Timetable event*** showing they are scheduled for lecture capture. If you don't see this, contact your departmental administrator and/or [Timetabling](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/room-bookings-timetabling/) to arrange set up.
 
     <div markdown class="grid">
     <figure markdown="span">
@@ -665,17 +665,17 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
 === "All sites"
 
-    **Student enrollment** is usually managed automatically through a group enrollment linked to SITS, which is set up in late August. To check this is added correctly:
+    **Student enrolment** is usually managed automatically through a group enrolment linked to SITS, which is set up in late August. To check this is added correctly:
 
     1. Search the Class Register for 'group'.
-    2. Click on the item(s) 'Students enrolled in'.
+    2. Click on the item(s) 'Students enroled in'.
     3. Check the group's SITS module code is correct, the Role is set to *Guest* and 'Allow access to course' is ticked.
 
     <div markdown class="centered-image">
-    ![Matching module code in site name and student group enrollment](images/prepare-site-student-group-user.png)
+    ![Matching module code in site name and student group enrolment](images/prepare-site-student-group-user.png)
     </div>
     
-    If there are problems with student enrollments, contact your departmental administrator or professional support team for assistance.
+    If there are problems with student enrolments, contact your departmental administrator or professional support team for assistance.
 
     !!! Success "Final step"
     
