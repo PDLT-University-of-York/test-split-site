@@ -60,6 +60,7 @@ nav:
     - panopto/index.md
     - Getting started with Panopto: 
       # - Quick Start Lecturer Guide:
+      # - Student Access to Panopto videos
       - Log into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
