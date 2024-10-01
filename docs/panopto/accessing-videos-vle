@@ -1,0 +1,61 @@
+---
+tags:
+# Delete to leave only relevant tags
+       - Ultra
+    - Panopto
+
+---
+
+# Accessing Panopto Videos via Blackboard Ultra (aka The VLE)
+
+!!! Summary
+
+    For the best experience, access your Panopto videos directly through your module site in Blackboard Ultra. Navigate to your course and select the video you need.
+
+    For the best experience, use supported browsers (Chrome/Firefox), ensure a stable internet connection, and disable pop-up blockers. Keeping your browser updated will improve compatibility.
+
+
+## Prefer video?
+
+Below is an embedded video detailing how to access your videos via Blackboard. Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=17cc73a3-5faa-4b81-8760-b1f701027ddb).
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<iframe width="560" height="315" src="https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=17cc73a3-5faa-4b81-8760-b1f701027ddb" title="Accessing Panopto Videos via Blackboard Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Accessing your Panopto videos via the VLE
+
+<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
+<!-- Use **bold** to highight key tasks and features -->
+
+**Step 1:** Log into your [Blackboard Ultra](www.vle.york.ac.uk) account using your university credentials.
+
+**Step 2:** Navigate to the specific module where your video lectures are hosted via the Courses area in the left-hand menu.
+
+![Course menu within Blackboard](Images/courses-in-vle.png)
+
+**Step 3:** On the course page, look for a Panopto link to your video embedded within your module (A). Videos may also be made available under a folder titled "Replay Lecture Capture (Panopto)" wthin the course content, should this folder be available for students to access (B).
+
+![Panopto tool in a VLE module course](Images/panopto-vids-vle.png)
+
+**Step 4:** Click on the Panopto link to access the videos. This will open the Panopto platform embedded in Blackboard Ultra or in a new window.
+
+!!! tip inline end "Making use of Panopto video features"
+To make use of Panopto's video features, open the video in Panopto by clicking on the arrow icon in the bottom right-hand corner of the video player. From here you can enable captions and take notes!
+
+![open in panopto arrow within video player](Images/arrow-open-in-panopto.png)
+
+## More Details and Troubleshooting 
+
+**Tip 1:** Ensure you are using a supported browser (Chrome, Firefox). Panopto may not work properly on older browsers or Safari.
+
+**Tip 2:** Clear your browser’s cache or try accessing Panopto from an incognito/private window if you encounter loading issues. Details on how to do this can be found in our [Troubleshooting Guidance](https://docs.google.com/document/d/1PV1mw9PiXP6D2UYGrzso8Gnx-aFaugWb4USX_y_h6o0/edit).
+
+**Tip 3:** Check that your internet connection is stable. Video streaming requires a reliable connection.
+
+**Tip 4:** If Panopto videos are not playing, make sure your pop-up blocker is disabled for Blackboard and Panopto websites.
+
+**Tip 5:** Update your browser to the latest version to ensure compatibility with Panopto.
+
+**Tip 6:** If you are still unable to access your videos, contact our team with details of the videos you are trying to access and for which module.
+
