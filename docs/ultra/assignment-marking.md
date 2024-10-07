@@ -249,8 +249,8 @@ An Assignment can be set to automatically post marks after marking, or to manual
 
 If you would like to try out marking an Assignment, do this in your Ultra sandpit site:
 
-1. Set up an Assignment with the relavent settings. 
+1. Set up an Assignment with the relevant settings. 
 2. Enter Student Preview.
-3. Navigate to teh assignment and submit a file.
+3. Navigate to the assignment and submit a file.
 4. Close Student Preview, making sure to Save the activity.
-5. Open and mark the submission as in this guide.
+5. Open and mark the submission as described in this guide.
