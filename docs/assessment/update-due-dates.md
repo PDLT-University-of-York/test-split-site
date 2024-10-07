@@ -41,7 +41,8 @@ Here are steps to update assessment item due dates via the Markable Items list. 
 Make sure to check and update the due date in both Ultra and TurnItIn.
 
 1. Click **Gradebook** in the top horizontal menu, then **Markable Items**.
-2. Update in TurnItIn: click the **name of submission point**, click **Cog icon** in top right to open Settings, update start and release dates as needed, then **Save**.  **Importnat Note:**  Make sure the Feedback Release Date is set for after the Due Date you intend to set via the Ultra interface (otherwise you can invalidate the submission point).
+2. Update in TurnItIn: click the **name of submission point**, click **Cog icon** in top right to open Settings, update start and release dates as needed, then **Save**.
+**Important Note:**  Make sure the Feedback Release Date is set for AFTER the Due Date you intend to set via the Ultra interface (otherwise you can invalidate the submission point).
 3. Update in Ultra: Locate the TurnItIn submission point in the Content area of the site and click on its three dot icon (“...”) to the right of the submission point, click **Edit**, update the due date, then **Save**.
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d0be933e-058e-4e2b-ad0c-b1e700b94cb5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="315" width="560" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="TurnItIn Assignment - Changing Due Date" ></iframe>
