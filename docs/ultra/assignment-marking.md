@@ -229,6 +229,8 @@ An Assignment can be set to automatically post marks after marking, or to manual
 
 ### For an indvidual student
 
+There are various ways to post marks for a specific submission:
+
 - In the **marking interface**, select the three dots icon next to the mark pill and select **Post mark**.
 </br>![decorative](images/assignment-marking-post-individual-interface.png)
 - In the **submissions list**, click the **Post 1 mark** button in the relevant student's row (the value shows the number of attempts marked).
@@ -237,6 +239,8 @@ An Assignment can be set to automatically post marks after marking, or to manual
 </br>![decorative](images/assignment-marking-post-individual-marks-tab.png)
 
 ### For a cohort
+
+There are various ways to post marks for all submissions at once:
 
 - In the **marking interface**, click the **Post marks** button at the bottom of the left Students panel.
 </br>![decorative](images/assignment-marking-post-cohort-interface.png)
@@ -247,10 +251,20 @@ An Assignment can be set to automatically post marks after marking, or to manual
 
 ## Practice the marking workflow
 
-If you would like to try out marking an Assignment, do this in your Ultra sandpit site:
+!!! Warning
 
-1. Set up an Assignment with the relevant settings. 
-2. Enter Student Preview.
-3. Navigate to the assignment and submit a file.
-4. Close Student Preview, making sure to Save the activity.
-5. Open and mark the submission as described in this guide.
+    Always practice any marking workflow in your personal Ultra sandpit site. This is to avoid:
+    
+    - 'locking in' live Assignment settings after a submission is made.
+    - potentially sending students unnecessary or confusing notifications.
+
+
+Use the Student Preview function to submit a file which you can then mark:
+
+1. Make sure you are working in your personal Ultra sandpit site.
+2. Create an **Assignment** with the same settings as your 'live' Assignment (eg. with or without a rubric, marks posted manually/automatically). 
+3. Click **Student Preview** in the top right, then click **Start Preview**.
+4. Open the Assignment and click **View Instructions**.
+5. Drag and drop to upload a file, set the file display name, and then **Submit**.
+5. Click **Exit** in the top right to close Student Preview. When prompted, click **Save** to retain your submission.
+6. Back in editing mode, open and mark the submission as described in this guide.
