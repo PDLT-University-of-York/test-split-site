@@ -30,44 +30,50 @@ There are various ways to open a submission for marking. All have the same outco
 
 Open an Assignment, select the **Submissions** tab and then click on a student's row to open their submission.
 
-This tab also shows the numbers of assignments submitted, to mark and to post, and the date(s) that students made their submission(s). Grades also display here once work is marked.
+This also shows the numbers of assignments submitted, to mark and to post, and the date(s) that students made their submission(s). Grades also display here once work is marked.
 
 ![decorative](images/assignment-marking-submissions.png)
 
 ### Via the Gradebook
 
-#### Overview tab
+Submissions can also be accessed through the various Gradebook tabs:
 
-**Use for**: quick access to Assignments with submissions that *Needs Marking*.
+=== "Marks tab"
 
-Click **Gradebook**, then select the **Overview** tab. Under **Needs Marking**, find the relevant Assignment and click:
+    **Use for**: filtering for a specific marking group or assessment, or for quick access to a particular submission. 
+    
+    !!! Note
+        
+        This tab may not be available on very small screens (eg. a mobile phone). 
 
-- the Assignment name to open its [Submissions tab](#submission-point) with the *Needs Marking* filter applied.
-- the **Mark now** button to open the marking interface with the *Needs Marking* filter applied.
+    Click **Gradebook**, then select the **Marks** tab. This displays a grid of students (rows) and assessment items (columns). 
 
-![decorative](images/assignment-marking-overview.png)
+    To filter for marking groups, click **Filter**. Open the **Groups** dropdown, select your marking group (and/or apply other filters) and click **Apply**. 
 
-#### Markable items tab
+    ![decorative](images/assignment-marking-marks-filter-groups.png)
 
-**Use for**: a summary of marking status for all assessment items.
+    To open a submission, click the relevant student/assessment cell and select **View**.
 
-Click **Gradebook**, then select the **Markable items** tab. This displays all assessment items and the number still to mark. Click the relevant Assignment to open its [Submissions tab](#submission-point).
+    ![decorative](images/assignment-marking-marks-view.png)
 
-![decorative](images/assignment-marking-markable-items.png)
+=== "Overview tab"
 
-#### Marks tab
+    **Use for**: quick access to Assignments with submissions that *Needs Marking*.
 
-**Use for**: filtering for a specific marking group or assessment. This tab may not be available on very small screens (eg. a mobile phone). 
+    Click **Gradebook**, then select the **Overview** tab. Under **Needs Marking**, find the relevant Assignment and click:
 
-Click **Gradebook**, then select the **Marks** tab. This displays a grid of students (rows) and assessment items (columns). 
+    - the Assignment name to open its [Submissions tab](#submission-point) with the *Needs Marking* filter applied.
+    - the **Mark now** button to open the marking interface with the *Needs Marking* filter applied.
 
-To filter for marking groups, click **Filter**. Open the **Groups** dropdown, select your marking group (and/or apply other filters) and click **Apply**. 
+    ![decorative](images/assignment-marking-overview.png)
 
-![decorative](images/assignment-marking-marks-filter-groups.png)
+=== "Markable items tab"
 
-To open a submission, click the relevant student/assessment cell and select **View**.
+    **Use for**: a summary of marking status for all assessment items.
 
-![decorative](images/assignment-marking-marks-view.png)
+    Click **Gradebook**, then select the **Markable items** tab. This displays all assessment items and the number still to mark. Click the relevant Assignment to open its [Submissions tab](#submission-point).
+
+    ![decorative](images/assignment-marking-markable-items.png)
 
 ## 2. Review and annotate
 
@@ -162,48 +168,52 @@ Use the marking interface to review the submitted file and make annotations or c
 
 ## 3. Enter feedback and marks
 
-Open the collapsible panel on the right side to enter feedback and access a marking rubric. 
+Open the collapsible panel on the right side to enter feedback and access a marking rubric.
 
-### Overall feedback
-<div markdown class="grid">
-<div markdown>
-Overall feedback can be given for all submissions.
+=== "Overall feedback"
 
-You can enter feedback in multiple ways: 
+    <div markdown class="grid">
+    <div markdown>
+    Overall feedback can be given for all submissions.
 
-- enter text
-- upload a file
-- [record audio or video feedback](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Audio_Video_Recording#ultra_feedback)
-</div>
-![decorative](images/assignment-marking-overall-feedback.png)
-</div>
+    You can enter feedback in multiple ways: 
 
-!!! Warning
-    Feedback is not automatically saved, so make sure to click **Save Changes** before leaving the submission.
+    - enter text
+    - upload a file
+    - [record audio or video feedback](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Audio_Video_Recording#ultra_feedback)
+    </div>
+    ![decorative](images/assignment-marking-overall-feedback.png)
+    </div>
 
-### Manual marking
+    !!! Warning
+        Feedback is not automatically saved, so you must click **Save Changes** before leaving the submission.
 
-For most Assignments, you will manually enter a mark. A mark schema may be used to show students a qualitative grade instead (eg. complete/incomplete, or A/B/C/D), but you must still enter a numerical mark. 
+=== "Marks: manual entry"
 
-1. Click the **mark pill** in the top right.
-2. **Enter a mark** equal to or less than the maximum score shown.
-3. If marks are set to *Post automatically*, the mark and feedback will be immediately made available to students. If set to [*Post manually*](#5-manually-post-marks), the mark is saved for posting later.
+    For most Assignments, you will manually enter a mark. In this case, the Overall Feedback box is the only content in the right tab.
 
-![Complete/incomplete schema, with entered mark of 1, shown to students as a tick.](images/assignment-marking-manual-mark.png)
+    Students can be shown a qualitative grade using a marking schema (eg. complete/incomplete, or A/B/C/D), but you must still enter a numerical mark. To do this:
 
-### Marking Rubric
+    1. Click the **mark pill** in the top right.
+    2. **Enter a mark** equal to or less than the maximum score shown.
+    3. If marks are set to *Post automatically*, the mark and feedback will be immediately made available to students. If set to [*Post manually*](#5-manually-post-marks), the mark is saved for posting later.
 
-Assignments may use a marking rubric to efficiently give feedback and mark based on specific criteria. If used, this appears under the Overall Feedback box.
+    ![Complete/incomplete schema, with entered mark of 1, shown to students as a tick.](images/assignment-marking-manual-mark.png)
 
-To mark the work, **select the relevant mark level for each criterion**. The total mark is automatically calculated.
+=== "Marks: Marking Rubric"
 
-There are also options to:
+    Assignments may use a Marking Rubric to efficiently give feedback and mark based on specific criteria. If used, this appears under the Overall Feedback box.
 
-1. toggle criteria descriptions on/off.
-2. expand or collapse each criterion.
-3. add criterion-specific feedback.
+    To mark the work, **select the relevant mark level for each criterion**. The total mark is automatically calculated from your selections.
 
-![decorative](images/assignment-marking-rubric.png)
+    There are also options to:
+
+    1. toggle criteria descriptions on/off.
+    2. expand or collapse each criterion.
+    3. add criterion-specific feedback.
+
+    ![decorative](images/assignment-marking-rubric.png)
+
 
 ## 4. Open another submission
 
@@ -227,27 +237,27 @@ You can also select another submission using any of the [methods to open a submi
 
 An Assignment can be set to automatically post marks after marking, or to manually post marks. If a marking rubric is used, marks must be posted manually.
 
-### For an indvidual student
+=== "Post indvidual marks"
 
-There are various ways to post marks for a specific submission:
+    There are various ways to post marks for a specific submission:
 
-- In the **marking interface**, select the three dots icon next to the mark pill and select **Post mark**.
-</br>![decorative](images/assignment-marking-post-individual-interface.png)
-- In the **submissions list**, click the **Post 1 mark** button in the relevant student's row (the value shows the number of attempts marked).
-</br>![decorative](images/assignment-marking-post-individual-submissions.png)
-- In the **Gradebook Marks tab**, click the student/assessment cell and click **Post**.
-</br>![decorative](images/assignment-marking-post-individual-marks-tab.png)
+    - In the **marking interface**, select the three dots icon next to the mark pill and select **Post mark**.
+    </br>![decorative](images/assignment-marking-post-individual-interface.png)
+    - In the **submissions list**, click the **Post 1 mark** button in the relevant student's row (the value shows the number of attempts marked).
+    </br>![decorative](images/assignment-marking-post-individual-submissions.png)
+    - In the **Gradebook Marks tab**, click the student/assessment cell and click **Post**.
+    </br>![decorative](images/assignment-marking-post-individual-marks-tab.png)
 
-### For a cohort
+=== "Post marks for a cohort"
 
-There are various ways to post marks for all submissions at once:
+    There are various ways to post marks for all submissions at once:
 
-- In the **marking interface**, click the **Post marks** button at the bottom of the left Students panel.
-</br>![decorative](images/assignment-marking-post-cohort-interface.png)
-- In the **submissions list**, click the **Post all marks** button in the summary bar
-</br>![decorative](images/assignment-marking-post-cohort-submissions.png)
-- In the **Gradebook Marks tab**, click the Assignment column header and click **Post**.
-</br>![decorative](images/assignment-marking-post-cohort-marks-tab.png)
+    - In the **marking interface**, click the **Post marks** button at the bottom of the left Students panel.
+    </br>![decorative](images/assignment-marking-post-cohort-interface.png)
+    - In the **submissions list**, click the **Post all marks** button in the summary bar
+    </br>![decorative](images/assignment-marking-post-cohort-submissions.png)
+    - In the **Gradebook Marks tab**, click the Assignment column header and click **Post**.
+    </br>![decorative](images/assignment-marking-post-cohort-marks-tab.png)
 
 ## Practice the marking workflow
 
