@@ -28,7 +28,7 @@ The homepage contains three key areas:
 Key pages accessed from the navigation bar are:
 
 - Your **profile**: [manage your notification settings](../ultra/notifications.md) and personal information.
-- **Activity Stream**: notifications collated across all your sites. You can manage what appears here in the notification settings withn your profile.
+- **Activity Stream**: notifications collated across all your sites. You can manage what appears here in the notification settings within your profile.
 - **Courses**: module sites and academic-related sites (eg. study skills sites, Academic Integrity Tutorial)
 - **Communities**: non-academic sites, such as careers information and programme handbook sites.
 
@@ -116,4 +116,4 @@ Find out more about creating and adding content in our [detailed guide: Document
 
     - work through our [Prepare sites for teaching](../ultra/prepare-site.md) guide.
     - explore the other guides on this site.
-    - come to one of our [workshops or other tarining sessions](../training/index.md).
+    - come to one of our [workshops or other training sessions](../training/index.md).
