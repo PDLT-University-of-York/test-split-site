@@ -18,25 +18,21 @@ Assessment is most easily managed through the Gradebook tab. A counter displays 
 
 ## 1. Open a submission
 
-There are various ways to open a submission for marking. All have the same outcome, so use whichever you prefer.
+There are various ways to open a submission to accommodate different methods to approach marking. Ultimately they all have the same outcome, so you can use whichever you prefer.
 
 !!! Tip 
 
-    If your Assignment has marking groups set up (eg. for seminar groups), use the [**Gradebook Marks tab**](#marks-tab) to filter for your assigned group.
+    If your Assignment has marking groups set up (eg. for seminar groups), you can filter for your assigned group using the [**Gradebook Marks tab**](#marks-tab).
 
-### Via the Assignment submission point
+=== "Submissions tab"
 
-**Use for**: direct access to an Assignment's Submissions tab
+    **Use for**: direct access to an Assignment's Submissions tab
 
-Open an Assignment, select the **Submissions** tab and then click on a student's row to open their submission.
+    In the Course Content area, open the **Assignment** then select the **Submissions** tab. Click on a student's row to open their submission.
 
-This also shows the numbers of assignments submitted, to mark and to post, and the date(s) that students made their submission(s). Grades also display here once work is marked.
+    This also shows the numbers of submissions made, to mark and to post, and the date(s) that students made their submission(s). Grades also display here once work is marked.
 
-![decorative](images/assignment-marking-submissions.png)
-
-### Via the Gradebook
-
-Submissions can also be accessed through the various Gradebook tabs:
+    ![decorative](images/assignment-marking-submissions.png)
 
 === "Marks tab"
 
@@ -196,7 +192,7 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
     1. Click the **mark pill** in the top right.
     2. **Enter a mark** equal to or less than the maximum score shown.
-    3. If marks are set to *Post automatically*, the mark and feedback will be immediately made available to students. If set to [*Post manually*](#5-manually-post-marks), the mark is saved for posting later.
+    3. If marks are set to *Post automatically*, the mark and feedback will be immediately made available to students once you click elsewhere on the page. If set to [*Post manually*](#5-manually-post-marks), the mark is saved for posting later.
 
     ![Complete/incomplete schema, with entered mark of 1, shown to students as a tick.](images/assignment-marking-manual-mark.png)
 
@@ -239,7 +235,7 @@ An Assignment can be set to automatically post marks after marking, or to manual
 
 === "Post indvidual marks"
 
-    There are various ways to post marks for a specific submission:
+    There are various ways to manually post marks and feedback for a specific submission:
 
     - In the **marking interface**, select the three dots icon next to the mark pill and select **Post mark**.
     </br>![decorative](images/assignment-marking-post-individual-interface.png)
@@ -250,7 +246,7 @@ An Assignment can be set to automatically post marks after marking, or to manual
 
 === "Post marks for a cohort"
 
-    There are various ways to post marks for all submissions at once:
+    There are various ways to manually post marks and feedback for all submissions at once:
 
     - In the **marking interface**, click the **Post marks** button at the bottom of the left Students panel.
     </br>![decorative](images/assignment-marking-post-cohort-interface.png)
