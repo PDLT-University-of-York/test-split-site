@@ -319,7 +319,7 @@ plugins:
         'system-data-and-analytics/index.md': 'other-tools/analytics.md'
   - search
   # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (some issue with package installation, hide for now)
-  # - unused_files
+  - unused_files
   - tags:
       tags_file: help/site-index.md
       tags_allowed:
