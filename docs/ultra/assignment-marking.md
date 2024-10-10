@@ -12,13 +12,21 @@ tags:
 
     This guide gives a suggested marking workflow for formative or non-anonymous Assignment submissions. It is primarily aimed at **Teaching staff**.
 
-Assessment is most easily managed through the Gradebook tab. A counter displays when there are submissions that need marking. 
+Use the video demonstrations here for a quick start on accessing and marking submissions, or for more detail see the in-depth written guidance below.
 
-![Top navigation bar with Gradebook tab displaying '6' icon](images/assignment-marking-counter.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGuTT5hnLAY?si=W37HgVuhz36hOaeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Marking Ultra Assignments: accessing submissions [YouTube]](https://www.youtube.com/watch?v=XGuTT5hnLAY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdVWquEDRvA?si=o9eVQzxhGrhHBo9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Marking Ultra Assignments: annotations, feedback & marks [YouTube]](https://www.youtube.com/watch?v=FdVWquEDRvA)
 
 ## 1. Open a submission
 
-There are various ways to open a submission to accommodate different methods to approach marking. Ultimately they all have the same outcome, so you can use whichever you prefer.
+A counter displays on the Gradebook tab when there are submissions that need marking. 
+
+![Top navigation bar with Gradebook tab displaying '6' icon](images/assignment-marking-counter.png)
+
+There are various ways to open submissions. Ultimately they all have the same outcome, so you can use whichever you prefer.
 
 !!! Tip 
 
@@ -58,8 +66,8 @@ There are various ways to open a submission to accommodate different methods to 
 
     Click **Gradebook**, then select the **Overview** tab. Under **Needs Marking**, find the relevant Assignment and click:
 
-    - the Assignment name to open its [Submissions tab](#submission-point) with the *Needs Marking* filter applied.
-    - the **Mark now** button to open the marking interface with the *Needs Marking* filter applied.
+    - the Assignment name to open its Submissions tab with the *Needs Marking* filter applied.
+    - the **Mark now** button to go straight to the marking interface with the *Needs Marking* filter applied.
 
     ![decorative](images/assignment-marking-overview.png)
 
@@ -67,7 +75,7 @@ There are various ways to open a submission to accommodate different methods to 
 
     **Use for**: a summary of marking status for all assessment items.
 
-    Click **Gradebook**, then select the **Markable items** tab. This displays all assessment items and the number still to mark. Click the relevant Assignment to open its [Submissions tab](#submission-point).
+    Click **Gradebook**, then select the **Markable items** tab. This displays all assessment items and the number still to mark. Click the relevant Assignment to open its Submissions tab.
 
     ![decorative](images/assignment-marking-markable-items.png)
 
@@ -77,7 +85,7 @@ Use the marking interface to review the submitted file and make annotations or c
 
 - an expandable students panel (on the left)
 - main section with the submission to review and annotation menu bar
-- an expandable feedback panel (one the right)
+- an expandable feedback panel (on the right)
 
 ![decorative](images/assignment-marking-interface.png)
 
