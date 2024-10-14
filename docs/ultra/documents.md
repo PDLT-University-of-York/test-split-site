@@ -39,13 +39,15 @@ Documents are used to provide most site materials. They have a flexible drag-and
 
 ## Content blocks
 
-Documents are built from drag-and-drop content blocks. :
+Documents are built from drag-and-drop content blocks:
 
 <div markdown class="centered-image">
-![Block: content, HTML, file upload, Content Collection, Convert a file](images/documents-content-blocks.png)
+![Blocks available: content, HTML, Knowledge check, File upload, Content Collection, Convert a file](images/documents-content-blocks.png)
 </div>
 
-=== "Content (text editor)"
+Expand a block to find out more about adding that content type:
+
+???+ abstract "Content (text editor)"
 
     Use this block to add a range of content via the text editor, including:
 
@@ -60,7 +62,7 @@ Documents are built from drag-and-drop content blocks. :
     ![Decorative](images/documents-text-editor.png)
     </div>
 
-=== "HTML"
+??? abstract "HTML"
 
     Use this block to add HTML code to [embed content](../ultra/embed-content.md) from third-party tools, such as:
     
@@ -73,7 +75,22 @@ Documents are built from drag-and-drop content blocks. :
 
         Only use the HTML content block for embedding third-party content. For other HTML uses, see our [Upload HTML guide](../ultra/html-objects.md).
 
-=== "File upload"
+??? abstract "Knowledge check"
+
+    Use this block to add a multiple choice question into the Document so students can check their understanding of content.
+
+    1. Enter the question text.
+    2. Enter answer options and tick the correct answer(s). Set the order to present options (this is fixed and can't be randomised).
+    3. Optional: enter custom feedback messages.
+    4. Click **Save**.
+
+    ![Multiple choice question with question text and four options. The correct answer is shown (for instructors)](images/documents-knowledge-check-question.png)
+    
+    To gauge student undertanding, you can see statistics on how many times the question has been attempted and the number of correct answers.
+
+    To add more complex knowledge checks or practice quizzes, see our [guide to the Test tool](../ultra/test.md).
+
+??? abstract "File upload"
 
     Use this block to add PDF, Word, Powerpoint (etc.) files:
 
@@ -96,11 +113,11 @@ Documents are built from drag-and-drop content blocks. :
     </figure>
     See our dedicated [guide to uploading files](../ultra/files) for more detail on this and other methods of adding files.
 
-=== "Content Collection"
+??? abstract "Content Collection"
 
     The Content Collection is a storage method that is not generally used at UoY, so you are unlikely to need this block. You can achieve everything the Content Collection offers by adding content directly to your site.
 
-=== "Convert a File"
+??? abstract "Convert a File"
 
     Use this block to convert a PDF, Word or PowerPoint file on your device to a Learn Ultra Document format.
 
