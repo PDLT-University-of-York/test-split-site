@@ -60,14 +60,13 @@ nav:
     - panopto/index.md
     - Getting started with Panopto: 
       # - Quick Start Lecturer Guide:
-      # - Student Access to Panopto videos
-      - Log into Panopto: panopto/log-in.md
+          - Log into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Basic editing: panopto/basic-editing.md
       - Copy a recording: panopto/copy-recording.md
-      # - Moving a Recording: panopto/move-recording.md
+      - Moving a Recording: panopto/move-recording.md
       # - Sharing a Recording: panopto/sharing-recordings.md
       - Replay lecture capture: panopto/lecture-capture.md
     - Managing video content: 
