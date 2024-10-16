@@ -13,21 +13,27 @@ tags:
 
     This guide covers using Assignment for non-anonymous formative and summative group assessments, and is aimed at **Administrators** and **Teaching staff**.
 
+![Assignment called 'Group presentation submission' with 2 groups attached](images/assignment-groups-example.png)
+
+## When to use group Assignment
+
+Possible uses of Assignment for group assessment include:
+
+- written assignments: submit .docx or .pdf files etc.
+- presentations (delivered live or recorded): submit slides and/or video file
+- project work: can submit a range of file types, or a link to an external site or repository
+
 !!! Warning
 
     Ultra Assignments don't yet support anonymous marking for group submissions, so can only be used for **formative** or **non-anonymous summative** assessments.
     
     Turnitin Feedback Studio does not support group assessment.
 
-![Assignment called 'Group presentation submission' with 2 groups attached](images/assignment-groups-example.png)
+## Workflow
 
-Possible uses of Assignment for group assessment include:
+How to create, configure and mark group Assignments.
 
-- written assignments: submit .docx or .pdf files etc.
-- presentations (delivered live or recorded): submit slides and/or video file
-- project work: can submit a range of file types
-
-## 1. Set up Course Groups
+### 1. Set up Course Groups
 
 Create (or check) the Course Groups:
 
@@ -41,7 +47,7 @@ Create (or check) the Course Groups:
 
 For more detail, see our guide to [Course Groups](../ultra/course-groups.md).
 
-## 2. Create the Assignment
+### 2. Create the Assignment
 
 1. In the **Assessment section**, hover where you want to add the Assignment and click the **purple plus icon**.
 2. Select **Assignment**.
@@ -54,7 +60,7 @@ For more detail, see our guide to [Course Groups](../ultra/course-groups.md).
 
 ![Decorative](images/assignment-set-up.png)
 
-## 3. General settings for group Assignments
+### 3. General settings for group Assignments
 
 The Assignment Settings panel gives quick access to key settings: Due date, Mark category, Marking, Attempts allowed, Originality Report. Click the **cog icon** to access the full settings options.
 
@@ -115,7 +121,7 @@ Appropriate settings will depend on your particular assessment, but here are our
 
 Please contact us if you would like advice on selecting appropriate settings for your assessment.
 
-## 4. Assign to Groups
+### 4. Assign to Groups
 
 !!! Tip 
 
@@ -128,7 +134,7 @@ Please contact us if you would like advice on selecting appropriate settings for
 4. **Assigned groups** will now show the number of groups set up for the assessment.
 5. Click **Save**.
 
-## 5. Make visible to students
+### 5. Make visible to students
 
 When you are ready to release the Assignment to students, set it to be **Visible to students**. For instructions, see our [guide to content visibility](../ultra/content-visibility.md).
 
@@ -136,7 +142,7 @@ When you are ready to release the Assignment to students, set it to be **Visible
 
     Once a submission is made, you can't change/delete the Group Set, and may not be able to edit other settings.
 
-## 6. Mark Group Assignments
+### 6. Mark Group Assignments
 
 The marking workflow is mostly the same as [marking individual Assignment submissions](../ultra/assignment-marking.md), except:
 
