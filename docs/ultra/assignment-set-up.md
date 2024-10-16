@@ -41,7 +41,7 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 
 !!! Warning
 
-    All assessment information and assignment submnission points (including formative) must be located in the Assessment section of a module site.
+    All formal assessment information and submission points (including formative) must be located in the Assessment section of a module site.
 
 - As Ultra Assignments are used for formatives or non-anonymous summatives, submission points can be set up by teaching staff or admins.
 - Submission points must appear in the Assessment section of the module site. If desired, a Course Link to the submission point can also be added in a weekly content folder.
