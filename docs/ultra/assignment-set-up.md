@@ -41,7 +41,7 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 
 !!! Warning
 
-    All assessment information and assignment submnission points (including formative) must be located in the Assessment section of a module site.
+    All formal assessment information and submission points (including formative) must be located in the Assessment section of a module site.
 
 - As Ultra Assignments are used for formatives or non-anonymous summatives, submission points can be set up by teaching staff or admins.
 - Submission points must appear in the Assessment section of the module site. If desired, a Course Link to the submission point can also be added in a weekly content folder.
@@ -61,10 +61,12 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
 ### Group assessment
-- Formative: [Staff Help: Formative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/12prcsksWPTEzuP4d9QOnjH9l4zHjGwRZsP99QU8hyTw/edit?usp=sharing)
-- Summative: [Staff Help: Summative Ultra *Group* Assignment Set Up & Use - UoY Guide](https://docs.google.com/document/d/1MTc5SYuvoAgWxPIQKfW0K1hDqLA3U8rA00czaeFeDs0/edit)
+
+Assignment can be used with Course Groups to allow a student to transparently make a submission on behalf of the whole group, and for marks and feedback to be released to all group members.
+
+See our [guide to Group Assignments](../ultra/assignment-groups.md) for full details.
 
 !!! Warning
     Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if hidden from students in the Course Content area.
     
-    When **uploading assessment-related files** were access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+    When **uploading assessment-related files** where access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).

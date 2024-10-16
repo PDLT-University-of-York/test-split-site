@@ -84,9 +84,10 @@ nav:
     # - Assessment submissions: panopto/submissions.md
   # - Accessibility:
   #   - accessibility/index.md
-  #   - Ally accessibility checker: accessibility/ally-accessibility-checker.md
-  #   - Accessible Ultra content: accessibility/accessible-ultra-content.md
-  #   - Accessible maths: accessibility/accessible-maths.md
+    # - Ally accessibility checker: accessibility/ally-accessibility-checker.md
+    # - Accessible Ultra content: accessibility/accessible-ultra-content.md
+    # - Accessible maths: accessibility/accessible-maths.md
+    # - Accessible files: accessibility/accessible-files.md
   - Assessment:
     - assessment/index.md 
     - Which assessment tool?: assessment/which-assessment-tool.md
@@ -103,7 +104,7 @@ nav:
       - Ultra Gradebook: ultra/gradebook.md
       # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
     # - Panopto assessment submissions: panopto/submissions.md
-    - Group assignments: assessment/group-assignment.md
+    - Group assignments: ultra/assignment-groups.md
     - Assessed presentations: assessment/assessed-presentation.md
     - Update due dates: assessment/update-due-dates.md
     - Assessment & LoA: assessment/assessment-loa.md
@@ -309,6 +310,7 @@ plugins:
         'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
         'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
         'eassessment/trainingassessment.md': 'training/index.md'
+        'assessment/group-assignment.md' : 'ultra/assignment-groups.md'
         'othertools/index.md': 'other-tools/index.md'
         'canvas/index.md': 'other-tools/canvas.md'
         'mentimeter/index.md': 'other-tools/mentimeter/index.md'
@@ -318,7 +320,7 @@ plugins:
         'xerte/index.md': 'other-tools/xerte.md'
         'system-data-and-analytics/index.md': 'other-tools/analytics.md'
   - search
-  # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line)
+  # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit)
   # - unused_files
   - tags:
       tags_file: help/site-index.md
