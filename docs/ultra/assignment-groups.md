@@ -9,7 +9,7 @@ tags:
 
 !!! Summary 
 
-    Assignments can be used with Course Groups to allow a student to transparently make a submission on behalf of the whole group, and for marks and feedback to be released to all group members.
+    Assignment can be used with Course Groups to allow a student to transparently make a submission on behalf of the whole group, and for marks and feedback to be released to all group members.
 
     This guide covers using Assignment for non-anonymous formative and summative group assessments, and is aimed at **Administrators** and **Teaching staff**.
 
