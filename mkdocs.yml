@@ -59,15 +59,15 @@ nav:
   - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
-      # - Quick Start Lecturer Guide:
-          - Log into Panopto: panopto/log-in.md
+      # - Quick Start Lecturer Guide
+      # - Student Access to Panopto videos
+      - Log into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Basic editing: panopto/basic-editing.md
       - Copy a recording: panopto/copy-recording.md
-      - Moving a Recording in Ultra: panopto/move-recording-ultra.md
-      # Moving a Recording in Panopto: panopto/move-recording-panopto.md
+      # - Moving a Recording: panopto/move-recording.md
       # - Sharing a Recording: panopto/sharing-recordings.md
       - Replay lecture capture: panopto/lecture-capture.md
     - Managing video content: 
@@ -104,7 +104,7 @@ nav:
       - Ultra Gradebook: ultra/gradebook.md
       # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
     # - Panopto assessment submissions: panopto/submissions.md
-    - Group assignments: ultra/assignment-groups.md
+    - Group assessment: ultra/assignment-groups.md
     - Assessed presentations: assessment/assessed-presentation.md
     - Update due dates: assessment/update-due-dates.md
     - Assessment & LoA: assessment/assessment-loa.md
