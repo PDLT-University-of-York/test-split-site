@@ -25,22 +25,22 @@ Possible uses of Assignment for group assessment include:
 
 !!! Warning
 
-    Ultra Assignments don't yet support anonymous marking for group submissions, so can only be used for **formative** or **non-anonymous summative** assessments.
+    Ultra Assignments don't yet support anonymous group submissions, so can only be used for **formative** or **non-anonymous summative** assessments.
     
     Turnitin Feedback Studio does not support group assessment.
 
-## Workflow
+## Setting up an Assignment for groups
 
-How to create, configure and mark group Assignments.
+How to create and configure group Assignments.
 
 ### 1. Set up Course Groups
 
 Create (or check) the Course Groups:
 
 1. Click the **Groups** tab in the top navigation bar.
-2. Set up the groups; you need a Group set (eg. Presentation groups) containing all assessment groups (Team 1, Team 2 etc.).
+2. Set up the groups: you need a Group set (eg. Presentation groups) containing all assessment groups (Team 1, Team 2 etc.).
 3. Assign students to groups manually or via CSV file.
-4. Make the group set **Visible to students**; ths is required to use it to set up an Assignment for group submissions.
+4. Make the group set **Visible to students** so it can be used to set up an Assignment for group submissions.
 5. Click **Save**.
 
 ![decorative](images/assignment-groups-group-set-up.png)
@@ -125,7 +125,7 @@ Please contact us if you would like advice on selecting appropriate settings for
 
 !!! Tip 
 
-    If you haven't set up your groups and made them visible to students yet, save your Assignment and follow the instructions in the [Set up Course Groups section](#1-set-up-course-groups) above. Once finished, navigate back to the Assigment and click the **cog icon** to open the settings again.
+    If you haven't set up your groups and made them visible to students yet, save your Assignment and follow the instructions in the [Set up Course Groups section](#1-set-up-course-groups) above.
 
 1. Under **Additional Tools** in the assignment settings, click **Assign to groups**.
 2. Click **Group students**, then select the relevant Group Set under **Reuse groups**.
@@ -140,18 +140,45 @@ When you are ready to release the Assignment to students, set it to be **Visible
 
 !!! Warning
 
-    Once a submission is made, you can't change/delete the Group Set, and may not be able to edit other settings.
+    Once a submission is made, you can't change or delete the Group Set, and may not be able to edit other settings.
 
-### 6. Mark Group Assignments
+## Marking group Assignments
 
-The marking workflow is mostly the same as [marking individual Assignment submissions](../ultra/assignment-marking.md), except:
+For details of the general Assignment marking workflow, see our [marking Assignments guide](../ultra/assignment-marking.md). This section covers additional guidance specific to marking group Assignments.
 
 **Assignment Submissions tab** lists groups instead of individual students.
 ![Submission tab listing Team 1 and Team 2, with option to show the group members](images/assignment-groups-submission-tab.png)
 
 **Marking interface**
 
-- The student panel does not appear. To move between groups, use the arrows above the main marking area.
-- Feedback can be given to the group as a whole and to individual students.
+- The student panel does not appear for group Assignments. To move between groups, use the arrows above the main marking area or close the marking interface and select another group.
+- Feedback can be given to the whole group and to individual students. The active tab is highlighted and the name of the group or student shown above the feedback box.
+- Marks entered in the marking interface are overall grades automatically given to each group member.
 
 ![decorative](images/assignment-groups-marking-interface.png)
+
+**Giving different marks to individual students**
+
+!!! Warning
+
+    Setting or updating an overall group mark will override individual marks already given, so enter group marks before overriding individual marks.
+
+If you need to award different marks for individual group members (eg. one student did not engage), this can't be done through the marking interface. Instead:
+
+1. Enter any overall group mark through the marking interface.
+2. Open the Assignment's Submission tab.
+3. Locate the relevant group and click **X members (Show)**.
+</br>![decorative](images/assignment-groups-show-group-members.png)
+4. Locate the relevant student, click the **mark pill** and enter/update the individual mark.
+
+Adjusted individual marksand the overall group mark (now shown as *Muiltiple*) are labelled as *Override* marks.
+
+![decorative](images/assignment-groups-individual-mark.png)
+
+Additional notes on individual marking behaviour: 
+
+- If individual marks are entered for each student without entering an overall group mark, the attempt will still show as Needs Marking.
+- Individual marks can only be given for the final mark, not for individual attempts (this is only relevant if you mark more than one attempt).
+
+<!-- ## Testing your group Assignment -->
+
