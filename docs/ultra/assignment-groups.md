@@ -171,7 +171,7 @@ If you need to award different marks for individual group members (eg. one stude
 </br>![decorative](images/assignment-groups-show-group-members.png)
 4. Locate the relevant student, click the **mark pill** and enter/update the individual mark.
 
-Adjusted individual marksand the overall group mark (now shown as *Muiltiple*) are labelled as *Override* marks.
+Adjusted individual marks and the overall group mark (now showing *Multiple*) are labelled as *Override* marks.
 
 ![decorative](images/assignment-groups-individual-mark.png)
 
@@ -179,6 +179,7 @@ Additional notes on individual marking behaviour:
 
 - If individual marks are entered for each student without entering an overall group mark, the attempt will still show as Needs Marking.
 - Individual marks can only be given for the final mark, not for individual attempts (this is only relevant if you mark more than one attempt).
+- You can also update individual marks on the Gradebook Marks tab, but this does not show student groupings.
 
 <!-- ## Testing your group Assignment -->
 
