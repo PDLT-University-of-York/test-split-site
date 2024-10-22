@@ -267,18 +267,18 @@ An Assignment can be set to automatically post marks after marking, or to manual
 
 !!! Warning
 
-    Always practice any marking workflow in your personal Ultra sandpit site. This is to avoid:
+    We recommend practicing any Assignment workflow in your personal Ultra sandpit site. This is to avoid:
     
     - 'locking in' live Assignment settings after a submission is made.
     - potentially sending students unnecessary or confusing notifications.
 
-
 Use the Student Preview function to submit a file which you can then mark:
 
 1. Make sure you are working in your personal Ultra sandpit site.
-2. Create an **Assignment** with the same settings as your 'live' Assignment (eg. with or without a rubric, marks posted manually/automatically). 
-3. Click **Student Preview** in the top right, then click **Start Preview**.
-4. Open the Assignment and click **View Instructions**.
-5. Drag and drop to upload a file, set the file display name, and then **Submit**.
-5. Click **Exit** in the top right to close Student Preview. When prompted, click **Save** to retain your submission.
-6. Back in editing mode, open and mark the submission as described in this guide.
+2. Create an **Assignment** with the same settings as your 'live' Assignment (eg. with or without a rubric, marks posted manually/automatically). Alternatively, use the [Copy Content tool](../ultra/copy-content.md) to copy an Assignment from your live module site. 
+3. Make sure your test Assignment is **Visible to students**.
+4. Click **Student Preview** in the top right, then click **Start Preview**.
+5. Open the Assignment and click **View Instructions**.
+6. Drag and drop to upload a file, set the file display name, and then **Submit**.
+7. Click **Exit** in the top right to close Student Preview. When prompted, click **Save** to retain your submission.
+8. Back in editing mode, open and mark the submission as described in this guide.

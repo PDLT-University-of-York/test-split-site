@@ -29,7 +29,7 @@ Possible uses of Assignment for group assessment include:
     
     Turnitin Feedback Studio does not support group assessment.
 
-## Setting up an Assignment for groups
+## Setting up a group Assignment
 
 How to create and configure group Assignments.
 
@@ -60,7 +60,7 @@ For more detail, see our guide to [Course Groups](../ultra/course-groups.md).
 
 ![Decorative](images/assignment-set-up.png)
 
-### 3. General settings for group Assignments
+### 3. Adjust general settings
 
 The Assignment Settings panel gives quick access to key settings: Due date, Mark category, Marking, Attempts allowed, Originality Report. Click the **cog icon** to access the full settings options.
 
@@ -177,9 +177,31 @@ Adjusted individual marks and the overall group mark (now showing *Multiple*) ar
 
 Additional notes on individual marking behaviour: 
 
-- If individual marks are entered for each student without entering an overall group mark, the attempt will still show as Needs Marking.
 - Individual marks can only be given for the final mark, not for individual attempts (this is only relevant if you mark more than one attempt).
 - You can also update individual marks on the Gradebook Marks tab, but this does not show student groupings.
+- If individual marks are entered for each student without entering an overall group mark, the attempt will still show as Needs Marking.
 
-<!-- ## Testing your group Assignment -->
+## Testing group Assignment workflows
 
+!!! Warning
+
+    We recommend practicing any Assignment workflow in your personal Ultra sandpit site. This is to avoid:
+
+    - 'locking in' live Assignment settings after a submission is made.
+    - potentially sending students unnecessary or confusing notifications.
+
+If you haven't already created your Student preview user in this site, do that first:
+
+1. Click **Student Preview** in the top right, then click **Start Preview**.
+2. Click **Exit** in the top right to close Student Preview.
+3. When prompted, click **Save** to retain the preview user.
+
+You can then use Student Preview to test the group Assignment and marking workflow:
+
+1. Create a **group set** and assign your Student preview user to a group. Make the group set visible to students.
+2. Create an **Assignment** with the same settings as your 'live' Assignment or use the [Copy Content tool](../ultra/copy-content.md) to copy an Assignment from your module site. Assign it to groups and make it visible to students.
+4. Click **Student Preview** in the top right, then click **Start Preview**.
+5. Open the Assignment. Check that the group shows as expected, then click **Start attempt 1** (or **View instructions**).
+6. To make a submission, drag and drop to upload a file, set the file display name, and then **Submit**.
+7. Click **Exit** in the top right to close Student Preview. When prompted, click **Save** to retain your submission.
+8. Back in editing mode, open and mark the submission as described in this guide.
