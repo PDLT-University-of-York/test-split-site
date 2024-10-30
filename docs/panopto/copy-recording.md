@@ -9,6 +9,12 @@ tags:
 
     Panopto recordings can be copied manually to other courses, so other student cohorts have access to the recordings they need.
 
+## Video Steps
+
+Below is an embedded video detailing how to copy a recording Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=13581ad0-6962-4298-bfc3-b20900b4c331).
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=13581ad0-6962-4298-bfc3-b20900b4c331&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Panopto Quick Tips - Copying a Recording (Ultra)" ></iframe>
 
 ## Quick Start Guide
 
