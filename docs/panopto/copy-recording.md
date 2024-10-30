@@ -33,8 +33,19 @@ Below is an embedded video detailing how to copy a recording Alternatively, you 
 9. Your video(s) will then be copied over to the associated VLE module site. 
 10. To copy recordings to multiple sites, **repeat** the above steps as many times as needed.
 
+## Unlinking Reference Copies
+
 !!! Tip 
     By default, when a recording is copied, a "Reference Copy" is created meaning that any edits you make in the original recording will also be reflected in the copies you have made. 
+
+To make a reference copy independent (standalone):
+
+1. Go to the folder with the reference copy (as indicated by the reference copy icon shown below)
+</br>![Decorative](Images/ref-copy-icon.png)
+2. Click on **Edit**
+</br>![Decorative](Images/edit-icon.png)
+3. Select **Unlink and Edit**. The copy is now separate, allowing unique edits that won’t affect the original or other reference copies.
+</br>![Decorative](Images/unlink.png)
 
 
 ## More Details and Troubleshooting 
