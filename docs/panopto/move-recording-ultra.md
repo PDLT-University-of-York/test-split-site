@@ -8,8 +8,7 @@ tags:
 # Moving a Recording in Ultra
 
 !!! Summary
-
-   Panopto provides a user-friendly platform for managing video content, including the ability to move recordings between folders or even across different Panopto sites. This guide will walk you through the steps to move a recording Blackboard (the VLE).
+Panopto provides a user-friendly platform for managing video content, including the ability to move recordings between folders or even across different Panopto sites. This guide will walk you through the steps to move a recording Blackboard (the VLE).
 
 
 ## Prerequisites
