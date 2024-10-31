@@ -68,7 +68,7 @@ nav:
       - Basic editing: panopto/basic-editing.md
       - Copy a recording: panopto/copy-recording.md
       - Renaming a Recording: panopto/renaming-recording.md
-      # - Moving a Recording: panopto/move-recording.md
+      - Moving a Recording: panopto/move-recording-ultra.md
       # - Sharing a Recording: panopto/sharing-recordings.md
       - Replay lecture capture: panopto/lecture-capture.md
     - Managing video content: 
