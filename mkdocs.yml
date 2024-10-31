@@ -61,17 +61,17 @@ nav:
     - Getting started with Panopto: 
       # - Quick Start Lecturer Guide
       # - Student Access to Panopto videos
-      - Log into Panopto: panopto/log-in.md
+      - Logging into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Basic editing: panopto/basic-editing.md
-      - Copy a recording: panopto/copy-recording.md
-      - Renaming a Recording: panopto/renaming-recording.md
-      - Moving a Recording: panopto/move-recording-ultra.md
       # - Sharing a Recording: panopto/sharing-recordings.md
       - Replay lecture capture: panopto/lecture-capture.md
     - Managing video content: 
+      - Copy a recording: panopto/copy-recording.md     
+      - Moving a Recording: panopto/move-recording-ultra.md
+      - Renaming a Recording: panopto/renaming-recording.md
       - Reusing module media: panopto/reuse-module-media.md
       - How to Edit Captions in Panopto: panopto/editing-captions.md
       # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
