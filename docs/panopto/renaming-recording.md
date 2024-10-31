@@ -1,5 +1,5 @@
 ---
-# tags:
+tags:
 # Delete to leave only relevant tags
     - Panopto
 ---
