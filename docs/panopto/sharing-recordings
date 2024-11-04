@@ -1,52 +1,46 @@
 ---
 # tags:
 # Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
+      - Panopto
+    
+    
 ---
 
-# Guide title (short and to the point)
+# Sharing Panopto Recordings
 
 !!! Summary
 
-    Short summary here
-
-!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
-
-    - <!-- ADD EACH RELEVANT PRINCIPLE HERE -->
+    By default, Timetabled Lecture Capture recordings are shared with users on the Yorkshare VLE module site. This guide will walk you through folder-level and individual capture sharing settings in Panopto to manage access based on your needs.
 
 
-## Quick Start Guide
+## Default Sharing Settings
 
+- **Default Access**: Recordings are automatically shared with users on the Yorkshare VLE module site, accessible either through the VLE module or via direct links (which require login for access).
+- **Note**: Even if the Yorkshare VLE site is unavailable to students, the Panopto folder remains accessible to those enrolled in the module.
 
-### Video Steps
+!!! Tip 
+For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required.    
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](VIDEO URL).
+### Changing Sharing Settings at a Folder Level
 
-<!-- PASTE YOUTUBE EMBED (should look like this:) -->
-<iframe width="560" height="315" src="VIDEO EMBED URL" title="YouTube video VIDEO TITLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. **Access Folder Sharing**: Click the **Share** icon in the top right corner of the folder.
+2. **Set Permissions**: Under 'Who can access this Folder', click 'Change'.
+3. Choose an access level based on your audience requirements:
+   - **Specific People** (default): Restrict access to specific users or groups.
+   - **Anyone at your organization with the link**: Allow access only through a direct link, which will be accessible to anyone at UoY
 
+### Sharing a Panopto Recording via a Link
 
-### Text Steps
+1. Go to Panopto and locate the recording you wish to share.
+2. Click **Share**.
+3. Under the **Share** section, copy the link provided.
 
-<!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
-<!-- Use **bold** to highight key tasks and features -->
+!!! Warn
 
-1. Step 1
-2. Step 2
-3. Step 3
-
+Embedding Panopto videos directly within the VLE is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
 
 ## More Details and Troubleshooting 
+
+If you are wanting to reuse media from another academic year, please refer to our [Reusing Module Media Guide](https://vle-support.york.ac.uk/panopto/reuse-module-media/).
 
 <!-- More info here as needed. Delete if not needed. Don't add support email address here. -->
