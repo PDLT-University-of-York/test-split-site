@@ -3,7 +3,6 @@
 # Delete to leave only relevant tags
       - Panopto
     
-    
 ---
 
 # Sharing Panopto Recordings
@@ -18,8 +17,8 @@
 - **Default Access**: Recordings are automatically shared with users on the Yorkshare VLE module site, accessible either through the VLE module or via direct links (which require login for access).
 - **Note**: Even if the Learn Ultra VLE site is unavailable to students, the Panopto folder remains accessible to those enrolled in the module.
 
-!!! Tip 
-For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required.    
+!!! Tip
+For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required. 
 
 ### Changing Sharing Settings at a Folder Level
 
