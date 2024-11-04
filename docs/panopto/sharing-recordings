@@ -11,14 +11,21 @@
 
     By default, Timetabled Lecture Capture recordings are shared with users on the Learn Ultra VLE module site. This guide will walk you through folder-level and individual capture sharing settings in Panopto to manage access based on your needs.
 
+## Video Steps
+
+Below is an embedded video detailing how to share a recording in Panopto. Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=70f7eb58-e577-489a-9e2e-b20900e29c3d).
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=70f7eb58-e577-489a-9e2e-b20900e29c3d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Panopto Quick Tips - Sharing Folders/Recordings With New Users" ></iframe>
 
 ## Default Sharing Settings
 
 - **Default Access**: Recordings are automatically shared with users on the Yorkshare VLE module site, accessible either through the VLE module or via direct links (which require login for access).
 - **Note**: Even if the Learn Ultra VLE site is unavailable to students, the Panopto folder remains accessible to those enrolled in the module.
 
+
 !!! Tip
-For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required. 
+
+    For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required. 
 
 ### Changing Sharing Settings at a Folder Level
 
@@ -28,8 +35,10 @@ For public captures, e.g. events, you can download captures and upload YouTube. 
    - **Specific People** (default): Restrict access to specific users or groups.
    - **Anyone at your organization with the link**: Allow access only through a direct link, which will be accessible to anyone at UoY
 
+
 !!! Warn
-If you need to change any People and Groups access settings, please contact DET for advice before proceeding.
+
+   If you need to change any People and Groups access settings, please contact DET for advice before proceeding.  
 
 ### Sharing Recordings from you My Folder in Panopto
 
@@ -46,7 +55,7 @@ Recordings saved in your **My Folder** in Panopto are private by default, which 
 
 !!! Warn
 
-Embedding Panopto videos directly within the VLE is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
+   Embedding Panopto videos directly within the VLE is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
 
 ## More Details and Troubleshooting 
 
