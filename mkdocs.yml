@@ -65,11 +65,11 @@ nav:
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Basic editing: panopto/basic-editing.md
-      - Sharing a Recording: panopto/sharing-recordings.md
       - Replay Lecture Capture in Teaching Rooms: panopto/lecture-capture.md
     - Managing video content: 
       - Copy a recording: panopto/copy-recording.md     
       - Moving a Recording: panopto/move-recording-ultra.md
+      - Sharing a Recording: panopto/sharing-recordings.md
       - Renaming a Recording: panopto/renaming-recording.md
       - Reusing module media: panopto/reuse-module-media.md
       - How to Edit Captions in Panopto: panopto/editing-captions.md
