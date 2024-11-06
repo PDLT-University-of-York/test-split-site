@@ -60,6 +60,7 @@ For details on how to move recordings in Panopto, refer to our relevant guidance
 1. Go to Panopto and locate the recording you wish to share.
 2. Hover your cursor over the recording and click the **Share** icon.
 </br>![Decorative](Images/share-step-3.png)
+
 3. Under the **Share** section, select **link** and click **copy link** to copy the video URL.
 </br>![Decorative](Images/share-step-4.png)
 
