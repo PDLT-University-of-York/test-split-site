@@ -56,22 +56,17 @@ nav:
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
     - Troubleshooting common issues: help/troubleshooting.md
-  - Panopto Videos:
+ - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
-      # - Student Access to Panopto videos
       - Logging into Panopto: panopto/log-in.md
-      # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
-      # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
-      # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
       - Replay Lecture Capture in Teaching Rooms: panopto/lecture-capture.md
-   - Editing Content in Panopto:
+    - Editing Content in Panopto:
       - Basic editing: panopto/basic-editing.md
       - Editing Captions in Panopto: panopto/editing-captions.md
       - Add presentation slides: panopto/add-presentation.md
-      #- Advanced Editing: 
-   - Managing video content: 
+    - Managing video content: 
       - Copy a recording: panopto/copy-recording.md     
       - Moving a Recording: panopto/move-recording-ultra.md
       - Sharing a Recording: panopto/sharing-recordings.md
@@ -82,6 +77,11 @@ nav:
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contents.md
       # - Adding Additional Streams: panopto/addstreams.md
       # - Assessment submissions: panopto/submissions.md
+      #- Advanced Editing:
+      # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
+      # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
+      # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
+        # - Student Access to Panopto videos
   # - Accessibility:
   #   - accessibility/index.md
     # - Ally accessibility checker: accessibility/ally-accessibility-checker.md
