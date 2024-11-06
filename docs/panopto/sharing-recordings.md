@@ -35,7 +35,8 @@ Below is an embedded video detailing how to share a recording in Panopto. Altern
    - **Anyone at your organization with the link**: Allow access only through a direct link, which will be accessible to anyone at UoY
 
 
-!!! Warn
+!!! Warning
+
    If you need to change any People and Groups access settings, please contact DET for advice before proceeding.  
 
 ### Sharing Recordings from you My Folder in Panopto
@@ -51,7 +52,8 @@ Recordings saved in your **My Folder** in Panopto are private by default, which 
 2. Click **Share**.
 3. Under the **Share** section, copy the link provided.
 
-!!! Warn
+!!! Warning
+
    Embedding Panopto videos directly within the VLE is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
 
 ## More Details and Troubleshooting 
