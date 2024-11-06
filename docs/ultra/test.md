@@ -375,14 +375,12 @@ You can print or save your Test as a PDF, either with or without answers. This c
 - save the Test for your records
 - provide a copy of the Test for external examiners, reviewers etc.
 
-!!! Note
-
-    It is not currently possible to print Tests containing a Question Pool.
-
 1. Click **Print** at the top of the Test.
 2. Select **Questions only** or **Questions with answers**
 ![decorative](images/test-print.png)
 3. Save as PDF or send to the printer.
+
+If your Test contains a Question Pool, questions will be drawn in the same way as taking the Test online (eg. 5 questions drawn from a pool of 20).
 
 <!-- ## Viewing Test results and analytics -->
 
