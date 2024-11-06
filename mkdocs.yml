@@ -59,7 +59,7 @@ nav:
   - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
-        # - Student Access to Panopto videos
+      # - Student Access to Panopto videos
       - Logging into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
@@ -70,7 +70,7 @@ nav:
       - Basic editing: panopto/basic-editing.md
       - Editing Captions in Panopto: panopto/editing-captions.md
       - Add presentation slides: panopto/add-presentation.md
-     #- Advanced Editing: 
+      #- Advanced Editing: 
    - Managing video content: 
       - Copy a recording: panopto/copy-recording.md     
       - Moving a Recording: panopto/move-recording-ultra.md
@@ -78,10 +78,10 @@ nav:
       - Renaming a Recording: panopto/renaming-recording.md
       - Reusing module media: panopto/reuse-module-media.md
       - Changing Video Availability: panopto/change-availability.md
-        # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
-        # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contents.md
+      # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
+      # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contents.md
       # - Adding Additional Streams: panopto/addstreams.md
-    # - Assessment submissions: panopto/submissions.md
+      # - Assessment submissions: panopto/submissions.md
   # - Accessibility:
   #   - accessibility/index.md
     # - Ally accessibility checker: accessibility/ally-accessibility-checker.md
