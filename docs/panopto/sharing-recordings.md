@@ -26,6 +26,19 @@ Below is an embedded video detailing how to share a recording in Panopto. Altern
 
     For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required. 
 
+## Sharing Recordings from you My Folder in Panopto
+
+* Recordings saved in your **My Folder** in Panopto are private by default, which means they aren’t shared or accessible to others. 
+* This folder acts as your personal storage space, so any content saved here can **only** be viewed by you. 
+* To share recordings with others, you will need to **move** or **copy** the video to a shared folder with appropriate permissions or update the access settings in My Folder to make it viewable to specific people or groups. 
+</br>![Decorative](Images/myfolder.png)
+
+For details on how to move recordings in Panopto, refer to our relevant guidance:
+
+[Moving Recordings in Panopto](move-recording-panopto.md)
+[Copying Panopto recordings in Panopto](move-recording-panopto.md)
+
+
 ### Changing Sharing Settings at a Folder Level
 
 1. Access Folder Sharing: Click the **Share** icon in the top right corner of the folder.
@@ -39,18 +52,8 @@ Below is an embedded video detailing how to share a recording in Panopto. Altern
 
 
 !!! Warning
-   If you need to change any People and Groups access settings, please contact DET for advice before proceeding.  
+If you need to change any People and Groups access settings, please contact DET for advice before proceeding.  
 
-### Sharing Recordings from you My Folder in Panopto
-
-* Recordings saved in your **My Folder** in Panopto are private by default, which means they aren’t shared or accessible to others. 
-* This folder acts as your personal storage space, so any content saved here can **only** be viewed by you. 
-* To share recordings with others, you will need to **move** or **copy** the video to a shared folder with appropriate permissions or update the access settings in My Folder to make it viewable to specific people or groups. 
-
-For details on how to move recordings in Panopto, refer to our relevant guidance:
-
-[Moving Recordings in Panopto](move-recording-panopto.md)
-[Copying Panopto recordings in Panopto](move-recording-panopto.md)
 
 ### Sharing Individual Recordings
 
@@ -61,7 +64,7 @@ For details on how to move recordings in Panopto, refer to our relevant guidance
 </br>![Decorative](Images/share-step-4.png)
 
 !!! Warning
-   Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
+Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
 
 ## More Details and Troubleshooting 
 
