@@ -26,7 +26,7 @@ Below is an embedded video detailing how to share a recording in Panopto. Altern
 
     For public captures, e.g. events, you can download captures and upload YouTube. External users to the University will not be able to access Panopto as a UoY IT account is required. 
 
-## Sharing Recordings from you My Folder in Panopto
+## Sharing Recordings from your My Folder in Panopto
 
 * Recordings saved in your **My Folder** in Panopto are private by default, which means they aren’t shared or accessible to others. 
 * This folder acts as your personal storage space, so any content saved here can **only** be viewed by you. 
