@@ -51,8 +51,7 @@ For details on how to move recordings in Panopto, refer to our relevant guidance
 4. Click **Save**.
 
 
-!!! Warning
-If you need to change any People and Groups access settings, please contact DET for advice before proceeding.  
+> :boom:If you need to change any People and Groups access settings, please contact DET for advice before proceeding.  
 
 
 ### Sharing Individual Recordings
@@ -63,8 +62,7 @@ If you need to change any People and Groups access settings, please contact DET 
 3. Under the **Share** section, select **link** and click **copy link** to copy the video URL.
 </br>![Decorative](Images/share-step-4.png)
 
-!!! Warning
-Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
+> :boom:Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
 
 ## More Details and Troubleshooting 
 
