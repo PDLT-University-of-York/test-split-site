@@ -28,11 +28,14 @@ Below is an embedded video detailing how to share a recording in Panopto. Altern
 
 ### Changing Sharing Settings at a Folder Level
 
-1. **Access Folder Sharing**: Click the **Share** icon in the top right corner of the folder.
-2. **Set Permissions**: Under 'Who can access this Folder', click 'Change'.
+1. Access Folder Sharing: Click the **Share** icon in the top right corner of the folder.
+</br>![Decorative](Images/share-step-1.png)
+2. Set Permissions: Under 'Who can access this Folder', click **'Change'**.
+</br>![Decorative](Images/share-step-2.png)
 3. Choose an access level based on your audience requirements:
    - **Specific People** (default): Restrict access to specific users or groups.
-   - **Anyone at your organization with the link**: Allow access only through a direct link, which will be accessible to anyone at UoY
+   - **Anyone at your organization with the link**: Allow access only through a direct link, which will be accessible to anyone at UoY.
+4. Click **Save**.
 
 
 !!! Warning
@@ -49,12 +52,14 @@ Recordings saved in your **My Folder** in Panopto are private by default, which 
 ### Sharing Individual Recordings
 
 1. Go to Panopto and locate the recording you wish to share.
-2. Click **Share**.
-3. Under the **Share** section, copy the link provided.
+2. Hover your cursor over the recording and click the **Share** icon.
+</br>![Decorative](Images/share-step-3.png)
+3. Under the **Share** section, click **copy link**.
+</br>![Decorative](Images/share-step-4.png)
 
 !!! Warning
 
-   Embedding Panopto videos directly within the VLE is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
+   Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
 
 ## More Details and Troubleshooting 
 
