@@ -43,7 +43,11 @@ Below is an embedded video detailing how to share a recording in Panopto. Altern
 
 ### Sharing Recordings from you My Folder in Panopto
 
-Recordings saved in your **My Folder** in Panopto are private by default, which means they aren’t shared or accessible to others. This folder acts as your personal storage space, so any content saved here can **only** be viewed by you. To share recordings with others, you need to **move** or **copy** the video to a shared folder with appropriate permissions or update the access settings in My Folder to make it viewable to specific people or groups. For details on how to move recordings in Panopto, refer to our relevant guidance:
+* Recordings saved in your **My Folder** in Panopto are private by default, which means they aren’t shared or accessible to others. 
+* This folder acts as your personal storage space, so any content saved here can **only** be viewed by you. 
+* To share recordings with others, you will need to **move** or **copy** the video to a shared folder with appropriate permissions or update the access settings in My Folder to make it viewable to specific people or groups. 
+
+For details on how to move recordings in Panopto, refer to our relevant guidance:
 
 [Moving Recordings in Panopto](move-recording-panopto.md)
 [Copying Panopto recordings in Panopto](move-recording-panopto.md)
