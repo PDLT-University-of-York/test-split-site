@@ -66,11 +66,11 @@ nav:
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
       - Replay Lecture Capture in Teaching Rooms: panopto/lecture-capture.md
-   -  Editing Content in Panopto 
+   - Editing Content in Panopto:
       - Basic editing: panopto/basic-editing.md
       - Editing Captions in Panopto: panopto/editing-captions.md
       - Add presentation slides: panopto/add-presentation.md
-    #- Advanced Editing: 
+     #- Advanced Editing: 
    - Managing video content: 
       - Copy a recording: panopto/copy-recording.md     
       - Moving a Recording: panopto/move-recording-ultra.md
