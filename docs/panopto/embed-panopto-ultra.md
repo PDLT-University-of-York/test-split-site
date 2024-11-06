@@ -10,6 +10,13 @@ tags:
 
     Embed Panopto video content into a Course Content area or Document in an Ultra site.
 
+
+## Video Guide
+
+Below is an embedded video detailing how to copy a recording Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2f566ec7-d7f1-4856-a26b-b20900eaf334).
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2f566ec7-d7f1-4856-a26b-b20900eaf334&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Panopto Quick Tips - Linking/Embedding Videos" ></iframe>
+
 ## Overview
 
 Lecture capture recordings are available though the LTI link to the module's Panopto folder. However, you can also link to or embed videos within module content.
@@ -53,4 +60,3 @@ Lecture capture recordings are available though the LTI link to the module's Pan
 
 Watch a demonstration of embedding panopto videos in an Ultra Document:
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/2KA0UWiTMWI?si=lOc9q46A84bqqpbO&amp;start=463" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Ultra Essentials clip: embedding Panopto videos [YouTube]](https://youtu.be/2KA0UWiTMWI?t=463)

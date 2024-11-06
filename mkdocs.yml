@@ -27,7 +27,7 @@ nav:
       - Discussion: ultra/discussions.md
       - Upload Files: ultra/files.md
       - Images: ultra/images.md
-      - Video | Panopto: panopto/embed-panopto-ultra.md
+      - Video | Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
       - Embed content: ultra/embed-content.md
       - Upload HTML: ultra/html-objects.md
@@ -59,25 +59,24 @@ nav:
   - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
-      # - Quick Start Lecturer Guide
-      # - Student Access to Panopto videos
-      - Log into Panopto: panopto/log-in.md
+        # - Student Access to Panopto videos
+      - Logging into Panopto: panopto/log-in.md
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       - Basic editing: panopto/basic-editing.md
-      - Copy a recording: panopto/copy-recording.md
-      # - Moving a Recording: panopto/move-recording.md
-      # - Sharing a Recording: panopto/sharing-recordings.md
-      - Replay lecture capture: panopto/lecture-capture.md
+      - Replay Lecture Capture in Teaching Rooms: panopto/lecture-capture.md
     - Managing video content: 
+      - Copy a recording: panopto/copy-recording.md     
+      - Moving a Recording: panopto/move-recording-ultra.md
+      - Sharing a Recording: panopto/sharing-recordings.md
+      - Renaming a Recording: panopto/renaming-recording.md
       - Reusing module media: panopto/reuse-module-media.md
       - How to Edit Captions in Panopto: panopto/editing-captions.md
       # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
       - Changing Video Availability: panopto/change-availability.md
-      - Embed a Panopto video in Ultra: panopto/embed-panopto-ultra.md
+      - Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
     - Advanced Editing: 
-      # - Adding Quizzes: panopto/add-quizzes.md
       - Add presentation slides: panopto/add-presentation.md
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contents.md
       # - Adding Additional Streams: panopto/addstreams.md

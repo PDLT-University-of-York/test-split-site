@@ -9,6 +9,12 @@ tags:
 
     Panopto recordings can be copied manually to other courses, so other student cohorts have access to the recordings they need.
 
+## Video Steps
+
+Below is an embedded video detailing how to copy a recording Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=13581ad0-6962-4298-bfc3-b20900b4c331).
+
+<!-- PASTE YOUTUBE EMBED (should look like this:) -->
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=13581ad0-6962-4298-bfc3-b20900b4c331&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Panopto Quick Tips - Copying a Recording (Ultra)" ></iframe>
 
 ## Quick Start Guide
 
@@ -27,8 +33,19 @@ tags:
 9. Your video(s) will then be copied over to the associated VLE module site. 
 10. To copy recordings to multiple sites, **repeat** the above steps as many times as needed.
 
+## Unlinking Reference Copies
+
 !!! Tip 
     By default, when a recording is copied, a "Reference Copy" is created meaning that any edits you make in the original recording will also be reflected in the copies you have made. 
+
+To make a reference copy independent (standalone):
+
+1. Go to the folder with the reference copy (as indicated by the reference copy icon shown below)
+</br>![Decorative](Images/ref-copy-icon.png)
+2. Click on **Edit**
+</br>![Decorative](Images/edit-icon.png)
+3. Select **Unlink and Edit**. The copy is now separate, allowing unique edits that won’t affect the original or other reference copies.
+</br>![Decorative](Images/unlink.png)
 
 
 ## More Details and Troubleshooting 

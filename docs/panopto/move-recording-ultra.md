@@ -1,5 +1,5 @@
 ---
-# tags:
+tags:
 # Delete to leave only relevant tags
     - Panopto
    
@@ -9,7 +9,8 @@
 
 !!! Summary
 
-   Panopto provides a user-friendly platform for managing video content, including the ability to move recordings between folders or even across different Panopto sites. This guide will walk you through the steps to move a recording Blackboard (the VLE).
+    This guide explains how to move a Panopto recording within a VLE site to another VLE site.
+
 
 
 ## Prerequisites
@@ -20,7 +21,7 @@ Before you begin, ensure that:
 
 ### Video Steps
 
-Below is an embedded video detailing how to DO THE THING. Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cfdbf2be-8895-4a2e-a6a4-b20900acc39c).
+Below is an embedded video detailing how to move a recording in a VLE site. Alternatively, you can [open the video in a new browser tab](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cfdbf2be-8895-4a2e-a6a4-b20900acc39c).
 
 <!-- PASTE YOUTUBE EMBED (should look like this:) -->
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=cfdbf2be-8895-4a2e-a6a4-b20900acc39c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Moving a Recording" aria-description="Panopto Quick Tips - Moving a Recording (Ultra)" ></iframe>
