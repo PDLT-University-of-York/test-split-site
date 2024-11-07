@@ -369,20 +369,22 @@ Edit settings in the **Assessment settings** panel:
 
 ## Print or save a Test
 
-You can print or save your Test as a PDF, along with an answer key. This could be useful to:
+You can print or save your Test as a PDF, along with an automatically-generated answer key. This could be useful to:
 
 - deliver and mark the Test as a paper-based assessment
 - save the Test for your records
 - provide a copy of the Test for external examiners, reviewers etc.
 
-If your Test presents questions in a randomised order and/or contains a Question Pool, a new version will be generated each time the Test is generated for printing. 
+If your Test presents questions in a randomised order and/or contains a Question Pool, a new version of teh test and answer key will be generated each time it is printed. 
 
 To print or save a Test:
-1. Open the relevant Test. 
+
+1. Open the **Content and Settings** tab in the relevant Test. 
 2. Click **Print** above the Test content.
 3. Click **Print** in the pop up box.
 4. The answer key (shown first) and test are generated and shown in print preview. Save as PDF or send to the printer.
 
+![decorative](images/test-print.png)
 <!-- ## Viewing Test results and analytics -->
 
 
