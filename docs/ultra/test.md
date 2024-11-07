@@ -375,7 +375,7 @@ You can print or save your Test as a PDF, along with an automatically-generated 
 - save the Test for your records
 - provide a copy of the Test for external examiners, reviewers etc.
 
-If your Test presents questions in a randomised order and/or contains a Question Pool, a new version of teh test and answer key will be generated each time it is printed. 
+If your Test presents questions in a randomised order and/or contains a Question Pool, a new version of the questions and answer key will be generated each time it is printed. If you want to use same version of the Test instead, save it as PDF and print multiple copies.
 
 To print or save a Test:
 
