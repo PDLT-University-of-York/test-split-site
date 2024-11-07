@@ -56,7 +56,7 @@ nav:
       - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
     - Troubleshooting common issues: help/troubleshooting.md
- - Panopto Videos:
+  - Panopto Videos:
     - panopto/index.md
     - Getting started with Panopto: 
       - Logging into Panopto: panopto/log-in.md
@@ -75,13 +75,13 @@ nav:
       - Changing Video Availability: panopto/change-availability.md
       # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contents.md
-      # - Adding Additional Streams: panopto/addstreams.md
+      # - Adding Additional Streams: panopto/add-streams.md
       # - Assessment submissions: panopto/submissions.md
-      #- Advanced Editing:
+    # - Advanced Editing:
       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
-        # - Student Access to Panopto videos
+      # - Student Access to Panopto videos
   # - Accessibility:
   #   - accessibility/index.md
     # - Ally accessibility checker: accessibility/ally-accessibility-checker.md
