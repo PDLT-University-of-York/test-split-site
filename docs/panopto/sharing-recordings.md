@@ -43,11 +43,14 @@ For details on how to move recordings in Panopto, refer to our relevant guidance
 
 1. Access Folder Sharing: Click the **Share** icon in the top right corner of the folder.
 </br>![Decorative](Images/share-step-1.png)
+
 2. Set Permissions: Under 'Who can access this Folder', click **'Change'**.
 </br>![Decorative](Images/share-step-2.png)
+
 3. Choose an access level based on your audience requirements:
    - **Specific People** (default): Restrict access to specific users or groups.
    - **Anyone at your organization with the link**: Allow access only through a direct link, which will be accessible to anyone at UoY.
+
 4. Click **Save**.
 
 
