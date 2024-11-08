@@ -7,7 +7,8 @@
 
 !!! Summary
 
-    Short summary here
+    Splicing recordings allows you to combine multiple video segments into a single lecture. Panopto offers a straightforward way to edit videos directly within its platform, making it easy to merge clips.
+
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
