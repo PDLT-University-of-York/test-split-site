@@ -62,13 +62,14 @@ Prompts can be aligned to **cognitive levels** based on Bloom's Taxonomy:
 - Analyse
 - Evaluate
 - Create
+- or select *Inspire me!* for a mix of levels (default)
 
-The default setting is *Inspire me!*, which gives a mix of levels.
+Steps to generate task prompts:
 
 1. Create a new Discussion, Journal or Assignment, or open an existing one.
 2. Click the **magic AI icon** in the top right. On a larger screen you'll also see **Auto generate [item name]**.
 3. Enter a **Description** and/or **Select course items** to help generate more relevant content.
-4. Choose a **Desired cognitive level** or leave as the default *Inspire me!*.
+4. Choose a **Desired cognitive level**.
 5. Adapt other settings to your needs, then click **Generate**
 6. Review the generated content and select which prompt to keep. If you want to keep more than one prompt, copy/paste it into another document.
 7. Click **Add to Course**.
@@ -99,7 +100,7 @@ The default setting is *Inspire me!*, which gives a mix of levels.
 - Test
 - Question Bank - can be used in multiple tests, or use to draw a random set of questions from
 
-??? Abstract "Task prompts: interface and examples of generated content"
+??? Abstract "Test questions: interface and examples of generated content"
 
     **Description:** 
 
@@ -118,6 +119,8 @@ Your departmental template has a pre-built structure, so **in most cases you wil
 !!! Tip "Using this feature effectively"
 
     Content is generated based on the site name and the context provided, so providing a clear description and/or selecting relevant document(s) will help generate more relevant output.
+
+Steps to generate Learning Modules:
 
 1. In a relevant location in the Course Content Area, click the **plus icon**, then **Auto-Generate Modules**. In an empty site, just click Auto-Generate Modules.
 2. Provide module information in the **Description** box (eg. description copy/pasted from Module Catalogue) and/or Select course items (eg. a Module Overview page).
@@ -157,21 +160,45 @@ Your departmental template has a pre-built structure, so **in most cases you wil
     Each Learning Module also has a generated decorative image relevant to the content.
 
 ### Images
-??? Abstract "Task prompts: interface and examples of generated content"
 
-    **Description:** 
+AI-DA can generate images and automatically search for copyright-compliant photographs on Unsplash. You can use this feature wherever you can add an image via the text editor.
 
-    **Select course items**:
+!!! Tip "Using this feature effectively"
 
-    **Complexity:** level 7/10
+    AIDA uses the item title to generate or search for images. These may not fit the image you want, so enter your own description to return more relevant images.
 
-    **Content generated:**
+1. Open a Document or other item with a text editor and click the **Image icon**.
+2. Click **Upload from Device** to open the source selection menu.
+3. To create images, click **Generate images**. The tool automatically generates images based on the item title, or you can **Describe an image** then click **Generate**.
+4. To search for photographs, click **Stock images from Unsplash**. The tool automatically enters search terms based on the item title, or you can enter your own terms then click **Search**.
+5. Select an image to include and click **Next**.
+6. Set the zoom or aspect ratio as needed and click **Next**.
+7. Adjust the **Display name** (ie. file name) as needed. Provide appropriate **ALT text** or mark the image as decorative. Leave the **File Options** as *View and download*.
+8. Click **Save**.
+
+![Images interface: described below](images/aida-image.png)
+
+??? Abstract "Images: interface and examples of generated content"
+
+    Option 1. Generate images
+    
+    **Describe an image:** runner on a mountain holding map
+
+    **Images generated:** four square images in a hyper-realistic style, all clearly AI generated but relevant to the description. Each has a single runner in Lake District-esque mountain terrain holding a map. One runner has an elongated arm and one has a very large map, but all could reasonably be used.
+
+    ---
+
+    Option 2. Stock images from Unsplash
+
+    **Search terms:** mountain running compass
+
+    **Search results:** 9 images shown on first page (of 10,000 results). None are particularly relevant to the combined search terms: one shows a compass held up in front of pine trees, five show mountain scenes but no people, and three show other types of runners.
 
 ### Marking rubrics
 
 Add in webinar recording
 
-??? Abstract "Task prompts: interface and examples of generated content"
+??? Abstract "Marking rubrics: interface and examples of generated content"
 
     **Description:** 
 
@@ -189,7 +216,7 @@ Add in webinar recording
 
 ## Automating repetitive tasks
 
-AI-DA doesn't perform repetitive tasks for you, such as updating multiple due dates. However, there are other Ultra features that might be useful for these tasks:
+AI-DA doesn't automate repetitive tasks such as updating multiple due dates. However, there are other Ultra features that may be useful:
 
 - [Batch Edit](../ultra/batch-edit.md): change due dates, set release conditions and delete items in bulk
 - [Copy Content](../ultra/copy-content.md): copy items from within the current site or from another site
