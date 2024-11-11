@@ -52,7 +52,7 @@ This section summarises key tool features and considerations for applying them i
 
 AI-DA can generate prompts for **Discussions**, **Assignments** and **Journals**. The output is very similar for the three task types.
 
-!!! Tip "Using this feature effectively"
+!!! Tip "Using the task prompt generators effectively"
 
     Task prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more indepth or time-consuming than appropriate for weekly or formative tasks.
 
@@ -116,7 +116,7 @@ Steps to generate task prompts:
 
 Your departmental template has a pre-built structure, so **in most cases you will not need to generate further Learning Modules**. Make sure to use your provided template structure.
 
-!!! Tip "Using this feature effectively"
+!!! Tip "Using the Learning Module generator effectively"
 
     Content is generated based on the site name and the context provided, so providing a clear description and/or selecting relevant document(s) will help generate more relevant output.
 
@@ -163,9 +163,13 @@ Steps to generate Learning Modules:
 
 AI-DA can generate images and automatically search for copyright-compliant photographs on Unsplash. You can use this feature wherever you can add an image via the text editor.
 
-!!! Tip "Using this feature effectively"
+You can also generate images in Copilot and upload them to the site directly.
+
+!!! Tip "Using the image generator effectively"
 
     AIDA uses the item title to generate or search for images. These may not fit the image you want, so enter your own description to return more relevant images.
+
+Steps to generate or search for images:
 
 1. Open a Document or other item with a text editor and click the **Image icon**.
 2. Click **Upload from Device** to open the source selection menu.
@@ -196,17 +200,59 @@ AI-DA can generate images and automatically search for copyright-compliant photo
 
 ### Marking rubrics
 
-Add in webinar recording
+A marking rubric is a grid of criteria aligned to different performance levels. They can be attached to [Ultra Assignments](../ultra/assignment-set-up.md) to promote consistency and streamline marking and feedback. You can create a marking rubric yourself, or AI-DA can generate one as a starting point or to speed up your rubric development.
+
+!!! Tip "Using the Marking Rubric generator effectively"
+
+    This tool is best used iteratively to generate broadly the content you need, which you can tweak manually in the rubric editor. The more detailed the description privded, the less manual editing will be needed.
+
+Steps to generate a marking rubric:
+
+1. Create or open an exising Assignment.
+2. Click **Settings/cog icon** to open teh full settings panel, then scroll down and click **Add marking rubric**.
+3. Under Course Rubrics, click **Generate**.
+</br>![decorative](images/aida-rubric-generate-button.png)
+4. Enter a suitable **Description**, eg. which assessment type and the criteria to include. You can't select course items for this feature.
+5. Select a suitable **Rubric type** (usually *Percentage range* is most appropriate)
+6. Set the **Complexity** level and adjust the number of **Columns** and **Rows** as needed (default is 4x4).
+7. Click **Generate**.
+8. Review the generated rubric content. If needed, repeat steps 4-7 to refine the output.
+9. Click **Continue** and check and edit content or settings as necessary (eg. rubric title,  criteria weighting, performance level labels and cutoffs, descriptor wording).
+
+![Marking rubric interface: described below](images/aida-rubric.png)
 
 ??? Abstract "Marking rubrics: interface and examples of generated content"
 
-    **Description:** 
+    **Description**: Presentation about applying a navigation technique. Criteria to include: Understanding of technique, quality of explanation, presentation materials, presentation skills
 
-    **Select course items**:
+    **Rubric type**: Percentage range
 
-    **Complexity:** level 7/10
+    **Complexity**: level 7/10
+
+    **Columns**: 5 (possible range: 2-5)
+
+    **Rows**: 4 (possible range: 2-7)
 
     **Content generated:**
+
+    Only some of the rubric is visible on this screen, but the user can scroll to review the rest of the content.
+
+    - Criteria: *Understanding of technique*. 30% of total mark.
+        - Exceptional (80-100%): Demonstrates an exceptional understanding of the navigation technique by applying advanced methods.
+        - Highly Competent (60-80%): Shows a highly competent understanding of the navigation technique with clear application.
+        - *other levels not visible*
+    - Criteria: *Quality of explanation*. 25% of total mark.
+        - Exceptional (80-100%): Provides an in-depth and insightful explanation of the technique, covering advanced aspects thoroughly.
+        - Highly Competent (60-80%): Gives a clear and detailed explanation of the technique, addressing key aspects effectively.
+        - *other levels not visible*
+    - Criteria: *Presentation materials*. % of total mark not visible
+        - Exceptional (80-100%): *description not visible*
+        - Highly Competent (60-80%): *description not visible*
+        - *other levels not visible*
+
+You can also combine the AI-DA rubric generator with a more iterative AI text generation tool to bring further efficiencies to the process of rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Wesminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
+
+
 
 ## AI conversations: student interaction
 
