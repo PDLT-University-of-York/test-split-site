@@ -30,7 +30,7 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
 !!! Tip 
 
-    If your Assignment has marking groups set up (eg. for seminar groups), you can filter for your assigned group using the [**Gradebook Marks tab**](#marks-tab).
+    If your Assignment has marking groups set up (eg. for seminar groups), you can filter for your assigned group using the **Gradebook Marks tab**.
 
 === "Submissions tab"
 
