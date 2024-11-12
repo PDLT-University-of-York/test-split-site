@@ -15,6 +15,8 @@ Ultra's AI-DA tools are powered by Microsoft's Azure OpenAI Service, and underpi
 
 magic icon - can see on many page types
 
+don't like what you got? Generate again (consider making description more specific)
+
 ### Getting better output
 
 !!! Warning
@@ -62,14 +64,13 @@ Prompts can be aligned to **cognitive levels** based on Bloom's Taxonomy:
 - Analyse
 - Evaluate
 - Create
-- or select *Inspire me!* for a mix of levels (default)
 
 Steps to generate task prompts:
 
 1. Create a new Discussion, Journal or Assignment, or open an existing one.
 2. Click the **magic AI icon** in the top right. On a larger screen you'll also see **Auto generate [item name]**.
 3. Enter a **Description** and/or **Select course items** to help generate more relevant content.
-4. Choose a **Desired cognitive level**.
+4. Select the **Desired cognitive level**, or choose *Inspire me!* for a mix of levels.
 5. Adapt other settings to your needs, then click **Generate**
 6. Review the generated content and select which prompt to keep. If you want to keep more than one prompt, copy/paste it into another document.
 7. Click **Add to Course**.
@@ -97,18 +98,59 @@ Steps to generate task prompts:
  
 ### Test questions
 
-- Test
-- Question Bank - can be used in multiple tests, or use to draw a random set of questions from
+AI-DA can generate questions within a [Test](../ultra/test.md) or Question Bank (a set of questions that can be used to draw a random subset from and/or in multiple Tests). This could be helpful to efficiently create informal knowledge checks and practice quizzes to supplement weekly module content.
+
+!!! Abstract "Using the question generator effectively"
+
+    If course items are selected to provide context for questions, the tool will draw from content in the Document, file etc. For example, questions may be created based on proceduaral instructions within an item. It may be more effective to provide a detailed description of the desired content area.
+
+    All questions **must** be checked very carefully to ensure they are correct.
+
+There are a range of question types available:
+
+- Essay (free text response)
+- Fill in the Blank
+- Matching
+- Multiple Choice
+- True/False
+
+Steps to generate questions in a Test or Question Bank
+
+1. Create a Test or open an existing Test or Question Bank. To generate a new Question Bank, select **Auto generate** and skip step 2.
+2. Click the **plus icon** where you would like the question(s) to appear, and select **Auto-generate question**.
+3. Define the questions:
+    - Enter a **Description** and/or **Select course items** to help generate more relevant questions.
+    - Select the **Question type** to generate. *Inspire me!* will generate a mix of question types.
+    - Set the **Complexity** level and choose how many questions to create.
+4. Click **Generate**.
+5. Review the questions. Select which question(s) to include, or repeat steps 3 and 4 togenerate new questions.
+6. Click **Add to Assessment**.
+7. Carefully check the questions for accuracy and appropriacy and edit as needed.  
+
+![Test question interface: described below](images/aida-test-question.png)
 
 ??? Abstract "Test questions: interface and examples of generated content"
 
-    **Description:** 
+    **Description:** focus on navigation techniques and appropriate ways to use them
 
-    **Select course items**:
+    **Select course items**: none selected
+
+    **Question type**: Multiple choice
 
     **Complexity:** level 7/10
 
+    **Number of question**: 4 (maximum 10)
+
     **Content generated:**
+
+    *Question 1.* Which of the following is an advisable way to navigate safely in poor visibility?
+
+    - A. Pacing and timing to estimate distance travelled [Correct answer]
+    - B. Relying solely on GPS for directions
+    - C. Running at full speed to get through the fog quickly
+    - D. Following random sheep tracks
+
+    Further questions are not visible on this screen, scroll to reveal.
 
 ### Learning Modules
 
@@ -118,7 +160,7 @@ Your departmental template has a pre-built structure, so **in most cases you wil
 
 !!! Tip "Using the Learning Module generator effectively"
 
-    Content is generated based on the site name and the context provided, so providing a clear description and/or selecting relevant document(s) will help generate more relevant output.
+    Learning Module content is generated based on the site name and the context provided, so providing a clear description and/or selecting relevant document(s) will help generate more relevant output.
 
 Steps to generate Learning Modules:
 
