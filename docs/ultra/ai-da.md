@@ -204,7 +204,7 @@ A marking rubric is a grid of criteria aligned to different performance levels. 
 
 !!! Tip "Using the Marking Rubric generator effectively"
 
-    This tool is best used iteratively to generate broadly the content you need, which you can tweak manually in the rubric editor. The more detailed the description privded, the less manual editing will be needed.
+    This tool is best used to generate broadly the content you need, which you can tweak manually in the rubric editor. The more detailed the description provided, the less manual editing will be needed.
 
 Steps to generate a marking rubric:
 
@@ -252,6 +252,8 @@ Steps to generate a marking rubric:
 
 You can also combine the AI-DA rubric generator with a more iterative AI text generation tool to bring further efficiencies to the process of rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Wesminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
 
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c8188a53-8557-46b8-9072-b22501139f90&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Webinar: The Bb AI Design Assistant - ChatCPT &amp; Marking Rubric generator, Anne-Gaelle Colom" ></iframe>
+[Webinar extract: Streamlining rubric creation with AI, Anne-Gaelle Colom](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c8188a53-8557-46b8-9072-b22501139f90) (11 mins 12 secs, UoY log-in required)
 
 
 ## AI conversations: student interaction
