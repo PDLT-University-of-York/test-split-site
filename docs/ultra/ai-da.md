@@ -15,6 +15,12 @@ AI-DA tools are available in many items within your course, shown by the 'magic'
 
 ![decorative](images/aida-magic-icon.png)
 
+!!! Tip
+
+    We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. [Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.
+
+    You can then use the [Copy Content](../ultra/copy-content.md) tool to insert any materials that you want to use for teaching into your module site.
+
 There is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
 
 ## Tips for generating appropriate output
@@ -41,6 +47,7 @@ Ways you can provide context:
 Further tips on using specific tools effectively are given below.
 
 ## AI-DA content generation tools
+
 This section summarises key tool features and considerations for applying them in your teaching at UoY. For more detail and video demonstrations, see [Blackboard Help's guide to AI-DA](https://help.blackboard.com/Learn/Instructor/Ultra/Course_Content/Create_Content/AI_Design_Assistant)
 
 ### Task prompts
@@ -97,7 +104,7 @@ AI-DA can generate questions within a [Test](../ultra/test.md) or Question Bank 
 
 !!! Tip "Using the question generator effectively"
 
-    If course items are selected to provide context for questions, the tool will draw from content in the Document, file etc. For example, questions may be created based on proceduaral instructions within an item. It may be more effective to provide a detailed description of the desired content area.
+    If course items are selected to provide context, questions may be  based on procedural instructions within an item. If this occurs, you may find it more effective to instead provide a detailed description of the desired content.
 
     All questions **must** be checked very carefully to ensure they are correct.
 
@@ -151,11 +158,9 @@ Steps to generate questions in a Test or Question Bank
 
 [Learning Modules](../ultra/folder-learning-module.md) are containers for organising site content. AI-DA can generate Learning Module titles, descriptions and images.
 
-Your departmental template has a pre-built structure, so **in most cases you will not need to generate further Learning Modules**. Make sure to use your provided template structure.
-
 !!! Tip "Using the Learning Module generator effectively"
 
-    Learning Module content is generated based on the site name and the context provided, so providing a clear description and/or selecting relevant document(s) will help generate more relevant output.
+    Your departmental template has a pre-built structure, so **in most cases you will not need to generate further Learning Modules**. Make sure to use your provided template structure.
 
 Steps to generate Learning Modules:
 
