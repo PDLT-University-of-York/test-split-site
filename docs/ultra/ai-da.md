@@ -11,7 +11,7 @@ tags:
 
 Ultra's AI-DA tools are powered by Microsoft's Azure OpenAI Service, and underpinned by [Anthology's Trustworthy AI approach](https://www.anthology.com/trust-center/trustworthy-ai-approach). They have been approved for use in teaching content at the University of York. 
 
-In addittion to the AI content generator tools in this guide, there is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
+In addition to the AI content generator tools in this guide, there is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
 
 ## Getting started
 
@@ -19,9 +19,7 @@ AI-DA tools are available in many items within your course, shown by the 'magic'
 
 ![Discussion showing the small magic icon and also on a larger screen with icon and text](images/aida-magic-icon.png)
 
-We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. You can then use the [Copy Content](../ultra/copy-content.md) tool to insert any materials that you want to use for teaching into your module site.
-
-[Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.
+We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. You can then use the [Copy Content](../ultra/copy-content.md) tool to insert any materials that you want to use for teaching into your module site. ([Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.)
 
 ## Tips for generating appropriate output
 
@@ -56,7 +54,7 @@ AI-DA can generate prompts for **Discussions**, **Assignments** and **Journals**
 
 !!! Tip "Using the task prompt generators effectively"
 
-    Task prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more indepth or time-consuming than appropriate for weekly or formative tasks.
+    Task prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more in-depth or time-consuming than appropriate for weekly or formative tasks.
 
 Prompts can be aligned to **cognitive levels** based on Bloom's Taxonomy:
 
@@ -125,7 +123,7 @@ Steps to generate questions in a Test or Question Bank
     - Select the **Question type** to generate. *Inspire me!* will generate a mix of question types.
     - Set the **Complexity** level and choose how many questions to create.
 4. Click **Generate**.
-5. Review the questions. Select which question(s) to include, or repeat steps 3 and 4 togenerate new questions.
+5. Review the questions. Select which question(s) to include, or repeat steps 3 and 4 to generate new questions.
 6. Click **Add to Assessment**.
 7. Carefully check the questions for accuracy and appropriacy and edit as needed.  
 
@@ -291,7 +289,7 @@ Steps to generate a marking rubric:
         - Highly Competent (60-80%): *description not visible*
         - *other levels not visible*
 
-You can also combine the AI-DA rubric generator with a more iterative AI text generation tool to bring further efficiencies to the process of rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Wesminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
+You can also combine the AI-DA rubric generator with a more iterative AI text generation tool to bring further efficiencies to the process of rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Westminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c8188a53-8557-46b8-9072-b22501139f90&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Webinar: The Bb AI Design Assistant - ChatCPT &amp; Marking Rubric generator, Anne-Gaelle Colom" ></iframe>
 [Webinar extract: Streamlining rubric creation with AI, Anne-Gaelle Colom](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c8188a53-8557-46b8-9072-b22501139f90) (11 mins 12 secs, UoY log-in required)
