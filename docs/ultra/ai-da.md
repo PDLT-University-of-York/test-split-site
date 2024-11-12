@@ -11,17 +11,17 @@ tags:
 
 Ultra's AI-DA tools are powered by Microsoft's Azure OpenAI Service, and underpinned by [Anthology's Trustworthy AI approach](https://www.anthology.com/trust-center/trustworthy-ai-approach). They have been approved for use in teaching content at the University of York. 
 
+In addittion to the AI content generator tools in this guide, there is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
+
+## Getting started
+
 AI-DA tools are available in many items within your course, shown by the 'magic'/stars AI icon. On a larger screen, you may also see **Auto-generate [tool name]**.
 
-![decorative](images/aida-magic-icon.png)
+![Discussion showing the small magic icon and also on a larger screen with icon and text](images/aida-magic-icon.png)
 
-!!! Tip
+We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. You can then use the [Copy Content](../ultra/copy-content.md) tool to insert any materials that you want to use for teaching into your module site.
 
-    We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. [Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.
-
-    You can then use the [Copy Content](../ultra/copy-content.md) tool to insert any materials that you want to use for teaching into your module site.
-
-There is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
+[Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.
 
 ## Tips for generating appropriate output
 
