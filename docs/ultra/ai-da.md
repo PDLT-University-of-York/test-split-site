@@ -9,7 +9,7 @@ tags:
 
     AI Design Assistant (AI-DA) tools can help you generate content and ideas for your Ultra site, such as discussion prompts and quiz questions.
 
-Ultra's AI-DA tools are powered by Microsoft's Azure OpenAI Service, and underpinned by [Anthology's Trustworthy AI approach](https://www.anthology.com/trust-center/trustworthy-ai-approach). They have been approved for use in teaching content at the University of York. 
+Ultra's AI tools are powered by Microsoft's Azure OpenAI Service, and underpinned by [Anthology's Trustworthy AI approach](https://www.anthology.com/trust-center/trustworthy-ai-approach). They are a core Ultra feature (so are therefore available for use at no additional cost) and have been approved for use in teaching at the University of York.
 
 In addition to the AI content generator tools in this guide, there is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
 

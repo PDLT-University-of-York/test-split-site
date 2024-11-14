@@ -16,6 +16,7 @@ nav:
       - Course staff: ultra/course-staff.md
     - Content creation:
       # - AI Design Assistant: ultra/ai-da.md
+      # - AI conversation: ultra/ai-conversation.md
       - Learning Modules & Folders: ultra/folder-learning-module.md
       - Document | pages: ultra/documents.md
       - Link: ultra/links.md
