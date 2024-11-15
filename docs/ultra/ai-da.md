@@ -11,7 +11,11 @@ tags:
 
 Ultra's AI tools are powered by Microsoft's Azure OpenAI Service, and underpinned by [Anthology's Trustworthy AI approach](https://www.anthology.com/trust-center/trustworthy-ai-approach). They are a core Ultra feature (so are therefore available for use at no additional cost) and have been approved for use in teaching at the University of York.
 
-In addition to the AI content generator tools in this guide, there is also an **AI conversation** tool which can be added as a standalone item. This allows students to directly interact with an AI in a socratic questioning or role play format. A separate guide for this tool is coming soon. 
+!!! Success "Use of data"
+
+    Content within the site and descriptions provided are not used to train the AI model. In other words, your data does not leave the site.
+
+In addition to the AI content generator tools in this guide, there is also a standalone [AI conversation tool](../ultra/ai-conversation.md) where students can directly interact with an AI persona.
 
 ## Getting started
 

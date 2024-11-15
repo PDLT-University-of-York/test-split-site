@@ -11,6 +11,10 @@ tags:
 
 Ultra's AI tools are powered by Microsoft's Azure OpenAI Service, and underpinned by [Anthology's Trustworthy AI approach](https://www.anthology.com/trust-center/trustworthy-ai-approach). They are a core Ultra feature (so are therefore available for use at no additional cost) and have been approved for use in teaching at the University of York.
 
+!!! Success "Use of data"
+
+    Content within the site and descriptions provided are not used to train the AI model. In other words, your data does not leave the site.
+
 There are also various [AI Design Assistant tools](../ultra/ai-da.md) available within Ultra to help you develop static site content.
 
 ## Getting started
