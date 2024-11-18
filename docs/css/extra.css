@@ -73,12 +73,23 @@ nav a {
 }
 
 /*** grid cards styling */
-.grid.cards>ul>li {
+/* card outline */
+/* .grid.cards>ul>li {
     border: 0.1rem solid var(--md-typeset-kbd-border-color);
     border-radius: 0.5rem;
+} */
+
+/* default -> hide bullets in lists inside card */
+.grid.cards ul li {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+/* override -> show bullets in lists inside card */
+.grid.cards.show-bullets>ul>li>ul>li {
+    list-style-type: disc;
+    margin-left: 1.25em;
 }
 
 .grid.cards hr {
