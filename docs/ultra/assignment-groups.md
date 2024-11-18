@@ -79,7 +79,7 @@ Appropriate settings will depend on your particular assessment, but here are our
         - *Attempts allowed*: set to Unlimited
         - *Mark using*: leave as Points or change to Percentage or a qualitative marking schema (eg. Complete/Incomplete)
         - *Maximum points*: leave as 100 or change to another amount. For formative work, that is often '1' to show the work is marked.
-        - *Anonymous marking: can't be used with group submissions
+        - *Anonymous marking*: can't be used with group submissions
         - *Evaluation options*: can't be used with group submissions
         - *Assessment mark*: in most cases, leave *Post marks automatically* unticked to release marks manually. If this is ticked, marks and feedback are released to students immediately when a mark is entered for a submission; this could be useful to streamline workflow for large cohorts with lots of markers.
     - **Assessment Security**: leave unticked
@@ -105,7 +105,7 @@ Appropriate settings will depend on your particular assessment, but here are our
         - *Attempts allowed*: in most cases, change to Unlimited to avoid administrative work if students wish to supersede their most recent submission but have no more attempts left.
         - *Mark using*: leave as Points or change to Percentage or a qualitative marking schema (eg. Complete/Incomplete)
         - *Maximum points*: most likley leave as the default 100
-        - *Anonymous marking: can't be used with group submissions
+        - *Anonymous marking*: can't be used with group submissions
         - *Evaluation options*: can't be used with group submissions
         - *Assessment mark*: leave *Post marks automatically* unticked to release marks manually once the marking process is complete.
     - **Assessment Security**: leave unticked
