@@ -15,9 +15,14 @@ There are also various [AI Design Assistant tools](../ultra/ai-da.md) available 
 
 ## Getting started
 
-The AI conversation tool has two components; the selected conversation type and a post-task reflection question.
+This guide summarises the key aspects of the AI Conversation tool for use at the University of York. For more detail, see [Blackboard Help's guide to AI Conversations](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/AI_Conversation).
 
-There are multiple forms of AI conversation available:
+The AI conversation tool has two components:
+
+- selected conversation type
+- post-task reflection question
+
+The available conversation types are:
 
 <div class="grid cards wide" markdown>
 
@@ -25,9 +30,9 @@ There are multiple forms of AI conversation available:
 
     ---
 
-    Students explore an open-ended question with the AI. In this conversation type, the AI asks open-ended follow up questions expanding on the student's comments.
+    Students explore an open-ended question, where the AI asks open-ended follow up questions expanding on the student's comments.
     
-    This encourages students to engage more deeply with the topic and apply critical thinking skills. This could help students to: 
+    This encourages students to engage more deeply with the topic and apply critical thinking skills. The tool could be applied to help students: 
 
     - prepare for seminar discussions
     - explore ideas for essays
@@ -37,7 +42,7 @@ There are multiple forms of AI conversation available:
 
     ---
 
-    Students role play a situation with the AI. In this conversation type, the AI actively participates with its own comments and questions.
+    Students role play a situation, where the AI actively participates with its own comments and questions.
 
     This helps students practice specific interactions, such as:
     
@@ -48,17 +53,17 @@ There are multiple forms of AI conversation available:
 
 ## Assessment & AI conversation
 
-AI conversation is a markable item, so it can be used as an unmarked self-study task or as a formative assessment task.
+AI conversation is designed as a formative assessment task, but it could also be used as an unmarked self-study task with no need to submit the conversation.
 
 !!! Warning 
     At this time, we **strongly advise** that the AI conversation tool is **not** used for summative assessment.
 
-How you implement the AI Conversation varies slightly depending on the intended use case:
+Select your intended use case for recommended settings:
 
 === "Self-study task"
 
     !!! Note
-        As the AI Conversation is a markable item, even if you choose not to mark the task, it will appear in the Gradebook and the *Formative* label will be displayed on the item.
+        Even if you choose not to mark the AI conversation, it will appear in the Gradebook and the *Formative* label will be displayed on the item. Students will also still be able to submit their conversation and reflection.
 
     - **Use**: for students' own practice. Staff do not review or mark their responses.
     - **Location**: likely in the relevant weekly folder with other module materials.
@@ -67,7 +72,7 @@ How you implement the AI Conversation varies slightly depending on the intended 
         - Formative Tools: leave both boxes ticked
         - Attempts allowed: Select *Unlimited*
         - Mark using: Select *Complete/incomplete*
-        - Description: add a note such as "This task is for your own practice and will not be marked" to make clear that this is not an assessed task.
+        - Description: add a note such as *"This task is for your own practice and will not be marked. You do not need to submit your conversations."* to make clear that this is not an assessed task.
         - Maximum points: set the conversation and reflection question to 0 marks
 
 === "Formative assessment task"
@@ -92,17 +97,17 @@ How you implement the AI Conversation varies slightly depending on the intended 
 </br>![Conversation type selection: described in example below](images/ai-conversation-step-1.png)
 4. Input **Student instructions**. For *Socratic questioning* enter a clear, open-ended question, and for a *Role play* describe the situation, roles and the goal of the conversation. Click **Next**.
 </br>![Role play situation: described in example below](images/ai-conversation-step-2.png)
-5. Describe the **AI persona**, then click **Save**. See the [Influence of AI personas](../ultra/ai-conversation.md#influence-of-ai-persona) section below for more details.
+5. Describe the **AI persona**, then click **Save**. See the [AI personas: tips](../ultra/ai-conversation.md#ai-persona-tips) section below for more details. (The personality trait is not displayed to students).
 </br>![AI persona: described in example below](images/ai-conversation-step-3.png)
 6. If desired, click the three dots icon adjacent to *Reflection Question* to edit the question wording.
-7. Adjust the remaining conversation settings:
+7. Click **Preview chat** to make sure that the AI responds appropriately. If needed, click the three dots icon adjacent to *AI Conversation* to edit the instructions and persona and repeat.
+</br>![Settings: described in AI conversation example below](images/ai-conversation-review.png)
+8. Adjust the remaining conversation settings:
     - Enter a conversation **title** at the top of the screen.
     - Click the **cog icon** to open the full settings and adjust for your needs (see the [Assessment & AI Conversations section](../ultra/ai-conversation.md#assessment--ai-conversation) for suggested settings). Click **Save**.
     - If needed, click the points pill to adjust the marks awarded (default: 0 marks for the conversation, 1 mark for the reflection)
     - Set an appropriate [content visibility](../ultra/content-visibility.md).
     </br>![decorative](images/ai-conversation-settings.png)
-8. Click **Preview chat** to make sure that the AI responds appropriately. If needed, click the three dots icon adjacent to *AI Conversation* to edit the instructions and persona and repeat.
-</br>![Settings: described in example below](images/ai-conversation-review.png)
 
 ??? Abstract "AI conversation: interface and examples"
 
@@ -137,9 +142,19 @@ How you implement the AI Conversation varies slightly depending on the intended 
     - Attempts allowed: unlimited
     - Description: This task is for your own practice and will not be marked
 
-## Influence of AI persona
+## AI persona: tips
 
-The AI persona can have a large influence on the tone and content of responses, so always preview the chat to make sure the responses are appropriate for your intended use.
+The AI persona has a big influence on the tone and content of responses, so you can use this to set up certain types of conversations.
+
+The AI persona's name and image are displayed to students, but the personality trait is not.
+
+!!! Warning 
+
+    Always preview the chat before making the conversation visible to students to make sure responses are appropriate for your intended use. 
+
+### Specific persona
+
+Constrain AI responses by adding a detailed, specific *Personality trait*. This can include personality, current mood, age, job, other personal details, a problem or concern that they have etc. This is useful to help students deal with particular situations.
 
 Here are three personas responding to the same situation, with very different conversations occurring:
 
@@ -214,6 +229,59 @@ Here are three personas responding to the same situation, with very different co
     </div>
     ![Interface with extract of Persona 3 conversation](images/ai-conversation-persona-3.png)
     </div>
+
+### Random responses
+
+Allow flexibility in AI responses by entering the personality trait as random or giving a list of options.
+
+This could be especially useful for students to use the conversation multiple times to practice unpredictable  interactions in a low-stakes environment.
+
+??? Quote "Random persona 1: patient at GP (random health problem)"
+
+    - Scenario: You are a GP assessing a patient (the AI) in your practice. Ask them questions to find out what the problem is and decide what treatment is needed.
+    - Personality trait: An adult patient with a random health problem or injury. (Not shown to students)
+    - Complexity of responses: 7/10
+
+    ---
+
+    <div markdown class="grid">
+    <div markdown>
+    *Student*: Hi there, what seems to be the problem today?
+
+    *Sample of AI responses*:
+
+    - I've been feeling really anxious lately and it's affecting my sleep. I just can't seem to calm down and my mind keeps racing.
+    - I've been feeling extremely tired lately. Even after a full night's sleep, I wake up feeling exhausted. It's been going on for a couple of weeks now, and I'm starting to get really frustrated.
+    - I've been having a really bad headache for the past few days and it's starting to affect my work. I'm getting a bit worried because I don't usually experience headaches like this.
+    - I've been feeling a lot of pain in my lower back for the past week and it's been getting worse. I'm really worried about it.
+    </div>
+    ![Example conversation with patient with random problem, described in text](images/ai-conversation-random-gp.png)
+    </div>
+
+
+??? Quote "Random persona 2: parent talking to teacher (list of moods)"
+
+    - Scenario: You are a teacher talking to a student's parent (the AI). Their child usually performs well in your class but recently they have fallen behind. Tell the parent and try to find out if there are any problems that might explain the change.
+    - Personality trait: Your child is in the teacher's class. React in one of these ways: worried, concerned, angry, bored, dismissive, combative. (Not shown to students)
+    - Complexity of responses: 5/10
+
+    ---
+
+    <div markdown class="grid">
+    <div markdown>
+
+    *Student*: Jae usually does very well, but recently they have been very distracted and failed their last test. Do you have any idea why their performance has changed?
+
+    *Sample of AI responses*:
+
+    - I'm concerned to hear this. Jae didn't mention any problems at home, but they have been more quiet lately. Do you think there's something happening at school?
+    - I haven't noticed anything unusual at home. Jae might just be going through a phase. I'll talk to them and see if there's anything bothering them, but they usually handle things well on their own.
+    - I had no idea Jae was falling behind! I know they have been really stressed lately, perhaps that's affecting their focus in class. Is there anything we can do to help them improve?
+    - I don't understand why this is suddenly an issue, Jae's always been a good student. Are you sure it's not something with your teaching? Maybe they aren’t being challenged enough in the class?
+    </div>
+    ![Example conversation with parent in random mood, described in text](images/ai-conversation-random-teacher.png)
+    </div>
+
 
 ## Marking & feedback
 

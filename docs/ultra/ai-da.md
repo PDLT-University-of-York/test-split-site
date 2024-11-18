@@ -31,6 +31,7 @@ AI-DA tools generate content based on the site and/or item title, and any additi
 
 Ways you can provide context:
 
+- Enter a **title** for the item before you use the AI-DA tools. 
 - Enter a **Description**: key words, general task requirements, module information etc. 
 - For most features, you can **Select course items** that contain relevant content, such as Documents or uploaded lecture slides.
 </br>![Click Select course items button, then click through site structure to choose the items to include](images/aida-select-course-items.png)
