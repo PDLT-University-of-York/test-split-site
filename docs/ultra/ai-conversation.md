@@ -24,7 +24,7 @@ The AI conversation tool has two components:
 
 The available conversation types are:
 
-<div class="grid cards wide" markdown>
+<div class="grid cards wide show-bullets" markdown>
 
 - **Socratic questioning  :material-chat-question:**
 
