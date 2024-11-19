@@ -14,7 +14,7 @@ We are available:
 
 - By email (vle-support@york.ac.uk): 09:00-17:00, Monday to Friday
 - By phone (01904 32 1131): between 10:00-12:00 and between 14:00-16:00, Monday to Friday
-- We are closed on [bank holidays](https://www.gov.uk/bank-holidays); for technical support out of hours, refer [to our team's linktree page for useful links](https://elearningyork.wpcomstaging.com/help-support-home/).
+- We are closed on [bank holidays](https://www.gov.uk/bank-holidays); for technical support out of hours, refer [to our team's linktree page for useful links](https://linktr.ee/uoyvle).
 
 ## Information to include
 To help us to help you more quickly, please include:
