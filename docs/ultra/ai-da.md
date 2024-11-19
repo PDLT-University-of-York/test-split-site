@@ -13,7 +13,7 @@ Ultra's AI tools are powered by Microsoft's Azure OpenAI Service, and underpinne
 
 !!! Success "Use of data"
 
-    Content within the site and descriptions provided are not used to train the AI model. In other words, your data does not leave the site.
+    Content within the site and descriptions provided are not shared back to the AI training model. In other words, your data does not leave the site and remains secure in our UoY environment.
 
 In addition to the AI content generator tools in this guide, there is also a standalone [AI conversation tool](../ultra/ai-conversation.md) where students can directly interact with an AI persona.
 
