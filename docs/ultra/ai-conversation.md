@@ -55,9 +55,11 @@ The available conversation types are:
     - communicating research findings to a lay audience
 </div>
 
+The AI will continue to respond, so conversations do not have a natural end point. You may wish to give students a suggested number of contributions or tell them choose an appropriate point to end the conversation.
+
 ## Assessment & AI conversation
 
-AI conversation is designed as a formative assessment task, but it could also be used as an unmarked self-study task with no need to submit the conversation.
+AI conversation is designed as a formative assessment task, but it can also be used as an unmarked self-study task with no need to submit the conversation.
 
 !!! Warning 
     At this time, we **strongly advise** that the AI conversation tool is **not** used for summative assessment.
@@ -146,24 +148,28 @@ Select your intended use case for recommended settings:
     - Attempts allowed: unlimited
     - Description: This task is for your own practice and will not be marked
 
-## AI persona: tips
+## Tips for generating appropriate AI responses
 
-The AI persona has a big influence on the tone and content of responses, so you can use this to set up certain types of conversations.
+AI responses are informed by:
 
-The AI persona's name and image are displayed to students, but the personality trait is not.
+- the *question/topic* for socratic questioning or *scenario* for role play (shown to students)
+- the AI persona *personality trait*: this can include personality, current mood, age, job, other personal details, a problem or concern that they have etc. (not shown to students)
 
-!!! Warning 
+Vary the content and level of detail you provide when defining these to manipulate how the AI responds. This could be tightly constrained to a specific situation or be more flexible.
 
-    Always preview the chat before making the conversation visible to students to make sure responses are appropriate for your intended use. 
+!!! Tip 
 
-### Specific persona
+    Use the *Preview chat* function to explore how using different inputs influences AI responses, so you can select settings appropriate for your intended use.
 
-Constrain AI responses by adding a detailed, specific *Personality trait*. This can include personality, current mood, age, job, other personal details, a problem or concern that they have etc. This is useful to help students deal with particular situations.
+### Role play: specific situation
 
-Here are three personas responding to the same situation, with very different conversations occurring:
+Help students consider particular situations by steering AI responses with a detailed scenario and specific personality trait.
 
-??? Quote "Persona 1:  National Trust representative (has environmental concerns)"
+This is most useful for conversations that students will only do once, as AI responses will be very similar each time.
 
+??? Quote "Specific persona 1:  National Trust representative (has environmental concerns)"
+
+    - Situation: You are the organiser of a fell race. You are liaising with the landowner. Your goal is to secure permission to hold your race on their land and address any concerns they have about the race or its impact.
     - Personality trait: Professional and supportive, but concerned about the environmental impact of the race.
     - Complexity of responses: 7/10
 
@@ -183,11 +189,15 @@ Here are three personas responding to the same situation, with very different co
 
     *AI*: It's great to hear that runners will be self-sufficient as it minimizes waste. However, considering the rich biodiversity of the area, we need to ensure that other potential impacts such as trail erosion and disturbance to wildlife are also addressed. Could you tell me if there are any considerations or measures you will put in place to mitigate these concerns? Additionally, will there be any signage or briefing for participants to educate them on the importance of staying on the trail and respecting the environment?
     </div>
-    ![Interface with extract of Persona 1 conversation](images/ai-conversation-persona-1.png)
+    <figure markdown>
+    ![Described in text](images/ai-conversation-persona-1.png)
+    <figcaption>Staff preview of role play: Persona 1</figcaption>
+    </figure>
     </div>
 
-??? Quote "Persona 2: Local farmer (doesn't want to be involved)"
+??? Quote "Specific persona 2: Local farmer (doesn't want to be involved)"
 
+    - Situation: You are the organiser of a fell race. You are liaising with the landowner. Your goal is to secure permission to hold your race on their land and address any concerns they have about the race or its impact.
     - Personality trait: Very busy and angry at being disturbed. Doesn't want a race on their land.
     - Complexity of responses: 7/10
 
@@ -207,11 +217,15 @@ Here are three personas responding to the same situation, with very different co
 
     *AI*: Your proposed route still means potential stress for my animals and risks like litter and damage, even if it's just a public right of way. I'm busy with farm work and ensuring everything runs smoothly here. Why should I prioritize your race over my farm's needs?
     </div>
-    ![Interface with extract of Persona 2 conversation](images/ai-conversation-persona-2.png)
+    <figure markdown>
+    ![Described in text](images/ai-conversation-persona-2.png)
+    <figcaption>Staff preview of role play: Persona 2</figcaption>
+    </figure>
     </div>
 
-??? Quote "Persona 3: Village Hall operator (good for local community)"
+??? Quote "Specific persona 3: Village Hall operator (good for local community)"
 
+    - Situation: You are the organiser of a fell race. You are liaising with the landowner. Your goal is to secure permission to hold your race on their land and address any concerns they have about the race or its impact.
     - Personality trait: Supportive of the race. Thinks it'll be good for the local community.
     - Complexity of responses: 7/10
 
@@ -231,14 +245,17 @@ Here are three personas responding to the same situation, with very different co
 
     *AI*: That sounds like a responsible approach to minimising the impact on the land and wildlife. Additionally, could we consider involving local volunteers to help manage the route and ensure participants stick to the designated paths? This might also help foster community spirit and provide a safer environment for everyone involved.
     </div>
-    ![Interface with extract of Persona 3 conversation](images/ai-conversation-persona-3.png)
+    <figure markdown>
+    ![Described in text](images/ai-conversation-persona-3.png)
+    <figcaption>Staff preview of role play: Persona 3</figcaption>
+    </figure>
     </div>
 
-### Random responses
+### Role play: flexible AI responses
 
-Allow flexibility in AI responses by entering the personality trait as random or giving a list of options.
+To help students practice unpredictable interactions, allow flexibility in AI responses by providing a broad question/topic or scenario and a random or constrained list of personality traits.
 
-This could be especially useful for students to use the conversation multiple times to practice unpredictable  interactions in a low-stakes environment.
+This is also useful where students can repeat the conversation multiple times, as AI responses will differ each time.
 
 ??? Quote "Random persona 1: patient at GP (random health problem)"
 
@@ -252,14 +269,17 @@ This could be especially useful for students to use the conversation multiple ti
     <div markdown>
     *Student*: Hi there, what seems to be the problem today?
 
-    *Sample of AI responses*:
+    *Sample of initial AI responses for different conversations*:
 
     - I've been feeling really anxious lately and it's affecting my sleep. I just can't seem to calm down and my mind keeps racing.
     - I've been feeling extremely tired lately. Even after a full night's sleep, I wake up feeling exhausted. It's been going on for a couple of weeks now, and I'm starting to get really frustrated.
     - I've been having a really bad headache for the past few days and it's starting to affect my work. I'm getting a bit worried because I don't usually experience headaches like this.
     - I've been feeling a lot of pain in my lower back for the past week and it's been getting worse. I'm really worried about it.
     </div>
-    ![Example conversation with patient with random problem, described in text](images/ai-conversation-random-gp.png)
+    <figure markdown>
+    ![Described in text](images/ai-conversation-random-gp.png)
+    <figcaption>Student preview of role play: random problem</figcaption>
+    </figure>
     </div>
 
 
@@ -276,16 +296,78 @@ This could be especially useful for students to use the conversation multiple ti
 
     *Student*: Jae usually does very well, but recently they have been very distracted and failed their last test. Do you have any idea why their performance has changed?
 
-    *Sample of AI responses*:
+    *Sample of initial AI responses for different conversations*:
 
     - I'm concerned to hear this. Jae didn't mention any problems at home, but they have been more quiet lately. Do you think there's something happening at school?
     - I haven't noticed anything unusual at home. Jae might just be going through a phase. I'll talk to them and see if there's anything bothering them, but they usually handle things well on their own.
     - I had no idea Jae was falling behind! I know they have been really stressed lately, perhaps that's affecting their focus in class. Is there anything we can do to help them improve?
     - I don't understand why this is suddenly an issue, Jae's always been a good student. Are you sure it's not something with your teaching? Maybe they aren’t being challenged enough in the class?
     </div>
-    ![Example conversation with parent in random mood, described in text](images/ai-conversation-random-teacher.png)
+    <figure markdown>
+    ![Described in text](images/ai-conversation-random-teacher.png)
+    <figcaption>Student preview of role play: random mood</figcaption>
+    </figure>
     </div>
 
+### Socratic questioning
+
+In our testing, the level of detail provided for the question or topic and the personality trait had less impact on AI responses for socratic questioning.
+
+We did find that AI responses tended to be:
+
+- more specific question & persona: questions inviting the student to consider new points
+- more general question & persona: more follow up questions inviting the student to expand on their previous point
+
+??? Quote "Socratic questioning: more specific"
+    
+    - Question/topic: What are the most effective ways that fell racing and running can support environmental sustainability?
+    - Personality trait: A ranger for a National Park, very concerned about preserving land, plants and animal habitats. Be encouraging. Ask the student to explain and expand on their points.
+
+    ---
+    <div markdown class="grid">
+    <div markdown>
+
+    *Student*: Race organisers need to think about how they can protect the environment in the race, but also relating to the organisation and transport.
+
+    *AI*: How can race organisers minimise the environmental impact of transportation related to the event?
+
+    *Student*: Encourage participants to car share.
+
+    *AI*: What strategies could fell races implement to reduce waste and promote recycling during the event?
+    </div>
+    <figure markdown>
+    ![Described in text](images/ai-conversation-sc-specific.png)
+    <figcaption>Staff preview of socratic questioning: more specific</figcaption>
+    </figure>
+    </div>
+
+
+??? Quote "Socratic questioning: more general"
+
+    - Question/topic: Fell racing and environmental sustainability
+    - Personality trait: You are a National Park ranger. 
+
+    ---
+    <div markdown class="grid">
+    <div markdown>
+
+    *Student*: Race organisers need to think about how they can protect the environment in the race, but also relating to the organisation and transport.
+
+    *AI*: How do you think the impact of transportation to and from fell races could be reduced for better environmental sustainability?
+
+    *Student*: Encourage participants to car share.
+
+    *AI*: How might the local communities around fell racing locations be affected by the implementation of car sharing initiatives?
+
+    *Student*: These are areas with little or no public transport, so most people will arrive bty car. Car sharing reduces the number of cars, so eases congestion in local communities and also produces less emissions.
+
+    *AI*: What other logistical strategies could be implemented to further minimize the environmental impact of fell racing events?
+    </div>
+    <figure markdown>
+    ![Described in text](images/ai-conversation-sc-general.png)
+    <figcaption>Staff preview of socratic questioning: more general</figcaption>
+    </figure>
+    </div>
 
 ## Marking & feedback
 
