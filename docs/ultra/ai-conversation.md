@@ -13,7 +13,7 @@ Ultra's AI tools are powered by Microsoft's Azure OpenAI Service, and underpinne
 
 !!! Success "Use of data"
 
-    Content within the site and descriptions provided are not used to train the AI model. In other words, your data does not leave the site.
+    Your input to define the conversation and the resulting student-AI conversations are not shared back to the AI training model. In other words, your data does not leave the site and remains secure in our UoY environment.
 
 There are also various [AI Design Assistant tools](../ultra/ai-da.md) available within Ultra to help you develop static site content.
 
@@ -94,66 +94,12 @@ Select your intended use case for recommended settings:
         - Assessment mark: tick if you want to post (release) marks automatically. Leave it unticked if you want to manually choose when to release marks.
         - Maximum points: leave as default (1 - to show students you've reviewed it)
 
-## Create an AI conversation
-
-1. In the relevant location in your course, click the **plus icon** then **Create**.
-2. Click **AI Conversation** under *Participation and Engagement*.
-</br>![decorative](images/ai-conversation-create.png)
-3. Select the **Conversation type** then click **Next**.
-</br>![Conversation type selection: described in example below](images/ai-conversation-step-1.png)
-4. Input **Student instructions**. For *Socratic questioning* enter a clear, open-ended question, and for a *Role play* describe the situation, roles and the goal of the conversation. Click **Next**.
-</br>![Role play situation: described in example below](images/ai-conversation-step-2.png)
-5. Describe the **AI persona**, then click **Save**. See the [AI personas: tips](../ultra/ai-conversation.md#ai-persona-tips) section below for more details. (The personality trait is not displayed to students).
-</br>![AI persona: described in example below](images/ai-conversation-step-3.png)
-6. If desired, click the three dots icon adjacent to *Reflection Question* to edit the question wording.
-7. Click **Preview chat** to make sure that the AI responds appropriately. If needed, click the three dots icon adjacent to *AI Conversation* to edit the instructions and persona and repeat.
-</br>![Settings: described in AI conversation example below](images/ai-conversation-review.png)
-8. Adjust the remaining conversation settings:
-    - Enter a conversation **title** at the top of the screen.
-    - Click the **cog icon** to open the full settings and adjust for your needs (see the [Assessment & AI Conversations section](../ultra/ai-conversation.md#assessment--ai-conversation) for suggested settings). Click **Save**.
-    - If needed, click the points pill to adjust the marks awarded (default: 0 marks for the conversation, 1 mark for the reflection)
-    - Set an appropriate [content visibility](../ultra/content-visibility.md).
-    </br>![decorative](images/ai-conversation-settings.png)
-
-??? Abstract "AI conversation: interface and examples"
-
-    **Title**: Role Play: Landowner liaison
-
-    **Step 1 of 3**: Conversation type
-    
-    - Instructions for this step: Select the type of conversation your students will engage in.
-    - Type selected: Role play
-
-    **Step 2 of 3**: Student Instructions
-
-    - Instructions for this step: Set the scene and define the student's role. This scenario will be shown to the student to set context. Things to include: the scenario, the student's role in the scenario, the role of the AI persona, what they're trying to achieve in the scenario.
-    - Scenario description: You are the organiser of a fell race. You are liaising with the landowner. Your goal is to secure permission to hold your race on their land and address any concerns they have about the race or its impact.
-
-    **Step 3 of 3: AI persona** 
-
-    - Instructions for this step: Who should the AI be? This allows you to define who the AI persona is, including the style in which they respond to the student. An AI persona can be a historical figure, expert, fictitious character or anyone else. Briefly describe the persona occupation, personality or mood.
-    - Persona description:
-        - Name: National Trust representative
-        - Personality trait: Professional and supportive, but concerned about the environmental impact of the race.
-        - Complexity of responses: 7/10
-    
-    **Reflection Question**: In what ways did the conversation advance your understanding of the topic?
-
-    **Settings**
-
-    - No due date
-    - flagged as Formative Tools
-    - Mark category: Assignment
-    - Marking: complete/incomplete, 1 maximum point, manually post marks
-    - Attempts allowed: unlimited
-    - Description: This task is for your own practice and will not be marked
-
 ## Tips for generating appropriate AI responses
 
 AI responses are informed by:
 
-- the *question/topic* for socratic questioning or *scenario* for role play (shown to students)
-- the AI persona *personality trait*: this can include personality, current mood, age, job, other personal details, a problem or concern that they have etc. (not shown to students)
+- the **question/topic** for socratic questioning or **scenario** for role play (shown to students)
+- the AI persona **personality trait**: this can include personality, current mood, age, job, other personal details, a problem or concern that they have etc. (not shown to students)
 
 Vary the content and level of detail you provide when defining these to manipulate how the AI responds. This could be tightly constrained to a specific situation or be more flexible.
 
@@ -165,7 +111,7 @@ Vary the content and level of detail you provide when defining these to manipula
 
 Help students consider particular situations by steering AI responses with a detailed scenario and specific personality trait.
 
-This is most useful for conversations that students will only do once, as AI responses will be very similar each time.
+This is most useful for conversations that students will only take part in once, as AI responses will be very similar each time.
 
 ??? Quote "Specific persona 1:  National Trust representative (has environmental concerns)"
 
@@ -311,12 +257,12 @@ This is also useful where students can repeat the conversation multiple times, a
 
 ### Socratic questioning
 
-In our testing, the level of detail provided for the question or topic and the personality trait had less impact on AI responses for socratic questioning.
+In our testing, the level of detail provided for the question or topic and the personality trait had much less impact on AI responses for socratic questioning. 
 
-We did find that AI responses tended to be:
+We did generally find that if input was:
 
-- more specific question & persona: questions inviting the student to consider new points
-- more general question & persona: more follow up questions inviting the student to expand on their previous point
+- more specific question & persona: AI responses are more likely to invite the student to consider new points.
+- more general question & persona: AI responses also include follow up questions inviting the student to expand on their previous point.
 
 ??? Quote "Socratic questioning: more specific"
     
@@ -368,6 +314,60 @@ We did find that AI responses tended to be:
     <figcaption>Staff preview of socratic questioning: more general</figcaption>
     </figure>
     </div>
+
+## Create an AI conversation
+
+1. In the relevant location in your course, click the **plus icon** then **Create**.
+2. Click **AI Conversation** under *Participation and Engagement*.
+</br>![decorative](images/ai-conversation-create.png)
+3. Select the **Conversation type** then click **Next**.
+</br>![Conversation type selection: described in example below](images/ai-conversation-step-1.png)
+4. Input **Student instructions**. For *Socratic questioning* enter a clear, open-ended question, and for a *Role play* describe the situation, roles and the goal of the conversation. Click **Next**.
+</br>![Role play situation: described in example below](images/ai-conversation-step-2.png)
+5. Describe the **AI persona**, then click **Save**. See the [AI personas: tips](../ultra/ai-conversation.md#ai-persona-tips) section below for more details. (The personality trait is not displayed to students).
+</br>![AI persona: described in example below](images/ai-conversation-step-3.png)
+6. If desired, click the three dots icon adjacent to *Reflection Question* to edit the question wording.
+7. Click **Preview chat** to make sure that the AI responds appropriately. If needed, click the three dots icon adjacent to *AI Conversation* to edit the instructions and persona and repeat.
+</br>![Settings: described in AI conversation example below](images/ai-conversation-review.png)
+8. Adjust the remaining conversation settings:
+    - Enter a conversation **title** at the top of the screen.
+    - Click the **cog icon** to open the full settings and adjust for your needs (see the [Assessment & AI Conversations section](../ultra/ai-conversation.md#assessment--ai-conversation) for suggested settings). Click **Save**.
+    - If needed, click the points pill to adjust the marks awarded (default: 0 marks for the conversation, 1 mark for the reflection)
+    - Set an appropriate [content visibility](../ultra/content-visibility.md).
+    </br>![decorative](images/ai-conversation-settings.png)
+
+??? Abstract "AI conversation: interface and examples"
+
+    **Title**: Role Play: Landowner liaison
+
+    **Step 1 of 3**: Conversation type
+    
+    - Instructions for this step: Select the type of conversation your students will engage in.
+    - Type selected: Role play
+
+    **Step 2 of 3**: Student Instructions
+
+    - Instructions for this step: Set the scene and define the student's role. This scenario will be shown to the student to set context. Things to include: the scenario, the student's role in the scenario, the role of the AI persona, what they're trying to achieve in the scenario.
+    - Scenario description: You are the organiser of a fell race. You are liaising with the landowner. Your goal is to secure permission to hold your race on their land and address any concerns they have about the race or its impact.
+
+    **Step 3 of 3: AI persona** 
+
+    - Instructions for this step: Who should the AI be? This allows you to define who the AI persona is, including the style in which they respond to the student. An AI persona can be a historical figure, expert, fictitious character or anyone else. Briefly describe the persona occupation, personality or mood.
+    - Persona description:
+        - Name: National Trust representative
+        - Personality trait: Professional and supportive, but concerned about the environmental impact of the race.
+        - Complexity of responses: 7/10
+    
+    **Reflection Question**: In what ways did the conversation advance your understanding of the topic?
+
+    **Settings**
+
+    - No due date
+    - flagged as Formative Tools
+    - Mark category: Assignment
+    - Marking: complete/incomplete, 1 maximum point, manually post marks
+    - Attempts allowed: unlimited
+    - Description: This task is for your own practice and will not be marked
 
 ## Marking & feedback
 
