@@ -56,6 +56,8 @@ We are not currently able to fully support Gradescope; please refer to Gradescop
 
 ### For students
 
-- [Learn VLE: Student - **Assessment Submission via Gradescope - Variable Length Assignment**](https://docs.google.com/document/d/1EyjdzaV3wPcGtKyrYidjziNyKX2Rbzc6WQLjA7NE2bs)
-- [Learn VLE: Student - **Assessment Submission via Gradescope - Templated Assignment**](https://docs.google.com/document/d/1vLI00PpruvfCc1rVgxpwaLgYs8wb6bwEUEVOox0_vb4)
-- [Learn VLE: Student - **Assessment Submission via the Gradescope Mobile app for a Variable Length Assignment**](https://docs.google.com/document/d/1K-1bzgvIlY5YONARfOyhH7BhbKuimZXIETL0QOx-yMk)
+- [[Google Doc] Learn VLE: Student - **Assessment Submission via Gradescope - Variable Length Assignment**](https://docs.google.com/document/d/1EyjdzaV3wPcGtKyrYidjziNyKX2Rbzc6WQLjA7NE2bs)
+- [[Google Doc] Learn VLE: Student - **Assessment Submission via Gradescope - Templated Assignment**](https://docs.google.com/document/d/1vLI00PpruvfCc1rVgxpwaLgYs8wb6bwEUEVOox0_vb4)
+- [[Google Doc] Learn VLE: Student - **Assessment Submission via the Gradescope Mobile app for a Variable Length Assignment**](https://docs.google.com/document/d/1K-1bzgvIlY5YONARfOyhH7BhbKuimZXIETL0QOx-yMk)
+- [[Panopto] Learn VLE: Student - **Assessment Submission via Gradescope (Variable Length/Templated)**](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55d74740-564b-47ff-848f-b21e00e8885a)
+- [[YouTube] Learn VLE: Student - **Assessment Submission via Gradescope (Variable Length/Templated)**](https://youtu.be/sZpvERTJKPo)
