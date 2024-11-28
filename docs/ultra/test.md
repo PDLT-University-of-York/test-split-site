@@ -167,7 +167,7 @@ As with all teaching content, accessibility is very important when building test
 1. Hover where you want the Test to appear, click the plus icon, then **Create**, then select **Test**.
 2. Enter a descriptive **name** at the top left. 
 3. Click the plus icon to add **questions** (see Test questions section below).
-4. Set the **Due date** and adjust other settings as needed (see Test settings section below).
+4. Set a **Due date** within work hours and adjust other settings as needed (see Test settings section below).
 5. Once confident that the Test is ready, set it as **Visible to students** or specify  **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
 
 ![decorative](images/test-create.png)
