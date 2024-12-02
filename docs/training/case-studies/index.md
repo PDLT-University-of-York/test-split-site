@@ -26,6 +26,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [VLE Test for assessment](../../training/case-studies/cs-yuan.md)
 - [Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module](../../training/case-studies/sbs-fanning.md)
 - [Formative teaching assignments: Moving to electronic submission and marking in Chemistry](../../training/case-studies/chem-parsons.md)
+- [Summative marking with Turnitin Feedback Studio](../../training/case-studies/eng-asciuto.md) 
 - [Designing appropriate assessments](../../training/case-studies/law-slorach.md)
 - [Portfolio approaches in the Undergraduate Global Development degree programme](../../training/case-studies/politics-krauss.md)
 - [Philosophy and Society Podcasts for assessed groupwork](../../training/case-studies/philosophy-jay-lee.md)
