@@ -20,13 +20,14 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [VLE Test for assessment](../../training/case-studies/cs-yuan.md)
 - [Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module](../../training/case-studies/sbs-fanning.md)
 - [Formative teaching assignments: Moving to electronic submission and marking in Chemistry](../../training/case-studies/chem-parsons.md)
+- [Making course notes (with mathematical equations) more accessible](../../training/case-studies/maths-hargreaves.md)
 
 ## Assessment
 
 - [VLE Test for assessment](../../training/case-studies/cs-yuan.md)
 - [Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module](../../training/case-studies/sbs-fanning.md)
 - [Formative teaching assignments: Moving to electronic submission and marking in Chemistry](../../training/case-studies/chem-parsons.md)
-<!--  - [Summative marking with Turnitin Feedback Studio](../../training/case-studies/eng-asciuto.md) -->
+- [Summative marking with Turnitin Feedback Studio](../../training/case-studies/eng-asciuto.md) 
 - [Designing appropriate assessments](../../training/case-studies/law-slorach.md)
 - [Portfolio approaches in the Undergraduate Global Development degree programme](../../training/case-studies/politics-krauss.md)
 - [Philosophy and Society Podcasts for assessed groupwork](../../training/case-studies/philosophy-jay-lee.md)
@@ -57,6 +58,11 @@ Videos from staff at the University of York showing approaches to learning, teac
 
 - [Enhancing in-person learning opportunities by using recorded media](../../training/case-studies/law-slorach2.md)
 - [The challenges and opportunities of pre-recorded lecture content](../../training/case-studies/archaeology-spikins.md)
+
+## Digital Accessibility
+
+- [Accessible VLE sites in Ultra](../../training/case-studies/env-geog-chapman.md)
+- [Making course notes (with mathematical equations) more accessible](../../training/case-studies/maths-hargreaves.md)
 
 ## Other tools
 

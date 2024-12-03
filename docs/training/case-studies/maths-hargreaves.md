@@ -18,7 +18,7 @@ Summarising the process, Jess reported that she had found it relatively straight
 
 Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4abd88ba-50da-43f1-b150-b23a00aea754&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Making course notes (with mathematical equations) more accessible" ></iframe>
 
-[Formative teaching assignments: Moving to electronic submission and marking in Chemistry  (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4abd88ba-50da-43f1-b150-b23a00aea754) (8 mins 41 secs, UoY log-in required)
+[Making course notes (with mathematical equations) more accessible  (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4abd88ba-50da-43f1-b150-b23a00aea754) (8 mins 41 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 

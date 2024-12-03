@@ -18,7 +18,7 @@ Although moderation processes still need to be carried out outside Turnitin Feed
 
 Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=70a178db-b78a-478a-9cbb-b236011aec8a&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Summative marking with Turnitin Feedback Studio" ></iframe>
 
-[Formative teaching assignments: Moving to electronic submission and marking in Chemistry  (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=70a178db-b78a-478a-9cbb-b236011aec8a) (7 mins 56 secs, UoY log-in required)
+[Summative marking with Turnitin Feedback Studio (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=70a178db-b78a-478a-9cbb-b236011aec8a) (7 mins 56 secs, UoY log-in required)
 
 ??? Abstract "Transcript"
 
