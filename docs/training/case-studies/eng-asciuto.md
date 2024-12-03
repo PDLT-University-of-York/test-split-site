@@ -8,7 +8,7 @@ tags:
 
 Department of Department of English and Related Literature<br />Nicoletta Asciuto
 
-Nicoletta Asciuto shares experiences of using the Ultra VLE to mark and provide feedback on mostly essay-based summative assignments in the Department of English and Related Literature.
+Nicoletta Asciuto shares experiences of using Turnitin Feedback Studio to mark and provide feedback on mostly essay-based summative assignments in the Department of English and Related Literature.
 
 Prior to the introduction of Ultra, Turnitin was used for originality reporting and to allow staff to access submissions for marking, but marking and feedback was provided via Google drive.  With the need to refer to assessment criteria during the marking process, this meant that up to three open windows were required which proved to be inconvenient for markers.
 
