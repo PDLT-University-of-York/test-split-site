@@ -12,6 +12,8 @@
     --md-admonition-principle--light: #E31A821a;
     --md-admonition-casestudy: #FD5000;
     --md-admonition-casestudy--light: #FD50001a;
+    --md-admonition-ai: #7e56c2;
+    --md-admonition-ai--light: #7e56c21a;
 }
 
 .md-nav__item .md-nav__link--active {
@@ -146,7 +148,7 @@ div.centered-image {
         padding: 0.5rem;
     }
 
-/*** Custom admonitions */
+/*** Custom admonitions (colour variables at top)*/
 
 /* Site design principles: essential */
 :root {
@@ -229,4 +231,24 @@ background-color: var(--md-admonition-casestudy--light);
 background-color:var(--md-admonition-casestudy);
 -webkit-mask-image: var(--md-admonition-icon--case-study);
         mask-image: var(--md-admonition-icon--case-study);
+}
+
+/* AI: box for content pages */
+
+:root {
+    --md-admonition-icon--ai: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>robot</title><path d="M12,2A2,2 0 0,1 14,4C14,4.74 13.6,5.39 13,5.73V7H14A7,7 0 0,1 21,14H22A1,1 0 0,1 23,15V18A1,1 0 0,1 22,19H21V20A2,2 0 0,1 19,22H5A2,2 0 0,1 3,20V19H2A1,1 0 0,1 1,18V15A1,1 0 0,1 2,14H3A7,7 0 0,1 10,7H11V5.73C10.4,5.39 10,4.74 10,4A2,2 0 0,1 12,2M7.5,13A2.5,2.5 0 0,0 5,15.5A2.5,2.5 0 0,0 7.5,18A2.5,2.5 0 0,0 10,15.5A2.5,2.5 0 0,0 7.5,13M16.5,13A2.5,2.5 0 0,0 14,15.5A2.5,2.5 0 0,0 16.5,18A2.5,2.5 0 0,0 19,15.5A2.5,2.5 0 0,0 16.5,13Z" /></svg>')
+}
+.md-typeset .admonition.ai,
+.md-typeset details.ai {
+border-color: var(--md-admonition-ai);
+}
+.md-typeset .ai > .admonition-title,
+.md-typeset .ai > summary {
+background-color: var(--md-admonition-ai--light);
+}
+.md-typeset .ai > .admonition-title::before,
+.md-typeset .ai > summary::before {
+background-color:var(--md-admonition-ai);
+-webkit-mask-image: var(--md-admonition-icon--ai);
+        mask-image: var(--md-admonition-icon--ai);
 }
