@@ -33,7 +33,9 @@ Possible uses include:
 
 An AI-powered grouping tool is automatically available on any open-ended question slide with more than 10 responses. This could be useful to help you quickly identify key themes in responses during live sessions.
 
-1. To activate the AI grouping tool, press **space** on the keyboard or click the button.
+To activate the AI grouping tool
+
+1. Once sufficient responses are received, press **space** on the keyboard or click the button to group responses.
 </br>![decorative](images/question-types-open-grouping-tool1.jpg)
 2. Depending on response numbers and complexity, you may see a *Sorting the circles from squares* waiting page while the grouping takes place.
 </br>![decorative](images/question-types-open-grouping-tool2.jpg)
