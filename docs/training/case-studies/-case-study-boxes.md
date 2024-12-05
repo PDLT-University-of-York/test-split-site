@@ -8,12 +8,37 @@
     See the [full case study for more details and the transcript](../training/case-studies/FILENAME.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
+!!! case-study "Case study: Using the journal tool and discussion groups on the *Strategic planning: a journey* module"
+
+    Jonathan Fanning shares his experiences of using the Course Group, Journal and Discussion tools to support a highly interactive project-based module in SBS. 
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=167ef405-c78b-4410-9ed4-b235010789d8&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Using  Ultra Discusion Groups and Journals" ></iframe>
+
+    [Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=167ef405-c78b-4410-9ed4-b235010789d8) (6 mins 42 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/sbs-fanning.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+# Case study: Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module
+
+School of Business and Society<br />Jonathan Fanning
+
+Jonathan Fanning shares his experiences of using the journal, groups and discussion board tools to support students on a 20 credit postgraduate module.  The module involves interaction within and between up to 18 small groups to support a strategic simulation activity known as ‘the game’.  Students take on roles within their teams and have to make decisions on what ‘moves’ they should make and what strategies they should deploy when interacting with other groups.
+
+The **discussion boards** allow students to share ideas, discuss and dynamically change their plans, and seek feedback, whilst also allowing staff to monitor learning and engagement.  Students frequently shared supporting files, showing work in progress or complete versions of work, and they also tended to share pictures and use other methods of showing their personalities through the activities. 
+
+Students also used the **journal tool** for reflective diaries which were used for both formative and summative purposes.  Staff experienced challenges in monitoring and providing feedback given the size and number of student journals, but use of dictation tools supported greater efficiency and feedback volume.  Jonathan was clear on the value of gaining insights into the process of development and learning compared to reliance on the end products alone.  He noted that student engagement with the module was high and that feedback was positive.
+
+Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=167ef405-c78b-4410-9ed4-b235010789d8&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Using  Ultra Discusion Groups and Journals" ></iframe>
+
+[Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=167ef405-c78b-4410-9ed4-b235010789d8) (6 mins 42 secs, UoY log-in required)
+
 # Case study: A cross-departmental approach to consistency in the VLE for Archaeology
 archaeology-alexander-bates
 
 !!! case-study "Case study: A cross-departmental approach to consistency in the VLE for Archaeology"
 
-    Michelle Alexander and Jess Bates give an overview Archaeology's collaborative approach to developing consistent, but still customisable VLE module sites.
+    Michelle Alexander and Jess Bates give an overview of Archaeology's collaborative approach to developing consistent, but still customisable VLE module sites.
 
     Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=dd76e543-8be4-4b3f-a0e3-b0c100f43f96&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Cross-departmental approach to consistency to the VLE in Archaeology" ></iframe>
 
