@@ -31,4 +31,4 @@ You can edit any slide to suit your needs, but it is not possible to go back to 
 
 When using 'Start with AI'', you are not given the option to select one of the [University themes](https://vle-support.york.ac.uk/other-tools/mentimeter/create-presentation/#slide-theme). These must be selected from 'Design - themes' once the presentation has been created.
 
-Images built using 'Start with AI' do not have alt-text, so you will need to add this when sharing your slides before or after a live presentation. If you change to an alternative image from the Mentimeter image library, this will come with alt-text as normal.
+Images built using 'Start with AI' do not have alt-text, so you will need to add this when sharing your slides before or after a live presentation. If you replace an image with an alternative from the Mentimeter image library, this will include alt-text as normal.
