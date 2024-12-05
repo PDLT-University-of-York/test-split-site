@@ -25,10 +25,10 @@ The key elements required in the prompt are the **type** of session and the **to
 
 ## Editing
 
-You can edit any slide to suit your needs, but it is not possible to go back to tweak the initial prompt used. Insead, you would need to start again with an alternative prompt. When editing question slides, you can usually switch between different closed question types (e.g. MCQ to ranking or scales) or between open questions types (e.g. word cloud to open response) to suit your needs without losing any content.  You can also [change any of the images](https://help.mentimeter.com/en/articles/1884516-add-images-and-gifs-to-your-presentation) used. 
+You can edit any slide to suit your needs, but it is not possible to go back to tweak the initial prompt used. Instead, you would need to start again with an alternative prompt. When editing question slides, you can usually switch between different closed question types (e.g. MCQ to ranking or scales) or between open questions types (e.g. word cloud to open response) to suit your needs without losing any content.  You can also [change any of the images](https://help.mentimeter.com/en/articles/1884516-add-images-and-gifs-to-your-presentation) used. 
 
 ## Design and accessibility 
 
 When using 'Start with AI'', you are not given the option to select one of the [University themes](https://vle-support.york.ac.uk/other-tools/mentimeter/create-presentation/#slide-theme). These must be selected from 'Design - themes' once the presentation has been created.
 
-Images built using 'Start with AI' do not have alt-text, so you will need to add this when sharing your slides before or after a live presentation. If you change to an alernative image from the Mentimeter image library, this will come with alt-text as normal.
+Images built using 'Start with AI' do not have alt-text, so you will need to add this when sharing your slides before or after a live presentation. If you change to an alternative image from the Mentimeter image library, this will come with alt-text as normal.

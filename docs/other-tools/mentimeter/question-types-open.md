@@ -53,7 +53,7 @@ To activate the AI grouping tool:
 </br> ![decorative](images/question-types-open-grouping-tool3.jpg)
 4. Click on a group heading to view the individual responses categorised within it. You can return to the list of groups by selecting the link at the top.
 </br> ![decorative](images/question-types-open-grouping-tool4.jpg)
-5. To move a specific item from one group to another, select its **three dots menu icon**and choose from the existing groups or add a new group to move it to.
+5. To move a specific item from one group to another, select its **three dots menu icon** and choose from the existing groups or add a new group to move it to.
 </br>![decorative](images/question-types-open-grouping-tool5.jpg)
 6. To remove the AI grouping, press **space** again to hide the groups. This is necessary before [participants can vote on responses](#voting-on-open-responses).
 
@@ -76,9 +76,10 @@ Alongside the grouping function, an AI-powered summarising tool is also availabl
 ![decorative](images/question-types-open-summarising-tool.jpg)
 
 To activate the summarising tool, select the [insights button](https://help.mentimeter.com/en/articles/9538597-the-insights-button) and choose 'Summary'. 
+
 ![decorative](images/question-types-open-summarising-tool2.jpg)
 
-After a short 'Generating insights' delay, the list of key points will display.  Simply close the panel to return to the reponses.
+After a short 'Generating insights' delay, the list of key points will display.  Simply close the panel to return to the responses.
 
 ### Voting on open responses
 
