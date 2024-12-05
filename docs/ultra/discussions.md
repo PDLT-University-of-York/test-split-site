@@ -11,6 +11,25 @@ tags:
 
     Discussions let students communicate asynchronously with each other and teaching staff on a particular topic.
 
+Discussions can be used in many ways, such as:
+
+- Q&A forum, with optional anonymous posting
+- sharing small-scale student contributions (eg. a relevant paper)
+- asynchronous seminar-style discussion
+- facilitating group work
+
+!!! case-study "Case study: Using the journal tool and discussion groups on the *Strategic planning: a journey* module"
+
+    Jonathan Fanning shares his experiences of using the Course Group, Journal and Discussion tools to support a highly interactive project-based module in SBS. 
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=167ef405-c78b-4410-9ed4-b235010789d8&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Using  Ultra Discusion Groups and Journals" ></iframe>
+
+    [Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=167ef405-c78b-4410-9ed4-b235010789d8) (6 mins 42 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/sbs-fanning.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+
 ## Create a discussion
 
 1. In the Course Content area, hover where the discussion should appear. Click the **plus icon** then **Create**.</br>
