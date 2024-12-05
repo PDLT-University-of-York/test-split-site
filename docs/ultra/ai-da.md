@@ -61,7 +61,7 @@ AI-DA can generate prompts for **Discussions**, **Assignments** and **Journals**
 
 !!! ai "Using the task prompt generators effectively"
 
-    Task prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more in-depth or time-consuming than appropriate for weekly or formative tasks.
+    Task prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more complex or time-consuming than appropriate for weekly or formative tasks.
 
 Prompts can be aligned to **cognitive levels** based on Bloom's Taxonomy:
 

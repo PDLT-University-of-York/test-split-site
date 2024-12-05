@@ -17,7 +17,7 @@ tags:
 2. Under **Participation and Engagement**, select **Discussion**.</br>
 ![Decorative](images/discussion-create.png)
 3. Enter a descriptive **discussion title** at the top left. 
-4. Enter instructions or an initial post in the text editor box and click **Save**, or select **Auto-generate discussion** to [use AI to generate a discussion prompt](../ultra/ai-da.md#task-prompts). This will also be shown to students as the item description on the course content page.
+4. Enter instructions or an initial post in the text editor box and click **Save**, or click **Auto-generate discussion** to [use AI to generate a discussion prompt](#generate-discussion-prompts-with-ai). This will also be shown to students as the item description on the course content page.
 </br>![Example initial post: What are the most important factors to consider when organising a fell race? Include at least two factors and respond to at least two of your peers.](images/discussion-initial-post.png)
 5. To [follow/subscribe to the discussion](#follow-subscribe-to-discussions), click the **Follow** bell icon adjacent to Discussion Topic (shown after a prompt is saved).
 6. Optionally, click the **cog icon** to open Settings, including:
@@ -30,6 +30,18 @@ tags:
 Watch a demonstration of creating a Discussion:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q404ODzUS5w" title="Setting up discussions in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Setting up discussions in Ultra [YouTube]](https://youtu.be/Q404ODzUS5w)
+
+## Generate Discussion prompts with AI
+
+You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate Discussion prompts based on your site content. 
+
+Prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more complex or time-consuming than appropriate for weekly or formative tasks.
+
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
 ## Access a discussion
 
