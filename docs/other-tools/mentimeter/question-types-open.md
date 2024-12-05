@@ -76,11 +76,9 @@ Alongside the grouping function, an AI-powered summarising tool is also availabl
 ![decorative](images/question-types-open-summarising-tool.jpg)
 
 To activate the summarising tool, select the [insights button](https://help.mentimeter.com/en/articles/9538597-the-insights-button) and choose 'Summary'. 
-![decorative](images/question-types-open-summarising-tool.jpg)
-After a short 'Genrating insights' delay, the list of key points will display.  Simply close the panel to return to the reponses.
+![decorative](images/question-types-open-summarising-tool2.jpg)
 
-You can also access the grouping tool and start voting on responses using the insights button.
-
+After a short 'Generating insights' delay, the list of key points will display.  Simply close the panel to return to the reponses.
 
 ### Voting on open responses
 
