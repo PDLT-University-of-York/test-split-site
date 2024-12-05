@@ -88,7 +88,7 @@ Test has a lot of flexible features, which makes it useful in many situations, f
         If you are setting up a summative Test, also review this more detailed guide:   
         [Staff Help: Considerations Around & Setting up a **Summative** VLE Test](https://docs.google.com/document/d/1sn85oHTEuxNuw3_6R_TqdGlgrlWAgyCEtv7FXyd0his/edit?usp=sharing)
         
-        You **must** [contact the Digital Education Team](mailto:vle-support@york.ac.uk) well in advance if you want to run a summative and/or synchronous exam (in person or online) using Ultra Test.
+        You **must** arrange a consultation with the [Digital Education Team](mailto:vle-support@york.ac.uk) well in advance if you want to run a summative and/or synchronous exam (in person or online) using Ultra Test.
 
 Find out more about how Test has been applied across the University:
 
@@ -239,9 +239,9 @@ Use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate key quest
 
 !!! ai "Using AI tools effectively"
 
-    AI-generated content is a **starting point** for your own content development rather than a finished product.
-    
-    You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tool](../../other-tools/ai.md) more details on using AI responsibly.
 
 ??? question "How to auto generate questions"
 
