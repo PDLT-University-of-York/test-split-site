@@ -37,7 +37,7 @@ An AI-powered grouping tool is automatically available on any open-ended questio
 
     AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
 
-    See our [general guide to Artificial Intelligence tool](../../other-tools/ai.md) more details on using AI responsibly.
+    See our [general guide to Artificial Intelligence tools](../../other-tools/ai.md) for more details on using AI responsibly.
 
 To activate the AI grouping tool:
 
