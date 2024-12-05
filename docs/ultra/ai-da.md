@@ -105,11 +105,9 @@ Steps to generate task prompts:
 
 AI-DA can generate questions within a [Test](../ultra/test.md) or Question Bank (a set of questions that can be used to draw a random subset from and/or in multiple Tests). This could be helpful to efficiently create informal knowledge checks and practice quizzes to supplement weekly module content.
 
-!!! Tip "Using the question generator effectively"
+!!! ai "Using the question generator effectively"
 
-    If course items are selected to provide context, questions may be  based on procedural instructions within an item. If this occurs, you may find it more effective to instead provide a detailed description of the desired content.
-
-    All questions **must** be checked very carefully to ensure they are correct.
+    All questions **must** be checked very carefully to ensure they are correct and appropriate for your intended use.
 
 There are a range of question types available:
 
@@ -119,43 +117,7 @@ There are a range of question types available:
 - Multiple Choice
 - True/False
 
-Steps to generate questions in a Test or Question Bank
-
-1. Create a Test or open an existing Test or Question Bank. To generate a new Question Bank, select **Auto generate** and skip step 2.
-2. Click the **plus icon** where you would like the question(s) to appear, and select **Auto-generate question**.
-3. Define the questions:
-    - Enter a **Description** and/or **Select course items** to help generate more relevant questions.
-    - Select the **Question type** to generate. *Inspire me!* will generate a mix of question types.
-    - Set the **Complexity** level and choose how many questions to create.
-4. Click **Generate**.
-5. Review the questions. Select which question(s) to include, or repeat steps 3 and 4 to generate new questions.
-6. Click **Add to Assessment**.
-7. Carefully check the questions for accuracy and appropriacy and edit as needed.  
-
-![Test question interface: described below](images/aida-test-question.png)
-
-??? Abstract "Test questions: interface and examples of generated content"
-
-    **Description:** focus on navigation techniques and appropriate ways to use them
-
-    **Select course items**: none selected
-
-    **Question type**: Multiple choice
-
-    **Complexity:** level 7/10
-
-    **Number of question**: 4 (maximum 10)
-
-    **Content generated:**
-
-    *Question 1.* Which of the following is an advisable way to navigate safely in poor visibility?
-
-    - A. Pacing and timing to estimate distance travelled [Correct answer]
-    - B. Relying solely on GPS for directions
-    - C. Running at full speed to get through the fog quickly
-    - D. Following random sheep tracks
-
-    Further questions are not visible on this screen, scroll to reveal.
+See our Test Guide for details of [how to auto-generate Test questions using AI-DA](../ultra/test.md#auto-generate-questions-with-ai).
 
 ### Learning Modules
 

@@ -116,16 +116,16 @@ Find out more about how Test has been applied across the University:
 
 ### Question types
 
-| Question type | Description | Grading type |
-| ----------- | ----------- | ----------- |
-| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Option order is randomised. Can give partial or negative credit. | auto graded |
-| [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Set if answers should be exact, match part of a specified answer or match a pattern. | auto graded |
-| [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised. Can give partial or negative credit. | auto graded |
-| [True/False](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Choose True or False in response to a given statement. | auto graded |
-| [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded |
-| [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Can set the answer as an extact number or within a range.| auto graded |
-| [Hotspot](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Drop pin(s) on an image. Consider accessibility carefully. | auto graded |
-| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Type a response (of any length) in the answer box. Can provide a model answer for feedback. | manually graded |
+| Question type | Description | Grading type | AI generation |
+| ----------- | ----------- | ----------- | ----------- |
+| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Option order is randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
+| [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Set if answers should be exact, match part of a specified answer or match a pattern. | auto graded | can be auto-generated |
+| [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
+| [True/False](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Choose True or False in response to a given statement. | auto graded | can be auto-generated |
+| [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
+| [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Can set the answer as an extact number or within a range.| auto graded | manual only |
+| [Hotspot](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Drop pin(s) on an image. Consider accessibility carefully. | auto graded | manual only |
+| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Type a response (of any length) in the answer box. Can provide a model answer for feedback. | manually graded | can be auto-generated |
 
 ## Accessible Test Content
 
@@ -182,13 +182,13 @@ There are various ways to add questions to a Test. Which method is most appropri
 
 === "Knowledge check"
 
-    **Method to add questions**
+    **Suggested method to add questions**
 
     As knowledge checks have a small number of questions that are all displayed to students, it's likely easiest to **manually add questions** to your Test.
 
 === "Practice quiz"
 
-    **Method to add questions**
+    **Suggested method to add questions**
 
     If all questions are displayed:
 
@@ -202,7 +202,7 @@ There are various ways to add questions to a Test. Which method is most appropri
     
 === "Formal exam"
 
-    **Method to add questions**
+    **Suggested method to add questions**
 
     If all questions are displayed:
 
@@ -214,46 +214,101 @@ There are various ways to add questions to a Test. Which method is most appropri
 
     - add questions to a Question Bank or another Test and then set up a Question Pool(s) in this Test
     
-
 ### Manually add questions
 
-You may find it helpful to draft your questions in another document first.
+Add questions individually within the Test interface. You may find it helpful to draft your questions in another document first.
 
-1. Click the **plus + icon**.
-2. Select the relevant question type.
-</br> ![decorative](images/test-manually-add-questions.png)
-3. Enter the question and answers as needed for that question type (see the linked guides in the Question Types section for more information)
-4. Optional question settings (availability depends on question type):
-    - set partial or negative credit for different answers
-    - set the question as extra credit
-    - add automated feedback
-    - change the points awarded (default = 1 point)
-    </br>![Multiple choice question manually built in the editor, highlighting optional features listed.](images/test-question-options.png)
-5. Click **Save**.
-6. Repeat for all questions. 
+??? question "How to manually add questions"
 
-### Upload questions from file
+    1. Click the **plus + icon**.
+    2. Select the relevant question type.
+    </br> ![decorative](images/test-manually-add-questions.png)
+    3. Enter the question and answers as needed for that question type (see the linked guides in the Question Types section for more information)
+    4. Optional question settings (availability depends on question type):
+        - set partial or negative credit for different answers
+        - set the question as extra credit
+        - add automated feedback
+        - change the points awarded (default = 1 point)
+        </br>![Multiple choice question manually built in the editor, highlighting optional features listed.](images/test-question-options.png)
+    5. Click **Save**.
+    6. Repeat for all questions.
 
-You can draft questions in a spreadsheet and **upload them in .tsv format** to your Test.
+### Auto-generate questions with AI
 
-Prepare the file
+Use the AI Design Assistant Tool to auto-generate questions based on your site content. The supported question types are:
 
-1. Make a copy of the [Ultra tsv template for Tests Google Sheet](https://docs.google.com/spreadsheets/d/17G_QC4bgFbiLmgIFyIl-jOfLbLLFr8yAxCMF3flwGoM/copy)
-2. Enter your questions by editing the *BB test* tab (contains examples of the formatting required for each question type).
-</br>![Multiple choice question in the .tsv format](images/test-upload-tsv-example.png)
-3. Download the questions in .tsv format: File > Download > Tab-separated values (.tsv)
+- Essay (free text response of any length)
+- Fill in the Blank
+- Matching
+- Multiple Choice
+- True/False
 
-Upload the file
+!!! ai "Using the AI question generator effectively"
 
-1. Return to the Test and click the **plus + icon**.
-2. Select **Upload questions from file**.
-</br>![decorative](images/test-upload-questions.png)
-3. Select your .tsv file.
-4. Once the upload is processed, review the status message for any errors.
+    All questions generated by AI tools **must** be checked very carefully to ensure they are correct and appropriate for your intended use.
 
-For more details and examples of the required file format, see [Blackboard's guide to uploading questions](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Reuse_Questions/Upload_Questions).
+??? question "How to auto generate questions"
 
-Optional question settings: these can't be specified in the .tsv file, so first upload your file and then manually update each question.
+    1. Create a Test or open an existing Test or Question Bank. To generate a new Question Bank, select **Auto generate** and skip step 2.
+    2. Click the **plus icon** where you would like the question(s) to appear, and select **Auto-generate question**.
+    3. Define the questions:
+        - Enter a **Description** and/or **Select course items** to help generate more relevant questions.
+        - Select the **Question type** to generate. *Inspire me!* will generate a mix of question types.
+        - Set the **Complexity** level and choose how many questions to create.
+    4. Click **Generate**.
+    5. Review the questions. Select which question(s) to include, or repeat steps 3 and 4 to generate new questions.
+    6. Click **Add to Assessment**.
+    7. Carefully check the questions for accuracy and appropriacy and edit as needed. 
+
+    If course items are selected to provide context, questions may be based on procedural instructions within an item. If this occurs, you may find it more effective to instead provide a detailed description of the desired content.
+
+    ![Test question interface: described below](images/aida-test-question.png)
+
+    ??? Abstract "Test questions: interface and examples of generated content"
+
+        **Description:** focus on navigation techniques and appropriate ways to use them
+
+        **Select course items**: none selected
+
+        **Question type**: Multiple choice
+
+        **Complexity:** level 7/10
+
+        **Number of question**: 4 (maximum 10)
+
+        **Content generated:**
+
+        *Question 1.* Which of the following is an advisable way to navigate safely in poor visibility?
+
+        - A. Pacing and timing to estimate distance travelled [Correct answer]
+        - B. Relying solely on GPS for directions
+        - C. Running at full speed to get through the fog quickly
+        - D. Following random sheep tracks
+
+        Further questions are not visible on this screen, scroll to reveal.
+
+### Upload questions from a file
+
+Draft questions in a spreadsheet and **upload them in .tsv format** to your Test. To use optional question settings (eg. partial credit), first upload your file and then manually update each question.
+
+??? question "How to upload questions from a file"
+
+    Prepare the file
+
+    1. Make a copy of the [Ultra tsv template for Tests Google Sheet](https://docs.google.com/spreadsheets/d/17G_QC4bgFbiLmgIFyIl-jOfLbLLFr8yAxCMF3flwGoM/copy)
+    2. Enter your questions by editing the *BB test* tab (contains examples of the formatting required for each question type).
+    </br>![Multiple choice question in the .tsv format](images/test-upload-tsv-example.png)
+    3. Download the questions in .tsv format: File > Download > Tab-separated values (.tsv)
+
+    Upload the file
+
+    1. Return to the Test and click the **plus + icon**.
+    2. Select **Upload questions from file**.
+    </br>![decorative](images/test-upload-questions.png)
+    3. Select your .tsv file.
+    4. Once the upload is processed, review the status message for any errors.
+
+    For more details and examples of the required file format, see [Blackboard's guide to uploading questions](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Reuse_Questions/Upload_Questions).
 
 ### Reuse questions
 
@@ -263,12 +318,14 @@ Copy questions that already appear in another Test or Question Bank in the site.
 
     Reusing questions will display all of the selected questions in the Test. If you want to display only a subset (eg. 2 of 10 possible questions), use a Question Pool instead.
 
-1. Click the **plus + icon**.
-2. Select **Reuse questions**.
-</br>![decorative](images/test-reuse-questions.png)
-3. Select the questions to copy, using the filter options if needed: search by keyword, browse by source (Tests and Question Banks), browse by question type.
-4. Click **Copy questions**.
-5. Once the copy is processed, review the status message for any errors.
+??? question "How to reuse questions"
+
+    1. Click the **plus + icon**.
+    2. Select **Reuse questions**.
+    </br>![decorative](images/test-reuse-questions.png)
+    3. Select the questions to copy, using the filter options if needed: search by keyword, browse by source (Tests and Question Banks), browse by question type.
+    4. Click **Copy questions**.
+    5. Once the copy is processed, review the status message for any errors.
 
 ### Question pools
  
@@ -280,20 +337,22 @@ Question pools do not copy questions; any edits made to questions in a pool will
 
     For fairness and to create a valid assessment, all questions in the pool must be of equivalent difficulty. To include questions at different levels or points values, use multiple pools.
 
-1. Click the **plus + icon**.
-2. Select **Add question pool**.
-</br>![decorative](images/test-add-question-pool.png)
-3. Select the questions to add, using the filter options if needed: search by keyword, browse by source (Tests and Question Banks), browse by question type.
-4. Click **Add questions**.
-5. Enter the number of questions to display and optionally update the points awarded per question. Click **Save**.
-</br>![decorative](images/test-question-pool-options.png)
-6. In edit mode a summary of the pool is shown where you can view the questions and edit settings. Students will see the questions pulled from the pool.
-</br>![Pool summary showing that 2 of 7 questions are displayed to students, with option to view all questions](images/test-question-pool-finished.png)
+??? question "How to add question pools"
 
-For more details, see the [BlackBoard Help guide to Question pools](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/ULTRA_Reuse_Questions/Question_Pools).
+    1. Click the **plus + icon**.
+    2. Select **Add question pool**.
+    </br>![decorative](images/test-add-question-pool.png)
+    3. Select the questions to add, using the filter options if needed: search by keyword, browse by source (Tests and Question Banks), browse by question type.
+    4. Click **Add questions**.
+    5. Enter the number of questions to display and optionally update the points awarded per question. Click **Save**.
+    </br>![decorative](images/test-question-pool-options.png)
+    6. In edit mode a summary of the pool is shown where you can view the questions and edit settings. Students will see the questions pulled from the pool.
+    </br>![Pool summary showing that 2 of 7 questions are displayed to students, with option to view all questions](images/test-question-pool-finished.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cuWBxlV2FVM?si=nJxIyIk57ixUln30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Use Question Pools in Assessments in the Ultra Course View [YouTube]](https://youtu.be/cuWBxlV2FVM?si=ulkRHUN9G8-YGIWq)
+    For more details, see the [BlackBoard Help guide to Question pools](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/ULTRA_Reuse_Questions/Question_Pools).
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cuWBxlV2FVM?si=nJxIyIk57ixUln30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    [Use Question Pools in Assessments in the Ultra Course View [YouTube]](https://youtu.be/cuWBxlV2FVM?si=ulkRHUN9G8-YGIWq)
 
 ## Test Settings
 
