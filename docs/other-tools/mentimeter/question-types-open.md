@@ -4,7 +4,7 @@ tags:
     - Other tools
 ---
 
-# Question types: Open (Students add text-based responses)
+# Question types: Open (text-based responses)
 
 !!! Summary
      Open question types where participants enter free-text in response to a question or prompt, for example gather ideas from students. 
@@ -33,7 +33,13 @@ Possible uses include:
 
 An AI-powered grouping tool is automatically available on any open-ended question slide with more than 10 responses. This could be useful to help you quickly identify key themes in responses during live sessions.
 
-To activate the AI grouping tool
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tool](../../other-tools/ai.md) more details on using AI responsibly.
+
+To activate the AI grouping tool:
 
 1. Once sufficient responses are received, press **space** on the keyboard or click the button to group responses.
 </br>![decorative](images/question-types-open-grouping-tool1.jpg)
@@ -49,7 +55,7 @@ To activate the AI grouping tool
 
 Further details on the grouping tool can be found on Mentimeter’s [Group responses to your Open Ended questions using AI](https://help.mentimeter.com/en/articles/8300577-group-responses-to-your-open-ended-questions-using-ai) page.
 
-!!! ai "UoY feedback on the AI grouping tool"
+??? ai "UoY feedback on the AI grouping tool"
 
     The AI grouping tool was trialled by a group of teaching staff on previously-collected responses in large lectures (to gather ideas on the subject matter) and workshops (to seed discussion and gather group responses to short answer practice questions).
 

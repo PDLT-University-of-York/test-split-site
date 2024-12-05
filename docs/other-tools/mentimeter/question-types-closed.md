@@ -4,7 +4,7 @@ tags:
     - Other tools
 ---
 
-# Question types: Closed (Students select from options presented to them)
+# Question types: Closed (select from options)
 
 !!! Summary
      Closed question types such as Multiple-Choice, ranking, and scales questions allow students to select responses from a list. There are options for how results are presented including showing the results of a questions organised by responses to a previous question (segmentation) and showing changes in responses over time (trends).
