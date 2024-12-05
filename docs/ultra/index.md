@@ -1,9 +1,9 @@
 # Learn Ultra
 !!! Summary
 
-    [Learn Ultra](https://vle.york.ac.uk) is the VLE used to support teaching in modules for  **on-campus programmes**.
+    [Learn Ultra](https://vle.york.ac.uk) is the VLE used to support teaching in modules for  **on-campus programmes** and most non-York Online distance programmes.
     
-    [HYMS Learn Ultra](https://hymsvle.york.ac.uk) is accessed via a different URL, but runs on the same system.
+    [HYMS Learn Ultra](https://hymsvle.york.ac.uk) for the **Hull York Medical School** is accessed via a different URL, but runs on the same system.
 
 ## What Ultra can do
 

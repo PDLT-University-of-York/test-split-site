@@ -16,7 +16,7 @@
 
     ---
 
-    The VLE used by most departments (including Hull York Medical School).
+    The VLE used for on-campus programmes (including Hull York Medical School) and most non-York Online distance programmes.
 
 - :material-video: **[Panopto](../panopto/index.md)**
 
@@ -80,10 +80,6 @@
 
     Timetabling teaching activities and requesting lecture capturing
     Supported by: Timetabling
-
-- :material-laptop: **Moodle (VLE)**
-
-    The VLE used by the Department of Mathematics.
 
 - :material-video: **Echo360**
 

@@ -27,13 +27,13 @@ Assignment is most suitable for:
 
 - formative and non-anonymous summative assignments
 - individual or group assignments
-- doubleblind marking
 - a range of file types up to 100MB (eg. text documents, slide decks, low res video and audio)
 
-The Assignment tool does techncally allow anonymous submissions, however **we don't recommend using Assignment anonymously** as this can:
+The Assignment tool does techncally allow anonymous submissions, however **we don't recommend using Assignment anonymously** as this:
 
-1. be turned off with a single button click, and can't be turned back on
-2. limit the marking tools and filtering options available
+1. can be turned off with a single button click, and can't be turned back on
+2. limits the marking tools and filtering options available
+3. makes it very difficult to apply SSP adjustments
 
 If you want to run an anonymous summative assignment, see our [TurnItIn Feedback Studio set up guide](../assessment/tfs/set-up.md).
 
@@ -50,13 +50,69 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 
 ### Individual assessment (Formative or non-anonymous summative)
 
+![Decorative](images/assignment-set-up.png)
+
 1. In the **Assessment section**, hover where you want to add the Assignment and click the **purple plus icon**.
 2. Select **Assignment**.
 3. Add a **title**, set [appropriate **visibility**](../ultra/content-visibility.md) and add **instructions** as text or a file.
-4. Click the **cog icon** to set a Due Date and adjust other marking settings.
+4. Click the **cog icon** to set a Due Date (this must be within working hours) and adjust other settings (see below)
+5. Click **Save** when finished.
 
-![Decorative](images/assignment-set-up.png)
+Appropriate settings will depend on your particular assessment, but here are our general recommended settings:
 
+=== "Formative"
+
+    - **Details & Information**
+        - set a *Due date* (this must be within working hours) or tick *No due date*
+        - leave all other options unticked
+    - **Formative Tools**
+        - tick *Formative assessment*
+        - leave *Display formative label to students* ticked
+    - **Marking & Submissions**
+        - *Mark category*: in most cases, leave this as Assignment, but you can change to another option (eg. Presentation). This determines the icon shown on the item in the Course Content area and can be used to filter the Gradebook.
+        - *Attempts allowed*: set to Unlimited
+        - *Attempts to mark*: set to Last attempt
+        - *Mark using*: leave as Points or change to Percentage or a qualitative marking schema (eg. Complete/Incomplete)
+        - *Maximum points*: leave as 100 or change to another amount. For formative work, that is often '1' to show the work is marked.
+        - *Anonymous marking*: not recommended
+        - *Evaluation options*: Peer review can't be used with if multiple attempts are allowed
+        - *Assessment mark*: in most cases, leave *Post marks automatically* unticked to release marks manually. If this is ticked, marks and feedback are released to students immediately when a mark is entered for a submission; this could be useful to streamline workflow for large cohorts with lots of markers.
+    - **Assessment Security**: leave unticked
+    - **Additional Tools**
+        - *Time limit*: not recommended unless there is a clear pedagogic rationale
+        - *Use marking rubric*: if desired, attach a marking rubric to streamlime marking and feedback
+        - *Goals & standards*: leave unticked, not used at UoY
+        - *Assigned groups*: not relevant to individual assignments
+        - *Originality Report*: not recommended for formative work
+    - **Description**: if desired, enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment).
+
+=== "Non-anonymous summative"
+
+    - **Details & Information**
+        - set a *Due date* (this must be within working hours)
+        - leave all other options unticked
+    - **Formative Tools**
+        - leave unticked
+    - **Marking & Submissions**
+        - *Mark category*: in most cases, leave this as Assignment, but you can change to another option (eg. Presentation). This determines the icon shown on the item in the Course Content area and can be used to filter the Gradebook.
+        - *Attempts allowed*: set to Unlimited
+        - *Attempts to mark*: set to Last attempt
+        - *Mark using*: leave as Points or change to Percentage or a qualitative marking schema (eg. Pass/Fail)
+        - *Maximum points*: most likely leave as the default 100
+        - *Anonymous marking*: do not use - Assignment can only be used for *non-anonymous* summative assessment
+        - *Evaluation options*:
+            - Two markers per student: not recommended (ie. every assignment must be second marked)
+            - Peer review can't be used with if multiple attempts are allowed
+            - Delegated marking: usually not necessary
+        - *Assessment mark*: leave *Post marks automatically* unticked to release marks manually once the marking process is complete.
+    - **Assessment Security**: leave unticked
+    - **Additional Tools**
+        - *Time limit*: not recommended unless there is a clear pedagogic rationale
+        - *Use marking rubric*: if desired, attach a marking rubric to streamlime marking and feedback
+        - *Goals & standards*: not used at UoY
+        - *Assigned groups*: not relevant to individual assignments
+        - *Originality Report*: not currently recommended
+    - **Description**: if desired, enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment)
 
 For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
