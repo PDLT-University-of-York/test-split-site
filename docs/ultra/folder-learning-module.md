@@ -16,7 +16,6 @@ tags:
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
 
-
 ## Overview: content container types
 
 Learning Modules and Folders are containers to organise site content.
@@ -123,3 +122,49 @@ Download images at a resolution that meets the minimum requirements for Ultra. T
 
 - [Guides on image manipulation to create an icon](https://subjectguides.york.ac.uk/media/images)
 - [Create icons: template for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
+
+## Generate Learning Modules & images with AI
+
+You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate Learning Modules with descriptions and images based on your site content.
+
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
+
+Steps to generate Learning Modules:
+
+1. In a relevant location in the Course Content Area, click the **plus icon**, then **Auto-Generate Modules**. In an empty site, just click Auto-Generate Modules.
+2. Define the Learning Modules:
+    - Provide module information in the **Description** box (eg. description copy/pasted from Module Catalogue) and/or Select course items (eg. a Module Overview page).
+    - Choose a **Complexity level** and adapt other settings to your needs.
+3. Click **Generate**
+4. Review the generated content and select which Learning Modules to keep (you can edit them later).
+5. Click **Add to Course**.
+6. Check content for appropriacy and edit or adapt as needed.
+
+![Learning module interface: described below](images/aida-learning-module-generator.png)
+
+??? Abstract "Learning Modules: interface and examples of generated content"
+
+    **Description:** Topics to include: history, fell racing, training, navigation
+
+    **Select course items**: none selected
+
+    **Title prefix:** Week
+
+    **Include images**: Yes
+
+    **Complexity:** level 7/10
+
+    **Number of Learning Modules**: 4 (maximum 20)
+
+    **Content generated:**
+
+    - *Week 1: Introduction to Fell Running History*. Discover the rich history of fell running, from its origins in the Lake District to the establishment of iconic fell races. Explore key moments and figures that have shaped the sport over the years.
+    - *Week 2: Exploring Fell Racing Events*. Dive into the thrilling world of fell racing, where athletes tackle rugged terrain and towering peaks. Learn about the different race formats, challenges faced, and the spirit of competition in fell running.
+    - *Week 3: Fell Running Training Fundamentals*. Master the essential training techniques for fell running, including strength, endurance, and hill skills. Understand how to develop a training plan tailored to the demands of fell running courses.
+    - *Week 4: Navigating in Fell Running*. Develop crucial navigation skills for fell running adventures. Learn to read maps, use compasses, and navigate challenging terrains with confidence. Enhance your ability to stay on course in any fell running event.
+
+    Each Learning Module also has a generated decorative image relevant to the content.

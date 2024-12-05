@@ -17,6 +17,8 @@ Ultra's AI tools are powered by Microsoft's Azure OpenAI Service, and underpinne
 
 In addition to the AI content generator tools in this guide, there is also a standalone [AI conversation tool](../ultra/ai-conversation.md) where students can directly interact with an AI persona.
 
+See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly and other AI tools available at UoY.
+
 ## Getting started
 
 AI-DA tools are available in many items within your course, shown by the 'magic'/stars AI icon. On a larger screen, you may also see **Auto-generate [tool name]**.
@@ -27,9 +29,9 @@ We recommend exploring AI-DA tools in your personal Ultra sandpit site rather th
 
 ## Tips for generating appropriate output
 
-!!! Warning
+!!! ai "Using AI tools effectively"
 
-    AI-generated content is a starting point for your own content development rather than a finished product. Output must always be carefully checked for accuracy and appropriacy and adapted as necessary.
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
 
 AI-DA tools generate content based on the site and/or item title, and any additional context that you provide. Generally, the more specific description and information you can provide, the more likely the content is to be relevant and appropriate to your needs.
 
@@ -57,7 +59,7 @@ This section summarises key tool features and considerations for applying them i
 
 AI-DA can generate prompts for **Discussions**, **Assignments** and **Journals**. The output is very similar for the three task types.
 
-!!! Tip "Using the task prompt generators effectively"
+!!! ai "Using the task prompt generators effectively"
 
     Task prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more in-depth or time-consuming than appropriate for weekly or formative tasks.
 
@@ -123,45 +125,11 @@ See our Test Guide for details of [how to auto-generate Test questions using AI-
 
 [Learning Modules](../ultra/folder-learning-module.md) are containers for organising site content. AI-DA can generate Learning Module titles, descriptions and images.
 
-!!! Tip "Using the Learning Module generator effectively"
+!!! ai "Using the Learning Module generator effectively"
 
     Your departmental template has a pre-built structure, so **in most cases you will not need to generate further Learning Modules**. Make sure to use your provided template structure.
 
-Steps to generate Learning Modules:
-
-1. In a relevant location in the Course Content Area, click the **plus icon**, then **Auto-Generate Modules**. In an empty site, just click Auto-Generate Modules.
-2. Define the Learning Modules:
-    - Provide module information in the **Description** box (eg. description copy/pasted from Module Catalogue) and/or Select course items (eg. a Module Overview page).
-    - Choose a **Complexity level** and adapt other settings to your needs.
-3. Click **Generate**
-4. Review the generated content and select which Learning Modules to keep (you can edit them later).
-5. Click **Add to Course**.
-6. Check content for appropriacy and edit or adapt as needed.
-
-![Learning module interface: described below](images/aida-learning-module-generator.png)
-
-??? Abstract "Learning Modules: interface and examples of generated content"
-
-    **Description:** Topics to include: history, fell racing, training, navigation
-
-    **Select course items**: none selected
-
-    **Title prefix:** Week
-
-    **Include images**: Yes
-
-    **Complexity:** level 7/10
-
-    **Number of Learning Modules**: 4 (maximum 20)
-
-    **Content generated:**
-
-    - *Week 1: Introduction to Fell Running History*. Discover the rich history of fell running, from its origins in the Lake District to the establishment of iconic fell races. Explore key moments and figures that have shaped the sport over the years.
-    - *Week 2: Exploring Fell Racing Events*. Dive into the thrilling world of fell racing, where athletes tackle rugged terrain and towering peaks. Learn about the different race formats, challenges faced, and the spirit of competition in fell running.
-    - *Week 3: Fell Running Training Fundamentals*. Master the essential training techniques for fell running, including strength, endurance, and hill skills. Understand how to develop a training plan tailored to the demands of fell running courses.
-    - *Week 4: Navigating in Fell Running*. Develop crucial navigation skills for fell running adventures. Learn to read maps, use compasses, and navigate challenging terrains with confidence. Enhance your ability to stay on course in any fell running event.
-
-    Each Learning Module also has a generated decorative image relevant to the content.
+See our Learning Modules & Folders guide for details of [how to auto-generate Learning Modules using AI](../ultra/folder-learning-module.md#generate-learning-modules-images-with-ai).
 
 ### Images
 
@@ -169,7 +137,7 @@ AI-DA can generate images and automatically search for copyright-compliant photo
 
 You can also generate images in Copilot and upload them to the site directly.
 
-!!! Tip "Using the image generator effectively"
+!!! ai "Using the image generator effectively"
 
     AIDA uses the item title to generate or search for images. These may not fit the image you want, so enter your own description to return more relevant images.
 
@@ -206,7 +174,7 @@ Steps to generate or search for images:
 
 A marking rubric is a grid of criteria aligned to different performance levels. They can be attached to [Ultra Assignments](../ultra/assignment-set-up.md) to promote consistency and streamline marking and feedback. You can create a marking rubric yourself, or AI-DA can generate one as a starting point or to speed up your rubric development.
 
-!!! Tip "Using the Marking Rubric generator effectively"
+!!! ai "Using the Marking Rubric generator effectively"
 
     This tool is best used to generate broadly the content you need, which you can tweak manually in the rubric editor. The more detailed the description provided, the less manual editing will be needed.
 
@@ -256,7 +224,7 @@ Steps to generate a marking rubric:
         - Highly Competent (60-80%): *description not visible*
         - *other levels not visible*
 
-You can also combine the AI-DA rubric generator with a more iterative AI text generation tool to bring further efficiencies to the process of rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Westminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
+You can also combine the AI-DA rubric generator with an iterative GenAI tool such as [Google Gemini](https://www.york.ac.uk/it-services/tools/google-gemini/) to further streamline rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Westminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c8188a53-8557-46b8-9072-b22501139f90&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Webinar: The Bb AI Design Assistant - ChatCPT &amp; Marking Rubric generator, Anne-Gaelle Colom" ></iframe>
 [Webinar extract: Streamlining rubric creation with AI, Anne-Gaelle Colom](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c8188a53-8557-46b8-9072-b22501139f90) (11 mins 12 secs, UoY log-in required)
