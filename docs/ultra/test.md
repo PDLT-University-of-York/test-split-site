@@ -241,7 +241,7 @@ Use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate key quest
 
     AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
 
-    See our [general guide to Artificial Intelligence tool](../../other-tools/ai.md) more details on using AI responsibly.
+    See our [general guide to Artificial Intelligence tool](../other-tools/ai.md) more details on using AI responsibly.
 
 ??? question "How to auto generate questions"
 

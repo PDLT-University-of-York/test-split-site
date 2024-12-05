@@ -3,6 +3,12 @@
 !!! Summary
     <!-- Brief intro to what tool does/where/why used -->
 
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tool](../other-tools/ai.md) more details on using AI responsibly.
+
 
 <!-- renders in Live as a grid -->
 <div class="grid" markdown>
