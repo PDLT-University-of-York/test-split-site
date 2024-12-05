@@ -48,7 +48,9 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 - Give clear instructions on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section.
 - Marking criteria or grading policies for the assignment must be available or linked within the Assessment section.
 
-### Individual assessment (Formative or non-anonymous summative)
+### Individual assessment
+
+This should generally only be used for *formative* or *non-anonymous summative* tasks.
 
 ![Decorative](images/assignment-set-up.png)
 
@@ -126,3 +128,15 @@ See our [guide to Group Assignments](../ultra/assignment-groups.md) for full det
     Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if hidden from students in the Course Content area.
     
     When **uploading assessment-related files** where access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+
+### Generate Assignment prompts & rubrics with AI
+
+You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate assignment prompts based on your site content. 
+
+In addition to creating assessments, this tool may also be most useful for exploring ideas for project work or discussion tasks more generally.
+
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
