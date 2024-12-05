@@ -235,13 +235,7 @@ Add questions individually within the Test interface. You may find it helpful to
 
 ### Auto-generate questions with AI
 
-Use the AI Design Assistant Tool to auto-generate questions based on your site content. The supported question types are:
-
-- Essay (free text response of any length)
-- Fill in the Blank
-- Matching
-- Multiple Choice
-- True/False
+Use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate key question types based on your site content. See [Question types](#question-types) above for the supported types.
 
 !!! ai "Using AI tools effectively"
 
@@ -292,7 +286,9 @@ Use the AI Design Assistant Tool to auto-generate questions based on your site c
 
 ### Upload questions from a file
 
-Draft questions in a spreadsheet and **upload them in .tsv format** to your Test. To use optional question settings (eg. partial credit), first upload your file and then manually update each question.
+Draft questions in a spreadsheet and **upload them in .tsv format** to your Test. This is helpful to import lots of questions quickly.
+
+To use optional question settings (eg. partial credit), first upload your file and then manually update each question.
 
 ??? question "How to upload questions from a file"
 
@@ -338,7 +334,7 @@ Question pools do not copy questions; any edits made to questions in a pool will
 
 !!! Warning
 
-    For fairness and to create a valid assessment, all questions in the pool must be of equivalent difficulty. To include questions at different levels or points values, use multiple pools.
+    For a fair and valid assessment, all questions in an individual pool must be of equivalent difficulty. To include questions at different levels or points values, use multiple pools.
 
 ??? question "How to add question pools"
 
@@ -367,7 +363,7 @@ There are various settings possible for Tests, including;
 
 !!! Tip
 
-    Randomising questions will display **all questions** in the Test in a random order. If you want to randomly display a subset of questions, use a Question Pool.
+    Randomising questions displays **all questions** in the Test in a random order. To instead display a random subset of possible questions, use a Question Pool.
 
 Edit settings in the **Assessment settings** panel:
 
