@@ -89,6 +89,11 @@ To use voting in a session:
 
 1. *Set up*: Create an **Open Ended question slide** and add your question as normal in the question field under the *Content* options. In the slide settings, toggle on **Enable voting on responses** and set the desired **Votes per participant**.
 </br>![decorative](images/question-types-open-voting-on-open-reponses1.jpg)
+
+Alternatively, you can activate voting by selecting the [insights button](https://help.mentimeter.com/en/articles/9538597-the-insights-button) and choosing 'Vote'.  This allows you to set up voting immediately (1 vote per participant) making it a useful option if you decide that it would be helpful for participants to be able to vote on responses in the moment.
+
+![decorative](images/question-types-open-voting-on-open-reponses6.jpg)
+
 2. *Gather responses*: Present your slide for participants to provide open responses as normal. Responses can be displayed immediately or hidden until a time of your choosing using the **shortcut key H**.
 </br> ![decorative](images/question-types-open-voting-on-open-reponses2.jpg)
 3. *Begin voting*: When you are satisfied with the number of open responses received, press **Enter** to begin the voting. Until this point participants who have submitted their responses will see a message telling them that the presentation is not yet open for votes.

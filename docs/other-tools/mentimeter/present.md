@@ -39,6 +39,16 @@ If you would like to use your phone or tablet as a remote control device to cont
 
 See [Mentimeter’s Mentimote page](https://www.mentimeter.com/features/mentimote) for instructions and an introductory video.
 
+## Using the 'insights' button
+
+The [insights button](https://help.mentimeter.com/en/articles/9538597-the-insights-button) gathers together - in one place - all the different options that are available to you to explore the contributions you've received on questions. It can be found between the 'next' and 'previous' buttons bottom-left.
+
+![decorative](images/present-insights-button.png)
+
+- For all question types, you can also add an 'open-ended follow up' allowing you to instantly add a new open-response question immediately after any question slide.
+- For open responses, you can use the insights button to access the options to activate the [AI-powered grouping and summarising tools](../mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising) or to switch on the option for participants to [vote on open responses](../mentimeter/question-types-open/#voting-on-open-responses).
+- For presentations including more than one [multiple-choice question](../mentimeter/question-types-closed/#multiple-choice-questions), you can access the segmentation option, allowing you you to instantly see a breakdown of the responses to MCQ question 2 based on responses to question 1, allowing you and your students to explore patterns in the data.
+
 ## Using keyboard shortcuts
 
 When presenting in Mentimeter, you can use keyboard shortcuts to manage presentation navigation and options. Shortcuts include:
