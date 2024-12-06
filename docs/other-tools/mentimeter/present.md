@@ -46,7 +46,7 @@ The [insights button](https://help.mentimeter.com/en/articles/9538597-the-insigh
 ![decorative](images/present-insights-button.png)
 
 - For all question types, you can also add an 'open-ended follow up' allowing you to instantly add a new open-response question immediately after any question slide.
-- For open responses, you can use the insights button to access the options to activate the [AI-powered grouping and summarising tools](../mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising) or to switch on the option for participants to [vote on open responses](../mentimeter/question-types-open/#voting-on-open-responses).
+- For open responses, you can use the insights button to access the options to activate the [AI-powered grouping and summarising tools](https://vle-support.york.ac.uk/other-tools/mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising) or to switch on the option for participants to [vote on open responses](https://vle-support.york.ac.uk/other-tools/mentimeter/question-types-open/#voting-on-open-responses).
 - For presentations including more than one [multiple-choice question](../mentimeter/question-types-closed/#multiple-choice-questions), you can access the segmentation option, allowing you to instantly see a breakdown of the responses to MCQ question 2 based on responses to question 1, allowing you and your students to explore patterns in the data.
 
 ## Using keyboard shortcuts
