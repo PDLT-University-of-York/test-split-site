@@ -7,13 +7,23 @@ tags:
 # Mentimeter
 
 !!! Summary
-    [Mentimeter](https://www.mentimeter.com/) is our University-supported web-based tool for adding polling and other interaction to presentations or sessions.
+    [Mentimeter](https://www.mentimeter.com/) is available to staff and students at the University of York to help make presentations and teaching more interactive, with live polls, quizzes and feedback. It can also be used asynchronously in 'survey mode'.
 
-## Overview
+## Key features
 
-Participants respond online to the variety of questions available through a mobile device or laptop by scanning a QR code or entering a ‘session code’ at [http://www.menti.com](http://www.menti.com). You can then access or share these responses during and after the presentation. No special software is required.
+- Create polls ahead of time and share them during presentations, lectures and seminars.
+- Suitable for online, hybrid and in-person sessions.
+- Participants respond via their device’s web browser, by scanning a QR code or entering the session code at menti.com.
+- Responses are completely anonymous.
+- See results as they come in and share them after the session
+- Use flexible question types, including multiple-choice, ranking, scales, word clouds and open-ended questions.
+- Quickly analyse responses with automatic grouping and summaries, powered by AI.
+- 'Survey mode' allows participants to respond in their own time, so it can be used for online learning and independent study between live sessions.
+
     
 ![In one word, why do you think Mentimeter may be useful for you? Responses in order of frequency: interactive, engagement, fun, feedback, inclusion, creative, active, informative, exciting, thought-provoking, responsive, atmosphere, Dialogue, insight, Support, Chunks, q_and_a, Attention, Break, Partcipatory Measurable, Knowledge, Attention, Evaluation, Reassurance, Identify misunderstanding"  title="In one word, why do you think Mentimeter may be useful for you? Responses in order of frequency: interactive, engagement, fun, feedback, inclusion, creative, active, informative, exciting, thought-provoking, responsive, atmosphere, Dialogue, insight, Support, Chunks, q_and_a, Attention, Break, Partcipatory Measurable, Knowledge, Attention, Evaluation, Reassurance, Identify misunderstanding](images/mentimeter-why-menti-word-cloud.png)
+
+## Guidance
 
 [Mentimeter’s own help pages](https://help.mentimeter.com/en/) are comprehensive and well categorised, and individual guides contain step-by step instructions with screenshots and/or video walkthroughs.  
 
@@ -23,9 +33,13 @@ These pages provide information on Mentimeter at the University of York with:
 - opportunities to access training and resources and join communication channels
 - guidance on how to use Mentimeter at the University.
 
+## Acceptable use
+
 !!! Warning
 
-    Mentimeter has robust data protection measures in place but it should never be used to process ‘internal, confidential or special categories of personal data, nor any other personal data that is particularly worthy of protection’.
+    - Mentimeter has robust data protection measures in place but it should never be used to process ‘internal, confidential or special categories of personal data, nor any other personal data that is particularly worthy of protection’.
+    - You must only use the platform in connection with the role you have at the University, which may involve teaching, studying or research, administration or management.
+    - You must not use the platform for any private or commercial purposes.
 
 ## Accessibility
 

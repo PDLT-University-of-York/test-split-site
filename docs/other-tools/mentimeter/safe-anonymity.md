@@ -17,7 +17,7 @@ tags:
 
 ## Which question types does this apply to?
 
-Closed question types limit the students to respond using pre-set options and cannot be used to add inappropriate or offensive comments.  This is only possible using the open response questions/interactions including word clouds, open-ended responses, Q&A and chat.
+Closed question types limit students to respond using pre-set options and cannot be used to add inappropriate or offensive comments.  This is only possible using the open response questions/interactions including word clouds, open-ended responses, Q&A and chat.
 
 ## Should I limit the use of Mentimeter to closed questions only?
 
@@ -67,6 +67,6 @@ By default, however, all comments that make it through the profanity filter will
 
 The Q&A option within Mentimeter allows students to post anonymous questions either on specific ‘Q&A’ slides, or at any point during a presentation.  You can decide whether you would like the questions to be private or viewable by all as they come in. You can also decide whether you would like to be able to [‘moderate‘ questions](https://help.mentimeter.com/en/articles/1840522-moderate-your-q-a-session-to-ensure-a-great-experience) which means they need to be approved before they are displayed on the screen.  Moderation can be done by the presenter or you can share a link to allow moderation by a colleague. If you are moderating yourself, using mentimote is the easiest option and you can find information and a demo video on how to use this from [Mentimeter’s mentimote page](https://www.mentimeter.com/features/mentimote).
 
-### Comments
+### Live chat
 
-You can switch on the option for students to add a comment which will appear briefly at the bottom of the screen before disappearing. These comments are subject to the profanity filter but unlike in word cloud and open text entry,  a comment that includes a word in the profanity database will not be removed altogether. Instead it will be replaced with the following characters ‘!#*&!$’. Given the lack of moderation options, it is recommended not to switch on comments unless you are happy with the risk that they could be used inappropriately by your group.
+You can switch on the option for students to add live chat comments which will appear briefly at the bottom of the screen before disappearing. These comments are subject to the profanity filter but unlike in word cloud and open text entry,  a comment that includes a word in the profanity database will not be removed altogether. Instead it will be replaced with the following characters ‘!#*&!$’. Given the lack of moderation options, it is recommended not to switch on comments unless you are happy with the risk that they could be used inappropriately by your group.

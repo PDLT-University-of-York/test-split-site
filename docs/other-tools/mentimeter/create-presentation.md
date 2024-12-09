@@ -15,13 +15,15 @@ You can also use engagement and response tools such as Q&A and emoji reactions t
 
 ## Create a new presentation
 
-Create a new presentation directly from your Mentimeter Home screen using the **+ New presentation** button.
+Create a new presentation directly from your Mentimeter Home screen using the **New Menti** button.
 
 For more details, see [Mentimeter's guide to the Home screen](https://help.mentimeter.com/en/articles/410450-your-home-screen) or watch the tutorial below. You can also [organise your presentations in folders](https://help.mentimeter.com/en/articles/1183596-folders-in-mentimeter).
 
 7 minute tutorial to create your first presentation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/on_Ib7SP6Go?si=j0a051mpOl5I0Xt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [How to Create Your First Mentimeter Presentation [YouTube]](https://www.youtube.com/watch?v=on_Ib7SP6Go)
+
+You can also use []'Start with AI'](../other-tools/mentimeter/start-with-ai.md) to build a draft presentation using OpenAI as a start point for editing.
 
 ## Slide theme
 

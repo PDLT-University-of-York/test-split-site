@@ -30,8 +30,8 @@ Each of the features below:
 
     ---
     
-    - [:octicons-arrow-right-24: AI open response grouping tool](../other-tools/mentimeter/question-types-open.md#ai-tool-open-response-grouping): quickly categorise text responses
-    <!-- - [:octicons-arrow-right-24: Start with AI](LINK): generate Mentimeter slides -->
+    - [:octicons-arrow-right-24: AI open response grouping tool](../mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising): quickly categorise text responses
+     - [:octicons-arrow-right-24: Start with AI](../other-tools/mentimeter/start-with-ai.md): generate draft Mentimeter slides 
 </div>
 
 ## Top tips for using AI tools effectively
