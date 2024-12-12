@@ -25,7 +25,16 @@ See our dedicated [Padlet guide](https://subjectguides.york.ac.uk/skills/padlet)
 
 ## Embed a Padlet in an Ultra site
 
-For details on how to embed your Padlet so it displays directly within your Ultra site, see our [embedded content guide](../ultra/embed-content.md) 
+For details on how to embed your Padlet so it displays directly within your Ultra site, see our [embedded content guide](../ultra/embed-content.md)
+
+## Accessibility
+
+Padlet have published the following:
+
+- [Tips to create padlets that are accessible](https://padlet.help/l/en/article/p2h52np9ui-how-can-i-make-my-padlet-more-accessbile)
+- [Padlet Accessibility FAQs](https://padlet.help/l/en/article/pyr0huo2v4-padlet-accessibility-faq-jib)
+
+Please [contact us](mailto:vle-support@york.ac.uk) if you would like to discuss the accessibility of Padlet.
 
 ## Case study
 
