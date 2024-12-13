@@ -4,10 +4,6 @@
     
     We also offer a range of other tools to support teaching and learning. Potential uses include building or presenting content, introducing interactivity and facilitating communication.
 
-!!! tip  "Not sure which tool to use?"
-
-    Our [Tools at a glance guide](https://bit.ly/yorktools) categorises the learning technology tools available at the University by theme or approach to learning, helping you to find the tool most suited to support your needs.
-
 ## Our tools
 
 <div class="grid cards" markdown>
