@@ -11,40 +11,40 @@ We also run synchronous sessions at key points of the academic year, where you c
 
 <div class="grid cards wide" markdown>
 
--   ### :simple-go: **Getting started with Ultra**
+-   :simple-go: **Getting started with Ultra**
 
     ---
 
     An introduction to the key features of the Ultra platform and sites, aimed at users new to Learn Ultra or needing a refresher.
    
-    - :octicons-arrow-right-24: [On-demand guide: Getting started with Ultra](../../ultra/getting-started.md)
+    - :octicons-arrow-right-24: [On-demand: Getting started with Ultra](../../ultra/getting-started.md)
     - :octicons-arrow-right-24: Need more support? [Book a 1:1 consultation](#11-consultations) for personalised guidance.
 
--   ### :fontawesome-regular-compass: **Prepare your Ultra site for teaching**
+-   :fontawesome-regular-compass: **Prepare your Ultra site for teaching**
 
     ---
 
     A step-by-step guide to updating a templated or rolled-over site for a new semester, helping you to avoid start-of-semester issues.
 
-    - :octicons-arrow-right-24: [On-demand guide: Prepare sites for teaching](../ultra/prepare-site.md)
+    - :octicons-arrow-right-24: [On-demand: Prepare sites for teaching](../ultra/prepare-site.md)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
--   ### :simple-go:  **Getting started with Mentimeter**
+-   :simple-go:  **Getting started with Mentimeter**
 
     ---
     
     Experience the question and interaction types available within Mentimeter, then learn to create and deliver your own interactive presentations.
 
-    - :octicons-arrow-right-24: [On-demand guide: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
+    - :octicons-arrow-right-24: [On-demand: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
--   ### :octicons-check-circle-16: **Ultra Assignment: marking**
+-   :octicons-check-circle-16: **Ultra Assignment: marking**
 
     ---
     
     An introduction to Ultra Assignment: how to access submissions, mark and annotate work and provide feedback.
     
-    - :octicons-arrow-right-24: [On-demand guide: Ultra Assignment marking](../ultra/assignment-marking.md)
+    - :octicons-arrow-right-24: [On-demand: Ultra Assignment marking](../ultra/assignment-marking.md)
     - :octicons-arrow-right-24: Need more support? [Book a 1:1 consultation](#11-consultations) for personalised guidance.
 </div>
 
@@ -77,26 +77,26 @@ Select an appointment time from the schedule below to book a consultation, or [o
 <div class="grid cards" markdown>
 <!-- renders in Live as a grid of index cards -->
 
--   ### :material-laptop: [Webinars: share practice](../training/webinars.md)
+-  :material-laptop: [Webinars: share practice](../training/webinars.md)
 
     ---
 
     Share knowledge and explore best practice with colleagues from across the university.
 
--   ### :material-account-voice: [Case Studies: dig deeper](../training/case-studies/index.md)
+-  :material-account-voice: [Case Studies: dig deeper](../training/case-studies/index.md)
 
     ---
 
     In-depth vignettes & examples of implementing our tools to support learning and teaching.
     
 
--   ### :material-school: [CMALT: professional development](../training/cmalt.md)
+-   :material-school: [CMALT: professional development](../training/cmalt.md)
 
     ---
 
-    Develop your learning technology practice and gain accreditation by the Association for Learning Technology.
+    Develop your learning technology practice and gain accreditation from the Association for Learning Technology.
     
-- ### :material-new-box: [New staff members](../help/new-staff.md)
+-   :material-new-box: [New staff members](../help/new-staff.md)
     
     ---
    
