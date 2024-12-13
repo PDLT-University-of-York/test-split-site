@@ -235,4 +235,4 @@ AI-DA doesn't automate repetitive tasks such as updating multiple due dates. How
 
 - [Batch Edit](../ultra/batch-edit.md): change due dates, set release conditions and delete items in bulk
 - [Copy Content](../ultra/copy-content.md): copy items from within the current site or from another site
-- [Upload Test questions](../ultra/test.md#upload-questions-from-file): upload existing Test questions from a .csv file
+- [Upload Test questions](../ultra/test.md#upload-questions-from-a-file): upload existing Test questions from a .csv file

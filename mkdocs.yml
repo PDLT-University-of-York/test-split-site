@@ -289,7 +289,7 @@ plugins:
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
         'ultra/messages-tool.md': 'ultra/messages.md'
-        'ultra/workshop-ultra-essentials-teaching.md': 'training/workshops-resources/ultra-essentials.md'
+        'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
         'ultra/international-access.md': 'help/international-access.md'
         'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term

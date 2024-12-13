@@ -57,7 +57,7 @@ The available conversation types are:
 
 The AI will continue to respond, so conversations do not have a natural end point. You may wish to give students a suggested number of contributions or tell them choose an appropriate point to end the conversation.
 
-## Assessment & AI conversation
+## Assessment and AI conversation
 
 AI conversation is designed as a formative assessment task, but it can also be used as an unmarked self-study task with no need to submit the conversation.
 
@@ -324,14 +324,14 @@ We did generally find that if input was:
 </br>![Conversation type selection: described in example below](images/ai-conversation-step-1.png)
 4. Input **Student instructions**. For *Socratic questioning* enter a clear, open-ended question, and for a *Role play* describe the situation, roles and the goal of the conversation. Click **Next**.
 </br>![Role play situation: described in example below](images/ai-conversation-step-2.png)
-5. Describe the **AI persona**, then click **Save**. See the [AI personas: tips](../ultra/ai-conversation.md#ai-persona-tips) section below for more details. (The personality trait is not displayed to students).
+5. Describe the **AI persona**, then click **Save**. The personality trait is not displayed to students. See the [Tips for generating appropriate AI responses](../ultra/ai-conversation.md#tips-for-generating-appropriate-ai-responses) section for more details.
 </br>![AI persona: described in example below](images/ai-conversation-step-3.png)
 6. If desired, click the three dots icon adjacent to *Reflection Question* to edit the question wording.
 7. Click **Preview chat** to make sure that the AI responds appropriately. If needed, click the three dots icon adjacent to *AI Conversation* to edit the instructions and persona and repeat.
 </br>![Settings: described in AI conversation example below](images/ai-conversation-review.png)
 8. Adjust the remaining conversation settings:
     - Enter a conversation **title** at the top of the screen.
-    - Click the **cog icon** to open the full settings and adjust for your needs (see the [Assessment & AI Conversations section](../ultra/ai-conversation.md#assessment--ai-conversation) for suggested settings). Click **Save**.
+    - Click the **cog icon** to open the full settings and adjust for your needs (see the [Assessment & AI Conversations section](../ultra/ai-conversation.md#assessment-and-ai-conversation) for suggested settings). Click **Save**.
     - If needed, click the points pill to adjust the marks awarded (default: 0 marks for the conversation, 1 mark for the reflection)
     - Set an appropriate [content visibility](../ultra/content-visibility.md).
     </br>![decorative](images/ai-conversation-settings.png)

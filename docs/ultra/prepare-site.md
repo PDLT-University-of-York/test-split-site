@@ -50,7 +50,7 @@ Once the site has been created, you can [find the site in your Courses list](../
 If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enrol you.
 
 ## General settings
-For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-sites.md)
+For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-site.md)
 
 === "Update after rollover"
 
