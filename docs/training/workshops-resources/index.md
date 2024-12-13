@@ -10,6 +10,17 @@ We offer a range of workshops to introduce you to tools and implement them to su
 
 [Browse the schedule and sign up for sessions](#sign-up-for-sessions) using the Google form below. 
 
+
+Book a 25-minute 1:1 consultation with DET for personalised help with your Ultra VLE site. 
+
+Bring any topic you would like guidance on, such as:
+
+- follow-up questions after using our on-demand training and guides
+- advice on setting up a site for teaching
+- selecting appropriate tools and workflows to support your teaching
+- using specific Ultra features
+- checking settings are appropriate 
+
 <div class="grid cards wide" markdown>
 
 -   :simple-go: **Getting started with Ultra**
@@ -22,7 +33,7 @@ We offer a range of workshops to introduce you to tools and implement them to su
     
     [On-demand guide: Getting started with Ultra](../../ultra/getting-started.md)
 
--   :fontawesome-regular-compass: **Prepare Ultra sites for teaching: Guided walkthrough**
+-   :fontawesome-regular-compass: **Prepare your Ultra site for teaching: Guided walkthrough**
 
     ---
 
@@ -32,16 +43,6 @@ We offer a range of workshops to introduce you to tools and implement them to su
 
     [On-demand guide: Prepare sites for teaching](../../ultra/prepare-site.md)
 
--   :fontawesome-solid-dumbbell: **Prepare Ultra sites for teaching: Power Hour**
-
-    ---
-    
-    Ring-fenced and supported time to prepare your site(s):
-
-     - 5 minutes sharing what you will do during the hour.
-     - 50 minutes working on your site, with breakout room available for questions and support from your host.
-     - 5 minutes sharing what you’ve achieved.
-
 -   :simple-go:  **Getting started with Mentimeter**
 
     ---
@@ -50,30 +51,30 @@ We offer a range of workshops to introduce you to tools and implement them to su
 
     [Alternative guide: Mentimeter presentations](../../other-tools/mentimeter/create-presentation.md)
 
--   :simple-go: **Getting started with Padlet**
+<!-- -   :simple-go: **Getting started with Padlet**
 
     ---
     
     Padlet is a flexible web-based tool for collaborative and individual project work and discussion. This session will introduce you to the tool and show you how to set up and deploy padlet boards for teaching and learning.
     
-    [Alternative guide: Padlet](../../other-tools/padlet.md)
+    [Alternative guide: Padlet](../../other-tools/padlet.md) -->
 
 
--   :octicons-check-circle-16: **Getting started with Ultra Test**
+<!-- -   :octicons-check-circle-16: **Getting started with Ultra Test**
 
     ---
     
     Learn how to set up quizzes and tests within your Ultra sites to support learning, teaching and assessment.
     
-    [On-demand guide: Ultra Test](../../ultra/test.md)
+    [On-demand guide: Ultra Test](../../ultra/test.md) -->
 
 -   :octicons-check-circle-16: **Ultra Assignment: marking**
 
     ---
     
-    A demonstration of accessing submissions, marking and giving feedback in Ultra Assignments, with opportunity to ask questions and try out marking in a sandpit site.
+    How to access Ultra Assignment submissions, mark and annotate work and provide feedback.
     
-    [On-demand guide: Ultra Assignmment marking](../../ultra/assignment-marking.md)
+    [On-demand guide: Ultra Assignment marking](../../ultra/assignment-marking.md)
 </div>
 
 ## Sign up for sessions
