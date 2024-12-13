@@ -17,7 +17,7 @@ We also run synchronous sessions at key points of the academic year, where you c
 
     An introduction to the key features of the Ultra platform and sites, aimed at users new to Learn Ultra or needing a refresher.
    
-    - :octicons-arrow-right-24: [On-demand: Getting started with Ultra](../../ultra/getting-started.md)
+    - :octicons-arrow-right-24: [On-demand: Getting started with Ultra](../ultra/getting-started.md)
     - :octicons-arrow-right-24: Need more support? [Book a 1:1 consultation](#11-consultations) for personalised guidance.
 
 -   :fontawesome-regular-compass: **Prepare your Ultra site for teaching**
