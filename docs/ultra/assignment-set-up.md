@@ -29,36 +29,37 @@ Assignment is most suitable for:
 - individual or group assignments
 - a range of file types up to 100MB (eg. text documents, slide decks, low res video and audio)
 
-The Assignment tool does techncally allow anonymous submissions, however **we don't recommend using Assignment anonymously** as this:
+**Do not use Assignment for anonymous submissions**. This is technically possible, but we don't recommend it at UoY as anonymous marking:
 
-1. can be turned off with a single button click, and can't be turned back on
-2. limits the marking tools and filtering options available
-3. makes it very difficult to apply SSP adjustments
+1. can be turned off with a single button click, and can't be turned back on.
+2. limits the marking tools and filtering options available.
+3. makes it very difficult to manage SSP adjustments.
 
 If you want to run an anonymous summative assignment, see our [TurnItIn Feedback Studio set up guide](../assessment/tfs/set-up.md).
 
-## Submission points
+## Setting up submission points
 
-!!! Warning
-
-    All formal assessment information and submission points (including formative) must be located in the Assessment section of a module site.
-
-- As Ultra Assignments are used for formatives or non-anonymous summatives, submission points can be set up by teaching staff or admins.
-- Submission points must appear in the Assessment section of the module site. If desired, a Course Link to the submission point can also be added in a weekly content folder.
+- As Ultra Assignments are used for *formative* or *non-anonymous summative* assessments, submission points can be set up by teaching staff or admins.
+-  **All formal assessment information and submission points (including formative) must be located in the Assessment section of a module site.** If desired, a Course Link to the submission point can also be added in a weekly content folder.
 - Give clear instructions on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section.
 - Marking criteria or grading policies for the assignment must be available or linked within the Assessment section.
 
+!!! Warning
+    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if hidden from students in the Course Content area.
+    
+    When **uploading assessment-related files** where access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+
 ### Individual assessment
 
-This should generally only be used for *formative* or *non-anonymous summative* tasks.
-
-![Decorative](images/assignment-set-up.png)
+To set up an individual Assignment: 
 
 1. In the **Assessment section**, hover where you want to add the Assignment and click the **purple plus icon**.
 2. Select **Assignment**.
-3. Add a **title**, set [appropriate **visibility**](../ultra/content-visibility.md) and add **instructions** as text or a file.
-4. Click the **cog icon** to set a Due Date (this must be within working hours) and adjust other settings (see below)
+3. Add a **descriptive title**, set [appropriate **visibility**](../ultra/content-visibility.md) and add **instructions** as text or a file.
+4. Click the **cog icon** to set a Due Date (this must be within working hours) and adjust other settings (see suggested settings below).
 5. Click **Save** when finished.
+
+![Decorative](images/assignment-set-up.png)
 
 Appropriate settings will depend on your particular assessment, but here are our general recommended settings:
 
@@ -116,20 +117,17 @@ Appropriate settings will depend on your particular assessment, but here are our
         - *Originality Report*: not currently recommended
     - **Description**: if desired, enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment)
 
-For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
+For more detail, see [Blackboard Help's guide to Ultra Assignment Set Up & Use](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
 ### Group assessment
 
-Assignment can be used with Course Groups to allow a student to transparently make a submission on behalf of the whole group, and for marks and feedback to be released to all group members.
+Ultra Assignment is the tool we have available to facilitate group assessment. TurnItIn does not support group assessment.
+
+Assign to Course Groups to allow a student to transparently make a submission on behalf of the whole group, and for marks and feedback to be released to all group members.
 
 See our [guide to Group Assignments](../ultra/assignment-groups.md) for full details.
 
-!!! Warning
-    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if hidden from students in the Course Content area.
-    
-    When **uploading assessment-related files** where access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
-
-### Generate Assignment prompts & rubrics with AI
+## Generate Assignment prompts & rubrics with AI
 
 You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate assignment prompts based on your site content. 
 
