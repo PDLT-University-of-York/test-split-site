@@ -62,7 +62,7 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
     To open a submission, click the relevant student/assessment cell and select **View**.
 
-    ![decorative](images/assignment-marking-marks-view.png)
+    ![decorative](images/gradebook-tab-marks-view.png)
 
 === "Overview tab"
 
@@ -73,7 +73,7 @@ There are various ways to open submissions. Ultimately they all have the same ou
     - the Assignment name to open its Submissions tab with the *Needs Marking* filter applied.
     - the **Mark now** button to go straight to the marking interface with the *Needs Marking* filter applied.
 
-    ![decorative](images/assignment-marking-overview.png)
+    ![decorative](images/gradebook-tab-overview.png)
 
 === "Markable items tab"
 
@@ -81,7 +81,7 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
     Click **Gradebook**, then select the **Markable items** tab. This displays all assessment items and the number still to mark. Click the relevant Assignment to open its Submissions tab.
 
-    ![decorative](images/assignment-marking-markable-items.png)
+    ![decorative](images/gradebook-tab-markable-items.png)
 
 ### 2. Review and annotate
 
