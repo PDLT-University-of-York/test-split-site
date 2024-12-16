@@ -12,6 +12,8 @@ tags:
 
     This guide gives a suggested marking workflow for formative or non-anonymous Assignment submissions. It is primarily aimed at **Teaching staff**.
 
+## Video guide: marking Ultra Assignments
+
 Use the video demonstrations here for a quick start on accessing and marking submissions, or for more detail see the in-depth written guidance below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XGuTT5hnLAY?si=W37HgVuhz36hOaeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,7 +22,9 @@ Use the video demonstrations here for a quick start on accessing and marking sub
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdVWquEDRvA?si=o9eVQzxhGrhHBo9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Marking Ultra Assignments: annotations, feedback & marks [YouTube]](https://www.youtube.com/watch?v=FdVWquEDRvA)
 
-## 1. Open a submission
+## Written guide: marking Ultra Assignments
+
+### 1. Open a submission
 
 A counter displays on the Gradebook tab when there are submissions that need marking. 
 
@@ -79,7 +83,7 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
     ![decorative](images/assignment-marking-markable-items.png)
 
-## 2. Review and annotate
+### 2. Review and annotate
 
 Use the marking interface to review the submitted file and make annotations or comments (if needed). The interface contains:
 
@@ -166,11 +170,7 @@ Use the marking interface to review the submitted file and make annotations or c
 
 ![decorative](images/assignment-marking-export-menu.png)
 
-<!-- Video demonstration:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LIald_8FqMg?si=urQ9mwX09ZdnJF-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Annotate in Blackboard Learn (YouTube)](https://youtu.be/LIald_8FqMg?si=1CfLkGcUxnLQaGXK) -->
-
-## 3. Enter feedback and marks
+### 3. Enter feedback and marks
 
 Open the collapsible panel on the right side to enter feedback and access a marking rubric.
 
@@ -218,8 +218,7 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
     ![decorative](images/assignment-marking-rubric.png)
 
-
-## 4. Open another submission
+### 4. Open another submission
 
 In the **marking interface**, choose another submission in the Student list in the left Student panel, or use the *Previous student*/*Next student* arrows above the submission. This can be filtered to only show work that needs marking.
 
@@ -231,7 +230,7 @@ In the **marking interface**, choose another submission in the Student list in t
 
 You can also select another submission using any of the [methods to open a submission](#1-open-a-submission) described above.
 
-## 5. Manually post marks
+### 5. Manually post marks
 
 !!! Note
 
