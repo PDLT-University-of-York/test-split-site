@@ -104,10 +104,25 @@ nav a {
 }
 
 /*** centre images */
+/* put image inside the div*/
 
 div.centered-image {
     display: flex;
     justify-content: center;
+}
+
+/* two column layout - col 1 expands to fit */
+div.cols {
+    display: flex
+}
+
+div.cols>* {
+    min-width: 150px;
+}
+
+div.bigcol {
+    flex: 1;
+    padding-right: 10px;
 }
 
 /*** tabbed content styling */
