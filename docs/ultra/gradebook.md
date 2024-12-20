@@ -8,23 +8,28 @@ tags:
 
 !!! Summary
 
-    The Gradebook pulls together assessments and submissions from across the site.
+    The Gradebook pulls together all assessments and submissions from across the site.
 
-Within the gradebook, you can:
+Within the Gradebook, you can achieve various assessment-related tasks, including:
 
 - access assignment submission points, Tests and other assessments
-- mark submitted work (also see [Ultra Assignment: marking](../ultra/assignment-marking.md))
-- upload/download grades
+- mark submitted work
+- view and download grades
 
-This page summarises key information about using the Gradebook. For more in-depth guidance, see the [BlackBoard Help: Ultra Gradebook](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Navigate_Grading) page.
+For more complex assessment administration guidance, see our [Assessment Tracker guides](https://vle-support.york.ac.uk/assessment/tfs/set-up/#assessment-tracker-summatives-only).
 
-A counter displays on the Gradebook tab when there are submissions that need marking. 
+## View Gradebook data and submissions
+
+Access the Gradebook through the tab in the top navigation bar within a site.
+
+This tab may also display an icon, depending on what action is needed:
+
+- a number: count of submissions that need marking
+- exclamation mark (!): no submissions to mark, but there are marks to post
 
 ![Top navigation bar with Gradebook tab displaying '6' icon](images/assignment-marking-counter.png)
 
-## Gradebook views
-
-Within the gradebook, there are various tabs (or views) presenting assessment information in different ways.
+Within the Gradebook, there are various tabs (or views) presenting assessment information in different ways:
 
 === "Overview"
 
@@ -47,7 +52,11 @@ Within the gradebook, there are various tabs (or views) presenting assessment in
 
 === "Marks"
 
-    **Use for**: details of all submissions, filtering for a specific marking group or assessment, or for quick access to a particular submission. 
+    **Use for**:
+    
+    - a grid view of all students and all assessments
+    - filtering for a marking group or specific assessment
+    - quick access to a particular submission
     
     !!! Note
         
@@ -55,7 +64,7 @@ Within the gradebook, there are various tabs (or views) presenting assessment in
 
     Click **Gradebook**, then select the **Marks** tab. This displays a grid of students (rows) and assessment items (columns). 
 
-    To filter for marking groups, click **Filter**. Open the **Groups** dropdown, select your marking group (and/or apply other filters) and click **Apply**. 
+    To filter for marking groups or other features, click **Filter**. Open the **Groups** dropdown, select your marking group (and/or apply other filters) and click **Apply**. 
 
     ![decorative](images/assignment-marking-marks-filter-groups.png)
 
@@ -65,7 +74,7 @@ Within the gradebook, there are various tabs (or views) presenting assessment in
 
 === "Students"
 
-    **Use for**: a holistic view of a student's general and assessment activity.
+    **Use for**: a holistic view of a student's general and assessment activity
 
     Click **Gradebook**, then select the **Students** tab. This list all students, with their Student ID, username and date of last access. Click the relevant Student name to open a list of all their assessment activity, marks and feedback, accommodations details and general student activity.
 
@@ -81,23 +90,146 @@ Within the gradebook, there are various tabs (or views) presenting assessment in
 
     ![decorative](images/assignment-marking-submissions.png)
 
-## Filter the Gradebook view
+## Marking assessments
 
-To make it easier to locate relevant submissions, you can  filter the Marks Gradebook view to show only particular students, groups (eg. marking groups) or assessments.
+See our assessment tool guides for details of the marking process:
 
-### Set up a filter
+- [TurnItIn marking](../assessment/tfs/marking.md)
+- [Ultra Assignment - marking](../ultra/assignment-marking.md)
+- [Ultra Test](../ultra/test.md)
 
-1. In the **Gradebook**, select the **Marks** view.
-2. Click the **Filter** button.
-3. Choose the relevant **filter option(s)** and click **Apply**
+## Assessment settings and resources
 
-![decorative](images/gradebook-filter.png)
+On any of the Gradebook views, click the *cog* icon on the right of the Gradebook navigation bar to open site-wide Settings.
 
-### Remove a filter
+![decorative](images/gradebook-settings-icon.png)
 
-Filters applied are listed above the Marks table.
+### Automatic zeroes
 
-- **Remove an individual filter**: click the x icon next to teh filter name
-- **To remove all filters**: click 'Clear all filters' after the list of applied filters.
+<div markdown class="grid">
+<div markdown>
+- Automatically give a zero score if no work is submitted by the deadline.
+- This doesn't affect deadline accommodations or assessment-specific late submission settings
+- Recommended setting: *off* (default for sites created from January 2025).
+</div>
+<div markdown class="centered-image">
+![Settings: Assign automatic zeros for overdue work. Students can submit late to update their marks. Students with due date accommodations aren't affected.](images/gradebook-setting-automatic-zeroes.png)
+</div>
+</div>
 
-![decorative](images/gradebook-filter-remove.png)
+### Mark schemas
+
+<div markdown class="grid">
+<div markdown>
+- Mark schemas can be used to display an overall numerical mark as a qualitative grade or status, eg. A/B/C or Complete/Incomplete.
+- Numerical marks aren't overridden; students and staff can still access the mark awarded to specific submission attempts.
+- Only applies to in-built Ultra assessment types (ie. not TurnItIn or Gradescope).
+- Find out more on our [guide to Mark Schemas](../ultra/mark-schema.md)
+</div>
+<div markdown class="centered-image">
+![Settings: Marking schemas map percentages to letter marks or some other notation for reporting performance. Link to Manage mark schemas](images/gradebook-setting-mark-schemas.png)
+</div>
+</div>
+
+### Course rubrics
+
+<div markdown class="grid">
+<div markdown>
+- View, edit (if not yet used for marking), duplicate or delete all marking rubrics associated with the site.
+- Option to create a new rubric or generate one with AI to later deploy in an assessment.
+- Only applies to in-built Ultra assessment types (ie. not TurnItIn or Gradescope).
+- Find out more on our [guide to Marking Rubrics](../ultra/marking-rubric.md)
+</div>
+<div markdown class="centered-image">
+![Settings: list of associated course rubrics, and buttons to Create/Generate new rubrics](images/gradebook-setting-course-rubrics.png)
+</div>
+</div>
+
+## Download & view Gradebook data
+
+### Download the Gradebook: spreadsheet summary of all marks 
+
+On any of the Gradebook views, click the *Download Gradebook* icon (a box with an arrow pointing down into it) on the right of the Gradebook navigation bar.
+
+![decorative](images/gradebook-download-marks-icon.png)
+
+<div markdown class="grid">
+<div markdown>
+
+Set your desired download options:
+
+- **Mark records**: level of data to include
+    - *Full Gradebook*: the marks as currently shown in the Gradebook.
+    - *Mark history*: full details of all marking activity. You are very unlikely to need this.
+- **Record details**: which assessments to include
+    - Tick *Select All Items* or select specific assessments from the list.
+    - To also download feedback, select one assessment and toggle the feedback option on.
+- **File Type**: select your desired file type: .xls or .csv
+- **Save Location**
+    - *My Device*: leave selected to download to your computer.
+    - *Content Collection*: do not choose this option
+
+When you have applied your settings, click **Download**.
+</div>
+<div markdown class="centered-image">
+![Download options described in text](images/gradebook-download-full-marks.png)
+</div>
+</div>
+
+### Download Results
+
+<div markdown class="cols">
+<div markdown class="bigcol">
+For in-built Ultra assessments, you can download detailed marks for a specific assessment. This is most useful for analysing Test responses.
+
+1. Open the *Marks* or *Markable Items* Gradebook view.
+2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Download Results**.
+3. Select the appropriate settings:
+    - File type: .xls or .csv
+    - Format of results: by student (1 row/student) or By questions and student (1 row/student/question)
+    - Attempts to Download: all attempts or only the marked attempts
+4. Click **Download**.
+</div>
+<div markdown class="centered-image">
+![decorative](images/gradebook-download-results.png)
+</div>
+</div>
+
+### Download submissions
+
+<div markdown class="cols">
+<div markdown class="bigcol">
+For in-built Ultra assessments, you can download all submissions to a submission point as a ZIP file:
+
+1. Open the *Marks* Gradebook view.
+2. Click the relevant assessment icon and then select **Download Submissions**.
+3. Select individual student(s) or tick the box next to *Name* to select all students.
+4. Click **Create ZIP File**.
+</div>
+<div markdown class="centered-image">
+![decorative](images/gradebook-download-submissions.png)
+</div>
+</div>
+
+### Item statistics
+
+<div markdown class="cols">
+<div markdown class="bigcol">
+To assist in analysing results, you can view summary mark statistics each assessment.
+
+!!! Tip
+
+    Statistics include any automatic zeroes assigned for non-submission.
+
+1. Open the *Marks* or *Markable Items* Gradebook view.
+2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Statistics**.
+3. Review the statistics:
+    - Grade Statistics: count, min, max, range, average, median, sd, variance
+    - Marking Status: doesn't seem useful in our context
+    - Grade Distribution: the count of marks in each 10% band, or each mark schema band (if used).
+4. If desired, copy/paste the statistics for use elsewhere or use the dropdown menu to select another assessment.
+</div>
+<div markdown class="centered-image">
+![decorative](images/gradebook-statistics.png)
+</div>
+</div>
