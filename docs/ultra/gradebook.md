@@ -117,17 +117,17 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 </div>
 </div>
 
-### Mark schemas
+### Marking schemas
 
 <div markdown class="grid">
 <div markdown>
-- Mark schemas can be used to display an overall numerical mark as a qualitative grade or status, eg. A/B/C or Complete/Incomplete.
+- Marking schemas can be used to display an overall numerical mark as a qualitative grade or status, eg. A/B/C or Complete/Incomplete.
 - Numerical marks aren't overridden; students and staff can still access the mark awarded to specific submission attempts.
 - Only applies to in-built Ultra assessment types (ie. not TurnItIn or Gradescope).
-- Find out more on our [guide to Mark Schemas](../ultra/marking-schema.md)
+- Find out more on our [guide to Marking schemas](../ultra/marking-schema.md)
 </div>
 <div markdown class="centered-image">
-![Settings: Marking schemas map percentages to letter marks or some other notation for reporting performance. Link to Manage mark schemas](images/gradebook-setting-mark-schemas.png)
+![Settings: Marking schemas map percentages to letter marks or some other notation for reporting performance. Link to Manage marking schemas](images/gradebook-setting-mark-schemas.png)
 </div>
 </div>
 
