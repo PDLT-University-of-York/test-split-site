@@ -12,6 +12,8 @@ tags:
 
     This guide gives a suggested marking workflow for formative or non-anonymous Assignment submissions. It is primarily aimed at **Teaching staff**.
 
+For student Assignment submission instructions, see our [student guides to submitting assignments on the VLE](https://subjectguides.york.ac.uk/learning-tech/vle-assignments).
+
 ## Video guide: marking Ultra Assignments
 
 Use the video demonstrations here for a quick start on accessing and marking submissions, or for more detail see the in-depth written guidance below.

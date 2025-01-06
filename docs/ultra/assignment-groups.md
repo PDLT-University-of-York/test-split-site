@@ -144,6 +144,8 @@ When you are ready to release the Assignment to students, set it to be **Visible
 
     Once a submission is made, you can't change or delete the Group Set, and may not be able to edit other settings.
 
+For student Assignment submission instructions, see our [student guides to submitting assignments on the VLE](https://subjectguides.york.ac.uk/learning-tech/vle-assignments).
+
 ## Marking group Assignments
 
 For details of the general Assignment marking workflow, see our [marking Assignments guide](../ultra/assignment-marking.md). This section covers additional guidance specific to marking group Assignments.
@@ -184,6 +186,8 @@ Additional notes on individual marking behaviour:
 - If individual marks are entered for each student without entering an overall group mark, the attempt will still show as Needs Marking.
 
 ## Testing group Assignment workflows
+
+For student Assignment submission instructions, see our [student guides to submitting assignments on the VLE](https://subjectguides.york.ac.uk/learning-tech/vle-assignments).
 
 !!! Warning
 
