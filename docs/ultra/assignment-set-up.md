@@ -53,14 +53,14 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 
 Assessment **deadlines must be set within working hours** so students can access technical support if needed. Ideally, please set the deadline between 10:00 and 16:00, Monday - Friday.
 
-There are two settings relating to late submission:
+There are two settings relating to late submission which should not be applied:
 
-- **Prohibit late submissions**: automatically submits any in-progress work at the deadline (ie. files that have been uploaded as drafts but not submitted) and prevents new submissions. Do not tick.
-- **Prohibit new attempts after due date**: prevents beginning a new submission after the deadline. Do not tick.
+- **Prohibit late submissions**: automatically submits any in-progress work at the deadline (ie. files that have been uploaded as drafts but not submitted) and prevents new submissions.
+- **Prohibit new attempts after due date**: prevents beginning a new submission after the deadline. Automatically applied if *Prohibit late submissions* is ticked.
 
 !!! Warning 
     
-    **Do not tick the late submission settings**. University assessment policy requires that students must be permitted to submit work late. Any late submissions are clearly flagged in the marking interface for easy identification.
+    University assessment policy requires that students must be permitted to submit work late, so **do not tick these late submission settings**. Any late submissions received are clearly flagged in the marking interface so they can be easily identified.
 
 ### Individual assessment
 
