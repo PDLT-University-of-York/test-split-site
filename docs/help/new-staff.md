@@ -31,20 +31,19 @@ Each module has a VLE site to host content, interact with students and handle su
 <div markdown>
 The VLE you'll use depends on your department:
 
-- [Learn Ultra](../ultra/index.md): Most on-campus departments & Hull York Medical School
+- [Learn Ultra](../ultra/index.md): On-campus departments & Hull York Medical School
 - [Canvas](../other-tools/canvas.md): York Online programmes
-- Moodle: Department of Mathematics (not supported by us)
 </div>
 
 ![Decorative](../ultra/images/index-ultra.png)
 
 </div>
 
-### Setting up your VLE site
+### Preparing VLE sites
 
 - [All VLEs: Site design principles](../ultra/site-design-principles.md): best practice in site design and requirements for VLE module sites.
+- [Ultra: Preparing your module site](../ultra/prepare-site.md): a step-by-step guide to update an existing site after rollover or set up a new site from a departmental template.
 - [Ultra: Reading List](../other-tools/reading-list.md): guidance on setting up your module Reading List
-<!-- - [Ultra: Preparing your module site] -> link to reworked template page -->
 
 ## Lecture Capture & other video
 

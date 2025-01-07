@@ -24,6 +24,12 @@ Guidance focuses on sites based on a departmental module template, but the advic
 
 Already prepared your content? See the [Site Readiness Checklist](../ultra/site-design-principles.md) for final pre-teaching checks.
 
+!!! Tip
+
+    Before each semester, we offer live training sessions on this topic and bookable 1:1 consultations for any support needs.
+    
+    Visit our [Training page](../training/index.md) for details and to book a session.
+
 --- 
 
 ## Accessing the new site

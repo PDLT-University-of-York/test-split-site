@@ -54,6 +54,7 @@ Contact the relevant team for help with tools that we don't support.
 
     - :octicons-arrow-right-24: Team email: itsupport@york.ac.uk
     - [:octicons-arrow-right-24: Google tools](https://subjectguides.york.ac.uk/google)
+    - [:octicons-arrow-right-24: Google Gemini](https://www.york.ac.uk/it-services/tools/google-gemini/)
     - [:octicons-arrow-right-24: Duo 2-factor authentication](https://www.york.ac.uk/it-services/services/duo/)
     - [:octicons-arrow-right-24: Zoom](https://www.york.ac.uk/it-services/services/zoom/)
 
