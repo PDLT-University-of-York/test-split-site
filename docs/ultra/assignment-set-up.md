@@ -57,14 +57,14 @@ If you want to run an anonymous summative assignment, see our [TurnItIn Feedback
 
 Assessment **deadlines must be set within working hours** so students can access technical support if needed. Ideally, please set the deadline between 10:00 and 16:00, Monday - Friday.
 
-There are two settings relating to late submission which should not be applied:
-
-- **Prohibit late submissions**: automatically submits any in-progress work at the deadline (ie. files that have been uploaded as drafts but not submitted) and prevents new submissions.
-- **Prohibit new attempts after due date**: prevents beginning a new submission after the deadline. Automatically applied if *Prohibit late submissions* is ticked.
-
 !!! Warning 
     
-    University assessment policy requires that students must be permitted to submit work late, so **do not tick these late submission settings**. Any late submissions received are clearly flagged in the marking interface so they can be easily identified.
+    University assessment policy requires that students must be permitted to submit work late, so **do not apply settings preventing late submissions**. Any late submissions received are clearly flagged in the marking interface so they can be easily identified.
+
+There are two settings relating to late submission. **Do not tick these settings**:
+
+- *Prohibit late submissions*: automatically submits any in-progress work at the deadline (ie. files that have been uploaded as drafts but not submitted) and prevents new submissions.
+- *Prohibit new attempts after due date*: prevents beginning a new submission after the deadline. Automatically applied if *Prohibit late submissions* is ticked.
 
 ### Individual assessment
 
@@ -178,7 +178,7 @@ Check that the group shows as expected, then click **Start attempt 1** (or **Vie
     
     When **uploading assessment-related files** where access needs to be limited (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
 
-### Generate Assignment prompts & rubrics with AI
+## Generate Assignment prompts & rubrics with AI
 
 The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/ai-da.md#marking-rubrics) as a starting point of your own rubric development.
 
