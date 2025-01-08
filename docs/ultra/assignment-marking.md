@@ -14,7 +14,7 @@ tags:
 
 For student Assignment submission instructions, see our [student guides to submitting assignments on the VLE](https://subjectguides.york.ac.uk/learning-tech/vle-assignments).
 
-## Video guide: marking Ultra Assignments
+## Video demonstrations
 
 Use the video demonstrations here for a quick start on accessing and marking submissions, or for more detail see the in-depth written guidance below.
 
@@ -24,7 +24,7 @@ Use the video demonstrations here for a quick start on accessing and marking sub
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdVWquEDRvA?si=o9eVQzxhGrhHBo9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Marking Ultra Assignments: annotations, feedback & marks [YouTube]](https://www.youtube.com/watch?v=FdVWquEDRvA)
 
-## Written guide: marking Ultra Assignments
+## Marking process
 
 ### 1. Open a submission
 
@@ -85,7 +85,47 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
     ![decorative](images/gradebook-tab-markable-items.png)
 
-### 2. Review and annotate
+### 2. Check multiple & late attempts
+
+!!! Warning
+    
+    If a student submits multiple attempts, you may need to manually select the correct attempt to mark.
+
+The marking interface usually opens a submission showing the last attempt made, which in most cases is the attempt that you need to mark. However, University policy is to mark the last on time attempt, or to mark the first attempt if all submissions are late.
+
+This means that if there are **multiple attempts and at least one of those is late**, you will need to manually select the relevant attempt to mark. This table gives details:
+
+| Attempts | Submission time            | Policy: attempt to mark   | Interface: mark default attempt  | Late penalty*  |
+| -----    | -----                      | -----                     | -----                            | -----          |
+| 1        | on time                    | only attempt              | yes                              | no             |
+| 2+       | all **on time**            | last attempt              | yes                              | no             |
+| 2+       | **on time** and **late**   | last on time attempt      | **no - manually select attempt** | no             |
+| 1        | **late**                   | only attempt              | yes                              | yes            |
+| 2+       | all **late**               | first late attempt        | **no - manually select attempt** | yes            |
+
+\* Note: late penalties are usually applied by administrators
+
+**Identify late submissions**
+
+Late submissions are identified in numerous locations:
+
+- *Marking interface*: in an open submission, a Late label is shown with the attempt information. This is shown to the right of or below the student's name, depending on screen size.
+</br>![decorative](images/assignment-marking-late-marking-interface.png)
+- *Assignment submission tab*: a student's row shows their total attempts and if any are late, eg. *2 attempts (1 late)*. For late or missing submissions, this text is red and a red circle is shown around the user icon/photograph.
+</br>![decorative](images/assignment-marking-late-assignment-submission-tab.png)
+
+**Manually select an attempt**
+
+When viewing a submission in the marking interface, you can manually change to a different attempt: 
+
+1. Click the attempt submission information (where the *Late* label is shown) to open a list of all attempts.
+2. Select the attempt to mark (see table above).
+3. The marking interface will change to the selected attempt. Check the attempt information before you start marking.
+
+For example, a student submits two attempts; one on time, one late. In this case, you should mark the on time attempt. The marking interface displays the late submission (Attempt 2) by default, so click the attempt information and select the on time submission (Attempt 1) to mark.
+![example described in text](images/assignment-marking-manually-select-attempt.png)
+
+### 3. Review and annotate
 
 Use the marking interface to review the submitted file and make annotations or comments (if needed). The interface contains:
 
@@ -93,11 +133,13 @@ Use the marking interface to review the submitted file and make annotations or c
 - main section with the submission to review and annotation menu bar
 - an expandable feedback panel (on the right)
 
+Options in the annotation menu bar may be collapsed depending on the size of your screen and whether the Students and Feedback panels are open.
+
 ![decorative](images/assignment-marking-interface.png)
 
-!!! Tip
-    
-    Options in the annotation menu bar may be collapsed depending on the size of your screen and whether the Students and Feedback panels are open.
+It's possible for students to **upload multiple files in the same submission**, for example uploading each page of a handwritten submission as a separate image. These are shown as tabs above the annotation menu, which you can click to view.
+
+![Tabs showing two uploaded files, page 1 and page 2](images/assignment-marking-multiple-files.png)
 
 *Navigate the submission file* using icons on the left of the menu bar: view thumbnails, pan and zoom.
 
@@ -111,6 +153,7 @@ Use the marking interface to review the submitted file and make annotations or c
 4. **Text box**: type text on the file.
 5. **Lines**: draw lines, arrows and other shapes on the file.
 6. **Select text**: format text or add comments for specific text.
+7. **Content library**: create a bank of reusable comments for common feedback.
 
 ![decorative](images/assignment-marking-annotation-menu.png)
 
@@ -126,7 +169,7 @@ Use the marking interface to review the submitted file and make annotations or c
 
     **2. Image/file**
 
-    - Click the **image icon** and select an image or file to upload.
+    - Click the **Image icon** and select an image or file to upload.
     - Resize or move the image as desired. The image will be overlaid over the submission.
     - Delete, add a note change opacity or rotate using the menu that appears under the annotation menu.
 
@@ -140,6 +183,8 @@ Use the marking interface to review the submitted file and make annotations or c
     - To make comments anonymously, click the Anonymous icon before saving or click an existing comment, then the three dots icon and select Anonymous.
 
     ![decorative](images/assignment-marking-annotation-comment.png)
+
+    See *7. Content Library* for reusing comment comments.
 
     **4. Text box**
 
@@ -165,6 +210,17 @@ Use the marking interface to review the submitted file and make annotations or c
 
     ![decorative](images/assignment-marking-annotation-select.png)
 
+    **7. Content Library**
+
+    To save time, you can add common comments to the library to reuse for different students or for different assignments. Comments you add are specific to you; other markers can't see or use them.
+
+    - Click the **Content Library (books) icon** (may be hidden on small screens).
+    - Depending on the size of your screen, you may need to scroll right and/or collapse the Students panel to see the comments panel.
+    - To add a new comment to the bank: Click the **plus icon**, enter the comment in the text box, assign a category (optional) and click **Add comment**.
+    - To apply the comment as feedback: click the **three dots** icons on the relevant comment and click **Place comment**. Note: the options will disappear and it looks like nothing has happened - this is expected. Click the desired location on the work to add the comment, and follow instructions for *3. Comment* above.
+
+    ![Decorative](images/assignment-marking-annotation-content-library.png)
+
 *Search and export* the file with options on the right of the menu bar:
 
 - **Print** or **download** the annotated file in PDF format. Use the icon above the menu bar to download the original file.
@@ -172,7 +228,7 @@ Use the marking interface to review the submitted file and make annotations or c
 
 ![decorative](images/assignment-marking-export-menu.png)
 
-### 3. Enter feedback and marks
+### 4. Enter feedback and marks
 
 Open the collapsible panel on the right side to enter feedback and access a marking rubric.
 
@@ -196,9 +252,11 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
 === "Marks: manual entry"
 
-    For most Assignments, you will manually enter a mark. In this case, the Overall Feedback box is the only content in the right tab.
+    For most Assignments, you will manually enter a mark. In this case, the **Overall Feedback** box is the only content in the right tab.
 
-    Students can be shown a qualitative grade using a marking schema (eg. complete/incomplete, or A/B/C/D), but you must still enter a numerical mark. To do this:
+    If the assignment uses a marking schema to display qualitative grades (eg. complete/incomplete, or A/B/C/D), you must still enter a numerical mark.
+    
+    To do enter a mark:
 
     1. Click the **mark pill** in the top right.
     2. **Enter a mark** equal to or less than the maximum score shown.
@@ -206,9 +264,11 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
     ![Complete/incomplete schema, with entered mark of 1, shown to students as a tick.](images/assignment-marking-manual-mark.png)
 
+    Marks can also be entered directly in the Assignment Submissions tab or the Gradebook Grid view.
+
 === "Marks: Marking Rubric"
 
-    Assignments may use a Marking Rubric to efficiently give feedback and mark based on specific criteria. If used, this appears under the Overall Feedback box.
+    Assignments may use a **Marking Rubric** to efficiently give feedback and mark based on specific criteria. If used, this appears under the Overall Feedback box.
 
     To mark the work, **select the relevant mark level for each criterion**. The total mark is automatically calculated from your selections.
 
@@ -220,7 +280,7 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
     ![decorative](images/assignment-marking-rubric.png)
 
-### 4. Open another submission
+### 5. Open another submission
 
 In the **marking interface**, choose another submission in the Student list in the left Student panel, or use the *Previous student*/*Next student* arrows above the submission. This can be filtered to only show work that needs marking.
 
@@ -232,17 +292,17 @@ In the **marking interface**, choose another submission in the Student list in t
 
 You can also select another submission using any of the [methods to open a submission](#1-open-a-submission) described above.
 
-### 5. Manually post marks
+### 6. Manually post marks
 
 !!! Note
 
     **Post marks** is to release marks and feedback to students. They will receive a notification that the marks are available.
 
-    Your department may have guidelines on who is to post marks and when.
+    Your department may have guidelines on whether module staff or administrators post marks and when.
 
-An Assignment can be set to automatically post marks after marking, or to manually post marks. If a marking rubric is used, marks must be posted manually.
+An Assignment can be set to automatically post marks after marking, or to manually post marks. If a marking rubric is used, marks must be posted manually. 
 
-=== "Post indvidual marks"
+=== "Post individual marks"
 
     There are various ways to manually post marks and feedback for a specific submission:
 
