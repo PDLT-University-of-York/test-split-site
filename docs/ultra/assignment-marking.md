@@ -137,7 +137,7 @@ Options in the annotation menu bar may be collapsed depending on the size of you
 
 ![decorative](images/assignment-marking-interface.png)
 
-It's possible for students to **upload multiple files in the same submission**, for example uploading each page of a handwritten submission as a separate image. These are shown as tabs above the annotation menu, which you can click to view.
+It's possible for students to **upload multiple files in the same submission**, for example uploading each page of a handwritten submission as a separate image. If this has occurred, the files are shown as tabs above the annotation menu, which you can click to view.
 
 ![Tabs showing two uploaded files, page 1 and page 2](images/assignment-marking-multiple-files.png)
 
