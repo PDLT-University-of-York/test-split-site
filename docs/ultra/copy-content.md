@@ -19,7 +19,7 @@ Some terminology that we'll use in this guide:
 - **origin site**: the site where the content is coming from
 - **destination site**: the site where the copied content will appear
 
-You must be enrolled as an Instructor on the origin *and* destination sites to copy content.
+You must be enrolled as an Instructor on the origin *and* destination sites.
 
 !!! Tip
 
@@ -44,7 +44,7 @@ There are two ways to do this:
 <div markdown> 
 In most cases, we don't recommend using the Copy Content tool if the origin site is an Original ('old style') site.
 
-Ultra and Original sites are structured differently, so content doesn't copy well and needs a lot of tidying up. It's likely easier to recreate it directly in Ultra.
+Ultra and Original sites are structured differently, so content doesn't copy well and needs a lot of tidying up. It's likely easier to recreate it directly the Ultra destination site.
 
 However, Questions Banks do usually copy well from Original to Ultra sites.
 </div>
@@ -60,7 +60,7 @@ However, Questions Banks do usually copy well from Original to Ultra sites.
 </br>![decorative](images/copy-content-search-site.png)
 4. Select **Content** or another relevant content type. Again, don't tick the box as that will copy everything. The categories shown depend on the content in the site.
 </br>![decorative](images/copy-content-site-content-types.png)
-5. You can now access all the Course Content area of the origin site. Navigate through to select the content you need:
+5. The Course Content area of the origin site is now shown. Navigate through to select the content you need:
     - *Specific items*: click a Learning Module/folder to show the items within. Tick the box next to each item to copy.
     </br>![decorative](images/copy-content-select-items.png)
     - *Full Learning Module/folder*: tick the box next to the Learning Module/folder to select it and all of the items within.
