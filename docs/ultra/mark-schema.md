@@ -9,28 +9,30 @@ tags:
 
 !!! Summary
 
-    Marking schemas map a raw numerical mark to display in another format, eg. A/B/C or Complete/Incomplete.
+    Mark schemas convert a raw numerical mark to another format, eg. A/B/C or Complete/Incomplete.
 
-    This guide is aimed at **Administrators** and **Teaching staff**.
+## When to use a Mark Schema
 
-This guide is under construction. For general information, see [Blackboard Help's guide to Grading Schemas](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Customize_Grading_Interface/Grading_Schemas).
+!!! Tip
 
-Situations where a mark schema may be useful include:
+    Mark Schemas can be applied to built-in Ultra assessment tasks only (eg. [Assignment](../ultra/assignment-set-up.md) and [Test](../ultra/test.md)). They cannot be applied to Turnitin Feed Studio or Gradescope assessments.
 
-- formatives - help students focus on the work and feedback rather than a number
-    A/B/C
-    Complete/Incomplete
-- stepped/banded marking - map mark to the relevant stepped grade (eg. 62, 65, 68)
+Mark schemas can be useful whenever raw scores should be converted to another mark or label. Possibilities include:
 
-## How a Mark Schema works
+- Formative assessment:
+    - convert numerical marks to a qualitative label (*Excellent*, *Good* etc.) to focus on the feedback rather than the grade.
+    - display mark of 0/1 as Complete/Incomplete to show the work has been reviewed.
+- Stepped or banded marking: automatically map raw marks to the relevant stepped grade (*62*, *65*, *68* etc.)
 
-Mark Schemas are set up using a table with two columns:
+## How Mark Schemas works
+
+Mark Schemas contain bands where ranges of raw marks are mapped to another format. Each band has two components:
 
 - **Mark Name**: the converted label/letter/number etc. that is displayed (eg. *Excellent*)
 - **Mark Range %**: the corresponding raw mark range that maps to the mark name (eg. *75% - 100%*)
 <div markdown class="grid">
 <div markdown>
-Each mark band has a row. For example, this mark schema has four bands:
+For example, this mark schema has four bands:
 
 - Excellent: 75% - 100%
 - Good: 50% - <75%
@@ -40,9 +42,46 @@ Each mark band has a row. For example, this mark schema has four bands:
 ![decorative](images/mark-schema-example.png)
 </div>
 
-If this mark schema is applied to an assessment, a raw mark of 55% will be displayed as **Good** within the marking interface and the Gradebook.
+If this mark schema is applied to an assessment, a raw score of 55% is displayed as **Good**.
+
+=== "Mark display: staff view"
+
+    Once a raw score (*55*) is entered, the mapped mark (*Good*) is displayed on the:
+
+    - marking interface
+    - the assessment's Submissions tab
+    - Gradebook Marks tab
+
+    ![](images/mark-schema-display-staff.png)
+
+    Click the mapped mark to view or edit the raw score. This can only be done for individual students, not the whole cohort in bulk.
+
+    ![](images/mark-schema-view-raw-score.png)
+
+    The downloaded Gradebook shows different data depending on the mark download option selected:
+    
+    - **Full Gradebook**: mapped mark only (*Good*)
+    - **Mark history**: mapped mark(*Good*) and raw score (*55*)
+
+=== "Mark display: student view"
+
+    After marks are posted, the mapped mark is displayed instead of the raw score on the student Gradebook view.
+    
+    ![Gradebook view showing assessments with mapped Mark 'Good'](images/mark-schema-student-gradebook.png)
+    
+    The mark shown within the submission depends on the type of assessment and marking used:
+
+    - Assignment with manual mark entry: mapped mark only (*Good*)
+    </br>![Overall and Attempt mark displayed as Good](images/mark-schema-student-assignment-manual.png)
+    - Assignment with marking rubric: mapped mark(*Good*) and the raw rubric score (*55/100*)
+    </br>![Overall and Attempt mark displayed as Good. Marking rubric shown in feedback field with raw score of 55/100](images/mark-schema-student-assignment-rubric.png)
+    - Test (auto and/or manual mark entry): mapped mark (*Good*), but the raw score can be calculated from the question scores (eg. *0/1*).
+    </br>![Test mark displayed as Good. Each question shows the score for that question (eg. 0/1)](images/mark-schema-student-test.png)
+
 
 ## Add and manage Mark Schemas
+
+Set up and edit Mark Schemas in the Gradebook.
 
 1. Open the **Gradebook** tab in the top navigation bar in the site. Any tab within the Gradebook is fine.
 2. Click the **Settings (cog) icon** in the top right of the Gradebook, then click **Manage mark schemas** on the overlaid Settings menu.
@@ -63,4 +102,16 @@ If this mark schema is applied to an assessment, a raw mark of 55% will be displ
 
     There can't be gaps between mark ranges, so when building a new mark schema it may be easiest to first add the correct number of rows and then edit the mark ranges afterwards.
 
-## Associate a Mark Schema with an Assignment
+## Associate a Mark Schema with an Ultra assessment
+
+Open an assessment to associate a Mark Schema. This can be done at any point in the assessment process.
+
+1. Open or create an Assignment or Test.
+2. Click the **cog icon** to open the assessment settings.
+3. Under *Marking & Submissions*, open the drop down **Mark Using menu**.
+4. Select the relevant Mark Schema.
+5. Click **Save**.
+
+![Mark Using menu with 5 schemas: Points (default), Percentage, UG Classification, Complete/Incomplete and Formative (selected)](images/mark-schema-associate.png)
+
+See the [Assignment](../ultra/assignment-set-up.md) or [Test](../ultra/test.md) guides for details on other Assessment Settings.
