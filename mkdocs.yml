@@ -104,6 +104,7 @@ nav:
       - Ultra Test | quizzes & exams: ultra/test.md
       - Ultra Journal: ultra/journal.md
       - Ultra Gradebook: ultra/gradebook.md
+      - Mark Schemas: ultra/mark-schema.md
       # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
     # - Panopto assessment submissions: panopto/submissions.md
     - Group assessment: ultra/assignment-groups.md
