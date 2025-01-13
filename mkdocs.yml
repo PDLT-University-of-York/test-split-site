@@ -29,7 +29,7 @@ nav:
       - Discussion: ultra/discussions.md
       - Upload Files: ultra/files.md
       - Images: ultra/images.md
-      - Video | Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
+      - Video | Panopto: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
       - Embed content: ultra/embed-content.md
       - Upload HTML: ultra/html-objects.md
@@ -203,6 +203,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    # - navigation.sections
     - navigation.indexes
     - navigation.path
     - navigation.footer
