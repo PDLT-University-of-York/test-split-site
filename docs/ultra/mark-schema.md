@@ -104,11 +104,11 @@ Set up and edit Mark Schemas in the Gradebook.
 
 ## Associate a Mark Schema with an Ultra assessment
 
-Open an assessment to associate a Mark Schema. This can be done at any point in the assessment process.
+After a Mark Schema is set up, you can associate it with built-in Ultra assessments. This can be done at any point in the assessment process.
 
 1. Open or create an Assignment or Test.
 2. Click the **cog icon** to open the assessment settings.
-3. Under *Marking & Submissions*, open the drop down **Mark Using menu**.
+3. Under *Marking & Submissions*, open the drop down **Mark Using** menu.
 4. Select the relevant Mark Schema.
 5. Click **Save**.
 
