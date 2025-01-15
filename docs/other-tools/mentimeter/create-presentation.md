@@ -23,7 +23,7 @@ For more details, see [Mentimeter's guide to the Home screen](https://help.menti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/on_Ib7SP6Go?si=j0a051mpOl5I0Xt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [How to Create Your First Mentimeter Presentation [YouTube]](https://www.youtube.com/watch?v=on_Ib7SP6Go)
 
-You can also use []'Start with AI'](../other-tools/mentimeter/start-with-ai.md) to build a draft presentation using OpenAI as a start point for editing.
+You can also use ['Start with AI'](start-with-ai.md) to build a draft presentation using OpenAI as a start point for editing.
 
 ## Slide theme
 
