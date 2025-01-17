@@ -239,27 +239,47 @@ This section only covers the specific details of marking with a rubric. See our 
 1. Open a submission and make sure that the feedback panel on the right is open to show the Marking Rubric.
 2. There are some display options while marking:
     - Each criterion is expanded by default. Click the criterion title to collapse or expand.
-    </br>![decorative](images/rubric-mark-collapse-criteria.png)
     - The **Show descriptions toggle** shows or hides the descriptor for each attainment level.
-    </br>![Show/hide description, eg. First: Demonstrates an exceptional understanding of the navigation technique by applying advanced methods](images/rubric-mark-toggle-descriptions.png)
-3. To mark the work, select the appropriate attainment level for each criterion. If your rubric uses a percentage or points range, also enter the specific mark in the mark pill.
-</br>Each criterion mark is displayed along with the calculated total submission score. Percentage criterion marks are  converted to the weighted mark.
-</br>![example entered criterion mark = 65, weighted criterion mark = 16.25, overall rubric mark = 63.25/100](images/rubric-mark-enter.png)
-4. You can override the overall mark by typing in the Submission mark pill (eg. converting for stepped marking), but note that students can still see the original rubric score within the submission.
-</br>![Overall rubric mark of 63.25/100 overridden to 62/100. Warning shown "You've overridden the mark for this submission" with option to remark with the rubric](images/rubric-mark-override.png)
-5. <div markdown class="grid">
+</br>![Marking interface showing open rubric panel.The Marking Rubric is shown under the Overall Feedback section, with options to show/hide descriptions and the criterion levels.](images/rubric-mark-panel.png)
+3. To enter a mark, select the appropriate attainment level for each criterion.
+    - For rubrics with a percentage or points range, enter the specific *raw criterion mark*.
+    - *Percentage criterion marks* are converted to the weighted mark next to the criterion header.
+    - The final *calculated rubric mark* is shown at the top of the Marking Rubric section.
+</br>![example raw criterion mark = 75, weighted criterion mark = 15, calculated rubric mark = 69.6/100](images/rubric-mark-enter.png)
+4. <div markdown class="grid">
     <div markdown>
     You can also add written feedback.
 
     - *Criterion-specific feedback*: 
     </br>Click the **speech bubble icon** next to the criterion title. 
-    </br>Note: It is not possible to open this feedback box if you have overriden the rubric mark.
+    </br>Note: It is not possible to open this feedback box if you have overridden the rubric mark.
     - *Overall feedback*:
     </br>Open the Overall Feedback section above the marking rubric.
+    - *Group assignments*: You can give separate feedback to the whole group and individual students in the Overall Feedback section. Criterion-specific feedback is shown to the whole group.
     </div>
     ![decorative](images/rubric-mark-feedback.png)
 
-### Using a Rubric with a Mark Schema
+### Using a Rubric with a Mark Schema 
+
+A [mark schema](../ultra/mark-schema.md) converts a raw rubric score to a mapped mark. This can be qualitative (eg. Excellent, Good...) or numeric (eg. 62, 65, 68 etc. for stepped marking). 
+
+This is automatic and cannot be overridden. If you manually override the rubric grade, that overridden mark will still be converted using the mark schema.
+
+
+### Override rubric mark (only numeric)
+
+Students are shown that the instructor has overridden the mark
+
+If only 1 attempt allowed (NOT RECOMMENDED!)
+
+4. You can override the overall mark by typing in the Submission mark pill (eg. rounding or converting for stepped marking), but note that students can still see the original rubric score within the submission.
+</br>![Overall rubric mark of 63.25/100 overridden to 62/100. Warning shown "You've overridden the mark for this submission" with option to remark with the rubric](images/rubric-mark-override.png)
+
+
+If multiple attempts allowed
+
+Can't override individual attempt, only overall -> three dots > override final mark > enter
+
 
 ## How students view rubric & scores
 
