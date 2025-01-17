@@ -42,7 +42,7 @@ For example, this mark schema has four bands:
 ![decorative](images/mark-schema-example.png)
 </div>
 
-If this mark schema is applied to an assessment, a raw score of 55% is displayed as **Good**.
+So if this mark schema is applied to an assessment, a raw score of 55% is displayed as **Good**.
 
 === "Mark display: staff view"
 
@@ -90,7 +90,7 @@ Set up and edit Mark Schemas in the Gradebook.
     - To add a new mark schema: click the **Plus icon**, then enter a name and click **Add**
     - To edit an existing schema: click the schema name
     </br>![decorative](images/mark-schema-add-edit-schema.png)
-4. Within a Mark Schema you can edit the name, or click the **three dots icon** adjacent to the name to copy or delete the schema.
+4. Within a Mark Schema you can edit the name, or click the **three dots icon** adjacent to the name to copy or delete the schema. Note that you can't delete a mark schema if it has already been associated with an assessment.
 </br>![decorative](images/mark-schema-edit-name-copy-delete.png)
 5. To add rows: hover between the relevant rows and click the **plus icon** that appears. Enter a Mark Name and the relevant Mark Range.
 </br>![decorative](images/mark-schema-add-row.png)
@@ -111,6 +111,8 @@ After a Mark Schema is set up, you can associate it with built-in Ultra assessme
 3. Under *Marking & Submissions*, open the drop down **Mark Using** menu.
 4. Select the relevant Mark Schema.
 5. Click **Save**.
+
+To remove a mark schema after it has been associated, follow steps 1-3 above and select a different option.
 
 ![Mark Using menu with 5 schemas: Points (default), Percentage, UG Classification, Complete/Incomplete and Formative (selected)](images/mark-schema-associate.png)
 
