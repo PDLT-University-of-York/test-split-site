@@ -180,8 +180,8 @@ A marking rubric is a grid of criteria aligned to different performance levels. 
 
 Steps to generate a marking rubric:
 
-1. Create or open an exising Assignment.
-2. Click **Settings/cog icon** to open teh full settings panel, then scroll down and click **Add marking rubric**.
+1. Create or open an existing Assignment.
+2. Click **Settings/cog icon** to open the full settings panel, then scroll down and click **Add marking rubric**.
 3. Under Course Rubrics, click **Generate**.
 </br>![decorative](images/aida-rubric-generate-button.png)
 4. Define the rubric:

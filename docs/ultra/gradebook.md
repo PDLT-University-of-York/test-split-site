@@ -138,7 +138,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 - View, edit (if not yet used for marking), duplicate or delete all marking rubrics associated with the site.
 - Option to create a new rubric or generate one with AI to later deploy in an assessment.
 - Only applies to in-built Ultra assessment types (ie. not TurnItIn or Gradescope).
-- Find out more on our [guide to Marking Rubrics](../ultra/marking-rubric.md)
+- Find out more on our [guide to Marking Rubrics](../ultra/rubric.md)
 </div>
 <div markdown class="centered-image">
 ![Settings: list of associated course rubrics, and buttons to Create/Generate new rubrics](images/gradebook-setting-course-rubrics.png)
