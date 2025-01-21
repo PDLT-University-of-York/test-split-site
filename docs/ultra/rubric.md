@@ -13,44 +13,27 @@ tags:
 
     This guide covers how to set up a Rubric within Ultra, and is aimed at **Administrators** and **Teaching staff**.
 
-This guide is under construction. For general information, see [Blackboard Help's guide to Rubrics](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Rubrics).
-
-
-<div markdown class="grid">
-<div markdown>
-- View, edit (if not yet used for marking), duplicate or delete all marking rubrics associated with the site.
-- Option to create a new rubric or generate one with AI to later deploy in an assessment.
-- Only applies to in-built Ultra assessment types (ie. not TurnItIn or Gradescope).
-- Find out more on our [guide to Marking Rubrics](../ultra/rubric.md)
-</div>
-<div markdown class="centered-image">
-![Settings: list of associated course rubrics, and buttons to Create/Generate new rubrics](images/gradebook-setting-course-rubrics.png)
-</div>
-</div>
-
-## When to use a rubric
-
 !!! Tip
 
-    The built-in rubrics on this page can only be applied to [Ultra Assignments](../ultra/assignment-set-up.md). They cannot be applied to Turnitin Feedback Studio or Gradescope assessments BUT OTHER ONES CAN?.
-
-Using a rubric to mark assignments can:
-
-- make the marking process simpler and quicker.
-- support consistency between markers and across submissions.
-- help students understand their grade and feedback better.
+    The built-in Ultra rubrics on this page can only be applied to [Ultra Assignments](../ultra/assignment-set-up.md). If used a rubric and the scores cannot be hidden from students.
 
 ## How Rubrics work
 
-A Rubric is a grid used to support criterion-based marking. They have three main components:
+A Rubric is a grid used to support criterion-based marking. Using one can:
+
+- make the marking process simpler and quicker.
+- increase consistency between markers and across submissions.
+- help students understand their grade and feedback better.
+
+A rubric has three main components:
 
 - **Criteria** (rows): the factor being marked, eg. *Critical analysis*, *Presentation structure*
-- **Attainment band** (columns): how good the work is, eg. *Excellent*, *Good*
-- **Descriptor** (cells): a description of what is expected for that criterion and attainment band
+- **Attainment bands** (columns): how good the work is, eg. *Excellent*, *Good*
+- **Descriptors** (cells): a description of what is expected for that criterion and attainment band
 
-The marker selects the relevant descriptor for each criteria and if needed inputs a mark, and the final score is calculated automatically.
+The marker selects the relevant descriptor for each criteria and if needed inputs a mark, and the overall rubric score is calculated automatically.
 
-There are various rubric types available. These differ in terms of how the mark is calculated.
+There are various rubric types available, which differ in terms of how the mark is calculated. If the work is marked out of 100, it doesn't matter if you choose a *percentage* or *points* rubric.
 
 === "Percentage"
 
@@ -63,7 +46,7 @@ There are various rubric types available. These differ in terms of how the mark 
 
     By default the same values are used for each criteria, but you can manually adjust these if needed. This doesn't affect the criteria weighting (eg. 25% of total mark).
 
-    ![described in text](images/rubric-type-percentage.png)
+    ![decorative](images/rubric-type-percentage.png)
 
 === "Percentage range"
 
@@ -76,7 +59,7 @@ There are various rubric types available. These differ in terms of how the mark 
 
     By default the same value ranges are used for each criteria, but you can manually adjust these if needed. This doesn't affect the criteria weighting (eg. 25% of total mark).
 
-    ![described in text](images/rubric-type-percentage-range.png)
+    ![decorative](images/rubric-type-percentage-range.png)
 
 === "Points"
 
@@ -89,7 +72,7 @@ There are various rubric types available. These differ in terms of how the mark 
 
     Points-based rubrics are weighted using the maximum points for each criterion. So to equally weight criteria, set each to have the same maximum points values. 
 
-    ![described in text](images/rubric-type-points.png)
+    ![decorative](images/rubric-type-points.png)
 
 === "Points range"
 
@@ -100,11 +83,9 @@ There are various rubric types available. These differ in terms of how the mark 
     - Unsatisfactory = 4 - 6 points
     - Poor = 0 - 3 points
 
-    Points-based rubrics are weighted using the maximum points for each criterion. So to equally weight criteria, set each to have the same maximum points values
+    Points-based rubrics are weighted using the maximum points for each criterion. So to equally weight criteria, set each to have the same maximum points values.
 
-    ![described in text](images/rubric-type-points-range.png)
-
-If the work is marked out of 100, it doesn't matter if you choose *percentage* or *points* rubric.
+    ![decorative](images/rubric-type-points-range.png)
 
 ## Create and manage Rubrics
 
@@ -124,7 +105,7 @@ The simplest way to access rubrics is through the Gradebook.
 !!! Tip
     <div markdown class="grid">
     <div markdown>
-    You can't edit a rubric once it has been used to mark a submission.
+    A rubric can't be edited once it has been used to mark a submission.
 
     To make changes for future assignments, first make a copy and edit as needed.
     </div>
@@ -133,10 +114,10 @@ The simplest way to access rubrics is through the Gradebook.
 
 ### Build manually
 
-1. Click **Create** in the *Course Rubrics* menu. This is accessed through Gradebook or Assignment settings
+1. Click **Create** in the *Course Rubrics* menu. This is accessed through Gradebook or Assignment settings.
 </br>![decorative](images/rubric-create-button.png)
 2. This opens a blank *percentage* rubric with four equally weighted criteria (rows) and four evenly stepped mark bands (columns).
-3. Enter a descriptive rubric title at the top, eg. *Summative presentation*
+3. Enter a descriptive rubric title at the top, eg. *Summative presentation*.
 4. Leave the rubric type as the default *percentage* or click to select another type.
 5. To add a new column or row, hover in the header where you would like it to appear and click the purple plus icon. Repeat as needed. Don't worry if the values are strange at this point.
 </br>![decorative](images/rubric-title-type-add-row-column.png)
@@ -218,7 +199,7 @@ You can also combine the AI-DA rubric generator with an iterative GenAI tool suc
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c8188a53-8557-46b8-9072-b22501139f90&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Webinar: The Bb AI Design Assistant - ChatCPT &amp; Marking Rubric generator, Anne-Gaelle Colom" ></iframe>
 [Webinar extract: Streamlining rubric creation with AI, Anne-Gaelle Colom](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c8188a53-8557-46b8-9072-b22501139f90) (11 mins 12 secs, UoY log-in required)
 
-## Associate a Rubric with an Ultra Assignment
+## Add to an Ultra Assignment
 
 1. Open the **Assignment** then click the **Settings (cog) icon** in the top right. If you accessed the Assignment from the Gradebook, select the *Content and Settings* tab to see the icon.
 2. In the Assignment Settings menu, scroll down to the **Additional Tools** section and click **Add marking rubric**.
@@ -231,6 +212,8 @@ You can also combine the AI-DA rubric generator with an iterative GenAI tool suc
 4. The Additional Tools settings section will show the selected rubric name. To remove a rubric, hover over it and click the **dustbin icon**.
 </br>![decorative](images/rubric-associate-rubric-in-settings.png)
 5. Click **Save**.
+
+Students can view the rubric with the Assignment instructions before submission.
 
 ## Mark using a Rubric
 
@@ -246,45 +229,95 @@ This section only covers the specific details of marking with a rubric. See our 
     - *Percentage criterion marks* are converted to the weighted mark next to the criterion header.
     - The final *calculated rubric mark* is shown at the top of the Marking Rubric section.
 </br>![example raw criterion mark = 75, weighted criterion mark = 15, calculated rubric mark = 69.6/100](images/rubric-mark-enter.png)
-4. <div markdown class="grid">
-    <div markdown>
-    You can also add written feedback.
+4. You can also add written feedback.
 
-    - *Criterion-specific feedback*: 
-    </br>Click the **speech bubble icon** next to the criterion title. 
-    </br>Note: It is not possible to open this feedback box if you have overridden the rubric mark.
-    - *Overall feedback*:
-    </br>Open the Overall Feedback section above the marking rubric.
+    - *Criterion-specific feedback*: click the **speech bubble icon** next to the criterion title. Note: It is not possible to open this feedback box if you have overridden the rubric mark.
+    </br>![Criterion feedback text entry box](images/rubric-feedback-criterion.png)
+    - *Overall feedback*: open the Overall Feedback section above the marking rubric.
+    </br>![Overall Feedback text entry box](images/rubric-feedback-overall.png)
     - *Group assignments*: You can give separate feedback to the whole group and individual students in the Overall Feedback section. Criterion-specific feedback is shown to the whole group.
-    </div>
-    ![decorative](images/rubric-mark-feedback.png)
+
+Once marks are posted, students can see all the rubric information within the submission:
+
+- the overall rubric mark
+- the criterion mark and the relevant descriptor
+- any additional feedback given
+- the final mark, if a mark schema is applied or the rubric mark is manually overridden
 
 ### Using a Rubric with a Mark Schema 
 
-A [mark schema](../ultra/mark-schema.md) converts a raw rubric score to a mapped mark. This can be qualitative (eg. Excellent, Good...) or numeric (eg. 62, 65, 68 etc. for stepped marking). 
+A mark schema converts a raw numeric score within a range to a single mapped mark. You could use this with a rubric to apply stepped marking, or to convert a numerical score to a qualitative label (eg. Excellent, Good etc.). 
 
-This is automatic and cannot be overridden. If you manually override the rubric grade, that overridden mark will still be converted using the mark schema.
+The marking schema is automatically applied to the original rubric mark or a manually overridden mark. Note that **students can always see the original rubric score** if they open the submission. 
 
+For more information, see our [guide to Mark Schemas](../ultra/mark-schema.md).
 
-### Override rubric mark (only numeric)
+### Manually override rubric mark
 
-Students are shown that the instructor has overridden the mark
+You can also manually override numeric rubric marks, for example to round the final score or manually apply a stepped mark. Note that **students can always see the original rubric score** if they open the submission.
 
-If only 1 attempt allowed (NOT RECOMMENDED!)
+![Submission showing: Final mark 68 and a note 'Your instructor has overidden your final mark', rubric mark 69.6, the first criterion mark 15](images/rubric-override-student-view-with-label.png)
 
-4. You can override the overall mark by typing in the Submission mark pill (eg. rounding or converting for stepped marking), but note that students can still see the original rubric score within the submission.
-</br>![Overall rubric mark of 63.25/100 overridden to 62/100. Warning shown "You've overridden the mark for this submission" with option to remark with the rubric](images/rubric-mark-override.png)
+There are different methods to override rubric marks, with slightly different visibility:
 
+=== "Marking interface"
 
-If multiple attempts allowed
+    **Override visibility**
+    
+    - Staff: mark labelled as an override within the submission and in the Gradebook
+    - Students: mark labelled as an override within the submission
+    - All: original rubric mark and criterion marks are always visible within the submission
 
-Can't override individual attempt, only overall -> three dots > override final mark > enter
+    ---
 
+    This method is useful if the override is applied while marking the submission.
 
-## How students view rubric & scores
+    <div markdown class="grid">
+    <div markdown>
+    If the submission point allows multiple attempts (which is our recommended setting), you must override the overall mark, not the individual attempt.
+    
+    This is based on the assignment settings, so it isn't affected by how many attempts the student actually made.
+    </div>
+    ![Note under rubric mark: You can only override the final mark for assessments with multiple attempts. Individual submissions are marked with a rubric.](images/rubric-override-no-multiple.png)
+    </div>
 
-see the relevant descriptor
-criterion score and calculated overall score
-overriden/mark schema mark
+    1. Click the three dots in the top right of the marking interface and select **Override final mark**.
+    </br>![decorative](images/rubric-override-final-mark-dots.png)
+    2. In the *OVERRIDE* mark pill that appears, delete the rubric mark and enter the new mark.
+    </br>![Adjacent mark pills showing Rubric mark = 69.6, Override mark = 68](images/rubric-override-final-mark-pill.png)
+    3. If you need to remove the override, click the three dots again and select **Remove Override**. Deleting the mark just in the override mark pill will still show as an Override.
+    </br>![decorative](images/rubric-override-final-mark-remove.png)
 
+=== "Gradebook Marks tab"
 
+    **Override visibility**
+    
+    - Staff: mark **not** labelled as an override within the submission or the Gradebook
+    - Students: mark **not** labelled as an override within the submission
+    - All: original rubric mark and criterion marks are always visible within the submission
+
+    ---
+
+    This method is useful when the work has already been marked using the rubric and is being adjusted afterwards.
+
+    1. Open the [Gradebook](../ultra/gradebook.md#view-gradebook-data-and-submissions) Marks tab. This shows a grid of students and assessments.
+    2. Click the cell for the relevant student and assignment. Delete the mark shown and enter the new mark.
+    </br>![Marks tab grid of students and assessments. Original score of 69.6 in cell overridden to 68. No override label shown.](images/rubric-override-gradebook-marks-tab.png)
+    3. If you need to remove the override, manually re-enter the original rubric mark. This can be seen within the submission if needed.
+
+=== "Assignment Submissions tab"
+
+    **Override visibility**
+    
+    - Staff: mark **not** labelled as an override within the submission or the Gradebook
+    - Students: mark **not** labelled as an override within the submission
+    - All: original rubric mark and criterion marks are always visible within the submission
+
+    ---
+
+    This method is useful when the work has already been marked using the rubric and is being adjusted afterwards.
+
+    1. Open the Assignment and select the Submissions tab. This shows a list of students and marks.
+    2. Click the mark pill for the relevant student. Delete the mark shown and enter the new mark.
+    </br>![Submissions tab listing the student and their submission information. Original score of 69.6 in mark pill overridden to 68. No override label shown.](images/rubric-override-submission-tab.png)
+    3. If you need to remove the override, manually re-enter the original rubric mark. This can be seen within the submission if needed.
