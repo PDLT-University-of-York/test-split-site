@@ -275,8 +275,10 @@ Open the collapsible panel on the right side to enter feedback and access a mark
     There are also options to:
 
     1. toggle criteria descriptions on/off.
-    2. expand or collapse each criterion.
-    3. add criterion-specific feedback.
+    2. add criterion-specific feedback.
+    3. expand or collapse each criterion.
+
+    For more details, see our guide to [Marking Rubrics](../ultra/rubric.md)
 
     ![decorative](images/assignment-marking-rubric.png)
 

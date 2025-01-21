@@ -178,56 +178,7 @@ A marking rubric is a grid of criteria aligned to different performance levels. 
 
     This tool is best used to generate broadly the content you need, which you can tweak manually in the rubric editor. The more detailed the description provided, the less manual editing will be needed.
 
-Steps to generate a marking rubric:
-
-1. Create or open an exising Assignment.
-2. Click **Settings/cog icon** to open teh full settings panel, then scroll down and click **Add marking rubric**.
-3. Under Course Rubrics, click **Generate**.
-</br>![decorative](images/aida-rubric-generate-button.png)
-4. Define the rubric:
-    - Enter a suitable **Description**, eg. which assessment type and the criteria to include. You can't select course items for this feature.
-    - Select a suitable **Rubric type** (usually *Percentage range* is most appropriate)
-    - Set the **Complexity** level and adjust the number of **Columns** and **Rows** as needed (default is 4x4).
-5. Click **Generate**.
-6. Review the generated rubric content. If needed, repeat steps 4-7 to refine the output.
-7. Click **Continue**.
-8. Check and edit content or settings as necessary (eg. rubric title, criteria weighting, performance level labels and cutoffs, descriptor wording).
-
-![Marking rubric interface: described below](images/aida-rubric.png)
-
-??? Abstract "Marking rubrics: interface and examples of generated content"
-
-    **Description**: Presentation about applying a navigation technique. Criteria to include: Understanding of technique, quality of explanation, presentation materials, presentation skills
-
-    **Rubric type**: Percentage range
-
-    **Complexity**: level 7/10
-
-    **Columns**: 5 (possible range: 2-5)
-
-    **Rows**: 4 (possible range: 2-7)
-
-    **Content generated:**
-
-    Only some of the rubric is visible on this screen, but the user can scroll to review the rest of the content.
-
-    - Criteria: *Understanding of technique*. 30% of total mark.
-        - Exceptional (80-100%): Demonstrates an exceptional understanding of the navigation technique by applying advanced methods.
-        - Highly Competent (60-80%): Shows a highly competent understanding of the navigation technique with clear application.
-        - *other levels not visible*
-    - Criteria: *Quality of explanation*. 25% of total mark.
-        - Exceptional (80-100%): Provides an in-depth and insightful explanation of the technique, covering advanced aspects thoroughly.
-        - Highly Competent (60-80%): Gives a clear and detailed explanation of the technique, addressing key aspects effectively.
-        - *other levels not visible*
-    - Criteria: *Presentation materials*. % of total mark not visible
-        - Exceptional (80-100%): *description not visible*
-        - Highly Competent (60-80%): *description not visible*
-        - *other levels not visible*
-
-You can also combine the AI-DA rubric generator with an iterative GenAI tool such as [Google Gemini](https://www.york.ac.uk/it-services/tools/google-gemini/) to further streamline rubric development. For example, in this webinar exert, guest speaker Anne-Gaelle Colom from the University of Westminster describes how she combined the rubric generator and ChatGPT to efficiently produce a bespoke rubric for a specialised assessment task.
-
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c8188a53-8557-46b8-9072-b22501139f90&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Webinar: The Bb AI Design Assistant - ChatCPT &amp; Marking Rubric generator, Anne-Gaelle Colom" ></iframe>
-[Webinar extract: Streamlining rubric creation with AI, Anne-Gaelle Colom](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c8188a53-8557-46b8-9072-b22501139f90) (11 mins 12 secs, UoY log-in required)
+See our Marking Rubric guide for details of [how to auto-generate rubrics using AI](../ultra/rubric.md#generate-using-ai) and ideas on how to apply this effectively.
 
 ## Automating repetitive tasks
 

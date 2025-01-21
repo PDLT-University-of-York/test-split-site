@@ -29,7 +29,7 @@ nav:
       - Discussion: ultra/discussions.md
       - Upload Files: ultra/files.md
       - Images: ultra/images.md
-      - Video | Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
+      - Video | Panopto: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
       - Embed content: ultra/embed-content.md
       - Upload HTML: ultra/html-objects.md
@@ -104,7 +104,8 @@ nav:
       - Ultra Test | quizzes & exams: ultra/test.md
       - Ultra Journal: ultra/journal.md
       - Ultra Gradebook: ultra/gradebook.md
-      - Mark Schemas: ultra/mark-schema.md
+      - Mark Schema: ultra/mark-schema.md
+      - Marking Rubric: ultra/rubric.md
       # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
     # - Panopto assessment submissions: panopto/submissions.md
     - Group assessment: ultra/assignment-groups.md
@@ -203,6 +204,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    # - navigation.sections
     - navigation.indexes
     - navigation.path
     - navigation.footer
