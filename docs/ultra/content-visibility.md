@@ -65,7 +65,7 @@ Items can also be shown based on certain conditions:
 | -------------- | ------- | ------------ |
 | Select members | Show to specific users or groups | **Teaching**: release different project topic to each group </br> **Assessment**: limit access to resit submission point only to resit students
 | Date/time      | Show/hide at a specific time | **Teaching**: Release module materials at appropriate time </br> **Assessment**: show submission point from a specific date |
-| Performance    | Show based on score for/completion of a markable item | **Teaching**: release workshop materials after completing a pre-workshop quiz </br> **Assessment**: release extension activities only for high quiz scores |
+| Performance    | Show if students submit, complete or receive a certain score for a markable item | **Teaching**: release workshop materials after completing a pre-workshop quiz </br> **Assessment**: release extension activities only for high quiz scores |
 
 For greater control, conditions can be combined (eg. date and specific group) and multiple rules can be set (eg. different dates for different groups).
 
