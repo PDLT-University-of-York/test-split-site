@@ -62,7 +62,7 @@ Containers can be created within the Course Content area. Folders can also be cr
 
 1. Hover where the container should appear. Click the **plus icon** then **Create**.
 </br> ![Decorative](images/folder-learning-module-plus-create.png)
-2. Under **Course Content Items**, select **Learning Module** or **Document**.
+2. Under **Course Content Items**, select **Learning Module** or **Folder**.
 </br> ![Decorative](images/folder-learning-module-create.png)
 3. Enter a descriptive title for the container (eg. *Week 3: equipment & safety*).
 4. Set the [item visibility](../ultra/content-visibility.md) (you an also set this later).
