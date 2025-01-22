@@ -191,21 +191,72 @@ To upload a file as a standalone content item, see our [guide to Files](../ultra
 
 ### Block: Content Collection
 
-The Content Collection is a storage method that is not generally used at UoY, so you are unlikely to need this block. You can achieve everything the Content Collection offers by adding content directly to your site.
+![decorative](images/documents-block-content-collection.png)
+
+**Don't use this block**. The Content Collection is a storage method that is not generally used at UoY. You can achieve everything the Content Collection offers by adding content directly to your site.
 
 ### Block: Image
 
 !!! Note
 
-    This block will be available from early February 2025.
+    The image block will be available from early February 2025.
+
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
+
+    - 2.3 Essential: Design and images adhere to the UoY Brand.
+    - 3.4 Essential: Site and materials content is accessible.
+
+![Image block with a high quality photograph from Unsplash](images/documents-block-image.png)
+
+Use this block to upload an image, source an image from Unsplash or generate an image using the [AI Design Assistant](../ultra/ai-da.md). It's also possible to add images using the text editor in the content block type, but this is a bit more fiddly and results are not as neat.
+
+To add an image:
+
+1. Add an Image block, or a Content block and then select the image icon in the text editor. These both open the **Insert image panel**.
+</br>![Insert image panel with Image Source drop down menu showing 'Upload Device'. Other options are 'Stock images from Unsplash' and 'Generate images'](images/documents-block-image-insert-panel.png)
+2. Choose your image:
+    - *Upload an image*: drag a file into the box or click **Upload File** to manually select a file on your device. The file must be a .jpg or .png and less than 10,240MB. Click **Next**.
+    - *Unsplash image*: open the Image Source menu and select **Stock images from Unsplash**. This automatically searches based on the Document title, or you can enter your own terms then click **Search**. Select an image and click **Next**.
+    - *Generate AI image*: open the Image Source menu and select **Generate images**. This automatically generate images  based on the Document title, or you can enter your own terms then click **Generate**. Select an image and click **Next**.
+    </br>![Unsplash and generated images: described in example below](images/documents-block-image-ai-unsplash.png)
+3. Set the zoom or aspect ratio as needed and click **Save**.
+4. In the Edit File Options panel, adjust the **Display name** (ie. file name) as needed. Provide appropriate **ALT text** or mark the image as decorative. Leave the **File Options** as *View and download*. Click **Save**.
+</br>![Image preview panel with options to change the aspect ratio, zoom in and re-position. Edit panel as described in text](images/documents-block-image-aspect-edit.png)
+5. To edit the image after closing the panel, click the **three dots icon** in the top right of the image and select **Edit image**.
+
+??? Abstract "Example: Generated and Unsplash images"
+
+    Option 1. Generate images
+    
+    **Describe an image:** runner on a mountain holding map
+
+    **Images generated:** four square images in a hyper-realistic style, all clearly AI generated but relevant to the description. Each has a single runner in Lake District-esque mountain terrain holding a map. One runner has an elongated arm and one has a very large map, but all could reasonably be used.
+
+    ---
+
+    Option 2. Stock images from Unsplash
+
+    **Search terms:** mountain running compass
+
+    **Search results:** 9 images shown on first page (of 10,000 results). None are particularly relevant to the combined search terms: one shows a compass held up in front of pine trees, five show mountain scenes but no people, and three show other types of runners.
+
 
 ### Block: Convert a File
 
-Use this block to convert a PDF, Word or PowerPoint file on your device to a Learn Ultra Document format.
+!!! ai "Using the file converter effectively"
 
-This conversion is a step in content development, not a final product. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. Careful checking is needed to tidy up the conversion.
+    Converting a file is a step in content development, not a final product. Careful checking is always needed.
 
-Currently only available through the *hover to add* method.
+![A Powerpoint slide converted to text and an image directly within the Document](images/documents-block-convert-file.png)
+
+Use this block to convert a PDF, Word or PowerPoint file on your device to include the content directly within a Document. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. 
+
+To convert a file:
+
+1. Use the *hover to add* method and select the **Convert a File** block.
+2. Select the relevant file from your device.
+3. Wait while the file content is converted. Depending on the size of the file, this could take a few minutes.
+4. Carefully check and adapt the content and formatting as necessary.
 
 ## Layout
 
