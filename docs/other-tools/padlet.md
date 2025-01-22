@@ -23,9 +23,16 @@ See our dedicated [Padlet guide](https://subjectguides.york.ac.uk/skills/padlet)
 
 <iframe width="100%" height="800px" src="https://subjectguides.york.ac.uk/skills/padlet" title="Padlet guide"></iframe>
 
-## Embed a Padlet in an Ultra site
+## Embed a Padlet
 
-For details on how to embed your Padlet so it displays directly within your Ultra site, see our [embedded content guide](../ultra/embed-content.md)
+You can embed a Padlet into other platforms. For example, integrate a Padlet with other teaching materials by [embedding it in a Learn Ultra Document](../ultra/documents.md#block-html).
+
+To locate the Padlet embed code:
+
+1. Open the Padlet in your browser and click the **Share** icon.
+2. Click **Embed in your blog or your website**, then click **Copy**.
+3. When creating the link to your Padlet, return to the **Share** menu and click **Copy link to clipboard**.
+</br> ![decorative](images/padlet-embed-code.png)
 
 ## Accessibility
 

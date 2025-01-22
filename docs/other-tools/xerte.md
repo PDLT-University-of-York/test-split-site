@@ -48,7 +48,8 @@ To locate the Xerte embed code:
 
 1. Click the name of the Xerte object to embed.
 2. In the *Project Details* box, copy the embed code from the **Embed Code** text box.
-3. When creating the link to your Xerte item, copy the **URL** above the **Embed code** text box. <br> ![Accessing the project details in Xerte and showing the embed code and URL](images/xerte-embed-code.png)
+3. When creating the link to your Xerte item, copy the **URL** above the **Embed code** text box.
+</br> ![decorative](images/xerte-embed-code.png)
 
 ## Case study
 
