@@ -78,7 +78,7 @@ It's technically possible to upload files and images via the text editor, but we
 
 ![A HTML block used to embed an interactive Xerte object](images/documents-block-html.png)
 
-Use the HTML block to embed third-party content, such as [interactive Xerte objects](../other-tools/xerte.md#embed-xerte-objects), [Padlet pinboards](../other-tools/padlet.md#embed-a-padlet) or [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md). You can also manually embed Panopto or YouTube videos this way.
+Use the HTML block to embed third-party content, such as [interactive Xerte objects](../other-tools/xerte.md#embed-xerte-objects), [Padlet pinboards](../other-tools/padlet.md#embed-a-padlet) or [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md#embed-in-another-platform). You can also manually embed Panopto or YouTube videos this way.
 
 To embed an object:
 

@@ -27,21 +27,29 @@ You can share your survey with participants in a number of ways from the ‘shar
 
 ![Decorative](images/asynchronous-use-sharing.png) 
 
-**Using the invite link** is the easiest way to share your survey in the VLE or via an announcement or email.  Students can follow the link to open the presentation and respond.
+### Via invite link
 
-**Using a QR code and or a numerical access code** is ideal for live sessions or when the students will not be able to access your link direct. You can bring these up on screen and student can use a QR code reader if they have one on their phone or device, or they can alternatively enter the access code at menti.com (nb access codes remain valid for 2 days by default but you can change the expiration to allow the link to be used for up to 14 days). 
+This is the easiest way to share your survey in the VLE or via an announcement or email.  Students can follow the link to open the presentation and respond.
 
-**A survey can also be embedded into the VLE** to allow students to respond and view results from within a VLE page. To do this, you need to insert the invite link into an HTML ‘embed code’ such as the following:
+### Using a QR code access code
 
-`<iframe src="ADD INVITE LINK HERE" style="width:100%; height:820px; frameborder="0"></iframe>`
+This is ideal for live sessions or when the students will not be able to access your link direct. You can bring these up on screen and student can use a QR code reader if they have one on their phone or device, or they can alternatively enter the access code at menti.com (nb access codes remain valid for 2 days by default but you can change the expiration to allow the link to be used for up to 14 days). 
 
-You can add this within a page on a VLE site by following the guidance on [embedding content](../../ultra/embed-content.md).
+### Embed in another platform
 
-You can adjust the height settings by making the height number bigger or smaller in the embed code to ensure that the whole activity is displayed within the embed including the ‘submit’ or ‘Open Q&A’ buttons whilst avoiding any wasted space on the page.  It is important to include a link above the embed to ensure that it will be accessible even on a device with a very small screen or if a participant cannot see the embed frame for any reason. An example of an embedded Q&A slide is shown below.
+You can embed a Mentimeter survey into other platforms. For example, integrate a survey with other teaching materials by [embedding it in a Learn Ultra Document](../../ultra/documents.md#block-html).
+
+To do this, paste the invite link into a HTML embed code:
+
+```<iframe src="ADD INVITE LINK HERE" style="width:100%; height:820px; frameborder="0"></iframe>```
+
+You can adjust the height settings by making the height number bigger or smaller in the embed code to ensure that the whole activity is displayed within the embed including the ‘submit’ or ‘Open Q&A’ buttons whilst avoiding any wasted space on the page.
+
+It is important to include a link above the embed to ensure that it will be accessible even on a device with a very small screen or if a participant cannot see the embed frame for any reason. An example of an embedded Q&A slide is shown below.
 
 ![Q&A slide embedded on a VLE page with a link to 'open the menti page in a new window' above the embed](images/asynchronous-use-vle-embed.png)
 
-## Sharing your survey results ##
+## Sharing your survey results
 
 You can share the results of a survey in a live session or asynchronously in the VLE.  See [sharing your presentation and results](#sharing-your-presentation-and-results) for guidance.
 

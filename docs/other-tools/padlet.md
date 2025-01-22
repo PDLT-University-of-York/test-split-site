@@ -25,7 +25,7 @@ See our dedicated [Padlet guide](https://subjectguides.york.ac.uk/skills/padlet)
 
 ## Embed a Padlet
 
-You can embed a Padlet into other platforms. For example, integrate a Padlet with other teaching materials by [embedding it in a Learn Ultra Document](../ultra/documents.md#block-html).
+You can embed a Padlet into other platforms. For example, integrate a Padlet with other teaching materials by [embedding it in a Learn Ultra Document](../../ultra/documents.md#block-html).
 
 To locate the Padlet embed code:
 
