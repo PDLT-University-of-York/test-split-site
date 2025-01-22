@@ -133,42 +133,22 @@ See our Learning Modules & Folders guide for details of [how to auto-generate Le
 
 ### Images
 
-AI-DA can generate images and automatically search for copyright-compliant photographs on Unsplash. You can use this feature wherever you can add an image via the text editor.
+<div markdown class="grid">
+<div markdown>
+AI-DA can generate images and automatically search for copyright-compliant photographs on Unsplash.
+
+You can use this feature in the Documents Image block, for Learning Modules or wherever you can add an image via the text editor.
 
 You can also generate images in Copilot and upload them to the site directly.
+</div>
+![An Unsplash photograph added to a Document (showing a boy looking at a map)](images/aida-image-unsplash.png)
+</div>
 
 !!! ai "Using the image generator effectively"
 
     AIDA uses the item title to generate or search for images. These may not fit the image you want, so enter your own description to return more relevant images.
 
-Steps to generate or search for images:
-
-1. Open a Document or other item with a text editor and click the **Image icon**.
-2. Click **Upload from Device** to open the source selection menu.
-3. To create images, click **Generate images**. The tool automatically generates images based on the item title, or you can **Describe an image** then click **Generate**.
-4. To search for photographs, click **Stock images from Unsplash**. The tool automatically enters search terms based on the item title, or you can enter your own terms then click **Search**.
-5. Select an image to include and click **Next**.
-6. Set the zoom or aspect ratio as needed and click **Next**.
-7. Adjust the **Display name** (ie. file name) as needed. Provide appropriate **ALT text** or mark the image as decorative. Leave the **File Options** as *View and download*.
-8. Click **Save**.
-
-![Images interface: described below](images/aida-image.png)
-
-??? Abstract "Images: interface and examples of generated content"
-
-    Option 1. Generate images
-    
-    **Describe an image:** runner on a mountain holding map
-
-    **Images generated:** four square images in a hyper-realistic style, all clearly AI generated but relevant to the description. Each has a single runner in Lake District-esque mountain terrain holding a map. One runner has an elongated arm and one has a very large map, but all could reasonably be used.
-
-    ---
-
-    Option 2. Stock images from Unsplash
-
-    **Search terms:** mountain running compass
-
-    **Search results:** 9 images shown on first page (of 10,000 results). None are particularly relevant to the combined search terms: one shows a compass held up in front of pine trees, five show mountain scenes but no people, and three show other types of runners.
+See our [Documents guide](../ultra/documents.md) for details of how to add AI generated and Unsplash images. The same steps apply in other items where images can be added.
 
 ### Marking rubrics
 
