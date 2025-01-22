@@ -31,7 +31,6 @@ nav:
       - Images: ultra/images.md
       - Video | Panopto: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
-      - Embed content: ultra/embed-content.md
       - Upload HTML: ultra/html-objects.md
       - Maths content: ultra/maths.md
       - Gradebook: ultra/gradebook.md
@@ -288,7 +287,7 @@ plugins:
         'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/text.md': 'ultra/documents.md'
-        'ultra/embedded-content.md': 'ultra/embed-content.md'
+        'ultra/embed-content.md': 'ultra/documents.md#block-html'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
         'ultra/messages-tool.md': 'ultra/messages.md'
