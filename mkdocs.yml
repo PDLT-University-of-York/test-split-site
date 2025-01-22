@@ -28,7 +28,6 @@ nav:
       - Journal | reflection: ultra/journal.md
       - Discussion: ultra/discussions.md
       - Upload Files: ultra/files.md
-      - Images: ultra/images.md
       - Video | Panopto: panopto/embed-panopto-ultra.md
       - Video | YouTube: ultra/youtube.md
       - Upload HTML: ultra/html-objects.md
@@ -287,6 +286,7 @@ plugins:
         'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/text.md': 'ultra/documents.md'
+        'ultra/images.md': 'ultra/documents.md#block-image'
         'ultra/embed-content.md': 'ultra/documents.md#block-html'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/groups.md': 'ultra/course-groups.md'
