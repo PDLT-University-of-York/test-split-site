@@ -71,6 +71,7 @@ It's technically possible to upload files and images via the text editor, but we
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+    - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
 !!! Warning
 
@@ -79,6 +80,8 @@ It's technically possible to upload files and images via the text editor, but we
 ![A HTML block used to embed an interactive Xerte object](images/documents-block-html.png)
 
 Use the HTML block to embed third-party content, such as [interactive Xerte objects](../other-tools/xerte.md#embed-xerte-objects), [Padlet pinboards](../other-tools/padlet.md#embed-a-padlet) or [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md#embed-in-another-platform). You can also manually embed Panopto or YouTube videos this way.
+
+Make sure that the sharing settings of the third-party object allow your students to view the item.
 
 To embed an object:
 
@@ -156,32 +159,45 @@ To add more complex knowledge checks or practice quizzes as a separate content i
 
 ### Block: File upload
 
-Use this block to add PDF, Word, Powerpoint (etc.) files:
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
+    - 3.6 Essential: Links and materials titles describe the destination or content.
 
-<div markdown class='grid'>
+![File upload block with lecture slides below a content block with explanatory text](images/documents-block-file-upload.png)
+
+Use this block to add PDF, Word, Powerpoint (etc.) files to your Document. This is especially useful for lecture slides and other files that students will use during weekly teaching.
+
+To upload a file:
+
+<div markdown class="grid">
 <div markdown>
-
 1. Select the relevant file from your device.
-2. Ensure *Display name* meaningfully describes the contents without having to open the file.
+2. In the *File Options panel*, enter a  **Display name** that meaningfully describes the contents without having to open the file.
 3. Set *File Options* to **View and download**.
-4. Click Save.
+4. Click Save in the File Options panel.
+5. When you have finished editing the Document, click **Save** in the top right.
 </div>
-![File upload settings example, Display name: IFR_Week5_NavigationTechniques_Slides.pptx, File options: 'View and download'](images/documents-file-upload-settings.png)
+![Edit File Options panel. Display name: IFR_Week5_NavigationTechniques_Slides.pptx, File options: 'View and download'](images/documents-block-file-upload-settings.png)
 </div>
 
-Users can preview the file directly within the site, or download it in the original or an alternative format.
+In Document view mode, users can:
 
-<figure markdown>
-![](images/documents-file-preview.png)
-<figcaption>Previewing the slides directly within the Document</figcaption>
-</figure>
-See our dedicated [guide to uploading files](../ultra/files) for more detail on this and other methods of adding files.
+- click the **three dots icon** to download the original file. 
+- click the **chevron icon** to preview the file directly within the site.
+- use the Ally tool to download the file in various alternative formats (students only).
+
+![decorative](images/documents-block-file-upload-preview.png)
+
+To upload a file as a standalone content item, see our [guide to Files](../ultra/files.md.)
 
 ### Block: Content Collection
 
 The Content Collection is a storage method that is not generally used at UoY, so you are unlikely to need this block. You can achieve everything the Content Collection offers by adding content directly to your site.
 
 ### Block: Image
+
+!!! Note
+
+    This block will be available from early February 2025.
 
 ### Block: Convert a File
 
@@ -190,95 +206,6 @@ Use this block to convert a PDF, Word or PowerPoint file on your device to a Lea
 This conversion is a step in content development, not a final product. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. Careful checking is needed to tidy up the conversion.
 
 Currently only available through the *hover to add* method.
-
-<!-- Expand a block to find out more about adding that content type:
-
-??? abstract "Content (text editor)"
-
-    Use this block to add a range of content via the text editor, including:
-
-    - text: headings, lists, code snippets, [LaTeX](../ultra/maths.md) etc.
-    - data tables (note: don't use tables for layout only)
-    - [links](../ultra/links.md)
-    - [upload files](../ultra/files.md) (for user download only, files added this way can't be viewed in the site directly)
-    - [images](../ultra/images.md)
-    - embed [Panopto recordings](../panopto/embed-panopto-ultra.md) (via the Content Market) or [YouTube videos](../ultra/youtube.md)
-
-    <div markdown class="centered-image">
-    ![Decorative](images/documents-text-editor.png)
-    </div>
-
-??? abstract "HTML"
-
-    Use this block to add HTML code to [embed content](../ultra/embed-content.md) from third-party tools, such as:
-    
-    - [interactive Xerte objects](../other-tools/xerte.md)
-    - [Padlet pinboards](../other-tools/padlet.md)
-    - [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md)
-    - manually embed Panopto or YouTube videos
-
-    !!! Warning
-
-        Only use the HTML content block for embedding third-party content. For other HTML uses, see our [Upload HTML guide](../ultra/html-objects.md).
-
-??? abstract "Knowledge check"
-
-    Use this block to add a multiple choice question into the Document so students can check their understanding of content.
-
-    1. Enter the question text.
-    2. Enter answer options and tick the correct answer(s). Set the order to present options (this is fixed and can't be randomised).
-    3. Optional: enter custom feedback messages.
-    4. Click **Save**.
-
-    ![Multiple choice question with question text and four options. The correct answer is shown (for instructors)](images/documents-knowledge-check-question.png)
-    
-    To gauge student undertanding, you can see statistics on how many times the question has been attempted and the number of correct answers.
-
-    To add more complex knowledge checks or practice quizzes, see our [guide to the Test tool](../ultra/test.md).
-
-??? abstract "File upload"
-
-    Use this block to add PDF, Word, Powerpoint (etc.) files:
-
-    <div markdown class='grid'>
-    <div markdown>
-
-    1. Select the relevant file from your device.
-    2. Ensure *Display name* meaningfully describes the contents without having to open the file.
-    3. Set *File Options* to **View and download**.
-    4. Click Save.
-    </div>
-    ![File upload settings example, Display name: IFR_Week5_NavigationTechniques_Slides.pptx, File options: 'View and download'](images/documents-file-upload-settings.png)
-    </div>
-    
-    Users can preview the file directly within the site, or download it in the original or an alternative format.
-
-    <figure markdown>
-    ![](images/documents-file-preview.png)
-    <figcaption>Previewing the slides directly within the Document</figcaption>
-    </figure>
-    See our dedicated [guide to uploading files](../ultra/files) for more detail on this and other methods of adding files.
-
-??? abstract "Content Collection"
-
-    The Content Collection is a storage method that is not generally used at UoY, so you are unlikely to need this block. You can achieve everything the Content Collection offers by adding content directly to your site.
-
-??? abstract "Convert a File"
-
-    Use this block to convert a PDF, Word or PowerPoint file on your device to a Learn Ultra Document format.
-
-    This conversion is a step in content development, not a final product. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. Careful checking is needed to tidy up the conversion.
-
-    Currently only available through the *hover to add* method. -->
-
-<!-- ## Adding blocks
-
-Depending on the desired location, there are two methods to add a content block:
-
-- **Hover to add**: hover in the location to add, then click the **small plus icon** and select the block needed. A block can be added before or after any existing row.
-</br>![Decorative](images/documents-block-hover.png)
-- **Block left panel**: click the **boxed plus icon** in the top left, and select the block needed. The block will be added after the last existing row.
-</br>![Decorative](images/documents-block-panel.png) -->
 
 ## Layout
 
