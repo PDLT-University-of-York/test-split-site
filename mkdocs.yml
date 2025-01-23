@@ -16,7 +16,6 @@ nav:
       - Course staff: ultra/course-staff.md
     - Content creation:
       - AI Design Assistant: ultra/ai-da.md
-      - AI conversation: ultra/ai-conversation.md
       - Learning Modules & Folders: ultra/folder-learning-module.md
       - Document | pages: ultra/documents.md
       - Link: ultra/links.md
@@ -25,8 +24,9 @@ nav:
       - Assignment | set up: ultra/assignment-set-up.md
       - Assignment | marking: ultra/assignment-marking.md
       - Form | survey: ultra/form.md
-      - Journal | reflection: ultra/journal.md
       - Discussion: ultra/discussions.md
+      - Journal | reflection: ultra/journal.md
+      - AI conversation: ultra/ai-conversation.md
       - Upload Files: ultra/files.md
       - Upload HTML: ultra/html-objects.md
       - Maths content: ultra/maths.md
