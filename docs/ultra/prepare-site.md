@@ -389,8 +389,8 @@ Add your content to the relevant section by:
     Check that your site and materials meet these key accessibility features:
 
     - **Text content** on the site itself and any uploaded materials is easily readable and accessible: structured with Heading Styles, left-aligned text, sufficient colour contrast, legible font and text size, bulleted lists to break up content, tables only used for data etc. 
-    - Meaningful **[images](../ultra/images.md) and figures** have appropriate ALT text or other descriptions to allow screenreader users to access the information.
-    - **[Link](../ultra/links.md) text** accurately describes the destination content, eg. [how to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility). Don’t use generic text like ‘click here’ or ‘find out more’, and don’t paste the URL as text (eg. https://www.link.com).
+    - Meaningful **images and figures** have appropriate ALT text or other descriptions to allow screenreader users to access the information.
+    - **Link text** accurately describes the destination content, eg. [how to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility). Don’t use generic text like ‘click here’ or ‘find out more’, and don’t paste the URL as text (eg. https://www.link.com).
     - **[Files](../ultra/files.md) and external materials** are accessible
         - the title describes the file content (eg. Week05_Slides_NavigationTechniques)
         - Any PDF materials are good quality and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative text-based version is also provided.
@@ -443,11 +443,11 @@ Add your content to the relevant section by:
     - [Tests](../ultra/test.md) for informal/practice quizzes
     - [Journals](../ultra/journal.md) for reflective practice
 
-    Other materials you can embed in your Ultra site:
+    Other materials you can [embed in your Ultra site](../ultra/documents.md#block-html):
     
     - [interactive Xerte objects](../other-tools/xerte.md)
     - [Padlet pinboards and discussions](../other-tools/padlet.md)
-    - pre-recorded [Panopto](../panopto/embed-panopto-ultra.md) or [YouTube](../ultra/youtube.md) video content
+    - pre-recorded Panopto or YouTube videos
     - [Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md) and other interactions
 
 === "Good practice: examples"
