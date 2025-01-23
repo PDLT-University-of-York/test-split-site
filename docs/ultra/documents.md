@@ -31,11 +31,19 @@ Documents are the best way to provide most site materials. They use content bloc
 
 ## Content blocks
 
-Documents are built from drag-and-drop content blocks.
+Documents are built from drag-and-drop content blocks. The available block types are:
 
-<div markdown class="centered-image">
+- [Content (text editor)](#block-content-text-editor)
+- [HTML (embedded content)](#block-html)
+- [Knowledge check](#block-knowledge-check)
+- [File upload](#block-file-upload)
+- [Content Collection](#block-content-collection)
+- [Image](#block-image) (from February 2025)
+- [Convert a file](#block-convert-a-file)
+
+<!-- <div markdown class="centered-image">
 ![Blocks available: Content, HTML, Knowledge check, File upload, Content Collection, Image, Convert a file](images/documents-content-blocks.png)
-</div>
+</div> -->
 
 There are two methods to add a content block:
 
@@ -49,22 +57,97 @@ There are two methods to add a content block:
 
 ![Text-based content, with header, body text and list of links](images/documents-block-content.png)
 
-Use this block to add a range of content via the text editor, including:
+Use this block to add text-based content and YouTube videos via the text editor. 
 
-Best for text-based content. 
+#### Text-based content 
 
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-- text: headings, lists, code snippets, [LaTeX](../ultra/maths.md) etc.
-- data tables (note: don't use tables for layout only)
+    - 3.4 Essential: Site and materials content is accessible.
+    - 3.6 Essential: Links and materials titles describe the destination or content.
 
-- [images](../ultra/images.md)
-- embed [Panopto recordings](../panopto/embed-panopto-ultra.md) (via the Content Market) or [YouTube videos](../ultra/youtube.md)
+![Various text formatting icons, table, alignment, list, link](images/documents-block-content-text-formatting.png)
 
-It's technically possible to upload files and images via the text editor, but we strongly recommend using the dedicated File Upload and Image blocks instead.
+**General text**
+<div markdown class="grid">
+<div markdown>
+Use the text editor options to format your text appropriately. Key icons include:
 
-<div markdown class="centered-image">
-![Decorative](images/documents-text-editor.png)
+- *Text style*: to format headings for readability and assistive technology use.
+- *Bold*: for emphasis within body text
+- *List*: add numbered or bullet lists
+
+We don't recommend changing the font, text colour or size.
 </div>
+<div markdown class="centered-image">
+![Text styles menu options: title, header, subheader, paragraph](images/documents-block-content-text-styles.png)
+</div>
+</div>
+
+**Links**
+<div markdown class="grid">
+<div markdown>
+1. If you've already added the link text in the text editor, select the text.
+2. Click the **Link** icon.
+3. Enter the destination link URL and descriptive link text (**not** "click here" or "open link"), then click **Insert**.
+</div>
+<div markdown class="centered-image">
+![Decorative](images/documents-block-content-link.png)
+</div>
+</div>
+
+Link text must describe the destination so that the link makes sense by itself. This is important for assistive technology and also makes your text more readable. For example: [How to write better link text for accessibility](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility/), not **"Click here for more details"**.
+
+**Code or maths content**
+
+- *Code snippet*: click the **three dots icon** to open the expanded formatting options, then click the **code snippet** icon and enter your code.
+- *Inline LaTeX*: enter the LaTeX within **double dollar signs** and it will render when the text chunk is saved.
+- *Maths formula*: click the **plus icon** to open the *Insert content* drop-down menu. Select **Math**, then construct your formula and click **Insert**.
+
+<!-- For more details, see our guide to [maths content](../ultra/maths.md). NOT WRITTEN YET!-->
+
+#### Files & images
+
+![Icons: attachment, image](images/documents-block-content-attachment-image.png)
+
+It's technically possible to also upload files and images via the text editor, but we strongly recommend using the dedicated [File Upload](#block-file-upload) and [Image](#block-image) blocks instead.
+
+#### Videos
+
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
+
+    - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.
+    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+
+![Sub menu with YouTube video and Content Market (for Panopto video)](images/documents-block-content-video.png)
+
+In addition to the text editor methods here, you can also manually embed videos using a [HTML block](#block-html). **Do not upload a video file directly to the site**.
+
+**Youtube**
+
+1. Click the **plus icon** to open the *Insert content* drop-down menu and select **YouTube video**
+2. Search for a video title and select the video to embed.
+</br>![Decorative](images/documents-block-content-youtube-search.png)
+3. On the *Edit Content Settings* panel:
+    - check and adapt the **Alternative Text** as needed. By default this is the video title.
+    - ensure **Display Content** is set to "The content displays inline if the browser allows. If not allowed, the content displays as a link."
+    - copy the video URL (for the next step)
+    </br>![Decorative](images/documents-block-content-youtube-settings.png)
+4. Click **Insert**.
+5. In the text editor, add a link under the video to open it directly in YouTube. 
+
+**Panopto**
+
+1. Click the **plus icon** to open the *Insert content* drop-down menu and select **Content Market**.
+2. Select the **Panopto Video** option to open the Panopto folder associated with the site.
+</br>![decorative](images/documents-block-content-panopto-content-market.png)
+3. Select the video to embed. Leave the *Video Embed Options* as the default settings and click **Insert**. You can also use the search box in the top left of this window to search for and access an Ongoing Media folder if you have one.
+</br>![decorative](images/documents-block-content-panopto-select.png)
+4. Check that the **Display Name** describes the video content and click **Insert**.
+</br>![decorative](images/documents-block-content-panopto-display-name.png)
+5. In the text editor, add a link under the video to open it directly in Panopto.
+
+To add a Panopto video as a separate content item, see our guide to [using Panopto recordings in Ultra](../panopto/embed-panopto-ultra.md).
 
 ### Block: HTML
 
@@ -160,6 +243,8 @@ To add more complex knowledge checks or practice quizzes as a separate content i
 ### Block: File upload
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
+    
+    - 3.3 Essential: Provide up-to-date documents in an accepted file format.
     - 3.6 Essential: Links and materials titles describe the destination or content.
 
 ![File upload block with lecture slides below a content block with explanatory text](images/documents-block-file-upload.png)

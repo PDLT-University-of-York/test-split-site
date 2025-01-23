@@ -1,4 +1,4 @@
----
+<!-- ---
 # tags:
 # Delete to leave only relevant tags
     - Foundation
@@ -13,7 +13,7 @@
     - Padlet
     - Mentimeter
     - Workshop
----
+--- -->
 
 # Guide title (short and to the point)
 
