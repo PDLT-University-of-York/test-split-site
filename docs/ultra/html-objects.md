@@ -11,7 +11,7 @@ tags:
 
 !!! Warning
 
-    Do not add custom HTML using the **Add HTML** content option: site CSS is not applied and it can conflict with Ultra's own code. This option is only for embedding content from third-party tools.
+    The [Document HTML content block](../ultra/documents.md#block-html) is only for embedding content from third-party tools. Do not use it to add custom HTML.
 
 ## Request access
 
