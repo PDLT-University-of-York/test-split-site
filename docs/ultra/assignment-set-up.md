@@ -180,7 +180,7 @@ Check that the group shows as expected, then click **Start attempt 1** (or **Vie
 
 ## Generate Assignment prompts & rubrics with AI
 
-The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/ai-da.md#marking-rubrics) as a starting point of your own rubric development.
+The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/rubric.md#generate-using-ai) as a starting point of your own rubric development.
 
 !!! ai "Using AI tools effectively"
 

@@ -74,9 +74,7 @@ Within an Ultra site, there are three main sections:
 2. **Course Content area**: The main site area. Create and access course content here.
 3. **Details & Actions** access site tools including the **Class Register** and **Course Image**.
 
-[Detailed guide: Navigating an Ultra site](../ultra/navigate-ultra-site.md)
-
-![decorative](images/navigate-ultra-site-key-sections.png)
+![decorative](images/getting-started-site-key-sections.png)
 
 Most sites are created from a **departmental template** based on the VLE site design principles, to improve student experience and reduce your workload in setting up the site.
 
