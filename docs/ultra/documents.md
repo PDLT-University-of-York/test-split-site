@@ -256,9 +256,9 @@ To upload a file:
 <div markdown class="grid">
 <div markdown>
 1. Select the relevant file from your device.
-2. In the *File Options panel*, enter a  **Display name** that meaningfully describes the contents without having to open the file.
+2. In the *File Options panel*, enter a  **Display name** (title) that meaningfully describes the contents without having to open the file.
 3. Set *File Options* to **View and download**.
-4. Click Save in the File Options panel.
+4. Click **Save** in the File Options panel.
 5. When you have finished editing the Document, click **Save** in the top right.
 </div>
 ![Edit File Options panel. Display name: IFR_Week5_NavigationTechniques_Slides.pptx, File options: 'View and download'](images/documents-block-file-upload-settings.png)
