@@ -16,9 +16,9 @@ tags:
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
-Documents are the best way to provide most site materials. They use content block and a flexible drag-and-drop layout to easily add a wide range of materials. 
+Documents are the best option for providing most site materials. They use content blocks and a flexible drag-and-drop layout to easily add a wide range of materials. 
 
-![Lecture materials document with text, image, previewable slidedeck and embedded video in a mix of columns](images/documents-example.png)
+![Lecture materials document with text, image, previewable slidedeck and embedded video in a mix of rows and columns](images/documents-example.png)
 
 ## Create a Document
 
@@ -26,7 +26,7 @@ Documents are the best way to provide most site materials. They use content bloc
 2. Under **Course Content Items**, select **Document**.
 </br> ![Decorative](images/documents-create.png)
 3. Enter a descriptive title for the Document (eg. *Lecture 5: navigation techniques*) and set the [item visibility](../ultra/content-visibility.md).
-4. Optionally, click the **cog icon** and add a brief **description** to display in the Course Content area. Click **Save**.
+4. Optionally, click the **cog icon** and add a brief **description** to display below the Document title in the Course Content area. Click **Save**.
 </br> ![Decorative](images/documents-settings.png)
 
 ## Content blocks
@@ -41,9 +41,7 @@ Documents are built from drag-and-drop content blocks. The available block types
 - [Image](#block-image) (from February 2025)
 - [Convert a file](#block-convert-a-file)
 
-<!-- <div markdown class="centered-image">
-![Blocks available: Content, HTML, Knowledge check, File upload, Content Collection, Image, Convert a file](images/documents-content-blocks.png)
-</div> -->
+<!-- ![Blocks available: Content, HTML, Knowledge check, File upload, Content Collection, Image, Convert a file](images/documents-content-blocks.png) -->
 
 There are two methods to add a content block:
 
@@ -51,7 +49,6 @@ There are two methods to add a content block:
 </br>![Decorative](images/documents-block-hover.png)
 - **Block left panel**: click the **boxed plus icon** in the top left, and select the block needed. The block is added after the last existing row.
 </br>![Decorative](images/documents-block-panel.png)
-
 
 ### Block: Content (text editor)
 
@@ -73,11 +70,11 @@ Use this block to add text-based content and YouTube videos via the text editor.
 <div markdown>
 Use the text editor options to format your text appropriately. Key icons include:
 
-- *Text style*: to format headings for readability and assistive technology use.
+- *Text style*: to format headings for readability and assistive technology use. Don't skip heading levels: use *Title* `<h4>` -> *Header* `<h5>` -> *Subheader* `<h6>`.
 - *Bold*: for emphasis within body text
 - *List*: add numbered or bullet lists
 
-We don't recommend changing the font, text colour or size.
+For readability and consistency, avoid changing the font, text colour or size.
 </div>
 <div markdown class="centered-image">
 ![Text styles menu options: title, header, subheader, paragraph](images/documents-block-content-text-styles.png)
@@ -110,7 +107,7 @@ Link text must describe the destination so that the link makes sense by itself. 
 
 ![Icons: attachment, image](images/documents-block-content-attachment-image.png)
 
-It's technically possible to also upload files and images via the text editor, but we strongly recommend using the dedicated [File Upload](#block-file-upload) and [Image](#block-image) blocks instead.
+It's technically possible to also upload files and images via the text editor, but we strongly recommend using the dedicated [File Upload](#block-file-upload) and [Image](#block-image) blocks instead as these are easier to use and give cleaner results.
 
 #### Videos
 
@@ -357,7 +354,7 @@ For example, a layout for some video resources could use:
 !!! Tip
 
     - Blocks are created in a new row, and then can be moved into a column in another row.
-    - Rows are always only one block deep, meaning blocks can't be stacked vertically within the same column.
+    - Rows are always only one block high. This means that you can't add two smaller blocks stacked vertically alongside one larger one in the same row.
 
 ### Move a whole row
 
