@@ -8,15 +8,15 @@ tags:
 
 !!! Summary
 
-    Files can be uploaded into Documents or directly to the Course Content area.
-    
-    Most common file types can be previewed within the site without needing to be downloaded.
+    Files can be uploaded as standalone content items or within Documents. Most common file types can be previewed directly within the site.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
+
+There are two methods to upload files to your site. Choose the most appropriate method for how you intend the file to be used, and make sure that it is organised in your site structure.
 
 ## Standalone content item
 
