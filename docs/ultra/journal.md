@@ -56,7 +56,7 @@ Depending on your intended use case, consider where students would expect the Jo
 
     --- 
 
-    Journals listed as either a formative or summative assessment in your module catalogue entry should appear in the Assessment section of the site. If desired, you can use a [Course Link](../ultra/course-links.md) to also be accessible through a weekly content folder.
+    Journals listed as either a formative or summative assessment in your module catalogue entry should appear in the Assessment section of the site. If desired, you can use a [Course Link](../ultra/links.md#course-link) to also be accessible through a weekly content folder.
 </div>
 
 ## Set up a Journal

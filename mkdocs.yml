@@ -19,7 +19,6 @@ nav:
       - Learning Modules & Folders: ultra/folder-learning-module.md
       - Document | pages: ultra/documents.md
       - Link: ultra/links.md
-      - Course link: ultra/course-links.md
       - Test | quizzes & exams: ultra/test.md
       - Assignment | set up: ultra/assignment-set-up.md
       - Assignment | marking: ultra/assignment-marking.md
@@ -281,19 +280,20 @@ plugins:
   # Redirects - https://github.com/mkdocs/mkdocs-redirects 
   - redirects: 
       redirect_maps:
-        'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
-        'ultra/text.md': 'ultra/documents.md'
-        'ultra/images.md': 'ultra/documents.md#block-image'
-        'ultra/embed-content.md': 'ultra/documents.md#block-html'
         'ultra/adding-html.md': 'ultra/html-objects.md'
+        'ultra/course-links.md': 'ultra/links.md#course-link'
+        'ultra/embed-content.md': 'ultra/documents.md#block-html'
         'ultra/groups.md': 'ultra/course-groups.md'
-        'ultra/messages-tool.md': 'ultra/messages.md'
-        'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
+        'ultra/images.md': 'ultra/documents.md#block-image'
         'ultra/international-access.md': 'help/international-access.md'
-        'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+        'ultra/messages-tool.md': 'ultra/messages.md'
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
         'ultra/release-conditions.md': 'ultra/content-visibility.md'
+        'ultra/site-rename.md': 'ultra/site-name.md'
+        'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+        'ultra/text.md': 'ultra/documents.md'    
+        'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
         'ultra/youtube.md': 'ultra/documents.md#videos'
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'

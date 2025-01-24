@@ -153,7 +153,7 @@ As with all teaching content, accessibility is very important when building test
     - practising specific content: alongside weekly materials.
     - general revision: in the Assessment section (make sure to label clearly as a formative practice quiz to avoid confusion with formal assessment items)
 
-    You can use a [Course Link](../ultra/course-links.md) to show a quiz in more than one location.
+    You can use a [Course Link](../ultra/links.md#course-link) to show a quiz in more than one location.
 
 === "Formal exam"
 

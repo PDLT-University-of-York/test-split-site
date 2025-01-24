@@ -245,7 +245,7 @@ Prepare this section by:
     3. **Assessment tasks & submission points**:
         
         - check that all formative and summative assessment instructions, quizzes and submission points (as listed on the Module Catalogue) are up to date and included in this section.
-        - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
+        - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/links.md#course-link) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
     4. **Deadlines & release dates**: update for the new academic year. [Batch Edit](../ultra/batch-edit.md) may be useful for updating dates set in the system. Specific dates given in instruction text must be manually updated; consider changing to relative dates instead (eg. "Week 2, Friday 13:00").
@@ -265,7 +265,7 @@ Prepare this section by:
     5. **Assessment tasks & submission points**:
         
         - include all formative and summative assessment instructions, quizzes and submission points (as listed on the Module Catalogue) in this section.
-        - for students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
+        - for students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/links.md#course-link) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
         - informal practice quizzes or tasks can be included in weekly materials sections.
