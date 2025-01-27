@@ -56,7 +56,7 @@ Once the site has been created, you can [find the site in your Courses list](../
 If you **can’t find the site in your Course list**, contact your departmental administrator or professional support team to check that the site exists and/or enrol you.
 
 ## General settings
-For an introduction to key parts of the site, see the [Detailed guide: Navigate Ultra sites](../ultra/navigate-ultra-site.md)
+For an introduction to key parts of the site, see [Getting started with Ultra: Site structure](../ultra/getting-started.md#ultra-site-structure--module-template).
 
 === "Update after rollover"
 
@@ -245,7 +245,7 @@ Prepare this section by:
     3. **Assessment tasks & submission points**:
         
         - check that all formative and summative assessment instructions, quizzes and submission points (as listed on the Module Catalogue) are up to date and included in this section.
-        - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
+        - move any assessment information previously added to a different area into this section. For students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/links.md#course-link) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
     4. **Deadlines & release dates**: update for the new academic year. [Batch Edit](../ultra/batch-edit.md) may be useful for updating dates set in the system. Specific dates given in instruction text must be manually updated; consider changing to relative dates instead (eg. "Week 2, Friday 13:00").
@@ -265,7 +265,7 @@ Prepare this section by:
     5. **Assessment tasks & submission points**:
         
         - include all formative and summative assessment instructions, quizzes and submission points (as listed on the Module Catalogue) in this section.
-        - for students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/course-links.md) in the weekly section.
+        - for students to also access an assessment item from a particular week's materials, use a [Course Link](../ultra/links.md#course-link) in the weekly section.
         - if instructions and quizzes/submission points are included as separate items, label these clearly.
         - your departmental assessment administrators may set up submission points for you - see your departmental information.
         - informal practice quizzes or tasks can be included in weekly materials sections.
@@ -337,9 +337,10 @@ Add your content to the relevant section by:
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
     - **do not upload video files** directly to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
     - **set item visibility** and **add any [Release conditions](../ultra/content-visibility.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
-    - if reusing content or materials from previous years, check that:
-        - all **content and files are up to date**. Don't add any old material.
-        - any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
+    - if reusing content or materials from previous years:
+        - ensure all **content and files are up to date**. Don't add any old material.
+        - ensure any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
+        - you can use the [Copy Content tool] to copy materials from other Ultra sites that you have Instructor access to. We don't recommend using this to migrate materials from Original (*old style*) sites due to structural differences.
 
 === "Good practice: examples"
 
@@ -389,8 +390,8 @@ Add your content to the relevant section by:
     Check that your site and materials meet these key accessibility features:
 
     - **Text content** on the site itself and any uploaded materials is easily readable and accessible: structured with Heading Styles, left-aligned text, sufficient colour contrast, legible font and text size, bulleted lists to break up content, tables only used for data etc. 
-    - Meaningful **[images](../ultra/images.md) and figures** have appropriate ALT text or other descriptions to allow screenreader users to access the information.
-    - **[Link](../ultra/links.md) text** accurately describes the destination content, eg. [how to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility). Don’t use generic text like ‘click here’ or ‘find out more’, and don’t paste the URL as text (eg. https://www.link.com).
+    - Meaningful **images and figures** have appropriate ALT text or other descriptions to allow screenreader users to access the information.
+    - **Link text** accurately describes the destination content, eg. [how to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility). Don’t use generic text like ‘click here’ or ‘find out more’, and don’t paste the URL as text (eg. https://www.link.com).
     - **[Files](../ultra/files.md) and external materials** are accessible
         - the title describes the file content (eg. Week05_Slides_NavigationTechniques)
         - Any PDF materials are good quality and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative text-based version is also provided.
@@ -443,11 +444,11 @@ Add your content to the relevant section by:
     - [Tests](../ultra/test.md) for informal/practice quizzes
     - [Journals](../ultra/journal.md) for reflective practice
 
-    Other materials you can embed in your Ultra site:
+    Other materials you can [embed in your Ultra site](../ultra/documents.md#block-html):
     
     - [interactive Xerte objects](../other-tools/xerte.md)
     - [Padlet pinboards and discussions](../other-tools/padlet.md)
-    - pre-recorded [Panopto](../panopto/embed-panopto-ultra.md) or [YouTube](../ultra/youtube.md) video content
+    - pre-recorded Panopto or YouTube videos
     - [Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md) and other interactions
 
 === "Good practice: examples"
