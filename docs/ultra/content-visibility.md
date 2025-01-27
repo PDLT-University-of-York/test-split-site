@@ -22,7 +22,7 @@ You can check that items are shown or hidden correctly using the Student Preview
     
     It is best practice to make all materials available at the start of the module.
     
-    If this isn't possible, they should be released **at least a week in advance** to allow students to prepare appropriately. For example, Week 3 materials released at the start of Week 2.
+    If this isn't possible, they should be released **at least a week in advance** to allow students to prepare appropriately.
 
 ## Show/hide a single item
 
@@ -35,9 +35,9 @@ You can check that items are shown or hidden correctly using the Student Preview
 
 2. Select the required visibility option:
 
-    - **Visible to students**: all students can access
+    - **Visible to students**: all students can access.
     - **Hidden from students**: no students can access the item. You can choose whether it is completely hidden or whether to show the item without allowing access.
-    - **Release conditions**: visibility managed based on certain conditions (see section below)
+    - **Release conditions**: visibility managed based on certain conditions (see section below).
 
 ![Decorative](images/content-visibility-options.png)
 
@@ -47,13 +47,14 @@ You can check that items are shown or hidden correctly using the Student Preview
 
 ## Show/hide multiple items
 
+<div markdown class="grid">
+<div markdown>
 Use the Batch Edit function to quickly change the visibility of multiple items at once. For example, you can use this to make a Learning Module and the items nested within it visible with only a few clicks.
 
 This is accessed in a different way to single item visibility. See our [Batch Edit guide](../ultra/batch-edit.md) for details.
-
-<!-- You can also watch a demonstration of changing content visibility:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P1lNK0ob2ho" title="Content availability in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Content availability in Ultra [YouTube]](https://youtu.be/P1lNK0ob2ho) -->
+</div>
+![Access Batch Edit through the three dots icon in teh top right of the Course COntent area](images/batch-edit-batch-edit.png)
+</div>
 
 ## Release conditions
 
@@ -63,7 +64,7 @@ Items can also be shown based on certain conditions:
 
 | Condition      | Details | Example uses |
 | -------------- | ------- | ------------ |
-| Select members | Show to specific users or groups | **Teaching**: release different project topic to each group </br> **Assessment**: limit access to resit submission point only to resit students
+| Select members | Show to specific users or groups | **Teaching**: release different topic to each project group </br> **Assessment**: limit access to resit submission point only to resit students
 | Date/time      | Show/hide at a specific time | **Teaching**: Release module materials at appropriate time </br> **Assessment**: show submission point from a specific date |
 | Performance    | Show if students submit, complete or receive a certain score for a markable item | **Teaching**: release workshop materials after completing a pre-workshop quiz </br> **Assessment**: release extension activities only for high quiz scores |
 
@@ -98,6 +99,10 @@ To make changes after setting up a rule:
 - If using multiple rules, click the relevant rule to show the options.
 - *Edit conditions*: make changes as above and click **Save**.
 - *Delete the rule*: click the **three dots icon** alongside the rule name and select **Delete**.
+
+!!! Note 
+
+    If all release conditions are removed, the item visibility will default to *Hidden*. This can be changed manually.
 
 ### Multiple rules
 
