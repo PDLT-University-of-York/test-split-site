@@ -33,8 +33,12 @@ Test has a lot of flexible features, which makes it useful in many situations, f
 
 === "Knowledge check"
 
-    **A short, one-off self-assessment.**
+    **A short, one-off self-assessment**
 
+    !!! Tip
+
+        Don't use the Essay question type, so that the knowledge check can be automatically graded. 
+    
     Some examples:
 
     - **self assessment/knowledge check**: a few questions to check understanding of weekly content. You can do this using Test or by adding questions directly within a [Document](../ultra/documents.md).
@@ -53,7 +57,11 @@ Test has a lot of flexible features, which makes it useful in many situations, f
 
 === "Practice quiz"
 
-    **An informal quiz that can be taken multiple times.**
+    **An informal quiz that can be taken multiple times**
+
+    !!! Tip
+
+        Don't use the Essay question type, so that the quiz can be automatically graded. 
 
     Some examples:
 
@@ -80,8 +88,9 @@ Test has a lot of flexible features, which makes it useful in many situations, f
     Common features:
     
     - Question display: to support robust assessment, formal exams generally use question pools to display a random subset of questions drawn from a larger question bank.
-    - Question types: preferably automatically marked (to allow **non-anonymous** workflows, which are significantly easier to administer), but can include manually marked questions.
+    - Question types: preferably automatically marked (to allow **non-anonymous** workflows, which are significantly easier to administer), but can include manually marked Essay questions.
     - Set up effort: medium to high, as requires very careful set up and checking.
+    - Anonymity: can be marked anonymously if the test includes Essay questions.
 
     !!! Warning
 
@@ -443,6 +452,3 @@ To print or save a Test:
 4. The answer key (shown first) and test are generated and shown in print preview. Save as PDF or send to the printer.
 
 ![decorative](images/test-print.png)
-<!-- ## Viewing Test results and analytics -->
-
-
