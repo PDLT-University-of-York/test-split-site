@@ -23,11 +23,11 @@ For example, Forms could be used to collect:
 - difficulties/topics to focus on in review sessions
 
 !!! Warning
-    Although it is possible, **don't use a Form as a graded assessment** - please [use the Test tool](test.md) instead.
+    Although it is possible, **don't use a Form as a graded assessment**. Use the [Test tool](../ultra/test.md) instead.
 
 !!! tip "Alternative tools"
     
-    [Padlet](../other-tools/padlet.md) or [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can be used in a similar way, but allow anonymous responses.
+    [Padlet](../other-tools/padlet.md) or [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can also be used for surveys, but allow anonymous responses.
 
 ## Form content
 
@@ -40,6 +40,8 @@ Forms can include these question types:
 
 You can also add text or upload a file.
 
+For details of question types, see the guide to the [Test tool](../ultra/test.md).
+
 ## Create a Form
 
 1. In the relevant location, click **Create** > **Form**.
@@ -49,8 +51,3 @@ You can also add text or upload a file.
 5. Set the test as **Visible to students** or specify  **Release conditions** in the top right.
 
 ![decorative](images/form-create.png)
-
-### Blackboard Help guides
-
-- [Create Forms and view responses](https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Forms) 
-- [Test question types](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types#ultra_types)
