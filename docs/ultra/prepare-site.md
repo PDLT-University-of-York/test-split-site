@@ -337,9 +337,10 @@ Add your content to the relevant section by:
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
     - **do not upload video files** directly to the site or within slide decks. Video content must be streamed: Panopto for in-house recordings or YouTube (or similar) for external videos.
     - **set item visibility** and **add any [Release conditions](../ultra/content-visibility.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful for this.
-    - if reusing content or materials from previous years, check that:
-        - all **content and files are up to date**. Don't add any old material.
-        - any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
+    - if reusing content or materials from previous years:
+        - ensure all **content and files are up to date**. Don't add any old material.
+        - ensure any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
+        - you can use the [Copy Content tool] to copy materials from other Ultra sites that you have Instructor access to. We don't recommend using this to migrate materials from Original (*old style*) sites due to structural differences.
 
 === "Good practice: examples"
 
