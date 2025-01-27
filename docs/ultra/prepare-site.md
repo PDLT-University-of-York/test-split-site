@@ -340,7 +340,7 @@ Add your content to the relevant section by:
     - if reusing content or materials from previous years:
         - ensure all **content and files are up to date**. Don't add any old material.
         - ensure any **re-used Panopto recordings** are shared correctly for the new year's cohort (see Panopto section below)
-        - you can use the [Copy Content tool] to copy materials from other Ultra sites that you have Instructor access to. We don't recommend using this to migrate materials from Original (*old style*) sites due to structural differences.
+        - you can use the [Copy Content tool](../ultra/copy-content.md) to copy materials from other Ultra sites that you have Instructor access to. We don't recommend using this to migrate materials from Original (*old style*) sites due to structural differences.
 
 === "Good practice: examples"
 
