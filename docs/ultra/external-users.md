@@ -47,5 +47,5 @@ The welcome email contains a link to [the IDM](https://idm.york.ac.uk/idm/user/l
 
 As soon as the account appears within the VLE you will be able to enrol the external user on to any required VLE site(s) as usual; give them the relevant role as required. We strongly advise against using the "Guest" role.
 
-- [Guidance on available roles](course-roles.md)
-- [How to enrol a user](enrol-user.md)
+- [Guidance on available roles](../ultra/course-roles.md)
+- [How to enrol a user](../ultra/enrol-user.md)
