@@ -292,6 +292,8 @@ To upload a file as a standalone content item, see our [guide to Files](../ultra
 
 Use this block to upload an image, source an image from Unsplash or generate an image using the [AI Design Assistant](../ultra/ai-da.md). It's also possible to add images using the text editor in the content block type, but this is a bit more fiddly and results are not as neat.
 
+Images should be high quality and must comply with copyright regulations. The [University’s photo library](https://brand.york.ac.uk/account/dashboard/) or [Unsplash.com](https://unsplash.com/) are good sources of appropriate images.
+
 To add an image:
 
 1. Add an Image block, or a Content block and then select the image icon in the text editor. These both open the **Insert image panel**.
