@@ -10,8 +10,6 @@ tags:
 !!! Summary
     Prevent or allow students to access your Ultra VLE sites.
  
-## Overview
-
 You can set your site availabilty to control student access:
 
 - **Closed**: students can see the site in their Course list, but can't enter it.
@@ -21,9 +19,11 @@ You can set your site availabilty to control student access:
 
     Sites are not automatically made available each semester, so you must make the site *Open* when it is ready for students.
 
+## View & change site availability
+
 You can view and change availability status in two locations:
 
-### View & change site availability: Course list
+### Course list
 
 In the Course list entry, site availability is shown under the site name as *Open* or *Closed*.
 
@@ -41,7 +41,7 @@ To change availability status:
 </br>![Close course toggle: on = site unavailable, off = site open](images/site-availability-toggle.png)
 5. **Close the page**, the changes will save automatically.
 
-### View & change site availability: within a site
+### Within a site
 
 Within an Ultra site, site availability used to be shown in the "Details & Actions" pane on the right of the screen as either, but this has changed in January 2025. Whether your site is Open or Closed is displayed in the top right hand corner of your site.
 
