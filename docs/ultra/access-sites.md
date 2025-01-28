@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# Access your sites
+# Access sites: Courses & Communities
 
 !!! Summary
 
@@ -13,6 +13,8 @@ tags:
 
 
 ## Which site type?
+
+There are two site types, which are accessed on separate pages:
 
 === "Courses: module sites"
 
@@ -75,4 +77,4 @@ You can also bookmark relevant sites in your internet browser for easy access.
 
 If you can't see a site that you require access to after using the methods above, you may not be enrolled on it.
 
-To be given access, contact the module convenor/site owner or your departmental VLE coordinator.
+To be given access, contact the module convenor/site owner or your departmental administrators.
