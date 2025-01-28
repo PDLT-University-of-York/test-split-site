@@ -10,7 +10,7 @@ tags:
 !!! Summary
     Prevent or allow students to access your Ultra VLE sites.
  
-You can set your site availabilty to control student access:
+Set the site availability to control student access:
 
 - **Closed**: students can see the site in their Course list, but can't enter it.
 - **Open**: students can see and enter the site.
