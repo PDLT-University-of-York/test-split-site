@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# Site Availability
+# Site Availability (Course Access)
 
 !!! Summary
     Prevent or allow students to access your Ultra VLE sites.
@@ -19,26 +19,27 @@ You can set your site availabilty to control student access:
 
 !!! Warning
 
-    Sites are not automatically made available each semester, so you must make the site 'Open' when it is ready for students.
+    Sites are not automatically made available each semester, so you must make the site *Open* when it is ready for students.
 
 You can view and change availability status in two locations:
 
 ### View & change site availability: Course list
 
-In the Course list entry, site availability is shown under the site name as Open or Closed.
+In the Course list entry, site availability is shown under the site name as *Open* or *Closed*.
 
 For Closed sites, a padlock icon is also shown next to the status (List view) or over the thumbnail image (Grid view).
 
-![decorative](images/site-availability-see-status2.png)
+![decorative](images/site-availability-see-status.png)
 
 To change availability status:
 
 1. Click the **three dots icon** (in Grid view, hover over the course to show the icon)
-2. Click **Course Settings**
-3. Change the **Close Course** toggle to off (it will go from green with a tick when closed, to grey with a cross when open)
-3. **Close the page**, the changes will save automatically.
-
-![decorative](images/site-availability-change-status2.png)
+2. Click **Course Settings**.
+</br>![decorative](images/site-availability-change-status.png)
+3. In the *Course Access* section, toggle the **Close Course** setting off (to open the site) or on (to close the site).
+4. Check the site status at the top of the section shows *Unavailable* (ie. closed) or *Open* as expected.
+</br>![Close course toggle: on = site unavailable, off = site open](images/site-availability-toggle.png)
+5. **Close the page**, the changes will save automatically.
 
 ### View & change site availability: within a site
 
@@ -49,7 +50,7 @@ Within an Ultra site, site availability used to be shown in the "Details & Actio
 3. Change the **Close Course** toggle to off (it will go from green with a tick when closed, to grey with a cross when open)
 3. **Close the page**, the changes will save automatically.
 
-![decorative](images/site-availability-details-actions2.png)
+![decorative](images/site-availability-details-actions.png)
 
 ## More Details and Troubleshooting 
 
@@ -57,7 +58,6 @@ Within an Ultra site, site availability used to be shown in the "Details & Actio
 Users with the following roles can access closed VLE sites:
 
 - Instructors
-- Markers (aka Graders)
 - Course Builders
 - Teaching Assistants
  
