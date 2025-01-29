@@ -79,7 +79,7 @@ Also with your Course Settings page you can see options to "Complete" your site.
 
 Marking a course as Complete means that students can enter the course and view resources, but can't make contributions (to Discussions, submission points etc.). This is **not** a feature that we use at UoY, so you do not have to set this status after the semester end.
 
-### What is "Hide Course" Option? And/Or Where Has My Course Gone?
+### What is the "Hide Course" Option? And/Or Where Has My Course Gone?
 On [the Courses page of the VLE](https://vle.york.ac.uk/ultra/course), staff have the option to hide listed courses from only their view, eg. if they were enrolled on courses that they very rarely need to visit, they can use the "Hide Course" option to make it disappear from their Courses page by default. 
 
 Using this setting does impact anyone else's visibility or access to the course.
@@ -93,4 +93,4 @@ If you have inadvertantly hidden a site you actually want to have visible on you
     1. Click on the three dot icon by the course - in grid view: top right of the thumbnail image; in text list view: at the far right of the courses' row
     2. Select "Show Course"
 
-![decorative](site-availability-hide-show-course.png)
+![decorative](images/site-availability-hide-show-course.png)
