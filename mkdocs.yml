@@ -277,22 +277,16 @@ plugins:
   # Redirects - https://github.com/mkdocs/mkdocs-redirects 
   - redirects: 
       redirect_maps:
-        'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
-        'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/course-links.md': 'ultra/links.md#course-link'
         'ultra/course-roles.md' : 'ultra/user-management.md#user-roles'
         'ultra/embed-content.md': 'ultra/documents.md#block-html'
         'ultra/enrol-cohort.md' : 'ultra/user-management.md#enrol-a-cohort-or-user-group'
         'ultra/enrol-user.md' : 'ultra/user-management.md#enrol-individual-users'
         'ultra/external-users.md' : 'ultra/user-management.md#external-user-access'
-        'ultra/groups.md': 'ultra/course-groups.md'
         'ultra/images.md': 'ultra/documents.md#block-image'
-        'ultra/international-access.md': 'help/international-access.md'
-        'ultra/messages-tool.md': 'ultra/messages.md'
         'ultra/navigate-ultra-site.md' : 'ultra/getting-started.md#ultra-site-structure--module-template'
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
         'ultra/release-conditions.md': 'ultra/content-visibility.md'
-        'ultra/site-rename.md': 'ultra/site-name.md'
         'ultra/text.md': 'ultra/documents.md'    
         'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
         'ultra/unenrol-user.md' : 'ultra/user-management.md#unenrol-a-user'
@@ -308,21 +302,7 @@ plugins:
         'contact-us/ycodes.md': 'help/ycodes.md'
         'contact-us/screenshots.md': 'help/screenshots.md'
         'tags-index.md': 'help/site-index.md'
-        'eassessment/index.md': 'assessment/index.md'
-        'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
-        'eassessment/ultratest.md': 'ultra/test.md' 
-        'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
-        'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
-        'eassessment/trainingassessment.md': 'training/index.md'
         'assessment/group-assignment.md' : 'ultra/assignment-groups.md'
-        'othertools/index.md': 'other-tools/index.md'
-        'canvas/index.md': 'other-tools/canvas.md'
-        'mentimeter/index.md': 'other-tools/mentimeter/index.md'
-        'padlet/index.md': 'other-tools/padlet.md'
-        'padlet/padlet-discussion-alternative.md': 'other-tools/padlet.md'
-        'readinglist/index.md': 'other-tools/reading-list.md'
-        'xerte/index.md': 'other-tools/xerte.md'
-        'system-data-and-analytics/index.md': 'other-tools/analytics.md'
         'training/workshops-resources/index.md': 'training/index.md'
   - search
   # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit)
