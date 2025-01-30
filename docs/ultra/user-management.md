@@ -108,7 +108,6 @@ The error "**No results found. Check the spelling and try again.**" can mean a f
 2. The user is already enrolled on your site and able to access it. Check by searching for them in the class register, using the magnifying glass button in the top right.
 3. The user may have been enrolled on the course in the past but then been removed, such as students on LoA. This blocks them from being re-enrolled. [Contact us](mailto:vle-support@york.ac.uk) to re-enrol them for you.
 
-
 ## Enrol a cohort or user group
 
 Student cohort enrolments and larger staff group enrolments are automatically managed through *group users* based on SITS module enrolments (*SITS group users*) or larger cohort groupings (*People Group Users*).
@@ -189,9 +188,50 @@ If a user was automatically [enrolled through a Group user](enrol-cohort.md) (th
 4. Use the appropriate method to unenrol the user:
     - *Delete user and all their data*: Click the **dustbin icon** next to the user's name. When prompted, click **Remove Member**. Note that **this cannot be undone**.
     - *Remove a user's access but keep their data*: Untick **Allow access to course** and click **Save**.
-    </br>![decorative](images/user-management-unenrol.png)
 
 ### Troubleshooting 
 
 - Error “**Cannot remove Instructor users from course. Only System Administrator users can remove Instructor users**”: change the user's role from Instructor to Student before removing them.
 - **User reappears after being unenrolled**: they have likely been automatically reinstated through a group user enrolment. [Contact us](mailto:vle-support@york.ac.uk) to unenrol these users.
+
+## External user access
+
+!!! Warning
+
+    This document details the process as best we understand it, but as we are not experts on the People Database (which is where most of the process occurs) it is possible that our guidance here is not complete.
+    
+    If you are a People Database Administrator and you’re aware that the below information is incorrect or unclear do please contact us to let us know.
+
+### 1. Set up in the People Database
+
+External users (ie. those without a HR record) need to be set up very specifically in the People Database in order to get access to systems such as the Learn VLE and email. Different settings are required depending on the access required: 
+
+=== "VLE access only"
+
+    To gain access to the VLE your external user(s) will first need temporary People Database accounts creating by the People Database Administrator (PDA) of your Department. 
+
+    1. Locate [your department’s PDA](https://www.york.ac.uk/it-services/help/pda/) and contact them to request the account(s)
+    2. Advise your PDA that when they create the account(s) it will need to be set as
+        
+        i. Associate Type: "External Associate"
+        
+        ii. Subtype: either "School student/teacher" or "non-accredited student" (**no other subtype will work**). 
+
+=== "VLE and IT account (email etc.)"
+
+    To gain access to the VLE your external user(s) will first need temporary People Database accounts creating by the People Database Administrator (PDA) of your Department. 
+
+    1. Locate [your department’s PDA](https://www.york.ac.uk/it-services/help/pda/) and contact them to request the account(s)
+    2. Advise your PDA that when they create the account(s) it will need to be set as
+        
+        i. Associate Type: "Associate"
+        
+        ii. Affiliate Type: (whichever is relevant; usually “Staff” is selected for Staff) 
+
+### 2. Register the user in the VLE
+
+The external user is not automatically notified of the account creation in the People Database, so PDAs need to generate and send the welcome email manually.
+
+The PD should generate a template welcome message that can be sent as an email or printed and posted if needed, etc. This contains a link to [the IDM](https://idm.york.ac.uk/idm/user/login.jsp) and asks the user to register. Registration involves accepting the IT Services Usage Policy/T&Cs etc, setting up security questions, and then changing their ITS password. 
+
+Once registered the external user should then appear within the VLE under the same username within 24-48 hours. As soon as the account appears within the VLE you will be able to enrol the external user on to any required VLE site(s) as usual.
