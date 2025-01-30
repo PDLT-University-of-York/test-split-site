@@ -17,6 +17,14 @@ The Course staff section lists all Instructors enrolled on the module site alpha
 
 ![decorative](images/course-staff-list.png)
 
+### Add or remove staff
+
+If needed, you can add [enroll other staff members](../ultra/user-management.md#enrol-individual-users) on the site.
+
+Staff enrollments are often copied during rollover. It's good practice to check and remove that no longer need access each year.
+
+### Primary Instructor
+
 If there are more than two Instructors on the site (eg. multiple teaching staff, or your department enrolls staff on all sites), it can be difficult for students to identity the correct module teaching staff from the Course Staff list.
 
 In this case, use the **Primary Instructor** setting to display the module leader or core teaching team members first:
