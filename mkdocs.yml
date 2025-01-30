@@ -49,7 +49,6 @@ nav:
       - Site availability | course access: ultra/site-availability.md
       - Course staff: ultra/course-staff.md
       - User management: ultra/user-management.md
-      - External users: ultra/external-users.md
     - Troubleshooting common issues: help/troubleshooting.md
   - Panopto Videos:
     - panopto/index.md
@@ -285,6 +284,7 @@ plugins:
         'ultra/embed-content.md': 'ultra/documents.md#block-html'
         'ultra/enrol-cohort.md' : 'ultra/user-management.md#enrol-a-cohort-or-user-group'
         'ultra/enrol-user.md' : 'ultra/user-management.md#enrol-individual-users'
+        'ultra/external-users.md' : 'ultra/user-management.md#external-user-access'
         'ultra/groups.md': 'ultra/course-groups.md'
         'ultra/images.md': 'ultra/documents.md#block-image'
         'ultra/international-access.md': 'help/international-access.md'
