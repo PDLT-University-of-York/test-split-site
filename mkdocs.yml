@@ -48,7 +48,6 @@ nav:
       - Access sites | Courses & Communities : ultra/access-sites.md
       - Site availability | course access: ultra/site-availability.md
       - Course staff: ultra/course-staff.md
-      - Course roles: ultra/course-roles.md
       - Enrol a user: ultra/enrol-user.md
       - Enrol a cohort/group: ultra/enrol-cohort.md
       - Unenrol a user: ultra/unenrol-user.md
@@ -284,8 +283,9 @@ plugins:
         'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
         'ultra/adding-html.md': 'ultra/html-objects.md'
         'ultra/course-links.md': 'ultra/links.md#course-link'
+        'ultra/course-roles.md' : 'ultra/user-management.md#'
         'ultra/embed-content.md': 'ultra/documents.md#block-html'
-        'ultra/groups.md': 'ultra/course-groups.md'
+        'ultra/groups.md': 'ultra/course-groups.md#user-roles'
         'ultra/images.md': 'ultra/documents.md#block-image'
         'ultra/international-access.md': 'help/international-access.md'
         'ultra/messages-tool.md': 'ultra/messages.md'
