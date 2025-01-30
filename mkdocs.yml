@@ -48,7 +48,6 @@ nav:
       - Access sites | Courses & Communities : ultra/access-sites.md
       - Site availability | course access: ultra/site-availability.md
       - Course staff: ultra/course-staff.md
-      - Unenrol a user: ultra/unenrol-user.md
       - External users: ultra/external-users.md
     - Troubleshooting common issues: help/troubleshooting.md
   - Panopto Videos:
@@ -293,8 +292,9 @@ plugins:
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
         'ultra/release-conditions.md': 'ultra/content-visibility.md'
         'ultra/site-rename.md': 'ultra/site-name.md'
-        'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
         'ultra/text.md': 'ultra/documents.md'    
+        'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+        'ultra/unenrol-user.md' : 'ultra/user-management.md#unenrol-a-user'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
         'ultra/youtube.md': 'ultra/documents.md#videos'
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
