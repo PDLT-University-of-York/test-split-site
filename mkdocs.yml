@@ -278,6 +278,7 @@ plugins:
   # Redirects - https://github.com/mkdocs/mkdocs-redirects 
   - redirects: 
       redirect_maps:
+        'ultra/access-sites.md': 'ultra/courses-list.md'
         'ultra/course-links.md': 'ultra/links.md#course-link'
         'ultra/course-roles.md' : 'ultra/user-management.md#user-roles'
         'ultra/embed-content.md': 'ultra/documents.md#block-html'
