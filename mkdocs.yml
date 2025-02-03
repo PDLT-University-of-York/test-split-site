@@ -43,7 +43,9 @@ nav:
       - Marking Rubric: ultra/rubric.md
       - Assignment | set up: ultra/assignment-set-up.md
       - Assignment | marking: ultra/assignment-marking.md
+      - Assignment | groupwork : ultra/assignment-groups.md
       - Test | quizzes & exams: ultra/test.md
+      - Journal | reflection: ultra/journal.md
     - Site access & users:
       - Courses list: ultra/courses-list.md
       - Site availability | course access: ultra/site-availability.md
@@ -91,16 +93,15 @@ nav:
       - TFS | marking: assessment/tfs/marking.md
       - TFS & E:Vision | manage feedback & marks: assessment/tfs/feedback-marks.md
     - Ultra assessment tools:
-      - Ultra Assignment | set up: ultra/assignment-set-up.md
-      - Ultra Assignment | marking: ultra/assignment-marking.md
-      - Ultra Test | quizzes & exams: ultra/test.md
-      - Ultra Journal: ultra/journal.md
-      - Ultra Gradebook: ultra/gradebook.md
+      - Gradebook: ultra/gradebook.md
       - Mark Schema: ultra/mark-schema.md
       - Marking Rubric: ultra/rubric.md
-      # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
+      - Assignment | set up: ultra/assignment-set-up.md
+      - Assignment | marking: ultra/assignment-marking.md
+      - Assignment | groupwork : ultra/assignment-groups.md
+      - Test | quizzes & exams: ultra/test.md
+      - Journal | reflection: ultra/journal.md
     # - Panopto assessment submissions: panopto/submissions.md
-    - Group assessment: ultra/assignment-groups.md
     - Assessed presentations: assessment/assessed-presentation.md
     - Resit considerations: assessment/resits.md
     - Update due dates: assessment/update-due-dates.md
