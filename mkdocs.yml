@@ -8,38 +8,27 @@ nav:
     - VLE site design principles: ultra/site-design-principles.md
     - Getting started with Ultra: ultra/getting-started.md
     - Prepare sites for teaching: ultra/prepare-site.md
-    - Introduction to Blackboard Ultra:
-      - Navigate Ultra sites: ultra/navigate-ultra-site.md
-      - Standard Ultra site names: ultra/site-name.md
-      - Learning Modules & Folders: ultra/folder-learning-module.md
-      - Course image (site banner): ultra/course-image.md
-      - Course staff: ultra/course-staff.md
-    - Content creation:
-      - AI Design Assistant: ultra/ai-da.md
-      - AI conversation: ultra/ai-conversation.md
+    - Site content:
       - Learning Modules & Folders: ultra/folder-learning-module.md
       - Document | pages: ultra/documents.md
       - Link: ultra/links.md
-      - Course link: ultra/course-links.md
       - Test | quizzes & exams: ultra/test.md
       - Assignment | set up: ultra/assignment-set-up.md
-      - Assignment | marking: ultra/assignment-marking.md
       - Form | survey: ultra/form.md
-      - Journal | reflection: ultra/journal.md
       - Discussion: ultra/discussions.md
+      - Journal | reflection: ultra/journal.md
+      - AI conversation: ultra/ai-conversation.md
+      - AI Design Assistant: ultra/ai-da.md
       - Upload Files: ultra/files.md
-      - Images: ultra/images.md
-      - Video | Panopto: panopto/embed-panopto-ultra.md
-      - Video | YouTube: ultra/youtube.md
-      - Embed content: ultra/embed-content.md
       - Upload HTML: ultra/html-objects.md
       - Maths content: ultra/maths.md
       - Gradebook: ultra/gradebook.md
+      - Course image (site banner): ultra/course-image.md
       # - Accessible Ultra content: accessibility/accessible-ultra-content.md
-    - Content management:
       - Content visibility & release conditions: ultra/content-visibility.md
-      - Batch edit: ultra/batch-edit.md
       - Copy content: ultra/copy-content.md
+      - Batch edit: ultra/batch-edit.md
+      - Standard Ultra site names: ultra/site-name.md
       # - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
       - Announcements: ultra/announcements.md
@@ -48,15 +37,20 @@ nav:
       - Discussion: ultra/discussions.md
       - Messages: ultra/messages.md
       - Notifications: ultra/notifications.md
+    - Assessment tools:
+      - Gradebook: ultra/gradebook.md
+      - Mark Schema: ultra/mark-schema.md
+      - Marking Rubric: ultra/rubric.md
+      - Assignment | set up: ultra/assignment-set-up.md
+      - Assignment | marking: ultra/assignment-marking.md
+      - Assignment | groupwork : ultra/assignment-groups.md
+      - Test | quizzes & exams: ultra/test.md
+      - Journal | reflection: ultra/journal.md
     - Site access & users:
-      - Access your sites: ultra/access-sites.md
-      - Site availability | student access: ultra/site-availability.md
+      - Courses list: ultra/courses-list.md
+      - Site availability | course access: ultra/site-availability.md
       - Course staff: ultra/course-staff.md
-      - Course roles: ultra/course-roles.md
-      - Enrol a user: ultra/enrol-user.md
-      - Enrol a cohort/group: ultra/enrol-cohort.md
-      - Unenrol a user: ultra/unenrol-user.md
-      - External users: ultra/external-users.md
+      - User management: ultra/user-management.md
     - Troubleshooting common issues: help/troubleshooting.md
   - Panopto Videos:
     - panopto/index.md
@@ -99,16 +93,15 @@ nav:
       - TFS | marking: assessment/tfs/marking.md
       - TFS & E:Vision | manage feedback & marks: assessment/tfs/feedback-marks.md
     - Ultra assessment tools:
-      - Ultra Assignment | set up: ultra/assignment-set-up.md
-      - Ultra Assignment | marking: ultra/assignment-marking.md
-      - Ultra Test | quizzes & exams: ultra/test.md
-      - Ultra Journal: ultra/journal.md
-      - Ultra Gradebook: ultra/gradebook.md
+      - Gradebook: ultra/gradebook.md
       - Mark Schema: ultra/mark-schema.md
       - Marking Rubric: ultra/rubric.md
-      # - Ultra releasing marks & feedback: assessment/ultra-release-marks.md
+      - Assignment | set up: ultra/assignment-set-up.md
+      - Assignment | marking: ultra/assignment-marking.md
+      - Assignment | groupwork : ultra/assignment-groups.md
+      - Test | quizzes & exams: ultra/test.md
+      - Journal | reflection: ultra/journal.md
     # - Panopto assessment submissions: panopto/submissions.md
-    - Group assessment: ultra/assignment-groups.md
     - Assessed presentations: assessment/assessed-presentation.md
     - Resit considerations: assessment/resits.md
     - Update due dates: assessment/update-due-dates.md
@@ -285,18 +278,22 @@ plugins:
   # Redirects - https://github.com/mkdocs/mkdocs-redirects 
   - redirects: 
       redirect_maps:
-        'ultra/site-rename.md': 'ultra/site-name.md'
-        'ultra/add-learning-module-image.md': 'ultra/folder-learning-module.md'
-        'ultra/text.md': 'ultra/documents.md'
-        'ultra/embedded-content.md': 'ultra/embed-content.md'
-        'ultra/adding-html.md': 'ultra/html-objects.md'
-        'ultra/groups.md': 'ultra/course-groups.md'
-        'ultra/messages-tool.md': 'ultra/messages.md'
-        'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
-        'ultra/international-access.md': 'help/international-access.md'
-        'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+        'ultra/access-sites.md': 'ultra/courses-list.md'
+        'ultra/course-links.md': 'ultra/links.md#course-link'
+        'ultra/course-roles.md' : 'ultra/user-management.md#user-roles'
+        'ultra/embed-content.md': 'ultra/documents.md#block-html'
+        'ultra/enrol-cohort.md' : 'ultra/user-management.md#enrol-a-cohort-or-user-group'
+        'ultra/enrol-user.md' : 'ultra/user-management.md#enrol-individual-users'
+        'ultra/external-users.md' : 'ultra/user-management.md#external-user-access'
+        'ultra/images.md': 'ultra/documents.md#block-image'
+        'ultra/navigate-ultra-site.md' : 'ultra/getting-started.md#ultra-site-structure--module-template'
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
         'ultra/release-conditions.md': 'ultra/content-visibility.md'
+        'ultra/text.md': 'ultra/documents.md'    
+        'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+        'ultra/unenrol-user.md' : 'ultra/user-management.md#unenrol-a-user'
+        'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
+        'ultra/youtube.md': 'ultra/documents.md#videos'
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
         'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
@@ -307,21 +304,7 @@ plugins:
         'contact-us/ycodes.md': 'help/ycodes.md'
         'contact-us/screenshots.md': 'help/screenshots.md'
         'tags-index.md': 'help/site-index.md'
-        'eassessment/index.md': 'assessment/index.md'
-        'eassessment/ultraassignment.md': 'ultra/assignment-set-up.md'
-        'eassessment/ultratest.md': 'ultra/test.md' 
-        'eassessment/turnitinfeedbackstudio.md': 'assessment/tfs/index.md'
-        'eassessment/anonassigneol.md': 'assessment/anonymous-assignment-eol.md'
-        'eassessment/trainingassessment.md': 'training/index.md'
         'assessment/group-assignment.md' : 'ultra/assignment-groups.md'
-        'othertools/index.md': 'other-tools/index.md'
-        'canvas/index.md': 'other-tools/canvas.md'
-        'mentimeter/index.md': 'other-tools/mentimeter/index.md'
-        'padlet/index.md': 'other-tools/padlet.md'
-        'padlet/padlet-discussion-alternative.md': 'other-tools/padlet.md'
-        'readinglist/index.md': 'other-tools/reading-list.md'
-        'xerte/index.md': 'other-tools/xerte.md'
-        'system-data-and-analytics/index.md': 'other-tools/analytics.md'
         'training/workshops-resources/index.md': 'training/index.md'
   - search
   # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit)

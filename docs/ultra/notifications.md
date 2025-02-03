@@ -4,38 +4,85 @@ tags:
     - Ultra
 ---
 
-# Updating Your Notification Settings
+# Notification settings
 
 !!! Summary
+    
+    Email and Activity Stream notifications are turned on by default. You can adjust your settings to choose which notifications to receive.
 
-    You can adjust the type and frequency of email notifications you receive from Learn Ultra, as well as those that appear in your Activity Stream.
+!!! Tip
 
+    You can also use [GMail Filters](https://support.google.com/mail/answer/6579?hl=en-GB) to manage which emails from the VLE are delivered to your University email inbox.
 
+### Types & formats
 
-## Video Steps
+You can receive notifications about various types of activity within VLE sites, such as: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxxLlZtyWBQ?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- new discussion posts
+- new content added
+- new items to be marked
+- student activity alerts
 
-Watch this section of our brief video [Blackboard Learn - Navigation](https://youtu.be/gxxLlZtyWBQ?t=88)
+Notifications can appear in the *Activity Stream*, be sent by *email* or as a *push notification*. The specific activities you can be notified of differ slightly for each format.
 
+!!! Note
 
-## Text Steps
+    Notifications tell you that activity occurred, but usually won't include specific content. Eg. "There are new discussion messages in site X" but not the actual message content.
 
-1. On the VLE homepage, click on your name in the left hand navigation panel
-<br> ![Annotated screenshot of the VLE homepage, highlighting the profile section](images/notifications-profile-browser.png) <br>
-<br> ![Two annotated screenshots of the VLE homepage in a narrower browser, highlighting the menu icon and profile section](images/notifications-profile-small-browser.png)<br>
-2. Select any of the three options under **Global Notification Settings**
-<br> ![Annotated screenshot of the profile section in the VLE, highlighting the three options under Global Notification Settings](images/notifications-settings-wide.png) <br>
-<br> ![Annotated screenshot of the profile section in the VLE in a narrower browser window](images/notifications-settings-thin.png) <br>
-3. You can also access your notification settings in the Activity Stream by clicking the cog icon in the top right
-<br> ![Annotated screenshot highlighting the cog icon in the Activity Stream panel of the VLE](images/notifications-stream-cog.png)<br>
-<br> ![Annotated screenshots highlighting the menu icon, the Activity Stream in the menu, and the cog icon in the Activity Stream](images/notifications-stream-thin.png) <br>
-4. In the **Notification Settings** pane that appears, select which events you want to receive notifications about.
-    1. **Stream Notifications:** in this tab you can configure the notifications that appear in your **Activity Stream**. You can enable/disable entire categories of notifications (e.g. **Journal Activity**). You can also enable/disable specific types of notifications within categories (e.g. **Journal entry posted**) by clicking the down arrow icon next to the category.
-    2. **Email Notifications:** in this tab you can configure which activities you will receive email notifications about, as well as how often to receive these email notifications.
-    3. **Push Notifications:** in this tab you can configure whihc events will trigger notifications on your phone, if you have the Blackboard App installed and set up.
-5. When you have finished editing your notification settings, be sure to click **Save** to save your changes.
+### Adjust settings
 
+Adjusting settings will apply to all of your VLE sites.
 
-## Further Details
-As well as the guidance on this page, you can reduce the amount of emails you're receiving by adding filters to your University (Gmail) inbox - [Learn more about Gmail Filters](https://support.google.com/mail/answer/6579?hl=en-GB).
+1. Open the settings panel with one of these methods:
+    - Click **Your name** in the main VLE navigation menu to open your profile, then select any of the three options under **Global Notification Settings**. 
+    </br>![Options: Stream notifications, email notifications, push notifications](images/notifications-access-settings.png)
+    - Click **Activity** in the main VLE navigation menu and click the **cog icon** in the top right.
+    </br>![decorative](images/notifications-activity-stream.png)
+2. *Stream notifications*: received in the VLE Activity Stream page
+    - Tick the box next to a category to receive all notifications for that category.
+    - Click the **Arrow icon** to select specific notifications within a category.
+    </br>![Activity Stream settings: described in example](images/notifications-settings-activity-stream.png)
+3. *Email notifications*: receive an email when a selected activity occurs 
+    - Select whether to receive each email straight away or a daily summary email.
+    - Tick the box for each activity to receive notifications for.
+    </br>![Email settings: described in example](images/notifications-settings-email.png)
+4. *Push notifications*: received in the [Blackboard app](https://www.blackboard.com/en-uk/teaching-learning/learning-management/mobile-learning-solutions)
+    - Due date notifications can't be turned off in the app.
+    - Tick the box for each activity to receive notifications for.
+    - Edit reminders for upcoming due dates.
+    </br>![Push settings: described in example](images/notifications-settings-push.png)
+5. Click **Save**.
+
+??? Abstract "Example: Notification setting options"
+
+    **Stream notification categories**:
+
+    - Student alerts (5 options)
+    - Discussion activity (the 5 options below)
+        - Activity on my responses
+        - Activity on responses I have replied to
+        - Responses from instructors
+        - Responses for followed discussions
+        - Replies for followed discussions
+    - New calendar event
+    - Blog activity (2 or 3 options)
+    - Journal activity (2 or 3 options)
+    - Wiki activity (3 options)
+
+    **Email notification activities**:
+
+    - New items to be marked
+    - New marks and feedback
+    - New messages
+    - New discussion messages
+    - New content added
+    - New and upcoming due dates
+    - Overdue items
+    - New courses available
+    
+    **Push notification activities**:
+
+    - New content and discussions
+    - New discussion responses
+    - New marks and feedback
+    - New and upcoming due dates (option to set up reminders)

@@ -38,7 +38,7 @@ A module Ultra site can:
 
     ---
 
-    - [:octicons-arrow-right-24: Navigate Ultra sites](../ultra/navigate-ultra-site.md)
+    - [:octicons-arrow-right-24: Getting Started with Ultra](../ultra/getting-started.md)
     - [:octicons-arrow-right-24: Personalise your site](../ultra/personalise-site-design.md)
 
 

@@ -14,7 +14,7 @@ tags:
 
 Xerte (pronounced Zer-Tee) is an authoring tool for **flexible, interactive and accessible online content**. Xerte objects can be embedded or linked within VLE sites, and are very well suited to supporting flipped learning approaches.
 
-There are two main ways to use Xerte objects:
+There are two formats of Xerte objects:
 
 <div class="grid cards" markdown>
 
@@ -39,6 +39,17 @@ There are two main ways to use Xerte objects:
     </br>![Webpage style Xerte workbook with section and navigation](images/xerte-bootstrap.png)
 
 </div>
+
+## Embed Xerte objects
+
+You can embed both formats into other platforms. For example, integrate a Xerte object with other teaching materials by [embedding it in a Learn Ultra Document](../../ultra/documents.md#block-html).
+
+To locate the Xerte embed code:
+
+1. Click the name of the Xerte object to embed.
+2. In the *Project Details* box, copy the embed code from the **Embed Code** text box.
+3. When creating the link to your Xerte item, copy the **URL** above the **Embed code** text box.
+</br> ![decorative](images/xerte-embed-code.png)
 
 ## Case study
 

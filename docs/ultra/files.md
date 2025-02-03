@@ -4,67 +4,40 @@ tags:
     - Ultra
 ---
 
-# Uploading files
+# Upload files
 
 !!! Summary
 
-    Files can be uploaded into Documents or directly to the Course Content area.
-    
-    Most common file types can be previewed within the site without needing to be downloaded.
+    Files can be uploaded as standalone content items or within Documents. Most common file types can be previewed directly within the site.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
-    - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
-!!! Warning
-    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
-    
-    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
+There are two methods to upload files to your site. Choose the most appropriate method for how you intend the file to be used, and make sure that it is organised in your site structure.
 
-## Upload files into a Document
+## Standalone content item
 
-This method is recommended for presenting module materials (eg. lecture slides) and other files in context.
+![Lecture files uploaded as a standalone item that can be previewed within the VLE site](images/files-example.png)
 
-![Week 2 lecture document with introductory text and uploaded lecture slides file](images/files-within-document.png)
+Files can be uploaded directly into the Course Content area as a standalone item. This method is especially useful for reference materials that don't require context.
 
-Use either method depending on yorur workflow preference:
-
-### Method 1: use Upload from computer option
-
-1. If your Document already has content, first click the **plus icon** in the location to add the file.
-2. Select **Upload from Computer**.</br>
-![Upload from computer is the third item in Add content options](images/files-within-document-upload-from-computer.png)
-3. Select the item to upload and click **Open**.</br>
-![Decorative](images/files-select-file.png)
-4. Input a descriptive file display name (eg. "Week 4 Seminar Materials"), set the file options as **View and Download**, then click **Save**.</br>
-![Decorative](images/files-edit-file-options.png)
-5. Click the **chevron icon** to the right of the file name to preview the file in the Document (if "view" was selected in file options).</br>
-![Decorative](images/files-preview.png)
-
-### Method 2: Attach using the text editor
-
-1. In the text editor, put your cursor in the location to add the file and click the **paperclip/Attachment icon**.</br>
-![Decorative](images/files-text-editor-attachment.png)
-2. Select the item to upload and click **Open**.</br>
-![Decorative](images/files-select-file.png)
-3. Input a descriptive file display name (eg. "Week 4 Seminar Materials"), set the file options as **View and Download**, then click **Save**.</br>
-![Decorative](images/files-edit-file-options.png)
-4. Click **Save** under the text editor.
-5. Click the **chevron icon** to the right of the file name to view the file in the Document (if "view" was selected in file options).</br>
-![Decorative](images/files-preview.png)
-
-## Upload Files as a standalone item
-
-You can also upload files directly into the Course Content area. This method is recommended for standalone or reference materials that don't require context, as it's not possible to add explanatory text with the file.
+To upload a file as a standalone content item:
 
 1. Click the **plus icon** in the location to add the file and select **Upload**.
-</br>![Decorative](images/files-course-content-upload.png)
-2. Select the item to upload and click **Open**.</br>
-![Decorative](images/files-select-file.png)
-3. Input a descriptive file display name (eg. "Week 4 Seminar Materials"), set the file options as **View and Download**, then click **Save**.</br>
-![Decorative](images/files-edit-file-options.png)
-4. Make the file visible to students.
-5. Click the file to view in a separate pane in the site (if "view" was selected in file options).
+</br>![Decorative](images/files-upload.png)
+2. Select the item to upload and click **Open**.
+3. In the *File Options panel*, enter a **Display name** (title) that meaningfully describes the contents without having to open the file. Ensure *File Options* is set to **View and download**, then click **Save**.
+</br>![Decorative](images/files-edit-file-options.png)
+4. To add a **Description** to display under the file title, click the **three dots icon** and select **Edit**. Enter your description and click **Save**.
+5. Make the file [visible to students](../ultra/content-visibility.md).
+</br>![Decorative](images/files-edit-visibility.png)
+6. Users can now click the item to preview the file within the VLE site.
+
+## Upload within a Document
+
+![Document with a File upload block with lecture slides below a content block with explanatory text](images/documents-block-file-upload.png)
+
+You can also upload a file within a Document to include contextual text and/or integrate it with other materials. Use the [Document File Upload Block](../ultra/documents.md#block-file-upload) to do this. 

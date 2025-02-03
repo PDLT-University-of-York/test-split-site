@@ -21,9 +21,11 @@ Ultra VLE sites have a standardised naming format which includes:
 - Semester and occurrence code
 - Official module name (for professional programmes and other non-module sites, the site name must accurately describe the programme, course element or site purpose.)
 
-For example, **[MAN00149M-S1-A] Business Information Systems** 
+For example, **[MAN00149M-S1-A] Business Information Systems**.
 
 ![decorative](images/site-name-example.png)
+
+If a site is shared between multiple modules (eg. H-level and an M-level versions), the second module details are added at the end of the site name. 
 
 ## Why a standard name is required
 
@@ -33,4 +35,4 @@ Consistency in naming format also **helps students find their module sites**, pa
 
 ## Need to rename an Ultra site?
 
-If you need to change an Ultra site name, please [contact us](mailto:vle-support@york.ac.uk) to discuss this. Do not change it yourself within the site as this will cause issues with linked processes.
+If you need to change an Ultra site name, please [contact us](mailto:vle-support@york.ac.uk) to discuss this. Please don't change it yourself within the site as this may cause issues with linked processes.

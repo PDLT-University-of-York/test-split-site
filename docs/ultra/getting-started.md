@@ -34,13 +34,13 @@ Key pages accessed from the navigation bar are:
 
 ![decorative](images/getting-started-homepage-nav.png)
 
-### Courses page: access your module sites
+### Courses list: access your module sites
 
 The **Courses** page lists all your module sites. Here you can browse, filter and search for sites.
 
-[Detailed guide: Access your sites](../ultra/access-sites.md)
+[Detailed guide: Courses list](../ultra/courses-list.md)
 
-![decorative](images/access-sites-search.png)
+![decorative](images/courses-list-search.png)
 
 !!! Tip
 
@@ -74,9 +74,7 @@ Within an Ultra site, there are three main sections:
 2. **Course Content area**: The main site area. Create and access course content here.
 3. **Details & Actions** access site tools including the **Class Register** and **Course Image**.
 
-[Detailed guide: Navigating an Ultra site](../ultra/navigate-ultra-site.md)
-
-![decorative](images/navigate-ultra-site-key-sections.png)
+![decorative](images/getting-started-site-key-sections.png)
 
 Most sites are created from a **departmental template** based on the VLE site design principles, to improve student experience and reduce your workload in setting up the site.
 

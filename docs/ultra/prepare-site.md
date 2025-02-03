@@ -39,7 +39,7 @@ New sites are usually created for the next academic year in June or July. This c
 - **standard rollover**: a copy of the previous year's site, including most of the content, settings and enrolments.
 - **new from departmental template**: a blank copy of the template with only placeholder structure and content. Used for new modules and to refresh existing module sites.
 
-Once the site has been created, you can [find the site in your Courses list](../ultra/access-sites.md) by:
+Once the site has been created, you can [find the site in your Courses list](../ultra/courses-list.md) by:
 
 - setting the Term to the upcoming academic year
 - searching for your module name or SITS code

@@ -18,7 +18,7 @@ tags:
 
 ## Overview: content container types
 
-Learning Modules and Folders are containers to organise site content.
+Learning Modules and Folders are containers to organise site content. Throughout this guide, where the same applies for both Learning Modules and Folders, we use *container* for simplicity.
 
 They function largely the same for staff, but students navigate the content items within the two container types differently. This means that there are some situations where either a Learning Module or a Folder may be more suitable.
 
@@ -34,7 +34,7 @@ They function largely the same for staff, but students navigate the content item
     - Students can access items in any order, or you can use **Forced sequence** to make them work through items in order
     - Students can navigate between items without closing them (but staff can’t)
     
-    ![Use previous/next options to navigate between items in a Learning Module](images/folder-learning-module-LM-navigate.png)
+    ![Use previous/next options to navigate between items in a Learning Module](images/folder-learning-module-navigate.png)
 
 === "Folder"
 
@@ -48,77 +48,74 @@ They function largely the same for staff, but students navigate the content item
     - Students can always access items in any order
     - Students must close an item before selecting another
 
-    ![Click 'X' icon to close a folder item](images/folder-learning-module-folder-close-item.png)
-
-## Create a Learning Module or Folder
+## Create a container
 
 !!! Tip
 
     Module site templates have pre-built containers for your site materials, so you're unlikely to need to create containers yourself. 
 
-Where the same applies for both Learning Modules and Folders, we'll use "container" for simplicity.
+Containers can be created within the Course Content area. 
 
-Containers can be created within the Course Content area. Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder, but a Folder within a Learning Module navigates like a Learning Module. Learning Modules cannot be directly created inside another container.
+- Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder.
+- Learning Modules cannot be directly created inside another container, but a Folder within a Learning Module navigates like a Learning Module. 
+
+To create a Folder or Learning Module:
 
 1. Hover where the container should appear. Click the **plus icon** then **Create**.
 </br> ![Decorative](images/folder-learning-module-plus-create.png)
 2. Under **Course Content Items**, select **Learning Module** or **Folder**.
 </br> ![Decorative](images/folder-learning-module-create.png)
-3. Enter a descriptive title for the container (eg. *Week 3: equipment & safety*).
-4. Set the [item visibility](../ultra/content-visibility.md) (you an also set this later).
-5. Add a brief **description** that will display in the Course Content area.
+3. On the container *Settings panel*:
+    - Enter a descriptive title for the container (eg. *Week 3: equipment & safety*).
+    - Set the [item visibility](../ultra/content-visibility.md) (you an also set this later).
+    - Add a brief **description** to display under the container title in the Course Content area.
 </br> ![Decorative](images/folder-learning-module-settings.png)
-6. [Learning Modules only] If you want students to access content items in order, click **Forced Sequence**.
-7. [Learning Modules only] You can add a custom image to display on the Course Content page. See the [Learning Module images](#learning-module-images) section below for details.
-8. Click **Save**.
-</br>![Decorative](images/folder-learning-module-sequence-image-save.png)
+4. For Learning Modules only:
+    - If you want students to access content items in order, click **Forced Sequence**.
+    - Add a [Learning Module image](#learning-module-images) if desired.
+5. Click **Save**.
 
-## Learning Module images
-
-Learning Modules can display a small image on the Course Content page. This can be used to reflect the topic of weekly content.
-
-The image will appear on the left of the module on the Course Content area, helping to make the site more visually appealing and aid navigation. You can't change the size or shape of the image shown.
-
-![Learning module displayed on Course Content area with image to left of item name](images/folder-learning-module-image-example.png)
+## Convert container type
 
 !!! Note
 
-    Some departmental templates include pre-populated Learning Module images. Refer to your departmental guidance on whether these should be changed.
+    This feature is available from early February 2025.
 
-### Add or update an image
+Folders and Learning Modules can be converted to the other container type after creation. This does not affect the content inside the container.
 
-1. Create a new Learning Module or click the three dots icon to edit an existing Learning Module. 
-2. In the Image section, click the **image icon** or **Add Image** and upload an image. JPEG and PNG formats are supported. <br> 
-![Decorative](images/folder-learning-module-add-image.png)
-3. Preview the image: click **Next** to continue, or click the **bin icon** to delete and upload another. <br> 
-![Decorative](images/folder-learning-module-preview-image.png)
-4. Select the area of the image to appear on the Learning Module. You can adjust the zoom of the image using the slider. Click **Save** to continue. <br> 
-![Decorative](<images/folder-learning-module-edit-image.png>)
-5. Click **Save**. 
+If a Learning Module is converted to a Folder, it will lose any image or navigation settings. These are not retained if it's later converted back to a Learning Module.
 
-You can also watch a demonstration of adding a Learning Module image:
+![Example Learning Module with image, converted to Folder without image then back to a Learning Module but with no image](images/folder-learning-module-convert-lose-image.png)
+
+To convert container type:
+
+1. On the relevant container, click the **three dots icon** then **Change to folder** or **Create learning module**, depending on the container type.
+</br>![decorative](images/folder-learning-module-convert.png)
+2. Read the warning and click **Continue** if you are happy to proceed.
+
+## Learning Module images
+
+Learning Modules can display a small image on the Course Content page to make the site more visually appealing and aid navigation. You can't manually change the size or shape of the image shown, but they resize based on the display size..
+
+![Square image to left of learning module title. Larger displays have a large image, on smaller displays it reduces to the same height as the title](images/folder-learning-module-image-example.png)
+
+!!! Note
+
+    Some departmental templates include pre-populated Learning Module images and icons. Refer to your departmental guidance on whether these should be changed.
+
+To add an image:
+
+1. Create a new Learning Module or click the **three dots icon** then **Edit** for an existing Learning Module.
+</br>![decorative](images/folder-learning-module-3dots-edit.png)
+2. In the settings panel, scroll down to the *Image section*. Click the **image icon** or **Add Image**.
+</br>![decorative](images/folder-learning-module-add-image.png)
+3. Upload, source from Unsplash or use AI to generate an image. The method is described in the [guide to the Documents images block](../ultra/documents.md#block-image)
+
+A demonstration of adding a Learning Module image:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Wmyfp5i_Tw" title="How To Add Learning Module Icon Images To VLE Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [How To Add Learning Module Icon Images To VLE Ultra [YouTube]](https://youtu.be/3Wmyfp5i_Tw)
 
-### Accessibility
-
-The learning module image is automatically marked as decorative, which hides the banner for students using assistive technologies. If the content of the image is important, uncheck **Mark the image as decorative** and enter a description of the image in the **Alternative text** field. 
-
-![Image of learning module editing window, option to add alternative text](images/folder-learning-module-image-accessibility.png)
-
-### Sourcing images
-
-!!! Warning
-
-    You must not use copyrighted material for site images.
-
-Images should be high quality: use the [University’s photo library](https://brand.york.ac.uk/account/dashboard/) or [Unsplash.com](https://unsplash.com/) to source copyright-free images.
-
-Download images at a resolution that meets the minimum requirements for Ultra. The **Web Image gallery** size on the University's photo library meets these requirements.
-
-![Decorative](images/course-images-photo-library.png)
-
-### Creating icons
+You can also create icons to upload:
 
 - [Guides on image manipulation to create an icon](https://subjectguides.york.ac.uk/media/images)
 - [Create icons: template for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
