@@ -40,7 +40,7 @@ The **Courses** page lists all your module sites. Here you can browse, filter an
 
 [Detailed guide: Access your sites](../ultra/access-sites.md)
 
-![decorative](images/access-sites-search.png)
+![decorative](images/courses-list-search.png)
 
 !!! Tip
 

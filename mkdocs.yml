@@ -45,7 +45,8 @@ nav:
       - Assignment | marking: ultra/assignment-marking.md
       - Test | quizzes & exams: ultra/test.md
     - Site access & users:
-      - Access sites | Courses & Communities : ultra/access-sites.md
+      - Courses list: ultra/courses-list.md
+      - Access sites: ultra/access-sites.md
       - Site availability | course access: ultra/site-availability.md
       - Course staff: ultra/course-staff.md
       - User management: ultra/user-management.md

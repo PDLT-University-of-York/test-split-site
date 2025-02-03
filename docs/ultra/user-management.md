@@ -228,7 +228,7 @@ External users (ie. those without a HR record) need to be set up very specifical
         
         ii. Affiliate Type: (whichever is relevant; usually “Staff” is selected for Staff) 
 
-### 2. Register the user in the VLE
+### 2. Register in the VLE
 
 The external user is not automatically notified of the account creation in the People Database, so PDAs need to generate and send the welcome email manually.
 
