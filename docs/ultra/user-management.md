@@ -98,7 +98,7 @@ Instructors can manually enrol other users on a site if needed.
 ![Role menu shows Student, Teaching Assistant, Course Builder, Marker, Instructor, Guest, HYMS Course Viewer](images/user-management-enrol-select-role.png)
 5. Click **Save**.
 
-Instructors, Teaching Assistants and Course Builders can access the site immediately. Users with other roles have access if the [site is *Open* to students](../ultra/access-sites.md).
+Instructors, Teaching Assistants and Course Builders can access the site immediately. Users with other roles have access if the [site is *Open* to students](../ultra/site-availability.md).
 
 ### Troubleshooting 
 
