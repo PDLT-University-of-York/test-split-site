@@ -8,11 +8,13 @@ tags:
 # Site Availability (Course Access)
 
 !!! Summary
-    Prevent or allow students to access your Ultra VLE sites.
+
+    Control Student access to your Ultra VLE sites.
  
 Set the site availability to control student access:
 
-- **Closed**: students can see the site in their Course list, but can't enter it.
+- **Closed**: students can see the site in their Course list, but can't enter it. Instructors,
+Course Builders and Teaching Assistants can access the site.
 - **Open**: students can see and enter the site.
 
 !!! Warning
@@ -51,46 +53,23 @@ Within an Ultra site, site availability used to be shown in the "Details & Actio
 3. **Close the page**, the changes will save automatically.
 
 ![decorative](images/site-availability-details-actions.png)
-
-## More Details and Troubleshooting 
-
-### Who can access closed sites?
-Users with the following roles can access closed VLE sites:
-
-- Instructors
-- Course Builders
-- Teaching Assistants
  
-### What do students see?
+## What do students see?
 Closed sites appear on an students' Course list, but they are labelled as "Closed" and cannot be entered.
 
 This means that students will see their upcoming sites as soon as they’re enrolled, but can't enter them until they are changed to "Open".
 
-### Are students notified when a site is made available?
-If students have chosen to recieve Ultra notifications, they will receive a message in their Activity Stream and also by email when a site is made available.
+Depending on their notifications setting, students may receive a message in their Activity Stream and also by email when a site is made available.
 
-However, note that students can:
+### Similar-sounding settings
 
-- opt out of receiving Ultra notifications
-- choose to receive immediate emails or a daily digest (sent around 09:15)
-
-### What is "Completing" a site?
+## Complete the site
 Also with your Course Settings page you can see options to "Complete" your site.
 
 Marking a course as Complete means that students can enter the course and view resources, but can't make contributions (to Discussions, submission points etc.). This is **not** a feature that we use at UoY, so you do not have to set this status after the semester end.
 
-### What is the "Hide Course" Option? And/Or Where Has My Course Gone?
-On [the Courses page of the VLE](https://vle.york.ac.uk/ultra/course), staff have the option to hide listed courses from only their view, eg. if they were enrolled on courses that they very rarely need to visit, they can use the "Hide Course" option to make it disappear from their Courses page by default. 
+## Hide Course in your own Courses List
 
-Using this setting does impact anyone else's visibility or access to the course.
+Staff can hide sites from their own view of the Courses list and any search or filter results. This **does not** close the course to students; if the site is open, they will still be able to access it.
 
-If you have inadvertantly hidden a site you actually want to have visible on your Courses page:
-
-1. Visit the [VLE Courses page](https://vle.york.ac.uk/ultra/course)
-2. Change the "Filter" drop down to "Hidden from Me"
-3. The page will update and show courses you've chosen to hide
-4. If there are sites you want to return to your courses page
-    1. Click on the three dot icon by the course - in grid view: top right of the thumbnail image; in text list view: at the far right of the courses' row
-    2. Select "Show Course"
-
-![decorative](images/site-availability-hide-show-course.png)
+See our [Hide sites in your Courses List guide](../ultra/courses-list.md#hide-sites-from-your-own-view) for more details.
