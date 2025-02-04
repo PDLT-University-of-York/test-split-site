@@ -83,7 +83,7 @@ To create a Folder or Learning Module:
 
 Folders and Learning Modules can be converted to the other container type after creation. This does not affect the content inside the container.
 
-If a Learning Module is converted to a Folder, it will lose any image or navigation settings. These are not retained if it's later converted back to a Learning Module.
+If a Learning Module is converted to a Folder, it will lose any image associated with it. This is not retained if it's later converted back to a Learning Module.
 
 ![Example Learning Module with image, converted to Folder without image then back to a Learning Module but with no image](images/folder-learning-module-convert-lose-image.png)
 
