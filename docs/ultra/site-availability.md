@@ -61,14 +61,14 @@ This means that students will see their upcoming sites as soon as they’re enro
 
 Depending on their notifications setting, students may receive a message in their Activity Stream and also by email when a site is made available.
 
-### Similar-sounding settings
+## Other similar-sounding settings
 
-## Complete the site
+### Complete the site
 Also with your Course Settings page you can see options to "Complete" your site.
 
 Marking a course as Complete means that students can enter the course and view resources, but can't make contributions (to Discussions, submission points etc.). This is **not** a feature that we use at UoY, so you do not have to set this status after the semester end.
 
-## Hide Course in your own Courses List
+### Hide Course in your own Courses List
 
 Staff can hide sites from their own view of the Courses list and any search or filter results. This **does not** close the course to students; if the site is open, they will still be able to access it.
 
