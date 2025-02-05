@@ -315,7 +315,8 @@ Add your content to the relevant section by:
     Check the content in each weekly materials section:
 
     - **make sure all materials are accessible** (see section below)
-    - **update materials** as needed for the new year (eg. new lecture slides) and **delete** any old materials (files, text content etc.) or unused placeholder Documents/content.
+    - **update weekly section titles and descriptions** as needed by [editing the Learning Module](../ultra/folder-learning-module.md#edit-an-existing-container)
+    - **update materials** as needed for the new year (eg. new lecture slides) and **delete** any old materials (files, text content etc.) or unused placeholder Documents or content.
     - **label items and files clearly** to describe the content without having to open it and give **context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types.
     - **organise items logically** to guide students through the materials (eg. every week: lecture materials then seminar information)
     - **check links and embedded content** are shared correctly for the new cohort. For example, update links to yearly handbook documents and check any re-used Panopto videos are shared correctly (see Panopto section below).
@@ -331,6 +332,7 @@ Add your content to the relevant section by:
     Add your content to the relevant weekly materials section:
 
     - **make sure all materials are accessible** (see section below)
+    - **update weekly section titles and descriptions** for your module content by [editing the Learning Module](../ultra/folder-learning-module.md#edit-an-existing-container)
     - **edit placeholder Documents** included in the template or **add your own Documents** as needed. 
     - **delete** any unused placeholder Documents or content.
     - **label items and files clearly** to describe the content without having to open it, and give **context on when/how** to use materials. [Documents](../ultra/documents.md) are useful for providing text alongside many different content types. 

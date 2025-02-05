@@ -75,6 +75,13 @@ To create a Folder or Learning Module:
     - Add a [Learning Module image](#learning-module-images) if desired.
 5. Click **Save**.
 
+## Edit an existing container
+
+1. Click the **three dots icon** then **Edit** for an existing Learning Module.
+</br>![decorative](images/folder-learning-module-3dots-edit.png)
+2. Update the Title, Description (information that shows on the Course Content page) and other settings as needed.
+3. Click **Save**.
+
 ## Convert container type
 
 !!! Note
@@ -103,7 +110,7 @@ Learning Modules can display a small image on the Course Content page to make th
 
     Some departmental templates include pre-populated Learning Module images and icons. Refer to your departmental guidance on whether these should be changed.
 
-To add an image:
+To add or change an image:
 
 1. Create a new Learning Module or click the **three dots icon** then **Edit** for an existing Learning Module.
 </br>![decorative](images/folder-learning-module-3dots-edit.png)
