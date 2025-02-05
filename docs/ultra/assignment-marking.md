@@ -130,6 +130,7 @@ For example, a student submits two attempts; one on time, one late. In this case
 Use the marking interface to review the submitted file and make annotations or comments (if needed). The interface contains:
 
 - an expandable students panel (on the left)
+- submission details (top bar)
 - main section with the submission to review and annotation menu bar
 - an expandable feedback panel (on the right)
 
@@ -139,7 +140,7 @@ Options in the annotation menu bar may be collapsed depending on the size of you
 
 It's possible for students to **upload multiple files in the same submission**, for example uploading each page of a handwritten submission as a separate image. If this has occurred, the files are shown as tabs above the annotation menu, which you can click to view.
 
-![Tabs showing two uploaded files, page 1 and page 2](images/assignment-marking-multiple-files.png)
+![Tabs showing two uploaded files for the same submission, doc 1 and doc 2](images/assignment-marking-multiple-files.png)
 
 *Navigate the submission file* using icons on the left of the menu bar: view thumbnails, pan and zoom.
 
@@ -226,6 +227,7 @@ It's possible for students to **upload multiple files in the same submission**, 
 - **Print** or **download** the annotated file in PDF format. Use the icon above the menu bar to download the original file.
 - **Search** the file for specific content.
 
+<!--- update image -->
 ![decorative](images/assignment-marking-export-menu.png)
 
 ### 4. Enter feedback and marks
@@ -288,7 +290,7 @@ In the **marking interface**, choose another submission in the Student list in t
 
 ![decorative](images/assignment-marking-interface-next.png)
 
-!!! Note
+!!! Tip
 
     The marking interface does not filter by group. If you are using a marking group, close the interface and select another student from the filtered Gradebook Marks tab.
 
@@ -296,9 +298,9 @@ You can also select another submission using any of the [methods to open a submi
 
 ### 6. Manually post marks
 
-!!! Note
+!!! Tip
 
-    **Post marks** is to release marks and feedback to students. They will receive a notification that the marks are available.
+    **Post marks** means to release marks and feedback to students. They will receive a notification that the marks are available. Marks cannot be unposted.
 
     Your department may have guidelines on whether module staff or administrators post marks and when.
 
