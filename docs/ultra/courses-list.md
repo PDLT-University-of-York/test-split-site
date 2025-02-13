@@ -122,10 +122,10 @@ For more details, see our [Site Availability guide](../ultra/site-availability.m
 
 Staff can hide sites from their own view of the Courses list and any search or filter results (and show them again). For example, this might be useful for sites that you are enrolled on but rarely need to visit.
 
-- *To hide a course (from your own view)*: 
+- To hide a course *(from your own view)*: 
 </br>Click the **three dots icon** for the relevant site, then click **Hide course**. The course is removed from your main Courses list.
 </br>![decorative](images/courses-list-hide.png)
-- *To show a course again (in your own view)*: 
+- To show a course again *(in your own view)*: 
 </br>On the *Filters* drop-down menu, select **Hidden from me**. Click the **three dots icon** for the relevant site, then click **Show course**. It will appear on your main Courses list again.
 </br>![decorative](images/courses-list-show.png)
 
