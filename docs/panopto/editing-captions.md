@@ -26,7 +26,7 @@ tags:
 
 Pre-recorded videos should remain hidden until accurate captions are available, as [automatic captions alone are often insufficient without manual quality checking](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). To comply with these regulations, it’s possible to hide individual videos from your cohort if they are stored in a Panopto folder that has already been shared but the captions are not yet ready. 
 
-[Guidance on hiding individual videos (making them “unavailable”)](panopto/change-availability.md).
+[Guidance on hiding individual videos (making them “unavailable”)](../panopto/change-availability.md).
 
 ## Need Help with Captioning?
 

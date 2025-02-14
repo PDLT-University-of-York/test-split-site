@@ -31,8 +31,8 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 <!-- Clear and concise: Click **Submit**, not Click on the **Submit button** -->
 <!-- Use **bold** to highight key tasks and features -->
 
-1. Log in to [Blackboard](www.vle.york.ac.uk).
-2. Locate the VLE site where your recording is hosted.
+1. Log into the [Learn ULtra VLE](https://www.vle.york.ac.uk).
+2. Locate the site where your recording is hosted.
 3. **Click** on the Panopto folder on your site titled 'Replay Lecture Capture (Panopto)'
 ![View of Panopto folder in a VLE site](Images/lecture-capture-vle.png)
 4. Locate the video you want to move.

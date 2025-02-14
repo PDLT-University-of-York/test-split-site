@@ -11,7 +11,7 @@ tags:
 
 Create a Mentimeter presentation to build content and interactive/question slides. You can use this as a standalone presentation or integrate with PowerPoint/Google Slides.
 
-You can also use engagement and response tools such as Q&A and emoji reactions throughout your presentation, and use mentimote to control your presentation using a mobile device (see the [presenting guide](../other-tools/mentimeter/present.md) for more information).
+You can also use engagement and response tools such as Q&A and emoji reactions throughout your presentation, and use mentimote to control your presentation using a mobile device (see the [presenting guide](../../other-tools/mentimeter/present.md) for more information).
 
 ## Create a new presentation
 
@@ -23,7 +23,7 @@ For more details, see [Mentimeter's guide to the Home screen](https://help.menti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/on_Ib7SP6Go?si=j0a051mpOl5I0Xt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [How to Create Your First Mentimeter Presentation [YouTube]](https://www.youtube.com/watch?v=on_Ib7SP6Go)
 
-You can also use ['Start with AI'](start-with-ai.md) to build a draft presentation using OpenAI as a start point for editing.
+You can also use ['Start with AI'](../../other-tools/mentimeter/start-with-ai.md) to build a draft presentation using OpenAI as a start point for editing.
 
 ## Slide theme
 
@@ -31,7 +31,7 @@ You can also use ['Start with AI'](start-with-ai.md) to build a draft presentati
 
     - 2.3 Essential: Design and images adhere to the UoY brand.
 
-We recommend using one of the Univeristy of York slide themes. These have designed to have high contrast and good accessibility using the University brand colours, and also contain the UoY logo.
+We recommend using one of the University of York slide themes. These have designed to have high contrast and good accessibility using the University brand colours, and also contain the UoY logo.
 
 1. Under **Design** options, select **Themes**.
 </br>![decorative](images/presentation-uoy-themes-options.png)
@@ -63,10 +63,10 @@ Mentimeter content slides can include:
 
 Add interactivity to your presentation with one of the various question or interaction types:
 
-- [closed question types](../other-tools/mentimeter/question-types-closed.md)
-- [open question types](../other-tools/mentimeter/question-types-open.md)
-- [Q&A and comment question types](../other-tools/mentimeter/question-types-qa-comments.md)
-- [other question types](../other-tools/mentimeter/question-types-other.md)
+- [closed question types](../../other-tools/mentimeter/question-types-closed.md)
+- [open question types](../../other-tools/mentimeter/question-types-open.md)
+- [Q&A and comment question types](../../other-tools/mentimeter/question-types-qa-comments.md)
+- [other question types](../../other-tools/mentimeter/question-types-other.md)
 
 ## Integrating Mentimeter with other presentation platforms
 

@@ -269,7 +269,7 @@ In Document view mode, users can:
 
 ![decorative](images/documents-block-file-upload-preview.png)
 
-To upload a file as a standalone content item, see our [guide to Files](../ultra/files.md.)
+To upload a file as a standalone content item, see our [guide to Files](../ultra/files.md).
 
 ### Block: Content Collection
 

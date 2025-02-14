@@ -135,7 +135,7 @@ If you can't see a site that you expect to, the issue may be:
 
 - You are not enrolled on the site. Contact the module convenor/site owner or your departmental administrators to enrol you.
 - The site doesn't meet your search or filter criteria: edit the criteria and try again.
-- The site is [hidden from your view](#hide-sites-from-your-own-view).
+- The site is [hidden from your view](#hideshow-sites-from-your-own-view).
 - The site you are looking for is a [Community site](#communities-non-academic-sites) rather than a Course.
 
 ## Communities: non-academic sites

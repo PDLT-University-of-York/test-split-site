@@ -96,8 +96,8 @@ The simplest way to access rubrics is through the Gradebook.
 2. In the Gradebook Settings menu, scroll down to the *Course Rubrics* section. Here you can add new rubrics and manage existing ones.
 </br>![List of rubrics with additional buttons to Create and Generate new rubrics](images/rubric-gradebook-course-rubrics.png)
 3. To create a new rubric:
-    - click **Create** to [manually build a rubric](#build-a-rubric-manually)
-    - click **Generate** to use the [AI Design Assistant](#generate-a-rubric-using-ai) as a starting point for building the rubric.
+    - click **Create** to [manually build a rubric](#build-manually)
+    - click **Generate** to use the [AI Design Assistant](#generate-using-ai) as a starting point for building the rubric.
 4. To manage an existing rubric:
     - to view or edit: click the **rubric name** to open it and edit content
     - to duplicate or delete: click the **three dots icon** next to the name and choose the relevant option

@@ -55,7 +55,7 @@ For more information on each Role's access level and what they can do, see [our 
 
       **Don't give an individual the Guest role**. The Guest role is not available for individuals, and users assigned this role will not be able to access the site.
 
-The Guest role is used for [automatic enrolments through cohort user groups](enrol-cohort.md) (aka *SITS Group Users* and *People Group Users*), so you might see *Guest* in your class register - this is correct!
+The Guest role is used for [automatic enrolments through cohort user groups](#enrol-via-larger-grouping) (aka *SITS Group Users* and *People Group Users*), so you might see *Guest* in your class register - this is correct!
 
 These user groups automatically pull user data from SITS and enrol individual users. For example, this is how students are enrolled on module sites.
 
@@ -169,13 +169,12 @@ Group names are often truncated in search results, which can make it hard to ide
 
 1. **Use a narrow browser window**: resizing may display more of the group name.
 2. **Check in the Class Register**: select the group that you think is correct, save and check the group name in the Class Register. If it isn't the correct group, click three dots icon > Member information > dustbin icon to [unenrol the group](#unenrol-a-user) and try again.
-</br>![decorative](images/enrol-cohort-tips-find-user-group.png)
 
 ## Unenrol a user
 
 These methods can be used to unenrol a user that was manually enrolled on the site.
 
-If a user was automatically [enrolled through a Group user](enrol-cohort.md) (this applies to most students), extra steps are needed to prevent them being re-enrolled again after they are removed. [Contact us](mailto:vle-support@york.ac.uk) to unenrol these users. 
+If a user was automatically [enrolled through a Group user](#enrol-a-cohort-or-user-group) (this applies to most students), extra steps are needed to prevent them being re-enrolled again after they are removed. [Contact us](mailto:vle-support@york.ac.uk) to unenrol these users. 
 
 !!! Warning
 

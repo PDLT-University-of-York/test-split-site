@@ -32,10 +32,9 @@ In this case, use the **Primary Instructor** setting to display the module leade
 Inside the relevant Learn Ultra site:
 
 1. Under **Details & Actions** on the left, select **Class register/View everyone on your course**.</br>
-![decorative](images/enrol-user-class-register-menu.png)
+![decorative](images/course-staff-register-access.png)
 2. Locate the relevant Instructor using the search function or by finding them in the list.
-3. Click the three dots to the right of the user's name and select **Edit member information**.</br>
-![decorative](images/unenrol-user-edit-member.png)
+3. Click the three dots to the right of the user's name and select **Member information**.</br>
 4. Tick **Primary Instructor** and **Save**.</br>
 ![decorative](images/course-staff-set-primary-instructor.png)
 

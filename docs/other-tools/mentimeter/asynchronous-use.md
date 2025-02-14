@@ -51,5 +51,5 @@ It is important to include a link above the embed to ensure that it will be acce
 
 ## Sharing your survey results
 
-You can share the results of a survey in a live session or asynchronously in the VLE.  See [sharing your presentation and results](#sharing-your-presentation-and-results) for guidance.
+You can share the results of a survey in a live session or asynchronously in the VLE. See [sharing your presentation and results](../../other-tools/mentimeter/results.md#sharing-your-presentation-and-results) for guidance.
 

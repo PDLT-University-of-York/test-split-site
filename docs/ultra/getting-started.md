@@ -15,7 +15,7 @@ tags:
 
 ### Ultra homepage
 
-Access Learn Ultra at [vle.york.ac.uk](vle.york.ac.uk) (or for HYMS, [hymsvle.york.ac.uk](hymsvle.york.ac.uk)).
+Access Learn Ultra at [vle.york.ac.uk](https://vle.york.ac.uk) (or for HYMS, [hymsvle.york.ac.uk](https://hymsvle.york.ac.uk)).
 
 The homepage contains three key areas:
 

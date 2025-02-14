@@ -32,21 +32,13 @@ A module Ultra site can:
     ---
     
     - [:octicons-arrow-right-24: VLE site design principles](../ultra/site-design-principles.md)
-    - [:octicons-arrow-right-24: Prepare sites for teaching](../ultra/prepare-site.md)
-
--   **:fontawesome-solid-list: Introduction to Ultra**
-
-    ---
-
     - [:octicons-arrow-right-24: Getting Started with Ultra](../ultra/getting-started.md)
-    - [:octicons-arrow-right-24: Personalise your site](../ultra/personalise-site-design.md)
 
-
--  **:material-content-paste: Organise & build content**
+-  **:material-content-paste: Build your site content**
 
     ---
     
-    - [:octicons-arrow-right-24: Folders & Learning Modules](../ultra/folder-learning-module.md)
+    - [:octicons-arrow-right-24: Prepare sites for teaching](../ultra/prepare-site.md)
     - [:octicons-arrow-right-24: Documents (pages)](../ultra/documents.md)
 
 -   **:octicons-megaphone-16: Communication & interaction**

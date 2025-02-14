@@ -262,7 +262,7 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
     1. Click the **mark pill** in the top right.
     2. **Enter a mark** equal to or less than the maximum score shown.
-    3. If marks are set to *Post automatically*, the mark and feedback will be immediately made available to students once you click elsewhere on the page. If set to [*Post manually*](#5-manually-post-marks), the mark is saved for posting later.
+    3. If marks are set to *Post automatically*, the mark and feedback will be immediately made available to students once you click elsewhere on the page. If set to [*Post manually*](#6-manually-post-marks), the mark is saved for posting later.
 
     ![Complete/incomplete schema, with entered mark of 1, shown to students as a tick.](images/assignment-marking-manual-mark.png)
 

@@ -78,7 +78,6 @@ So if this mark schema is applied to an assessment, a raw score of 55% is displa
     - Test (auto and/or manual mark entry): mapped mark (*Good*), but the raw score can be calculated from the question scores (eg. *0/1*).
     </br>![Test mark displayed as Good. Each question shows the score for that question (eg. 0/1)](images/mark-schema-student-test.png)
 
-
 ## Add and manage Mark Schemas
 
 Set up and edit Mark Schemas in the Gradebook.

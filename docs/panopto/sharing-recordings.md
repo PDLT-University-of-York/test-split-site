@@ -70,10 +70,10 @@ For details on how to move recordings in Panopto, refer to our relevant guidance
 </br>![Decorative](Images/share-step-4.png)
 
 !!! Warning 
-    Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](embed-panopto-ultra).
+    Embedding Panopto videos directly within the VLE using the embed option is **not** recommended. For best practices on embedding in Blackboard, please refer to our [Embedding in Blackboard Guide](../panopto/embed-panopto-ultra.md).
 
 ## More Details and Troubleshooting 
 
-If you are wanting to reuse media from another academic year, please refer to our [Reusing Module Media Guide](https://vle-support.york.ac.uk/panopto/reuse-module-media/).
+If you are wanting to reuse media from another academic year, please refer to our [Reusing Module Media Guide](../panopto/reuse-module-media.md).
 
 <!-- More info here as needed. Delete if not needed. Don't add support email address here. -->

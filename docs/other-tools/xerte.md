@@ -42,7 +42,7 @@ There are two formats of Xerte objects:
 
 ## Embed Xerte objects
 
-You can embed both formats into other platforms. For example, integrate a Xerte object with other teaching materials by [embedding it in a Learn Ultra Document](../../ultra/documents.md#block-html).
+You can embed both formats into other platforms. For example, integrate a Xerte object with other teaching materials by [embedding it in a Learn Ultra Document](../ultra/documents.md#block-html).
 
 To locate the Xerte embed code:
 

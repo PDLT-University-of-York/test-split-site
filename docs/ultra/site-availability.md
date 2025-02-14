@@ -77,8 +77,8 @@ The Course Settings also has the option to marking your site as *Complete*.
 
 This means that users can enter the course and view resources, but can't make contributions (to Discussions, submission points etc.). This is **not** a feature that we use at UoY, so you do not have to set this status after the semester end.
 
-### Hide Course in your own Courses List
+### Hide a Course in your own Courses List
 
-Staff can hide sites from their own view of the Courses list and any search or filter results. This **does not** close the course to students; if the site is open, they will still be able to access it.
+Staff can hide sites from their own view of the Courses list and any search or filter results (and show again). This **does not** close the course to students; if the site is open, they will still be able to access it.
 
-See our [Hide sites in your Courses List guide](../ultra/courses-list.md#hide-sites-from-your-own-view) for more details.
+See our [Hide/show sites in your Courses List guide](../ultra/courses-list.md#hideshow-sites-from-your-own-view) for more details.

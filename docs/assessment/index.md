@@ -14,7 +14,7 @@
     ---
     
     - [:octicons-arrow-right-24: Which assessment tool](../assessment/which-assessment-tool.md)
-    - [:octicons-arrow-right-24: Tools for group assignments](../assessment/group-assignment.md)
+    - [:octicons-arrow-right-24: Tools for group assignments](../ultra/assignment-groups.md)
     - [:octicons-arrow-right-24: Tools for assessed presentations](../assessment/assessed-presentation.md)
 
 -  **Using the tools**
