@@ -43,7 +43,8 @@ There are six main roles, summarised below from the most to the least permissive
 | Marker | Marker | Staff/GTAs who only need to mark student submissions, or who should not have edit access to content. Can't access closed sites. |
 | Course Builder | Organisation Builder | Staff/GTAs who only need to build or edit course content. They can't mark student submissions. |
 | Student | Participant | Students studying the module, any user that should have read-only access to the site (note: they will appear in the Gradebook). Can't access closed sites. |
-| Guest | Guest | **Do not use** - only used for automatic group enrolments (see below). |
+| Guest | Guest | **Do not use** - Shouldn't be used for anything after February 2025. |
+| AutoEnroller | AutoEnroller | Should be used on auto-enrolling objects from February 2025 onwards. |
 
 For more information on each Role's access level and what they can do, see [our Course Roles spreadsheet](https://docs.google.com/spreadsheets/d/1aCRa_aV3JQrgppSFVRjbyznAJvuEVZTVJEnlo5tLkfc/edit?usp=sharing).
 
@@ -55,9 +56,11 @@ For more information on each Role's access level and what they can do, see [our 
 
       **Don't give an individual the Guest role**. The Guest role is not available for individuals, and users assigned this role will not be able to access the site.
 
-The Guest role is used for [automatic enrolments through cohort user groups](#enrol-via-larger-grouping) (aka *SITS Group Users* and *People Group Users*), so you might see *Guest* in your class register - this is correct!
+Before Feb' 2025 the Guest role was used for [automatic enrolments through cohort user groups](#enrol-via-larger-grouping) (aka *SITS Group Users* and *People Group Users*), so you might see *Guest* in your older class register - this is normal.
 
-These user groups automatically pull user data from SITS and enrol individual users. For example, this is how students are enrolled on module sites.
+From Feb' 2025 onward, [the AutoEnroller role should be used instead of Guest](https://elearningyork.wpcomstaging.com/2025/02/17/change-guest-role-being-replaced-by-autoenroller-for-vle-automatic-enrolments/).
+
+These user groups automatically pull user data from SITS and enrol individual users, always giving them student-level access. For example, this is how students are enrolled on module sites.
 
 ### Update a user's role
 
@@ -123,7 +126,7 @@ To enrol a **SITS group user**:
 2. Search for the the module code to enrol (eg. LAW00008M)
 3. Carefully select the correct group by checking the identifier below the group name for the right year, level, semester and occurrence.
 Eg. group name (2024-law00008m-s2-a) = year *2024*, level *m*, semester *s2* and occurrence *a*.
-4. In the drop-down menu, select the **Guest** role and then click **Save**.
+4. In the drop-down menu, select the **AutoEnroller** role (new Feb 2025) and then click **Save**.
 </br>![Searching for the module code returns two groups: previous and current year cohorts](images/user-management-enrol-SITS-group.png)
 
 Students enrolled on the module in SITS will be added to the site at the data synchronisation at around 9am the next morning.
@@ -160,7 +163,7 @@ To enrol a people group user:
 1. Open the **Class Register** and click the **plus icon** in the top right.
 </br>![decorative](images/user-management-enrol-plus.png)
 2. Type a cohort keyword like *postgraduate* or *archaeology* to see all the groups available. Carefully select the correct group (see below for tips).
-3. In the drop-down menu, select the **Guest** role and then click **Save**.
+3. In the drop-down menu, select the **AutoEnroller** role (new Feb 2025) and then click **Save**.
 </br>![Searching for a department returns all associated staff and student group users](images/user-management-enrol-PG-group.png)
 
 #### Tips for finding the correct group
