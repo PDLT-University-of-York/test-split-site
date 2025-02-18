@@ -44,23 +44,10 @@ There are six main roles, summarised below from the most to the least permissive
 | Course Builder | Organisation Builder | Staff/GTAs who only need to build or edit course content. They can't mark student submissions. |
 | Student | Participant | Students studying the module, any user that should have read-only access to the site (note: they will appear in the Gradebook). Can't access closed sites. |
 | Guest | Guest | **Do not use** - Shouldn't be used for anything after February 2025. |
-| AutoEnroller | AutoEnroller | Should be used on auto-enrolling objects from February 2025 onwards. |
+| AutoEnroller | AutoEnroller | [Should be used on auto-enrolling objects from February 2025 onwards](https://elearningyork.wpcomstaging.com/2025/02/17/change-guest-role-being-replaced-by-autoenroller-for-vle-automatic-enrolments/), ie. when setting up auto-enrol of student cohorts - more info below. |
 
 For more information on each Role's access level and what they can do, see [our Course Roles spreadsheet](https://docs.google.com/spreadsheets/d/1aCRa_aV3JQrgppSFVRjbyznAJvuEVZTVJEnlo5tLkfc/edit?usp=sharing).
 
-### Guest role: don't use
-
-<!-- One thing to note: when the new data feeds go live (we're hoping for Feb 17th) then the 'Guest' role will disappear from the system, and be replaced by something called 'AutoEnroller' which will be used for SGUs and PGUs. -->
-
-!!! Warning
-
-      **Don't give an individual the Guest role**. The Guest role is not available for individuals, and users assigned this role will not be able to access the site.
-
-Before Feb' 2025 the Guest role was used for [automatic enrolments through cohort user groups](#enrol-via-larger-grouping) (aka *SITS Group Users* and *People Group Users*), so you might see *Guest* in your older class register - this is normal.
-
-From Feb' 2025 onward, [the AutoEnroller role should be used instead of Guest](https://elearningyork.wpcomstaging.com/2025/02/17/change-guest-role-being-replaced-by-autoenroller-for-vle-automatic-enrolments/).
-
-These user groups automatically pull user data from SITS and enrol individual users, always giving them student-level access. For example, this is how students are enrolled on module sites.
 
 ### Update a user's role
 
