@@ -34,7 +34,7 @@ See the [Course staff guide](course-staff.md) for details.
 
 User roles set the permissions for what users can do or see within an Ultra site. For example, whether they can enter closed courses, edit content, or mark student work. Usually staff are given the Instructor role, but there are alternatives if that is not suitable.
 
-There are six main roles, summarised below from the most to the least permissive: 
+The key roles are summarised below, from the most to the least permissive: 
 
 | Course role (module sites)      | Organisation (Community) equivalent role | Role ideal for            |
 | :------           | :------------                 | :----------------------------------- |
@@ -43,8 +43,8 @@ There are six main roles, summarised below from the most to the least permissive
 | Marker | Marker | Staff/GTAs who only need to mark student submissions, or who should not have edit access to content. Can't access closed sites. |
 | Course Builder | Organisation Builder | Staff/GTAs who only need to build or edit course content. They can't mark student submissions. |
 | Student | Participant | Students studying the module, any user that should have read-only access to the site (note: they will appear in the Gradebook). Can't access closed sites. |
-| Guest | Guest | **Do not use** - Shouldn't be used for anything after February 2025. |
-| AutoEnroller | AutoEnroller | [Should be used on auto-enrolling objects from February 2025 onwards](https://elearningyork.wpcomstaging.com/2025/02/17/change-guest-role-being-replaced-by-autoenroller-for-vle-automatic-enrolments/), ie. when setting up auto-enrol of student cohorts - more info below. |
+| Guest | Guest | **Phased out from Feb 2025**. </br>Year-based sites (eg. Y2024): do not use. </br>Open sites (YOPEN): use for [cohort and user group enrollments](#enrol-a-cohort-or-user-group).|
+| AutoEnroller | AutoEnroller | **Phased in from Feb 2025**. </br>Year-based sites (eg. Y2024): use for [cohort and user group enrollments](#enrol-a-cohort-or-user-group). </br>Open sites (YOPEN): do not use. |
 
 For more information on each Role's access level and what they can do, see [our Course Roles spreadsheet](https://docs.google.com/spreadsheets/d/1aCRa_aV3JQrgppSFVRjbyznAJvuEVZTVJEnlo5tLkfc/edit?usp=sharing).
 
@@ -108,12 +108,15 @@ Group enrolments are automatically synchronised with SITS data and staff records
 
 To enrol a **SITS group user**:
 
-1. Open the ** Class Register** and click the **plus icon** in the top right.
+1. Open the *Class Register* and click the **plus icon** in the top right.
 </br>![decorative](images/user-management-enrol-plus.png)
 2. Search for the the module code to enrol (eg. LAW00008M)
 3. Carefully select the correct group by checking the identifier below the group name for the right year, level, semester and occurrence.
 Eg. group name (2024-law00008m-s2-a) = year *2024*, level *m*, semester *s2* and occurrence *a*.
-4. In the drop-down menu, select the **AutoEnroller** role (new Feb 2025) and then click **Save**.
+4. In the drop-down menu, select the correct role for the type of site:
+    - Year-based site (Y2024): **AutoEnroller** (Note: module sites are year-based)
+    - Open site: **Guest**
+5. Click **Save**.
 </br>![Searching for the module code returns two groups: previous and current year cohorts](images/user-management-enrol-SITS-group.png)
 
 Students enrolled on the module in SITS will be added to the site at the data synchronisation at around 9am the next morning.
@@ -150,8 +153,13 @@ To enrol a people group user:
 1. Open the **Class Register** and click the **plus icon** in the top right.
 </br>![decorative](images/user-management-enrol-plus.png)
 2. Type a cohort keyword like *postgraduate* or *archaeology* to see all the groups available. Carefully select the correct group (see below for tips).
-3. In the drop-down menu, select the **AutoEnroller** role (new Feb 2025) and then click **Save**.
+3. In the drop-down menu, select the correct role for the type of site:
+    - Year-based site (Y2024): **AutoEnroller** (Note: module sites are year-based)
+    - Open site: **Guest**
+4. Click **Save**.
 </br>![Searching for a department returns all associated staff and student group users](images/user-management-enrol-PG-group.png)
+
+Users associated with the relevant group will be added to the site at the data synchronisation at around 9am the next morning.
 
 #### Tips for finding the correct group
 
