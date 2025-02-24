@@ -195,14 +195,14 @@ theme:
         icon: material/brightness-7
         name: Switch to light mode
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    # - navigation.sections
-    - navigation.indexes
-    - navigation.path
-    - navigation.footer
-    - navigation.top
-    - navigation.tracking
+    - navigation.tabs # pulls top level sections into top nav bar
+    - navigation.tabs.sticky # top nav bar always visible (doesn't disappear on scroll)
+    # - navigation.sections # on = pages all shown, off = toggle to show/hide section pages
+    - navigation.indexes # attach a page to a section header directly (instead of appearing within  it) 
+    - navigation.path # in dev: adds breadcrumbs above page title
+    - navigation.footer # adds previous/next page links in footer
+    - navigation.top # adds Return to Top button
+    - navigation.tracking # adds current heading into page URL
     - search.suggest
     - content.tabs.link # linked content tabs
 
@@ -226,9 +226,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
-  - toc:
-      permalink: false
-      title: On this page
+  - toc: # Within page Table of Contents (right hand nav bar)
+      permalink: false # adds an anchor link at end of each header (shown on hover)
+      title: In this guide # ToC title. Can't contain :
+      toc_depth: 2 # Heading level to go down to. heading 2 = main sections
 
 extra:
   generator: false
