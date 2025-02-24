@@ -123,7 +123,7 @@ Find out more about how Test has been applied across the University:
     See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
-### Question types
+## Question types
 
 | Question type | Description | Grading type | AI generation |
 | ----------- | ----------- | ----------- | ----------- |
@@ -135,13 +135,6 @@ Find out more about how Test has been applied across the University:
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Can set the answer as an extact number or within a range.| auto graded | manual only |
 | [Hotspot](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Drop pin(s) on an image. Consider accessibility carefully. | auto graded | manual only |
 | [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Type a response (of any length) in the answer box. Can provide a model answer for feedback. | manually graded | can be auto-generated |
-
-## Accessible Test Content
-
-As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](../accessibility/accessible-ultra-content.md), but it is **particularly** important that you take into consideration accessiblility when using tables, images or mathematical content in test questions.
-
-- Guidance on creating accessible images, table and maths can be found on [our "Ultra Accessibility" VLE page](https://vle.york.ac.uk/ultra/courses/_106795_1/outline). (Don't have access? [Contact us](mailto:vle-support@york.ac.uk)).
-- [Examples of quality alternative text on graphs, diagrams and other complex images can be found here](https://www.routledge.com/our-customers/authors/publishing-guidelines/accessible-content/general-samples).
 
 ## Create a Test
 
@@ -184,6 +177,14 @@ As with all teaching content, accessibility is very important when building test
 !!! Tip
 
     You can build and trial the Test in your personal Ultra sandpit site, and when it is ready use the [Copy Content tool](../ultra/copy-content.md) to add it to your module/exam site in the relevant location.
+
+## Accessible Test Content
+
+As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](../accessibility/accessible-ultra-content.md), but it is **particularly** important that you take into consideration accessibility when using tables, images or mathematical content in test questions.
+
+- Guidance on creating accessible images, table and maths can be found on [our "Ultra Accessibility" VLE page](https://vle.york.ac.uk/ultra/courses/_106795_1/outline). (Don't have access? [Contact us](mailto:vle-support@york.ac.uk)).
+- [Examples of quality alternative text on graphs, diagrams and other complex images can be found here](https://www.routledge.com/our-customers/authors/publishing-guidelines/accessible-content/general-samples).
+
 
 ## Add Test questions
 
@@ -434,7 +435,7 @@ Edit settings in the **Assessment settings** panel:
     
     [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
 
-## Print or save a Test
+## Print or download a Test
 
 You can print or save your Test as a PDF, along with an automatically-generated answer key. This could be useful to:
 
