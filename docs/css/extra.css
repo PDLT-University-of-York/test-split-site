@@ -132,7 +132,7 @@ img {
     flex-direction: column;
 }
 
-/*** ---- images & figures */#
+/*** ---- images & figures */
 
 /* centre images: put image inside the div*/
 div.centered-image {
@@ -140,9 +140,7 @@ div.centered-image {
     justify-content: center;
 }
 
-/* remove margins from figure: put inside a div */
-/* div.figure>figure */
-
+/* remove margins from figure*/
 figure.no-margin,
 figure.no-margin>p {
     margin: 0;
