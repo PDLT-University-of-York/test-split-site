@@ -1,4 +1,4 @@
-/*** adjust colours for UoY branding colour pallette */
+/*** ----- adjust colours for UoY branding colour pallette */
 
 :root {
     --md-primary-fg-color: #001E82;
@@ -21,12 +21,12 @@
     font-weight: bold;
 }
 
-/*** Remove Announcement banner margin */
+/*** ----- Remove Announcement banner margin */
 .md-banner__inner {
     margin: 0;
 }
 
-/* General element styling */
+/*** -----General element styling */
 #customlogo {
     text-align: right;
     height: 50px;
@@ -78,12 +78,37 @@ nav a {
     font-size: inherit;
 }
 
-/*** grid cards styling */
-/* card outline */
-/* .grid.cards>ul>li {
-    border: 0.1rem solid var(--md-typeset-kbd-border-color);
-    border-radius: 0.5rem;
-} */
+img {
+    max-width: 100%;
+}
+
+/*** --- 2 columns flex layout */
+/* Details: one column expands to fit, the other has a fixed width */
+.flexcols {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* default: columns equally distributed */
+.flexcols > * {
+    flex: 1;
+    min-width: 150px;
+    margin-right: 10px;
+}
+
+/* 65% width: col65 expands x2 more than other column */
+.flexcols>.col65 {
+    flex: 2;
+    min-width: 300px;
+}
+
+/* 75% width: col75 expands x3 more than other column */
+.flexcols>.col75 {
+    flex: 3;
+    min-width: 300px;
+}
+
+/*** ----- grid cards styling */
 
 /* default -> hide bullets in lists inside card */
 .grid.cards ul li {
@@ -107,29 +132,23 @@ nav a {
     flex-direction: column;
 }
 
-/*** centre images */
-/* put image inside the div*/
+/*** ---- images & figures */#
 
+/* centre images: put image inside the div*/
 div.centered-image {
     display: flex;
     justify-content: center;
 }
 
-/* two column layout - col 1 expands to fit */
-div.cols {
-    display: flex
+/* remove margins from figure: put inside a div */
+/* div.figure>figure */
+
+figure.no-margin,
+figure.no-margin>p {
+    margin: 0;
 }
 
-div.cols>* {
-    min-width: 150px;
-}
-
-div.bigcol {
-    flex: 1;
-    padding-right: 10px;
-}
-
-/*** tabbed content styling */
+/*** ----- tabbed content styling */
 
 /* box containing tabbed content */
 .md-typeset .tabbed-set {
