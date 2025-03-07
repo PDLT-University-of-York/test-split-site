@@ -34,7 +34,7 @@ Current course status is shown in numerous locations:
 </br>*Open* or *Closed* appears under the site name. For Closed sites, a padlock icon also appears over the thumbnail image (Grid view) or next to the status (List view).
 </br>![decorative](images/course-access-status-courses-list.png)
 
-### Update Course status
+## Update Course status
 
 !!! Warning
 
@@ -42,7 +42,7 @@ Current course status is shown in numerous locations:
 
 1. Open the *Course Settings* page:
     - In the Courses List: click the **three dots icon** (in Grid view, hover over the course to show the icon) then click **Course Settings**.
-    </br>![decorative](images/site-availability-change-status.png)
+    </br>![decorative](images/course-access-settings-course-list.png)
     - Within the VLE site: Click **Course Settings** (or the course status label) in the top right of the page.
     </br>![decorative](images/course-access-settings-in-site.png)
 2. In the *Course Access* section, set the Course status to **Open** (students can access) or **Closed** (students can't access). The status shown at the top of the Course Access section will be updated.
@@ -50,17 +50,21 @@ Current course status is shown in numerous locations:
 3. Close the Course Settings page. The updated status will save automatically. If you don't immediately see the new status in the main course page, refresh your screen to update.
 4. Depending on their preferred settings, students may receive a notification of a *New Course available* when a site is made open. If it's essential that students are notified, send an [Announcement](../ultra/announcements.md) through the site.
 
-## Course Duration
+## Course settings not in use
 
-Course Duration relates to automatically opening and closing courses. This setting is not used to manage site access at the University of York. 
+The Course Access panel contains some additional settings that are not used to manage site access at the University of York.
+
+### Course Duration
+
+Course Duration relates to automatically opening and closing courses.
 
 All teaching sites should be left on the default **Ongoing** setting, even after the teaching ends. This allows students to access their teaching materials throughout their programme.
 
 ![Course Duration: ongoing. An ongoing course is continuous without a fixed end date](images/course-access-course-duration.png)
 
-## Mark course complete
+### Mark course complete
 
-Marking a course as complete prevents any user making changes to the site. This setting is not used to manage site access at the University of York. 
+Marking a course as complete prevents any user making changes to the site. 
 
 All teaching sites should be left with this setting **turned off**, even after the teaching ends. Turning it on causes issues for students on LoA who may need to submit assessments to the site later.
 
