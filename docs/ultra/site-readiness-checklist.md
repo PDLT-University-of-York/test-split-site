@@ -102,4 +102,4 @@ For students to access a site, they must be enrolled on the site AND the site mu
 
 ### The site is open to students
 
-When you are happy that everything is ready, [**make the site available for students**](../ultra/site-availability.md). Congratulations!
+When you are happy that everything is ready, [**make the site available for students**](../ultra/course-access.md). Congratulations!

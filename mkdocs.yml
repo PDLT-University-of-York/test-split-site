@@ -48,7 +48,7 @@ nav:
       - Journal | reflection: ultra/journal.md
     - Site access & users:
       - Courses list: ultra/courses-list.md
-      - Site availability | course access: ultra/site-availability.md
+      - Course access | site availability: ultra/course-access.md
       - Course staff: ultra/course-staff.md
       - User management: ultra/user-management.md
     - Troubleshooting common issues: help/troubleshooting.md
@@ -290,6 +290,7 @@ plugins:
         'ultra/navigate-ultra-site.md' : 'ultra/getting-started.md#ultra-site-structure--module-template'
         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
         'ultra/release-conditions.md': 'ultra/content-visibility.md'
+        'ultra/site-availability.md' : 'ultra/course-access.md'
         'ultra/text.md': 'ultra/documents.md'    
         'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
         'ultra/unenrol-user.md' : 'ultra/user-management.md#unenrol-a-user'

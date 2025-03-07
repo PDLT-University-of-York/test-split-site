@@ -112,7 +112,7 @@ For more details, see our [Course Image guide](../ultra/course-image.md).
     - *To make a course private* (ie. students cannot access it): turn *on* the **Close Course** toggle.
     - *To make a course open* (ie. students can access it): turn *off* the **Close Course** toggle.
 
-For more details, see our [Site Availability guide](../ultra/site-availability.md).
+For more details, see our [Site Availability guide](../ultra/course-access.md).
 
 ### Hide/show sites from your own view
 
