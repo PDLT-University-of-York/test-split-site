@@ -7,6 +7,8 @@
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
+    - 3.6 Essential: Links and materials titles describe the destination or content.
+    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
 <!-- https://youtu.be/8VnGfbw0DXQ 
 
@@ -71,21 +73,21 @@ Ally automatically processes various types of site content, including:
 
     [Documents](../ultra/documents.md) are the main page type to present your site materials. Ally processes various content within Documents:
     
-    - content added in a Content block (the text editor): text, images, files, YouTube videos etc.
-    - content uploaded in an Image or File block
+    - processed directly: content added in a Content block (the text editor): text, images, files, YouTube videos etc.
+    - processed separately: content uploaded in an Image or File block has its own Ally icons. They must be checked or downloaded in alternate formats separately.
     - not processed: other embedded content, eg. Xerte or Padlet objects
 
     Ally icons relating to content directly added to the Document are shown in the heading bar. The accessibility score icon may take a few seconds to appear and is only shown in *Edit mode*.
     
-    Uploaded files and images display their own Ally icons.
-    
-    ![decorative](images/ally-tool-document.png)
+    ![Document Ally icons in title bar. Uploaded files and images have separate Ally icons](images/ally-tool-document.png)
 
 ## Accessibility checker
 
-!!! Warning
+!!! ai "Using automated tools effectively"
 
-    Ally may not be able to identify all accessibility issues within content, so the accessibility checker should be used as a starting point for your accessibility considerations.
+    The Ally accessibility checker is a **starting point** for your accessibility considerations, as it may not be able to identify all accessibility issues within content. For more details, see [Step 4](#step-4-final-check-for-unidentified-issues) below.
+
+Document content (text editor)( nicon - updates as you edit content)
 
 ### Accessibility score
 
@@ -96,7 +98,7 @@ Ally assigns content items an accessibility score in percentage format.
 The accessibility score icon displayed on items within your site gives a quick measure of content accessibility.
 </div>
 <figure markdown class="no-margin">
-![Gauge with needle pointing from low to high value to show accessibility score](images/ally-tools-accessibility-score-icon.png)
+![Gauge with needle pointing from low to high value to show accessibility score](images/ally-tool-accessibility-score-icon.png)
 <figcaption>Accessibility score icon</figcaption>
 </figure>
 </div>
@@ -115,36 +117,141 @@ Get more information by interacting with the accessibility score icon:
 
 ![decorative](images/ally-tool-score-icon-hover.png)
 
+!!! Tip
+
+    For Ultra Documents, the accessibility score only considers issues in content added directly within a Content block (ie. with the text editor). Uploaded files and images have their own accessibility score and feedback that must be addressed separately.
+
 ### Accessibility feedback
 
 The accessibility feedback page gives more detail on how the item's accessibility score was generated and how to fix the issues identified.
 
-1. Review the numeric accessibility score
-2. Address the issue shown.
-3. Repeat for other issues as necessary.
-4. For files: upload the corrected file. 
+Open the feedback page by clicking the accessibility score wherever it occurs, or on the Course Content page click the three dots icon then select **View Accessibility Score**.
+
+![decorative](images/ally-tool-3dots-score.png)
+
+#### Step 1: Review the numeric accessibility score
+
+The score panel appears at the top of the page. The numeric accessibility score gives a combined measure of the severity of issues identified for this item. Lower scores are more problematic.
+
+![Accessibility score for the item: 37% (with the gauge icon)](images/ally-tool-feedback-score.png)
+
+#### Step 2: Address the highlighted issue
+
+The **issue panel** appears under the score, containing:
+    
+- a brief description of the issue (eg. "This presentation contains images without description")
+- *What this means* button: to show more details on what the issue is and why it's important to fix it
+- *How to...* button: to show guides on how to fix the issue in various content formats
+
+The **review panel** highlights the affected content within the item. You can scroll through the item or use the up/down arrows in the top bar to review all affected content.
+
+![Lecture slides with missing description for image on title page](images/ally-tool-feedback-issue-review.png)
+
+Edit the content item to improve the accessibility:
+
+- *Uploaded files*: update content in the the original file. Download this from the site if needed.
+- *Ultra Documents*: update content directly within the review panel or issue panel. The accessibility score will update as you edit.
+
+#### Step 3: Repeat for further issues as necessary
+
+By default, the issue panel shows the most problematic issue first, but there may be others that also need to be addressed.
+
+1. Click the **All issues** button in the score panel.
+2. Select the next identified issue in the list.
+3. Repeat Step 2 to address this issue.
+4. Repeat Step 3 until all identified issues are addressed.
 
 
+MOVE INTO A SEPARATE EXAMPLE SECTION
+![All items list of 2 issues: missing image description, insufficient text contrast](images/ally-tool-feedback-all-items.png)
 
-1. Review the specific accessibility score given at the top of the page. This gives a combined measure of the severity of issues identified for this item; lower scores are more problematic.
-2. By default, the most severe issue is listed under the accessibility score. 
-click All issues to show all identified issues. Click to focus on an issue.
-review panel shows where the issue is located within the content. use the arrows to move through different instances of teh same issue.
-Make changes in the file and reupload. For a Document you can edit content directly in the review panel.
+#### Step 4: Final check for unidentified issues
 
-May not pick up all issues: for example, here Ally could not identify the poor links ofn slides 3 - raw URL and 'click here' instead of descriptive link
+!!! Warning
 
+    Ally can't identify accessibility issues that depend on context, such as appropriate descriptive text for links and file titles.
 
+Ally may not identify all accessibility issues in a content item, so also make sure to do your final own check for any remaining issues that may be present in your content.
 
-page includes:
+Here are some issues that Ally can't currently identify:
 
-1. a numerical accessibility score
-2. *All issues* button: details of accessibility issues identified
-3. explanation of the current issue and guidance on how to fix it
-4. the current issue highlighted within the content
-4. a quick upload option for corrected files
+??? Abstract "Common unidentified issue: non-descriptive link text"
 
-![Accessibility feedback page: described in example below](images/ally-tool-item-feedback.png)
+    <div markdown class="grid">
+    <div markdown>
+    Link text is the part of the link that displays for users to click. This must describe the destination content or reason for using the link.
+
+    However, Ally generally can't identify if a link isn't appropriately descriptive. For example, here Ally did not identify the poor raw URL or *click here* links.
+    </div>
+    ![decorative](images/ally-tool-missed-links.png)
+    </div>
+
+    **Why use descriptive link text**:
+
+    - Assistive technology can isolate links, so descriptive link text is needed for these to make sense without the surrounding text
+    - Descriptive links are better integrated with the text and so are more readable for all users
+    
+    **How to write descriptive link text**:
+    
+    - Describe where the link goes or the reason for using it, eg: *Guide to the Ally accessibility tool* or *Give us feedback on Ultra*
+    - Don't paste a raw URL without link text, eg: *https://vle-support.york.ac.uk/ultra/ally-tool/*
+    - Don't use text that gives no information about the destination, eg: *Click here* or *More information*
+
+??? Abstract "Common unidentified issue: missing direct links for embedded content"
+
+    Direct, descriptive links should be given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+
+    However, Ally can't identify if an embed has an associated direct link. For example, here is didn't identify the missing link to the embedded Xerte object.
+
+    ![decorative](images/ally-tool-missed-embed-link.png)
+
+    **Why use direct links for embedded content**:
+    
+    - Being able to open the embedded content and control the size can make it easier to access for users of assistive technology and also on small screens.
+    - A direct link provides a fallback incase the embed fails for any reason.
+    
+    **How to add direct links for embedded content**:
+    
+    - Add the link under the embed using the usual method for your content type.
+    - Use link text that describes the embedded content, eg: *Open the embedded Padlet in full screen*
+
+??? Abstract "Common unidentified issue: non-descriptive file names"
+
+    Uploaded materials such as lecture slides, pre-workshop tasks etc. must have a descriptive file name. This allows users to know what the content is without opening the file.
+    
+    For example, *IFR_W5_Slides_Navigation* is much more helpful than *Slides* or *Week 5* - think how many of files students may have like this!
+
+    **Why use descriptive file names**:
+    
+    - Descriptive file names quickly summarise the content and help users search site content and organise downloaded files easily.
+    - This is helpful for all users, but is especially important for users with dyslexia or other neurodiversities and for users of assistive technologies.
+    
+    **How to write descriptive file names**:
+    
+    - Describe the content so that users don't have to open the file to know what it is. 
+        - module identifier, week, materials type, summary of content etc.
+        - eg: *IFR_W5_Slides_Navigation*, *IFR_W7_Seminar_Environment*
+    - For uploaded files, a different display name can be shown that makes sense in the context of the page, eg: *Lecture slides* displayed within a weekly Ultra Document.
+    - Use the naming format consistently for all files across the site.
+    - Don't use generic titles, such as *slides* or *week 1*
+
+#### Step 5: Save your improved content
+
+Once you have made your edits, save your improved content:
+
+**Uploaded files and images**:
+
+1. Save the updated file on your device.
+2. On the *Accessibility feedback page*, upload the improved file in the upload box.
+3. The improved file overwrites the original file and generates an updated accessibility score.
+
+![Improved slides with image description, good text contrast and descriptive link text. Accessibility score = 100%](images/ally-tool-feedback-improved-file.png)
+
+**Ultra Documents**:
+
+1. When you have finished updating content, click the **X icon** in the top right to close the feedback panel.
+2. This returns you to the Document edit view. Click **Save**.
+
 
 ## Download alternate formats
 
@@ -157,7 +264,7 @@ page includes:
 Blah blah blah
 </div>
 <figure markdown class="no-margin">
-![Large 'A' with a download arrow](images/ally-tools-alternate-formats-icon.png)
+![Large 'A' with a download arrow](images/ally-tool-alternate-formats-icon.png)
 <figcaption>Alternate formats icon</figcaption>
 </figure>
 </div>
@@ -168,7 +275,7 @@ how to download
 
 ## Site accessibility report
 
-To open the site accessibility report:
+To open the site-wide accessibility report:
 
 1. Under *Details & Actions*, click **Books & Tools / View course & institution tools**.
 2. On the new panel, select **Accessibility Report**.
@@ -184,26 +291,6 @@ There are various accessibility checkers available for specific content types.
 - microsoft, grackle for Google etc.
 
 --- 
-
-As an instructor on your vle course site, you will see coloured dials called Accessibility Scores and an alternative format download symbol to the right of your content. 
-
-![described in text.](<images/Accessibility gauge - origins.png>)
-
-Your students will not see the accessibility score; they will only see the alternative format symbol.
-
-1. Be careful showing your vle course site in a lecture - turn on student view to hide accessibility scores.
-2. Read about accessibility scores and what they mean.
-3. Select each accessibility score dial icon to open the feedback panel.
-4. Having worked through the guidance to improve your file, you can re-upload the content in the feedback panel. This will update your score.
-    a. The feedback panel below shows a pdf with areas highlighted in red boxes that need action to improve accessibility. A panel on the right contains guidance on how to improve these files and allows you to directly upload the fixed file after corrections.
-
-![described in preceding text](<images/Accessibility feedback panel.png>)
-
-Text editor
-The text editor in Blackboard has a checker built-in too. 
-When editing an item, click the dial top right of the text editor to see guidance. This checker tells you if there is poor contrast on text, if tables don’t have header rows, if images don’t have alt text etc. 
-
-![Accessibility checking dial is highlighted at the top right of the text editing area.](<images/Accessibility text editor gauge.png>)
 
 # Course accessibility reports
 
