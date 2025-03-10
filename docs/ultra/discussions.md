@@ -125,6 +125,8 @@ Posts are not automatically anonymous - users must  tick **Post anonymously** be
 
 ![Decorative](images/discussion-anonymous-post.png)
 
+DET staff have the ability to reveal a post's author, for example to investigate inappropriate behaviour. If this is required, please [contact us](mailto:vle-support@york.ac.uk) to discuss.
+
 You can also use [Padlet](../other-tools/padlet.md) for anonymous discussions.
 
 ### Assign to groups
