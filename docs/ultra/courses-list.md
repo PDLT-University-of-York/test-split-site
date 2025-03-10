@@ -100,30 +100,28 @@ Some site properties can be edited by clicking the **three dots icon**. In grid 
 
 For more details, see our [Course Image guide](../ultra/course-image.md).
 
-### Make course open/private
+### Course access
 
 !!! Tip
 
-    This setting controls student access to a site.
+    Open or close a site to controls student access.
 
 1. Click the **three dots icon** for the relevant site, then click **Course Settings**.
 </br>![decorative](images/courses-list-course-settings.png)
-2. Set site access:
-    - *To make a course private* (ie. students cannot access it): turn *on* the **Close Course** toggle.
-    - *To make a course open* (ie. students can access it): turn *off* the **Close Course** toggle.
+2. Under *Course Access*, select **Open** (students can access) or **Closed** (students can't access).
 
-For more details, see our [Site Availability guide](../ultra/course-access.md).
+For more details, see our [guide to updating course access](../ultra/course-access.md#update-course-status).
 
 ### Hide/show sites from your own view
 
 !!! Tip
 
-    This setting hides a site from the user's own default view of the Courses list. It **does not change** their enrollment, or affect site visibility or access for other users. 
+    Hides a site your own view of the Courses list. This **does not change** any enrollments or course access for other users. 
 
-Staff can hide sites from their own view of the Courses list and any search or filter results (and show them again). For example, this might be useful for sites that you are enrolled on but rarely need to visit.
+This could help you streamline your courses list if you are enrolled on many sites that you rarely need to visit.
 
 - To hide a course *(from your own view)*: 
-</br>Click the **three dots icon** for the relevant site, then click **Hide course**. The course is removed from your main Courses list.
+</br>Click the **three dots icon** for the relevant site, then click **Hide course from me**. The course is removed from your main Courses list.
 </br>![decorative](images/courses-list-hide.png)
 - To show a course again *(in your own view)*: 
 </br>On the *Filters* drop-down menu, select **Hidden from me**. Click the **three dots icon** for the relevant site, then click **Show course**. It will appear on your main Courses list again.

@@ -52,7 +52,7 @@ Current course status is shown in numerous locations:
 
 ## Course settings not in use
 
-The Course Access panel contains some additional settings that are not used to manage site access at the University of York.
+The Course Access panel contains some additional settings that are not used to manage site access at the University of York.cd documnets
 
 ### Course Duration
 
