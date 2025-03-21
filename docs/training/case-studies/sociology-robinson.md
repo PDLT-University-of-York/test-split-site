@@ -12,7 +12,7 @@ Carol Robinson outlines how Blackboard Ally is used in the Department of Sociolo
 
 After providing a short demo of accessibility reporting within Ally, Carol describes the process of using Ally which has been agreed the Departmental Teaching and Learning Committee (DTLC). Each module lead checks the accessibility report for their module's VLE site before sharing it with students, flagging issues to the creator of the materials to resolve. The DTLC has set targets: content scoring below 80% should be flagged, and content scoring below 75% must be improved. This system has been in place since early 2024.  Despite some challenges in making learning materials more accessible, particularly in dealing with statistics and graphs, feedback from colleagues suggest that the process is working well.  
 
-Looking ahead, the department's plans inlcude:
+Looking ahead, the department's plans include:
 
 - trying to better support staff in their use of Ally through, for example, clearer signposting to the resources and training available in the university.
 - seeking feedback from students about their experiences of the materials provided.
