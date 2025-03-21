@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# TurnItIn Feedback Studio: set up
+# TurnItIn Feedback Studio: set up & administration
 
 !!! Summary
 
@@ -53,6 +53,7 @@ The Assessment Tracker assists with the oversight and management of **large coho
 
 - [Overview and aims of the Tracker](https://docs.google.com/document/d/1a6xEou9-1hjE0Axex4cAXTfjcwEfeko1NIe80H00U3Y)
 - [Setting up the Tracker workbook](https://docs.google.com/document/d/1aSeEscyYEjjFhMdr-uynhGbCLUZCIyCc7BcR30Ag5yw)
+- [Assessment Tracker - Important dos and don’ts](https://docs.google.com/document/d/1zAPyzTtfM-Ufep7Y4VjtY7JUX32cptSrMw0stPjfipo/edit?usp=sharing)
 
 Using the Tracker to:
 
