@@ -87,7 +87,7 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
 ### 2. Check multiple & late attempts
 
-!!! Warning
+!!! Tip
     
     If a student submits multiple attempts, you may need to manually select the correct attempt to mark.
 
@@ -249,7 +249,7 @@ Open the collapsible panel on the right side to enter feedback and access a mark
     ![decorative](images/assignment-marking-overall-feedback.png)
     </div>
 
-    !!! Warning
+    !!! Tip
         Feedback is not automatically saved, so you must click **Save Changes** before leaving the submission.
 
 === "Marks: manual entry"

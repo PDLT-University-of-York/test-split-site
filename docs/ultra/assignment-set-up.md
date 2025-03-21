@@ -50,7 +50,9 @@ Assessment **deadlines must be set within working hours** so students can access
 
 !!! Warning 
     
-    University assessment policy requires that students must be permitted to submit work late, so **do not apply settings preventing late submissions**. Any late submissions received are clearly flagged in the marking interface so they can be easily identified.
+    University assessment policy requires that students must be permitted to submit work late, so you **must not apply settings preventing late submissions**. 
+    
+    Any late submissions received are clearly flagged in the marking interface so they can be easily identified.
 
 There are two settings relating to late submission. **Do not tick these settings**:
 
