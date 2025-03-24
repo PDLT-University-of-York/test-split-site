@@ -53,10 +53,7 @@ For more detail, see our guide to [Course Groups](../ultra/course-groups.md).
 2. Select **Assignment**.
 3. Add a **clear, descriptive title** (eg. Group presentation: slides submission).
 4. Add the assessment **Instructions**, either by adding text directly in the box or by uploading a file. These will only show once students open the Assignment.
-
-!!! Warning
-
-    Leave the Assignment as **Hidden from students** until you are ready to release the submission point.
+5. When ready for students to access the Assignment, set the submission point to [Visible to students](../ultra/content-visibility.md#showhide-a-single-item).
 
 ![Decorative](images/assignment-set-up.png)
 
@@ -66,7 +63,7 @@ The Assignment Settings panel gives quick access to key settings: Due date, Mark
 
 Appropriate settings will depend on your particular assessment, but here are our general recommended settings for group assessments:
 
-=== "Formative"
+??? Abstract "Recommended settings: Formative"
 
     - **Details & Information**
         - set a *Due date* (this must be within working hours) or tick *No due date*
@@ -94,7 +91,7 @@ Appropriate settings will depend on your particular assessment, but here are our
 
     Click **Save** when finished.
 
-=== "Summative"
+??? Abstract "Recommended settings: Summative"
 
     - **Details & Information**
         - set a *Due date* (this must be within working hours)
@@ -140,7 +137,7 @@ Please contact us if you would like advice on selecting appropriate settings for
 
 When you are ready to release the Assignment to students, set it to be **Visible to students**. For instructions, see our [guide to content visibility](../ultra/content-visibility.md).
 
-!!! Warning
+!!! Tip
 
     Once a submission is made, you can't change or delete the Group Set, and may not be able to edit other settings.
 
@@ -163,7 +160,7 @@ For details of the general Assignment marking workflow, see our [marking Assignm
 
 **Giving different marks to individual students**
 
-!!! Warning
+!!! Tip
 
     Setting or updating an overall group mark will override individual marks already given, so enter group marks before overriding individual marks.
 
@@ -191,10 +188,10 @@ For student Assignment submission instructions, see our [student guides to submi
 
 !!! Warning
 
-    We recommend practicing any Assignment workflow in your personal Ultra sandpit site. This is to avoid:
+   Practice any Assignment workflow in your personal Ultra sandpit site to avoid:
 
     - 'locking in' live Assignment settings after a submission is made.
-    - potentially sending students unnecessary or confusing notifications.
+    - allowing students early access to the Assignment or sending them unnecessary or confusing notifications.
 
 If you haven't already created your Student preview user in this site, do that first:
 

@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# TurnItIn Feedback Studio: set up
+# TurnItIn Feedback Studio: set up & administration
 
 !!! Summary
 
@@ -28,12 +28,6 @@ In TFS, rubrics (or 'grading forms') for marking are integrated into the submiss
 
 - [Creating, importing and exporting grading forms or rubrics](https://docs.google.com/document/d/1fctlNtGpgjerdEYReGtMwLvSWRF_y2RkWSbSMPigGWg/edit?usp=sharing)
 
-!!! Warning
-    
-    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if it is hidden from students in the Course Content area.
-
-    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
-
 ## Managing extensions, flagging & multiple markers
 
 TFS requires some additional steps to manage deadline extensions and Spelling and Grammar flags, and to divide submissions between multiple markers. 
@@ -53,6 +47,7 @@ The Assessment Tracker assists with the oversight and management of **large coho
 
 - [Overview and aims of the Tracker](https://docs.google.com/document/d/1a6xEou9-1hjE0Axex4cAXTfjcwEfeko1NIe80H00U3Y)
 - [Setting up the Tracker workbook](https://docs.google.com/document/d/1aSeEscyYEjjFhMdr-uynhGbCLUZCIyCc7BcR30Ag5yw)
+- [Assessment Tracker - Important dos and don’ts](https://docs.google.com/document/d/1zAPyzTtfM-Ufep7Y4VjtY7JUX32cptSrMw0stPjfipo/edit?usp=sharing)
 
 Using the Tracker to:
 

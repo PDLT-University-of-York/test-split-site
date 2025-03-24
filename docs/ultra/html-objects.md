@@ -9,9 +9,11 @@ tags:
 
     Request access to upload custom HTML objects to your site.
 
-!!! Warning
+Use this workflow to add custom HTML objects to your site. For example, you can upload lecture notes or slides created with an authoring tool such as reveal.js. This can be especially useful for providing accessible maths-based content.
 
-    The [Document HTML content block](../ultra/documents.md#block-html) is only for embedding content from third-party tools. Do not use it to add custom HTML.
+!!! Tip
+
+    The [Document HTML content block](../ultra/documents.md#block-html) is only for embedding content from third-party tools (eg. Panopto videos). Do not use it to add custom HTML objects.
 
 ## Request access
 
@@ -19,21 +21,30 @@ Request access by [filling in the "Upload HTML Objects" form](https://docs.googl
 
 ## Prepare your files
 
-Prepare your HTML files and turn them into a zip package ready for upload once access has been granted.
+You can upload either:
 
-## Add your files
+- a self-contained HTML file (ie. styles and scripts included in the file directly)
+- a zip file containing a HTML file and relevant assets (ie. styles and scripts in separate files)
 
-1. In your Ultra site, hover where you want the embedded content to appear.
-2. Click the **plus icon** then **Content Collection**.
+!!! Warning
+
+    When uploading a zip file, the HTML file must be on the same level as the assets folder(s) to set up access permissions correctly.
+
+    - Correct: Zip file > project folder > **HTML file** & asset folder(s)
+    </br>Students will see the expected output.
+    - Incorrect: Zip file > **HTML file** & project folder > asset folder(s)
+    </br>Students will see the raw HTML only, without associated styles or scripts.
+
+## Upload your files
+
+1. In your Ultra site, hover where you want the HTML content to appear. Click the **plus icon** then select **Content Collection**.
 </br>![decorative](images/html-objects-content-collection.png)
-3. Click **Browse Content Collection**.
-4. Click **Upload** then **Upload Zip Package**.
+2. Click **Browse Content Collection** to open the Content Collection page. 
+3. Click **Upload** then select **Upload files** or **Upload Zip Package** as relevant.
 </br>![decorative](images/html-objects-upload.png)
-5. Near the top of the screen, click **Create Folder** and give your new folder a name. Click **Create Folder**. You can also navigate to a folder that already exists in your VLE site Content Collection.
-</br>![decorative](images/html-objects-create-folder.png)
-6. Click **Browse local files** and select your zip package. Click **Submit**.
-7. Select the index.html or first page of your web package, and click **Submit**.
-8. Click **Save** in the Content Collection screen and the link to the first page of your web content will appear in the VLE site.
-
-!!! Tip
-    Click the 3 dots icon to rename the file so it shows in the site as something meaningful (eg. *Lab notes* rather than *index.html*) You can also edit this name after you save.
+4. Select the file to upload. Optionally, you can organise the uploaded file(s) by navigating to an existing folder or clicking **Create Folder**. Click **Submit**
+</br>![decorative](images/html-objects-select-organise.png)
+4. In the list of items, tick the box next to the HTML file to link and click **Submit**.
+5. Back in your your site, click the **three dots icon** next to the item name then select **Edit**. On the settings panel, enter a meaningful title and description. Click **Save**. You can also edit this later.
+</br>![Item name updated from index.html to describe the content](images/html-objects-edit-settings.png)
+6. Click **Save** to import the file to your site.

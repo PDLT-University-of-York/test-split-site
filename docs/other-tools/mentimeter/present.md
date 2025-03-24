@@ -61,6 +61,45 @@ When presenting in Mentimeter, you can use keyboard shortcuts to manage presenta
 
 **K**: The meta-shortcut – brings up a list of all available keyboard shortcuts.
 
+??? Tip "Open for full list of shortcut keys"
+
+    ### Presenting
+
+    - **→**: Go to next slide<br>
+    - **←**: Go to previous slide <br>
+    - **P**: Enter/Exit presentation<br>
+    - **ESC**: Exit presentation<br>
+    - **F**: Toggle fullscreen<br>
+    - **B**: Show or hide blank screen<br>
+
+    ### Participation
+
+    - **C**: Turn off responses<br>
+    - **H**: Hide or show responses<br>
+    - **D**: Hide or show trends<br>
+    - **E**: Enable or disable commenting<br>
+    - **L**: Show joining code<br>
+    - **I**: Show joining instructions and QR code<br>
+    - **T**: Show example responses<br>
+
+    ### Q&A
+
+    - **Q**: Show questions<br>
+    - **ENTER**: Mark question as answered<br>
+    - **↓**: Go to next question<br>
+    - **↑**: Go to previous question<br>
+
+    ### Countdown (you can press multiple buttons to add to the countdown total)
+
+    - **1**: 1 minute countdown<br>
+    - **2**: 2 minute countdown<br>
+    - **3**: 3 minute countdown<br>
+    - **4**: 4 minute countdown<br>
+    - **5**: 5 minute countdown<br>
+    - **8**: 30 seconds countdown<br>
+    - **9**: 10 seconds countdown<br>
+    - **0**: Cancel countdown<br>
+
 ## Survey mode
 
 By default, Mentimeter presentations run in '[presentation mode](https://help.mentimeter.com/en/articles/410899-how-the-presentation-mode-affects-your-presentation)'. The only slide visible to participants on their devices is the one shown on the presentation screen and the movement between slides is controlled by the presenter.

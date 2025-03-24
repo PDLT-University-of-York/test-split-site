@@ -221,15 +221,14 @@ This section only covers the specific details of marking with a rubric. See our 
 
 1. Open a submission and make sure that the feedback panel on the right is open to show the Marking Rubric.
 2. There are some display options while marking:
-    - Each criterion is expanded by default. Click the criterion title to collapse or expand.
-    - The **Show descriptions toggle** shows or hides the descriptor for each attainment level.
-</br>![Marking interface showing open rubric panel.The Marking Rubric is shown under the Overall Feedback section, with options to show/hide descriptions and the criterion levels.](images/rubric-mark-panel.png)
-3. To enter a mark, select the appropriate attainment level for each criterion.
-    - For rubrics with a percentage or points range, enter the specific *raw criterion mark*.
-    - *Percentage criterion marks* are converted to the weighted mark next to the criterion header.
-    - The final *calculated rubric mark* is shown at the top of the Marking Rubric section.
+    - pop out the rubric to view as a grid in a new panel (not available on small screens)
+    - show or hide the descriptor for each attainment level
+    - expand or collapse a criterion's attainment levels
+</br>![Rubric in marking panel showing icons for display settings described in text](images/rubric-mark-panel.png)
+3. To enter a mark, select the appropriate attainment level for each criterion. For a percentage or points range, enter the specific mark within the range.
+4. As you enter raw marks, these are converted to a weighted criterion mark and added to the calculated rubric mark for the submission.
 </br>![example raw criterion mark = 75, weighted criterion mark = 15, calculated rubric mark = 69.6/100](images/rubric-mark-enter.png)
-4. You can also add written feedback.
+4. You can also add written feedback:
 
     - *Criterion-specific feedback*: click the **speech bubble icon** next to the criterion title. Note: It is not possible to open this feedback box if you have overridden the rubric mark.
     </br>![Criterion feedback text entry box](images/rubric-feedback-criterion.png)
@@ -246,7 +245,7 @@ Once marks are posted, students can see all the rubric information within the su
 
 ### Using a Rubric with a Mark Schema 
 
-A mark schema converts a raw numeric score within a range to a single mapped mark. You could use this with a rubric to apply stepped marking, or to convert a numerical score to a qualitative label (eg. Excellent, Good etc.). 
+A mark schema converts a raw numeric score within a range to a single mapped mark. You could use this with a rubric to automatically apply stepped marking, or to convert a numerical score to a qualitative label (eg. Excellent, Good etc.). 
 
 The marking schema is automatically applied to the original rubric mark or a manually overridden mark. Note that **students can always see the original rubric score** if they open the submission. 
 

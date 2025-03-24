@@ -33,11 +33,6 @@ To find other assessment guides:
 - explore our guide topics in the navigation menu
 - browse the Site index to see all guides listed by topic tags
 
-!!! Warning
-    Files uploaded to Learn VLE sites (eg. PDF or Word documents) are technically accessible to all site users, even if they are hidden from students in the Course Content area.
-    
-    When **uploading assessment-related files** (eg. assessment briefs or test materials), view and apply [our guidance on Strict File Access Control for Sensitive Files](https://docs.google.com/document/d/1j6g1k2W0Ont1kA8DfSq7VuLYwgIhbDI7vzwd0-tQAaM/edit).
-
 ## Updates & issues
 Many of our Assessment tools are hosted in the cloud, and are updated regularly. Keep track of what's happening with our systems with our [Updates & issues page](../help/updates-issues.md).
 

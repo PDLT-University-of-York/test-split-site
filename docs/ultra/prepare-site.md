@@ -688,4 +688,4 @@ Sites contain a Replay Lecture Capture (Panopto) LTI link to the module lecture 
 
     !!! Success "Final step"
     
-        When you are happy that everything is ready, [**make the site available for students**](../ultra/site-availability.md). Congratulations!
+        When you are happy that everything is ready, [**make the site available for students**](../ultra/course-access.md). Congratulations!
