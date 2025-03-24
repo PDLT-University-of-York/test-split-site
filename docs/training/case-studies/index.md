@@ -65,6 +65,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 
 ## Digital Accessibility
 
+- [Using accessibility reports to enhance module VLE sites](../../training/case-studies/sociology-robinson.md)
 - [Accessible VLE sites in Ultra](../../training/case-studies/env-geog-chapman.md)
 - [Making course notes (with mathematical equations) more accessible](../../training/case-studies/maths-hargreaves.md)
 
