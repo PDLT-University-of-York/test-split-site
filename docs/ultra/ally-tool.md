@@ -1,3 +1,9 @@
+---
+tags:
+    - Accessibility
+    - Ultra
+---
+
 # Ally: accessibility tool
 
 !!! Summary

@@ -1,3 +1,14 @@
+<!-- ---
+tags:
+    - Accessibility
+    - Ultra
+--- -->
+
+---
+search:
+  exclude: true
+---
+
 # Accessibility report
 !!! Summary
 
