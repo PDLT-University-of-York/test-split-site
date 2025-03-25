@@ -24,7 +24,7 @@ tags:
 
 ## Overview
 
-The Ally tool has two functions:
+Ally has two functions for individual content items:
 
 <div markdown class="grid cards show-bullets">
 
@@ -39,7 +39,7 @@ The Ally tool has two functions:
 
     ---
 
-    - allows users to convert content to a range of other formats
+    - users can download content in a range of other formats
     - available for staff and students
 
 </div>
@@ -255,7 +255,7 @@ There are also various other platform-specific accessibility checkers available.
 - [Grackle Docs](https://www.york.ac.uk/it-services/tools/grackle-docs/): for Google Docs, Slides and Sheets
 - [Microsoft accessibility checker](https://support.microsoft.com/en-gb/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f): for Microsoft Word, PowerPoint etc.
 
-## Alternative formats
+## Alternative format generator
 
 !!! Tip 
 
