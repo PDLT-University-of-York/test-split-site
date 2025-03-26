@@ -171,17 +171,15 @@ Set your desired download options:
 
 When you have applied your settings, click **Download**.
 </div>
-<div markdown class="centered-image">
 ![Download options described in text](images/gradebook-download-full-marks.png)
-</div>
 </div>
 
 ### Download Results
 
-<div markdown class="cols">
-<div markdown class="bigcol">
-For in-built Ultra assessments, you can download detailed marks for a specific assessment. This is most useful for analysing Test responses.
+Download detailed marks for a specific Ultra assessment (Assignment, Test etc.). This is most useful for analysing Test responses.
 
+<div markdown class="flexcols">
+<div markdown class="col65">
 1. Open the *Marks* or *Markable Items* Gradebook view.
 2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Download Results**.
 3. Select the appropriate settings:
@@ -190,37 +188,33 @@ For in-built Ultra assessments, you can download detailed marks for a specific a
     - Attempts to Download: all attempts or only the marked attempts
 4. Click **Download**.
 </div>
-<div markdown class="centered-image">
 ![decorative](images/gradebook-download-results.png)
-</div>
 </div>
 
 ### Download submissions
 
-<div markdown class="cols">
-<div markdown class="bigcol">
-For in-built Ultra assessments, you can download all submissions to a submission point as a ZIP file:
+Download all submissions to an Ultra Assignment submission point as a ZIP file:
 
+<div markdown class="flexcols">
+<div markdown class="col65">
 1. Open the *Marks* Gradebook view.
 2. Click the relevant assessment icon and then select **Download Submissions**.
 3. Select individual student(s) or tick the box next to *Name* to select all students.
 4. Click **Create ZIP File**.
 </div>
-<div markdown class="centered-image">
 ![decorative](images/gradebook-download-submissions.png)
-</div>
 </div>
 
 ### Item statistics
 
-<div markdown class="cols">
-<div markdown class="bigcol">
 To assist in analysing results, you can view summary mark statistics each assessment.
 
 !!! Tip
 
     Statistics include any automatic zeroes assigned for non-submission.
 
+<div markdown class="flexcols">
+<div markdown class="col65">
 1. Open the *Marks* or *Markable Items* Gradebook view.
 2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Statistics**.
 3. Review the statistics:
@@ -229,7 +223,17 @@ To assist in analysing results, you can view summary mark statistics each assess
     - Grade Distribution: the count of marks in each 10% band, or each mark schema band (if used).
 4. If desired, copy/paste the statistics for use elsewhere or use the dropdown menu to select another assessment.
 </div>
-<div markdown class="centered-image">
 ![decorative](images/gradebook-statistics.png)
 </div>
-</div>
+
+## Monitor student review of feedback
+
+Use the feedback review label to monitor whether students have reviewed their mark and feedback for a particular assessment.
+
+This only relates to Ultra assessments: Assignment, Test etc.
+
+1. Open the **Gradebook** then click the **Students** tab.
+2. Select the row for the relevant student.
+</br>![decorative](images/gradebook-student-select.png)
+3. The student overview page lists their assessment activity. For posted marks, the *Not reviewed* or *Reviewed* label shows whether they have opened the submission to review their feedback.
+</br>![Review label shown next to mark in assessment row](images/gradebook-student-review-mark.png)
