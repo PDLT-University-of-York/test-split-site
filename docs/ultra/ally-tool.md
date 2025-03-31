@@ -18,10 +18,6 @@ tags:
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
-<!-- https://youtu.be/8VnGfbw0DXQ 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8VnGfbw0DXQ?si=NvZsSFrrOnvbvKCV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
 ## Overview
 
 Ally has two functions for individual content items:

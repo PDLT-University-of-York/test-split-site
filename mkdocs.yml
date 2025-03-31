@@ -17,7 +17,7 @@ nav:
       - Form | survey: ultra/form.md
       - Discussion: ultra/discussions.md
       - Journal | reflection: ultra/journal.md
-      # - Ally | accessibility tool: ultra/ally-tool.md
+      - Ally | accessibility tool: ultra/ally-tool.md
       - AI conversation: ultra/ai-conversation.md
       - AI Design Assistant: ultra/ai-da.md
       - Upload Files: ultra/files.md
@@ -25,7 +25,6 @@ nav:
       - Maths content: ultra/maths.md
       - Gradebook: ultra/gradebook.md
       - Course image (site banner): ultra/course-image.md
-      # - Accessible Ultra content: accessibility/accessible-ultra-content.md
       - Content visibility & release conditions: ultra/content-visibility.md
       - Copy content: ultra/copy-content.md
       - Batch edit: ultra/batch-edit.md
