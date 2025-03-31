@@ -9,16 +9,21 @@ tags:
 
 Department of Psychology<br />Alex Reid
 
-Alex Reid describes the purpose, structure and contents or a community VLE site designed to facilitate student engagement on the department.
+Alex Reid describes the purpose, structure and contents oof a community VLE site designed to facilitate student engagement in the department.
 
-He outlines the purpose of the site as follows:
+He describes the purpose of the site as follows:
 
 1. To improve student feedback processes, an issue highlighted as important in the department's NSS results
 2. To reduce administrative workload by providing easy access to information when needed.
 3. To celebrate and promote staff-student collaboration.
 4. To facilitate community, by bringing together the different initiatives taken by the department to help with this over recent years.
 
-He then outlines the development of the site with students and staff, highlighting the iterative nature of the process built on feedback, the choices made to set up the site in the VLE under the 'communities' tab, the use of Pixel Art to try to make the look and feel of the site fun and engaging, and the steps taken to signpost the site top students and weave it into the cultural context of the department.
+He then outlines the development of the site with students and staff, highlighting:
+
+- the iterative nature of the process built on feedback
+- the choices made to set up the site in the VLE under the 'communities' tab
+- the use of Pixel Art to try to make the look and feel of the site fun and engaging
+- the steps taken to signpost the site to students and weave it into the cultural context of the department.
 
 Providing a site walkthrough he highlights the following aspects:
 

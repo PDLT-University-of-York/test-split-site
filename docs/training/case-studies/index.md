@@ -25,6 +25,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [Using the journal tool and discussion groups on the ‘Strategic planning: a journey’ module](../../training/case-studies/sbs-fanning.md)
 - [Formative teaching assignments: Moving to electronic submission and marking in Chemistry](../../training/case-studies/chem-parsons.md)
 - [Making course notes (with mathematical equations) more accessible](../../training/case-studies/maths-hargreaves.md)
+- [The Psychology Student Engagement Hub](../../training/case-studies/psychology-reid.md)
 
 ## Assessment
 
