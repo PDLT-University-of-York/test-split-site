@@ -78,10 +78,9 @@ nav:
       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
       # - Student Access to Panopto videos
-  # - Accessibility:
-  #   - accessibility/index.md
-    # - Ally accessibility checker: accessibility/ally-accessibility-checker.md
-    # - Accessible Ultra content: accessibility/accessible-ultra-content.md
+  - Accessibility:
+    - accessibility/index.md
+    - Ally | accessibility tool: ultra/ally-tool.md
     # - Accessible maths: accessibility/accessible-maths.md
     # - Accessible files: accessibility/accessible-files.md
   - Assessment:
