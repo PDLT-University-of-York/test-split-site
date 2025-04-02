@@ -81,6 +81,10 @@ nav:
   - Accessibility:
     - accessibility/index.md
     - Ally | accessibility tool: ultra/ally-tool.md
+    # - Ultra | Accessibility report: ultra/ally-accessibility-report.md
+    - Ultra | Documents: ultra/documents.md
+    - Panopto | Editing Captions: panopto/editing-captions.md
+    - Practical Guide to Digital Accessibility: https://subjectguides.york.ac.uk/accessibility/home
     # - Accessible maths: accessibility/accessible-maths.md
     # - Accessible files: accessibility/accessible-files.md
   - Assessment:

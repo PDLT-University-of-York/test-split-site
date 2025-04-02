@@ -2,39 +2,56 @@
 
 !!! Summary
 
-    Accessibility is good, yo.
+    In our context, accessibility is creating online learning resources, assessments and VLE sites that can be used by people with different needs. Accessible resources are also easier for everyone to use.
 
 ## Your legal obligations
 
-If you are creating digital resources for the university, **you have legal obligations** according to the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018. Under this, university web resources should meet the [WCAG 2.2 AA accessibility standard](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag).
+Under the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018, University digital resources should meet the [WCAG 2.2 AA accessibility standard](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag). 
 
-**It is your obligation that digital teaching materials meet this standard.** This includes resources such as lecture slides, other content added to your module VLE site and pre-recorded video content.
+**It is your legal obligation to ensure that your digital teaching materials meet this standard.** This includes resources such as lecture slides, other content added to your module VLE site and pre-recorded video content. 
 
-## Top accessibility tips
+Following guidance on this site and other University advice should be sufficient to meet the standard. If you'd like to know more, you can review the standards via the link above.
 
-Using a few easy-to-do tips will make your resources much ore accessible:
+## Accessible use of learning technology
 
-- Use your Ultra site template; it has been designed for consistency.
-- Use meaningful link text, file names and item titles.
-- Add ALT text to images or mark as decorative.
-- Use heading styles and 'real' lists in text content.
-- Embed all video content from Panopto, YouTube etc. and add accurate captions.
+!!! Tip
+    
+    The [Site Design Principles](../ultra/site-design-principles.md) have been developed to centre accessible and inclusive design as a key aspect of site and online materials development.
+    
+    Using these principles together with your [Ultra site template](../ultra/prepare-site.md) will help your site and digital resources meet the accessibility standards. 
 
-## Accessibility considerations for our tools
+A few simple steps will make your resources much more accessible:
 
-SDP
+- Use your **Ultra site template**; it has been designed for consistency and accessibility.
+- Provide all module readings on a well-organised **Reading List**.
+- Use **meaningful link text**, file names and item titles.
+- Add **ALT text** to images or mark as decorative.
+- Use **heading styles** and 'real' **lists** in text content.
+- Embed all video content from Panopto, YouTube etc. and add **accurate captions**.
 
-Accessibility tips are integrated throughout our guides. Some guides that specifically focus on accessibility:
+The tool-specific guides below particularly focus on accessible practice. There are also accessibility tips integrated throughout our guides.
 
-Ultra
-- ally-tool
-- accessibility-report
-- document (content block - text, links, embeds, images) [Documents](../ultra/documents.md#block-content-text-editor)
+<div markdown class="grid cards">
 
-Panopto
-- editing-captions
+- **:material-laptop: Ultra**
 
-## General UoY accessibility guides & training
+    ---
+
+    - [:octicons-arrow-right-24: Ally tool](../ultra/ally-tool.md): item-level checker & alternative formats generator
+    - [:octicons-arrow-right-24: Accessibility report](../ultra/ally-accessibility-report.md): site-level accessibility checker
+    - [:octicons-arrow-right-24: Documents](../ultra/documents.md): advice for accessible text, images and embedded content
+    
+- **:fontawesome-solid-video: Panopto**
+
+    ---
+
+    - [:octicons-arrow-right-24: Editing captions](../panopto/editing-captions.md): checking automatic captions
+    - [:octicons-arrow-right-24: Add presentation slides](../panopto/add-presentation.md): integrating slides into your recording
+    - [:octicons-arrow-right-24: Embedding in Ultra Documents](../ultra/documents.md#videos): adding to a page with other content
+
+</div>
+
+## General UoY guidance
 
 The [Practical Guide to Digital Accessibility](https://subjectguides.york.ac.uk/accessibility/home) is the key location for general accessibility guidance:
 
