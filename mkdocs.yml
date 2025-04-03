@@ -1,6 +1,8 @@
 # Howdy! This is the config file that powers the site.
 # Any line with # at the start is "commented out"/hidden - used for instructions, details or draft stuff.
 
+####   WHITE SPACE IS IMPORTANT!   ###
+
 # Navigation 
 nav:
   - Learn Ultra VLE:
@@ -159,13 +161,13 @@ site_author: University of York
 copyright: <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
 
 theme:
-  name: material
-  custom_dir: overrides
+  name: material # DO NOT CHANGE
+  custom_dir: overrides # Where custom HTML pages, icons etc. live
   font:
     text: Inter
   icon:
     logo: octicons/home-16
-    tag:
+    tag: # Shown in tag label at the top of pages
       KeyGuideTeaching: simple/go
       KeyGuideAdmin: simple/go
       Accessibility: octicons/accessibility-inset-16
@@ -178,7 +180,7 @@ theme:
       Panopto: fontawesome/solid/video
       OtherTools: material/toolbox
       CaseStudy: material/account-voice
-  palette:
+  palette: # Colour schemes
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -204,10 +206,10 @@ theme:
     - navigation.footer # adds previous/next page links in footer
     - navigation.top # adds Return to Top button
     - navigation.tracking # adds current heading into page URL
-    - search.suggest
+    - search.suggest # Suggest pages before 'hard' search
     - content.tabs.link # linked content tabs
 
-markdown_extensions:
+markdown_extensions: # allow various extra jazzy stuff 
   - meta
   - admonition
   - pymdownx.details
@@ -234,8 +236,7 @@ markdown_extensions:
 
 extra:
   generator: false
-  # links on right side of footer
-  social:
+  social: # links on the right side of the footer
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/UoYVLE
       name: DET on Twitter (X)
@@ -251,8 +252,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:vle-support@york.ac.uk
       name: Contact Support Desk
-  # This links the tag text to the icons above
-  tags:
+  tags: # To link tag text to the icons in 'theme' section
     Key guide - teaching: KeyGuideTeaching
     Key guide - admin: KeyGuideAdmin
     Accessibility: Accessibility
@@ -270,16 +270,15 @@ extra:
     property: G-Q6B3RZT1K0
 
 extra_css:
-# site-wide custom CSS here
-  - css/extra.css
+  - css/extra.css # our custom CSS styles
 
 extra_javascript:
-  - javascripts/extra.js
+  - javascripts/extra.js # our custom Javascript
 
-plugins:
-  # Redirects - https://github.com/mkdocs/mkdocs-redirects 
-  - redirects: 
+plugins: 
+  - redirects: # https://github.com/mkdocs/mkdocs-redirects 
       redirect_maps:
+      # 'folder/old-page.md': 'folder/new-page.md'
         'ultra/access-sites.md': 'ultra/courses-list.md'
         'ultra/course-links.md': 'ultra/links.md#course-link'
         'ultra/course-roles.md' : 'ultra/user-management.md#user-roles'
@@ -310,7 +309,7 @@ plugins:
         'assessment/group-assignment.md' : 'ultra/assignment-groups.md'
         'training/workshops-resources/index.md': 'training/index.md'
   - search
-  # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit)
+  # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit, IT WILL BREAK THINGS)
   # - unused_files
   - tags:
       tags_file: help/site-index.md
@@ -328,6 +327,6 @@ plugins:
         - Other tools
         - Case study
 
-# Extra folders that the local server should watch for changes (also watches docs folder & mkdocs.yml)
+# Extra folders that the local server should watch for changes (always watches docs folder & mkdocs.yml)
 watch:
 - overrides
