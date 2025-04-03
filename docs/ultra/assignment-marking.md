@@ -347,3 +347,11 @@ Use the Student Preview function to submit a file which you can then mark:
 6. Drag and drop to upload a file, set the file display name, and then **Submit**.
 7. Click **Exit** in the top right to close Student Preview. When prompted, click **Save** to retain your submission.
 8. Back in editing mode, open and mark the submission as described in this guide.
+
+## Monitor student review of feedback
+
+The student overview page in the Gradebook allows you to see if a particular student has reviewed their posted mark and feedback.
+
+See our [Gradebook guide](../ultra/gradebook.md#monitor-student-review-of-feedback) for more details.
+
+![Not reviewed/reviewed label shown next to Assignment mark](images/assignment-marking-review-feedback.png)

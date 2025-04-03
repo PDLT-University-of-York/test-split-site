@@ -152,9 +152,9 @@ For details of the general Assignment marking workflow, see our [marking Assignm
 
 **Marking interface**
 
-- The student panel does not appear for group Assignments. To move between groups, use the arrows above the main marking area or close the marking interface and select another group.
-- Feedback can be given to the whole group and to individual students. The active tab is highlighted and the name of the group or student shown above the feedback box.
-- Marks entered in the marking interface are overall grades automatically given to each group member.
+- Enter the group mark in the mark pill at the top or via a rubric (if used). This mark is automatically given to each group member.
+- Overall feedback is visible to the whole group.
+- Individual feedback can be given via the *Group Members* list. This is only visible to that specific student.
 
 ![decorative](images/assignment-groups-marking-interface.png)
 
