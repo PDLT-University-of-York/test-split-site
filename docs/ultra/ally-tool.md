@@ -48,7 +48,21 @@ Ally has two functions for individual content items:
 
 </div>
 
-For more information on using these functions, see the detailed guides below.
+Apply these functions to help make your VLE sites more accessible for your students, as demonstrated in this case study:
+
+??? case-study "Case study: Accessible VLE sites in Ultra"
+
+    Laura Chapman explains how Department of Environment and Geography have used the departmental template sites along with the Ally accessibility checker and alternative formats generator to maximise the accessibility of VLE sites for students.
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=68d4ff7a-e24a-47af-90ff-b1ee0092a5ed&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Accessible VLE sites in Ultra" ></iframe>
+
+    [Accessible VLE sites in Ultra (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68d4ff7a-e24a-47af-90ff-b1ee0092a5ed) (5 mins 21 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/env-geog-chapman.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+For more information on using the Ally functions, see the detailed guides below.
 
 ---
 
