@@ -1,15 +1,6 @@
 # Accessibility
 
 !!! Summary
-   
-    Pre-recorded videos must be accurately captioned
-
-!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
-
-    - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.
-
-
-!!! Summary
 
     In our context, accessibility is creating online learning resources, assessments and VLE sites that can be used by people with different needs. Accessible resources are also easier for everyone to use.
 
