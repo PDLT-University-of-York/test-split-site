@@ -38,7 +38,7 @@ The guides below particularly focus on accessible practice. Accessibility tips a
     ---
 
     - [:octicons-arrow-right-24: Ally tool](../ultra/ally-tool.md): item-level checker & alternative formats generator
-    - [:octicons-arrow-right-24: Accessibility report](../ultra/ally-accessibility-report.md): site-level accessibility checker
+    <!-- - [:octicons-arrow-right-24: Accessibility report](../ultra/ally-accessibility-report.md): site-level accessibility checker -->
     - [:octicons-arrow-right-24: Documents](../ultra/documents.md): advice for accessible text, images and embedded content
     
 - **:material-toolbox: Other tools**
