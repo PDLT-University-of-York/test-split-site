@@ -301,12 +301,13 @@ This helps users access content in a way that suits their needs and preferences.
 
 Alternative formats available include (depending on the content type):
 
-- Tagged PDF: add structure to aid machine-readability
-- OCRed PDF: convert scanned PDF to machine-readable text
-- Audio: MP3 version (popular with students)
-- Electronic braille: for use with electronic braille displays
-- ePub: for reading in ebook format or on tablets
-- BeeLine Reader and Immersive Reader: tools to improve readability 
+- **Tagged PDF**: add structure to aid machine-readability
+- **OCRed PDF**: convert scanned PDF to machine-readable text
+- **Audio**: MP3 version (popular with students)
+- **Electronic braille**: for use with electronic braille displays
+- **ePub**: for reading in ebook format or on tablets
+- **BeeLine Reader**: colour gradients added to text to aid focus
+- **Immersive Reader**: change text appearance, read aloud and other readability tools 
 
 See the [Best file formats guide](https://xerte.york.ac.uk/play.php?template_id=2455#develop) for more information on using each format.
 
