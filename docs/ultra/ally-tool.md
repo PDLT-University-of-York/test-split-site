@@ -18,29 +18,43 @@ tags:
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
-## Overview
+## Quick start
 
 Ally has two functions for individual content items:
 
 <div markdown class="grid cards show-bullets">
 
-- **Accessibility checker**
+-   [**Accessibility checker**](#accessibility-checker)
+
+    <p class="centre-image">![Accessibility score 'gauge' icon](images/ally-tool-accessibility-score-icon-small.png)</p>
 
     ---
 
-    - identifies key accessibility issues and suggests improvements
-    - only available for staff
+    - Assigns each item an accessibility score (out of 100%).
+    - The gauge icon gives a quick measure of item accessibility.
+    - Click the **gauge icon** to view the issues and how to fix them.
+    - Only available for staff.
 
-- **Alternative format generator**
+- [**Alternative format generator**](#alternative-format-generator)
+
+    <p class="centre-image">![Alternative formats icon: Large 'A' with a download arrow](images/ally-tool-alternative-formats-icon-small.png)</p>
 
     ---
 
-    - users can download content in a range of other formats
-    - available for staff and students
+    - Allows users to download content in a range of other formats.
+    - Click the **A icon** to select a format to download.
+    - Available formats include tagged PDF, audio, HTML etc.
+    - Available for staff and students.
 
 </div>
 
-Ally automatically processes various content types:
+For more information on using these functions, see the detailed guides below.
+
+---
+
+## Ally: which content types
+
+Ally is available for:
 
 === "Ultra Documents (aka. VLE content page)"
 
@@ -88,7 +102,7 @@ Ally automatically processes various content types:
 
     The Ally accessibility checker may not identify all issues within content, so treat it as a **starting point** for your accessibility considerations.
 
-Content items are checked and assigned an **accessibility score** depending on the issues identified. Ally checks for issues including:
+This **staff-only** function checks content items and assigns them an **accessibility score** depending on the issues identified. Ally checks for issues including:
 
 - missing ALT text for images
 - skipped heading levels
@@ -255,11 +269,11 @@ There are also various other platform-specific accessibility checkers available.
 
 !!! Tip 
 
-    The alternative format generator works best if the original content is well-structured and accessible. It can't fix accessibility issues in the content.
+    The alternative format generator works best if the original content is accessible and well-structured. It can't fix accessibility issues in the content.
 
 <div markdown class="flexcols">
 <div markdown class="col65">
-Ally allows staff and students to download Ultra Documents and uploaded files in a range of alternative formats.
+This function allows **staff and students** to download Ultra Documents and uploaded files in a range of alternative formats.
 
 This helps users access content in a way that suits their needs and preferences.
 </div>
