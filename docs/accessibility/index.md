@@ -23,13 +23,13 @@ Following guidance on this site and other University advice should be sufficient
 A few simple steps will make your resources much more accessible:
 
 - Use your **Ultra site template**; it has been designed for consistency and accessibility.
-- Provide all module readings on a well-organised **Reading List**.
+- Provide all module readings on a structured and tagged **Reading List**.
 - Use **meaningful link text**, file names and item titles.
 - Add **ALT text** to images or mark as decorative.
 - Use **heading styles** and 'real' **lists** in text content.
 - Embed all video content from Panopto, YouTube etc. and add **accurate captions**.
 
-The tool-specific guides below particularly focus on accessible practice. There are also accessibility tips integrated throughout our guides.
+The guides below particularly focus on accessible practice. Accessibility tips are also integrated in guides throughout this site.
 
 <div markdown class="grid cards">
 
@@ -41,13 +41,13 @@ The tool-specific guides below particularly focus on accessible practice. There 
     - [:octicons-arrow-right-24: Accessibility report](../ultra/ally-accessibility-report.md): site-level accessibility checker
     - [:octicons-arrow-right-24: Documents](../ultra/documents.md): advice for accessible text, images and embedded content
     
-- **:fontawesome-solid-video: Panopto**
+- **:material-toolbox: Other tools**
 
     ---
 
-    - [:octicons-arrow-right-24: Editing captions](../panopto/editing-captions.md): checking automatic captions
-    - [:octicons-arrow-right-24: Add presentation slides](../panopto/add-presentation.md): integrating slides into your recording
-    - [:octicons-arrow-right-24: Embedding in Ultra Documents](../ultra/documents.md#videos): adding to a page with other content
+    - [:octicons-arrow-right-24: Panopto: Editing captions](../panopto/editing-captions.md): checking automatic captions
+    - [:octicons-arrow-right-24: Reading List: structure & tagging](../other-tools/reading-list/#set-up-your-reading-list): using sections and priority tags
+    - [:octicons-arrow-right-24: Reading List: accessible formats](https://subjectguides.york.ac.uk/readinglists/accessibility): let the Library know which readings print-impaired students require in other formats
 
 </div>
 
