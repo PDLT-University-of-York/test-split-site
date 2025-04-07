@@ -1,97 +1,61 @@
 ---
 tags:
-# Delete to leave only relevant tags
     - Accessibility
-    - Panopto
-    
+    - Panopto 
 ---
 
-# How to Edit Captions in Panopto
+# Editing captions in Panopto
 
 !!! Summary
 
-    This guide will show you how to edit captions in Panopto to ensure your video content is accurate and accessible. Editing captions can help improve clarity and meet accessibility requirements.
+    Pre-recorded videos must be accurately captioned to meet accessibility standards and for usability.
 
-!!! Info
-      Important - Please note the following before reading on:    
+!!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
+    - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.
 
+## Captioning & accessibility
 
+Under the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018, University digital resources should meet the [WCAG 2.2 AA accessibility standard](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag).
 
-# Compliance with EU Accessibility Regulations
+**It is your legal obligation to ensure that your digital teaching materials meet this standard.** 
 
-[EU Accessibility Regulations](https://docs.google.com/document/d/1_NjwLqE2gYrt11JgCYWYLoWnj2xG3B_yi3xuUgvbHkQ/edit#heading=h.g9batbwu5bql) require that pre-recorded videos must only be released once accurate captions are in place. Please note that different standards apply to captioning for live lectures.
+To meet these standards, **pre-recorded videos** must have accurate captions. This includes:
 
-## Handling Pre-recorded Videos
+- "at-desk" style lecture recordings: pre-prepared screencast recordings of lectures, talks, cohort feedback etc.
+- lecture capture recordings re-used from a previous academic year
+- video resources provided via YouTube, Box of Broadcasts or other platforms
 
-Pre-recorded videos should remain hidden until accurate captions are available, as [automatic captions alone are often insufficient without manual quality checking](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). To comply with these regulations, it’s possible to hide individual videos from your cohort if they are stored in a Panopto folder that has already been shared but the captions are not yet ready. 
+Panopto provides auto-captioning for recordings, but [automatic captions alone are often insufficient without manual quality checking](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). You will need to check and edit the captions as necessary before [making the recording available to students](../panopto/change-availability.md).
 
-[Guidance on hiding individual videos (making them “unavailable”)](../panopto/change-availability.md).
+!!! Tip
 
-## Need Help with Captioning?
+    It isn't required to edit auto-captions on lecture captures for the current academic year as these are classed as 'live' recordings. However, students can request that captions be corrected or be made available in an alternative format if necessary.
 
-As of February 2021, the University has established a central pool of student captioners who can assist with this work. 
-
-[Learn more about using the Central Captioning Pool to hire and book a Student Captioning Assistant](https://docs.google.com/document/d/1valpteM4J6sYrlxM5EqQ_7TsxPtoZUDvexByh2Jw0UA/edit#heading=h.t73uqitdxw7t).
-
-
-
-## Accessing the Caption Editor
-
-1. **Log in to Panopto**  
-   Go to [Panopto](https://york.cloud.panopto.eu/) and sign in with your University of York credentials.
-
-2. **Find Your Video**  
-   Use the search bar or navigate through your folders to locate the video you want to edit.
-
-3. **Open the Editor**  
-   Hover over the video thumbnail, then click on the **Edit** button.
-
-   ![Accessing Panopto web editor from recording in Panopto](Images/launch-editor.png)
-
-## Editing Captions
-
-1. **Access the Captions Tab**  
-   In the editor, click on the **Captions** tab on the left-hand side.
-
-   ![Captions tab in web editor](Images/captions-tab.png)
-
-2. **Review and Edit Captions**  
-      - Click on any caption text to make corrections to the auto-generated captions.
-      - Modify the text for accuracy, clarity, and punctuation.
-
-   ![Manually editing captions in Panopto](Images/edit-captions.png)
-
-3. **Adjust Caption Timing**  
-      - To synchronize captions with audio, adjust the start and end times by dragging the handles or manually entering the time.
-
-   ![Opening edit menu for caption section](Images/edit-time-stamp.png)
-
-
-## Saving and Applying Edits
-
-1. **Preview Changes**  
-   Play the video in the editor to ensure captions are correct and properly timed.
-
-2. **Save Changes**  
-   Click **Apply** in the top-right corner to save your edits. Choose whether to replace the existing session or create a new version.
-
-3. **Confirm Changes**  
-   Return to your video library, open the video, and check that your changes are reflected.
-
-## Best Practices
+## Captioning best practices
 
 - **Keep Captions Concise**: Aim for one to two lines per caption for readability.
 - **Ensure Accuracy**: Double-check the spelling of names, technical terms, and punctuation.
 - **Consistency**: Use consistent capitalization and formatting across captions.
+- [More detail on subtitles and transcripts](https://subjectguides.york.ac.uk/media/subtitles) (including on YouTube and other platforms) is available on the Practical Guide to media editing.
+
+## Editing captions in Panopto
+
+1. Sign into [Panopto](https://york.cloud.panopto.eu/) with your University of York credentials, or access the Panopto folder within your VLE site.
+2. Locate the video to edit. Hover over the thumbnail, then click the **Edit icon**.
+</br>![Edit icon appears on hover](Images/launch-editor.png)
+3. In the editing screen, click the **Captions** tab in the left-hand menu.
+</br>![Captions is third in the menu list](Images/captions-tab.png)
+4. Click any caption text to make corrections. Type in the box to modify the text for accuracy, clarity, and punctuation.
+</br>![Decorative](Images/edit-captions.png)
+5. To synchronize captions with audio, click the **three dots icon** then **Edit** to manually enter the time, or adjust the start and end times by dragging the handles.
+</br>![Decorative](Images/edit-time-stamp.png)
+6. **Preview captions** by playing the video to ensure edits are correct and properly timed.
+7. Click **Apply** in the top-right corner to save your edits. Choose whether to replace the existing session or create a new version.
 
 ## Troubleshooting
 
-- **Misaligned Captions**: Adjust the timestamps if captions do not sync with audio.
-- **Missing Captions**: Verify that captions are enabled and properly uploaded.
-- **Saving Issues**: Ensure a stable internet connection; try applying changes again if edits do not save.  
-
-
-## More Details and Troubleshooting 
-
-- Visit our comprehesive [Panopto Recordings and Captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit) guide for details on how to edit captions on a larger scale and for more complex editing and troubleshooting tips page.
+- **Misaligned Captions**: adjust the timestamps if captions do not sync with audio.
+- **Missing Captions**: check that captions are enabled and properly uploaded.
+- **Saving Issues**: check your internet connection; try applying changes again if edits do not save.
+- Visit our comprehensive [Panopto Recordings and Captions](https://docs.google.com/document/d/1eX5K4zg-yl13uYuK6SsMUa-qgiQzG5w5c2zh4rEGKj4/edit) guide for details on how to edit captions on a larger scale and for more complex editing and troubleshooting tips page.
