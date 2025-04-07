@@ -280,6 +280,8 @@ Alternative formats available include (depending on the content type):
 - ePub: for reading in ebook format or on tablets
 - BeeLine Reader and Immersive Reader: tools to improve readability 
 
+See the [Best file formats guide](https://xerte.york.ac.uk/play.php?template_id=2455#develop) for more information on using each format.
+
 ### Download 
 
 To download content in an alternative format:

@@ -9,6 +9,10 @@ search:
   exclude: true
 ---
 
+!!! Warning
+
+    This page is currently under development
+
 # Accessibility report
 !!! Summary
 
@@ -20,7 +24,6 @@ search:
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
-
 ## Site accessibility report
 
 To open the site-wide accessibility report:
@@ -29,7 +32,7 @@ To open the site-wide accessibility report:
 2. On the new panel, select **Accessibility Report**.
 </br>![decorative](images/ally-tool-report-access.png)
 
-Tips to improve your site's accessibility score:
+<!-- Tips to improve your site's accessibility score:
 
 
 
@@ -59,4 +62,4 @@ The course accessibility report provides the ability to sort by severity, issue 
 
 Note that you should still use a human-centred approach to organising your course structure and provide meaningful ways of navigating the content in your course vle site.
 What content does Ally check?
-Find out what content Ally checks.
+Find out what content Ally checks. -->
