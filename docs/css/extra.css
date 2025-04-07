@@ -127,9 +127,9 @@ img {
     border-bottom: 0.05rem solid var(--md-accent-fg-color)
 }
 
-.grid.cards.wide {
-    display: flex;
-    flex-direction: column;
+/* Centre an image (add img within <p class="centre-image">) */
+.grid.cards ul li p.centre-image {
+    text-align: center;
 }
 
 /*** ---- images & figures */

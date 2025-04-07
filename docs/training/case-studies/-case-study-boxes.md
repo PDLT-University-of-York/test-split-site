@@ -297,14 +297,16 @@ sociology-beer
     See the [full case study for more details and the transcript](../training/case-studies/sociology-beer.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
-!!! case-study "Case study: [TITLE]"
+!!! case-study "Case study: Accessible VLE sites in Ultra"
 
-    [Short overview - a few lines max]
+    Laura Chapman explains how Department of Environment and Geography have used the departmental template sites along with the Ally accessibility checker and alternative formats generator to maximise the accessibility of VLE sites for students.
 
-    [PANOPTO EMBED CODE]
-    [TITLE [Panopto]](PANOPTO LINK) (LENGTH, UoY log-in required)
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=68d4ff7a-e24a-47af-90ff-b1ee0092a5ed&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Accessible VLE sites in Ultra" ></iframe>
 
-    See the [full case study for more details and the transcript](../training/case-studies/FILENAME.md).
+    [Accessible VLE sites in Ultra (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68d4ff7a-e24a-47af-90ff-b1ee0092a5ed) (5 mins 21 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/env-geog-chapman.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
 !!! case-study "Case study: [TITLE]"

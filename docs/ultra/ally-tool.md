@@ -18,29 +18,57 @@ tags:
     - 3.6 Essential: Links and materials titles describe the destination or content.
     - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
-## Overview
+## Quick start
 
 Ally has two functions for individual content items:
 
 <div markdown class="grid cards show-bullets">
 
-- **Accessibility checker**
+-   [**Accessibility checker**](#accessibility-checker)
+
+    <p class="centre-image">![Accessibility score 'gauge' icon](images/ally-tool-accessibility-score-icon-small.png)</p>
 
     ---
 
-    - identifies key accessibility issues and suggests improvements
-    - only available for staff
+    - Assigns each item an accessibility score (out of 100%).
+    - The gauge icon gives a quick measure of item accessibility.
+    - Click the **gauge icon** to view the issues and how to fix them.
+    - Only available for staff.
 
-- **Alternative format generator**
+- [**Alternative format generator**](#alternative-format-generator)
+
+    <p class="centre-image">![Alternative formats icon: Large 'A' with a download arrow](images/ally-tool-alternative-formats-icon-small.png)</p>
 
     ---
 
-    - users can download content in a range of other formats
-    - available for staff and students
+    - Allows users to download content in a range of other formats.
+    - Click the **A icon** to select a format to download.
+    - Available formats include tagged PDF, audio, HTML etc.
+    - Available for staff and students.
 
 </div>
 
-Ally automatically processes various content types:
+Apply these functions to help make your VLE sites more accessible for your students, as demonstrated in this case study:
+
+??? case-study "Case study: Accessible VLE sites in Ultra"
+
+    Laura Chapman explains how Department of Environment and Geography have used the departmental template sites along with the Ally accessibility checker and alternative formats generator to maximise the accessibility of VLE sites for students.
+
+    Watch their presentation:
+    <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=68d4ff7a-e24a-47af-90ff-b1ee0092a5ed&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Accessible VLE sites in Ultra" ></iframe>
+
+    [Accessible VLE sites in Ultra (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68d4ff7a-e24a-47af-90ff-b1ee0092a5ed) (5 mins 21 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/env-geog-chapman.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
+For more information on using the Ally functions, see the detailed guides below.
+
+---
+
+## Ally: which content types
+
+Ally is available for:
 
 === "Ultra Documents (aka. VLE content page)"
 
@@ -88,7 +116,7 @@ Ally automatically processes various content types:
 
     The Ally accessibility checker may not identify all issues within content, so treat it as a **starting point** for your accessibility considerations.
 
-Content items are checked and assigned an **accessibility score** depending on the issues identified. Ally checks for issues including:
+This **staff-only** function checks content items and assigns them an **accessibility score** depending on the issues identified. Ally checks for issues including:
 
 - missing ALT text for images
 - skipped heading levels
@@ -255,11 +283,11 @@ There are also various other platform-specific accessibility checkers available.
 
 !!! Tip 
 
-    The alternative format generator works best if the original content is well-structured and accessible. It can't fix accessibility issues in the content.
+    The alternative format generator works best if the original content is accessible and well-structured. It can't fix accessibility issues in the content.
 
 <div markdown class="flexcols">
 <div markdown class="col65">
-Ally allows staff and students to download Ultra Documents and uploaded files in a range of alternative formats.
+This function allows **staff and students** to download Ultra Documents and uploaded files in a range of alternative formats.
 
 This helps users access content in a way that suits their needs and preferences.
 </div>
@@ -273,12 +301,13 @@ This helps users access content in a way that suits their needs and preferences.
 
 Alternative formats available include (depending on the content type):
 
-- Tagged PDF: add structure to aid machine-readability
-- OCRed PDF: convert scanned PDF to machine-readable text
-- Audio: MP3 version (popular with students)
-- Electronic braille: for use with electronic braille displays
-- ePub: for reading in ebook format or on tablets
-- BeeLine Reader and Immersive Reader: tools to improve readability 
+- **Tagged PDF**: add structure to aid machine-readability
+- **OCRed PDF**: convert scanned PDF to machine-readable text
+- **Audio**: MP3 version (popular with students)
+- **Electronic braille**: for use with electronic braille displays
+- **ePub**: for reading in ebook format or on tablets
+- **BeeLine Reader**: colour gradients added to text to aid focus
+- **Immersive Reader**: change text appearance, read aloud and other readability tools 
 
 See the [Best file formats guide](https://xerte.york.ac.uk/play.php?template_id=2455#develop) for more information on using each format.
 
