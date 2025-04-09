@@ -154,7 +154,7 @@ Navigate the submission file using icons on the left of the menu bar: view thumb
 
     Comments are **not automatically saved**. You must save each comment before navigating away from the submission. Unsaved comments can't be retrieved.
 
-There are two ways to add comments at specific points on the submission:
+Comments can be added at specific points on the submission:
 
 1. Click the **Comment icon** in the menu bar, then click the desired location. Or, select the relevant text then click the **comment icon** in the menu above the text.
 2. Enter your comment into the box.
