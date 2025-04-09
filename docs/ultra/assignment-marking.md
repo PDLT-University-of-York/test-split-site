@@ -126,7 +126,7 @@ This means that if there are **multiple attempts and at least one of those is la
     ![example described in text](images/assignment-marking-manually-select-attempt.png)
 
 ### 3. Review and annotate
-[](/docs/ultra/assignment-marking.md#menu-bar-comment--annotate)
+
 Use the marking interface to review the submitted file and make annotations or comments (if needed). The interface contains:
 
 - an expandable students panel (on the left)
