@@ -105,28 +105,28 @@ This means that if there are **multiple attempts and at least one of those is la
 
 \* Note: late penalties are usually applied by administrators
 
-**Identify late submissions**
+??? info "Identify late submissions"
 
-Late submissions are identified in numerous locations:
+    Late submissions are identified in numerous locations:
 
-- *Marking interface*: in an open submission, a Late label is shown with the attempt information. This is shown to the right of or below the student's name, depending on screen size.
-</br>![decorative](images/assignment-marking-late-marking-interface.png)
-- *Assignment submission tab*: a student's row shows their total attempts and if any are late, eg. *2 attempts (1 late)*. For late or missing submissions, this text is red and a red circle is shown around the user icon/photograph.
-</br>![decorative](images/assignment-marking-late-assignment-submission-tab.png)
+    - *Marking interface*: in an open submission, a Late label is shown with the attempt information. This is shown to the right of or below the student's name, depending on screen size.
+    </br>![decorative](images/assignment-marking-late-marking-interface.png)
+    - *Assignment submission tab*: a student's row shows their total attempts and if any are late, eg. *2 attempts (1 late)*. For late or missing submissions, this text is red and a red circle is shown around the user icon/photograph.
+    </br>![decorative](images/assignment-marking-late-assignment-submission-tab.png)
 
-**Manually select an attempt**
+??? info "Manually select an attempt"
 
-When viewing a submission in the marking interface, you can manually change to a different attempt: 
+    When viewing a submission in the marking interface, you can manually change to a different attempt: 
 
-1. Click the attempt submission information (where the *Late* label is shown) to open a list of all attempts.
-2. Select the attempt to mark (see table above).
-3. The marking interface will change to the selected attempt. Check the attempt information before you start marking.
+    1. Click the attempt submission information (where the *Late* label is shown) to open a list of all attempts.
+    2. Select the attempt to mark (see table above).
+    3. The marking interface will change to the selected attempt. Check the attempt information before you start marking.
 
-For example, a student submits two attempts; one on time, one late. In this case, you should mark the on time attempt. The marking interface displays the late submission (Attempt 2) by default, so click the attempt information and select the on time submission (Attempt 1) to mark.
-![example described in text](images/assignment-marking-manually-select-attempt.png)
+    For example, a student submits two attempts; one on time, one late. In this case, you should mark the on time attempt. The marking interface displays the late submission (Attempt 2) by default, so click the attempt information and select the on time submission (Attempt 1) to mark.
+    ![example described in text](images/assignment-marking-manually-select-attempt.png)
 
 ### 3. Review and annotate
-
+[](/docs/ultra/assignment-marking.md#menu-bar-comment--annotate)
 Use the marking interface to review the submitted file and make annotations or comments (if needed). The interface contains:
 
 - an expandable students panel (on the left)
@@ -142,23 +142,43 @@ It's possible for students to **upload multiple files in the same submission**, 
 
 ![Tabs showing two uploaded files for the same submission, doc 1 and doc 2](images/assignment-marking-multiple-files.png)
 
-*Navigate the submission file* using icons on the left of the menu bar: view thumbnails, pan and zoom.
+#### Menu bar: navigate
+
+Navigate the submission file using icons on the left of the menu bar: view thumbnails, pan and zoom.
 
 ![decorative](images/assignment-marking-navigation-menu.png)
 
-*Annotate submissions* using icons in the centre of the menu bar:
+#### Menu bar: comment & annotate
 
-1. **Drawing**: draw or write freehand on the file. Especially useful if marking on a tablet.
-2. **Image**: add an image or stamp on the file.
-3. **Comment**: add a sticky note style-comment in a panel next to the file.
-4. **Text box**: type text on the file.
-5. **Lines**: draw lines, arrows and other shapes on the file.
-6. **Select text**: format text or add comments for specific text.
-7. **Content library**: create a bank of reusable comments for common feedback.
+!!! Warning
 
-![decorative](images/assignment-marking-annotation-menu.png)
+    Comments are **not automatically saved**. You must save each comment before navigating away from the submission. Unsaved comments can't be retrieved.
 
-??? Info "Open for more detail on using annotation options"
+There are two ways to add comments at specific points on the submission:
+
+1. Click the **Comment icon** in the menu bar, then click the desired location. Or, select the relevant text then click the **comment icon** in the menu above the text.
+2. Enter your comment into the box.
+3. By default, your name will be shown on the comment. If desired, click the **Anonymous icon** to make the comment anonymously.
+4. Click the **Save button** (this may be shown as an **up arrow icon**).
+5. To edit, delete or change anonymity of a comment, click the **three dots icon** and select the relevant option. 
+
+![decorative](images/assignment-marking-annotation-comment.png)
+
+There are also various other annotation options, including drawing, free text and more.
+
+??? Info "More detail on using other annotation options"
+
+    The full annotation options are: 
+
+    1. **Drawing**: draw or write freehand on the file. Especially useful if marking on a tablet.
+    2. **Image**: add an image or stamp on the file.
+    3. **Comment**: add a sticky note style-comment in a panel next to the file.
+    4. **Text box**: type text on the file.
+    5. **Lines**: draw lines, arrows and other shapes on the file.
+    6. **Select text**: format text or add comments for specific text.
+    7. **Content library**: create a bank of reusable comments for common feedback.
+
+    ![decorative](images/assignment-marking-annotation-menu.png)
 
     **1. Draw/write**
 
@@ -178,14 +198,7 @@ It's possible for students to **upload multiple files in the same submission**, 
 
     **3. Comment**
 
-    - Click the **Comment icon**, click the desired location and add your comment text and save. This will show your comment with your name and the date/time the comment was made.
-    - To edit or delete a comment, click it then the three dots and select the relevant option. 
-    - To add another comment in the same chain, click on the comment and enter the new comment.
-    - To make comments anonymously, click the Anonymous icon before saving or click an existing comment, then the three dots icon and select Anonymous.
-
-    ![decorative](images/assignment-marking-annotation-comment.png)
-
-    See *7. Content Library* for reusing comment comments.
+    See section above.
 
     **4. Text box**
 
@@ -222,12 +235,13 @@ It's possible for students to **upload multiple files in the same submission**, 
 
     ![Decorative](images/assignment-marking-annotation-content-library.png)
 
-*Search and export* the file with options on the right of the menu bar:
+#### Menu bar: search & export
+
+Search and export the file with options on the right of the menu bar:
 
 - **Print** or **download** the annotated file in PDF format. Use the icon above the menu bar to download the original file.
 - **Search** the file for specific content.
 
-<!--- update image -->
 ![decorative](images/assignment-marking-export-menu.png)
 
 ### 4. Enter feedback and marks
