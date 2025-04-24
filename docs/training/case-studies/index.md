@@ -81,3 +81,4 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [Enhancing skills through VR Simulation](../../training/case-studies/hyms-vr.md)
 - [Applying emerging VR technologies to the study of spatial audio](../../training/case-studies/pet-vr.md)
 - [VR in Welding Training](../../training/case-studies/pet-vr2.md)
+- [Embedding Immersive Technologies in History studies](../../training/case-studies/history-vr.md)
