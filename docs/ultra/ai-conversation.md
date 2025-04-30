@@ -378,16 +378,16 @@ We did generally find that if input was:
 You can also use the [AI Design Assistant](../ultra/ai-da.md) to generate the AI conversation scenario and persona:
 
 1. Follow the steps above to create a new AI conversation.
-3. On your new conversation, click the **magic AI icon** in the top right. On a larger screen you'll also see **Auto-generate conversation**.
+2. On your new conversation, click the **magic AI icon** in the top right. On a larger screen you'll also see **Auto-generate conversation**.
 </br>![decorative](images/ai-conversation-aida-icon.png)
-4. Optionally, define the conversation:
+3. Optionally, define the conversation:
     - Enter a **Description** and/or **Select course items** to help generate more relevant content.
     - Select a **Conversation type**, or choose *Inspire me!* for a mix of types.
     - Adapt other settings to your needs.
     - Click **Generate**.
-5. Review the three generated conversations and select which to keep. If you want to keep more than one, copy/paste it into another document to use later. Click **Add to Course**.
+4. Review the three generated conversations and select which to keep. If you want to keep more than one, copy/paste it into another document to use later. Click **Add to Course**.
 6. Edit or adapt the AI-generated content as needed and click **Preview chat** to make sure that the AI responds appropriately.
-7. Adjust the remaining conversation settings as described in the final step for creating AI conversations above.
+6. Adjust the remaining conversation settings as described in the final step for creating AI conversations above.
 
 ![Example AI generated conversation interface: described below](images/ai-conversation-aida-output.png)
 
