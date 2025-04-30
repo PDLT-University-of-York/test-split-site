@@ -99,7 +99,7 @@ Select your intended use case for recommended settings:
 AI responses are informed by:
 
 - the **question/topic** for socratic questioning or **scenario** for role play (shown to students)
-- the AI persona **personality trait**: this can include personality, current mood, age, job, other personal details, a problem or concern that they have etc. (not shown to students)
+- the AI persona **personality trait**: this can include personality, mood, age, job, etc. or specific characters or famous people (not shown to students)
 
 Vary the content and level of detail you provide when defining these to manipulate how the AI responds. This could be tightly constrained to a specific situation or be more flexible.
 
@@ -368,6 +368,55 @@ We did generally find that if input was:
     - Marking: complete/incomplete, 1 maximum point, manually post marks
     - Attempts allowed: unlimited
     - Description: This task is for your own practice and will not be marked
+
+## Generate using AI
+
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. Particularly check that the AI persona matches the situation and persona image.
+
+You can also use the [AI Design Assistant](../ultra/ai-da.md) to generate the AI conversation scenario and persona:
+
+1. Follow the steps above to create a new AI conversation.
+3. On your new conversation, click the **magic AI icon** in the top right. On a larger screen you'll also see **Auto-generate conversation**.
+</br>![decorative](images/ai-conversation-aida-icon.png)
+4. Optionally, define the conversation:
+    - Enter a **Description** and/or **Select course items** to help generate more relevant content.
+    - Select a **Conversation type**, or choose *Inspire me!* for a mix of types.
+    - Adapt other settings to your needs.
+    - Click **Generate**.
+5. Review the three generated conversations and select which to keep. If you want to keep more than one, copy/paste it into another document to use later. Click **Add to Course**.
+6. Edit or adapt the AI-generated content as needed and click **Preview chat** to make sure that the AI responds appropriately.
+7. Adjust the remaining conversation settings as described in the final step for creating AI conversations above.
+
+![Example AI generated conversation interface: described below](images/ai-conversation-aida-output.png)
+
+??? Abstract "AI conversation: generate using AI Design Assistant"
+
+    **Settings to define the conversation**
+
+    - Description:  Nutrition for effective fell running training and racing
+    - Conversation type: Inspire Me!
+    - Generate options: conversation title, AI persona, reflection questions
+    - Complexity: 7/10
+
+    **Generated conversation 1: Nutrition Strategies for Fell Running Preparation**
+
+    - Conversation type: Role-play
+    - Conversation scenario: A local fell runner, Jamie, is gearing up for an upcoming race. They are unsure about their nutritional choices during the training period and have approached you for guidance on optimizing their diet for performance.
+    - AI persona: Jamie
+    - Personality trait: A passionate fell runner who has recently started participating in races. Jamie values the importance of proper nutrition and is emotionally invested in improving their performance. They seek expert advice to create a meal plan that enhances their training and race outcomes.
+    - Reflection question: What factors do you think are the most important to consider when creating a nutrition plan for a specific race?
+
+    **Generated conversation 2: Eating for Endurance: Fueling During Races**
+
+    - Conversation type: Role-play
+    - Conversation scenario: An enthusiastic runner named Alex is preparing for their first fell race and is worried about their energy levels during the race. They seek your advice on what to eat before and during the race to maintain stamina.
+    - AI persona: Alex
+    - Personality trait: An eager newcomer to fell running, Alex is dedicated to improving their endurance. They value community support and want to ensure they have enough energy for the race. Alex is looking for practical advice that will help them succeed on race day.
+    - Reflection question: How do you think individual differences in metabolism might affect the nutritional needs of athletes during a race?
+
+    (Conversation 3 not pictured)
 
 ## Marking & feedback
 
