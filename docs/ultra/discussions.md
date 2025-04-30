@@ -77,7 +77,16 @@ Users can access discussions in two locations:
 
 ## Follow a discussion
 
-You can follow (subscribe to) a discussion to receive notifications of responses, replies and other activity by email and/or in the Activity Stream.
+You can follow (subscribe to) a discussion to receive notifications of posts, replies and other activity by email and/or in the Activity Stream.
+
+To follow a discussion, open the Discussion item and click the **Follow** bell icon adjacent to Discussion Topic.
+![Decorative](images/discussion-follow.png)
+
+Your [system notification settings](../ultra/notifications.md) also need to be configured for Discussions:
+
+- **Email notifications - Email me straight away**: tick the *Discussion activity* box, or expand to select specific actions. You will receive an email immediately for all selected activity.
+- **Email notifications - Email me once a day**: tick the *New discussion messages* box. You will receive an email at the end of the day for new and unseen messages (ie. you won't receive notifications for posts that day that you have already read in the site).
+- **Activity Stream notifications**: tick the *Discussion activity* box, or expand to select specific actions. You will receive these notifications straight away.
 
 Notifications contain the site and discussion name, but not the post itself, so you'll need to visit the Discussion to read it. A *new* label shows new activity since your last visit.
 
@@ -91,15 +100,6 @@ Notifications contain the site and discussion name, but not the post itself, so 
 <figcaption>Activity stream notification of new discussion activity</figcaption>
 </figure>
 </div>
-
-To follow a discussion, open the Discussion item and click the **Follow** bell icon adjacent to Discussion Topic.
-![Decorative](images/discussion-follow.png)
-
-Your [system notification settings](../ultra/notifications.md) also need to be configured for Discussions:
-
-- **Email notifications - Email me straight away**: tick the *Discussion activity* box, or expand to select specific actions. You will receive an email immediately for all selected activity.
-- **Email notifications - Email me once a day**: tick the *New discussion messages* box. You will receive an email at the end of the day for new and unseen messages (ie. you won't receive notifications for posts that day that you have already read in the site).
-- **Activity Stream notifications**: tick the *Discussion activity* box, or expand to select specific actions. You will receive these notifications straight away.
 
 ## Discussion options
 
@@ -121,7 +121,7 @@ To do this:
 ![Decorative](images/discussion-anonymous-enable.png)
 </div>
 
-Posts are not automatically anonymous - users must  tick **Post anonymously** before they submit a response.
+Posts are not automatically anonymous - users must  tick **Post anonymously** before they submit their response.
 
 ![Decorative](images/discussion-anonymous-post.png)
 
@@ -156,7 +156,7 @@ You can also limit discussion visibility using **Release Conditions**. However, 
 
 ### Post first
 
-You can require students to post a reply before they can see other students' posts. For example, students could:
+You can require students to make a post before they can see other students' contributions. For example, students could:
 
 - summarise a topic/key points from a reading before they see other students' ideas.
 - create multiple choice questions for other students to test their understanding.
