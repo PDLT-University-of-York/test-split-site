@@ -59,7 +59,7 @@ There are various rubric types available, which differ in terms of how the mark 
 
     By default the same value ranges are used for each criteria, but you can manually adjust these if needed. This doesn't affect the criteria weighting (eg. 25% of total mark).
 
-    ![decorative](images/rubric-type-percentage-range.png)
+    ![described in text](images/rubric-type-percentage-range.png)
 
 === "Points"
 
@@ -72,7 +72,7 @@ There are various rubric types available, which differ in terms of how the mark 
 
     Points-based rubrics are weighted using the maximum points for each criterion. So to equally weight criteria, set each to have the same maximum points values. 
 
-    ![decorative](images/rubric-type-points.png)
+    ![described in text](images/rubric-type-points.png)
 
 === "Points range"
 
@@ -85,7 +85,20 @@ There are various rubric types available, which differ in terms of how the mark 
 
     Points-based rubrics are weighted using the maximum points for each criterion. So to equally weight criteria, set each to have the same maximum points values.
 
-    ![decorative](images/rubric-type-points-range.png)
+    ![described in text](images/rubric-type-points-range.png)
+
+=== "No points"
+
+    Each attainment band can be selected to provide feedback, but no points are awarded.
+
+    - Excellent = no points
+    - Satisfactory = no points
+    - Unsatisfactory = no points
+    - Poor = no points
+
+    This is useful for purely formative or ungraded work, or to use the rubric only for feedback and manually enter a grade.
+
+    ![described in text](images/rubric-type-no-points.png)
 
 ## Create and manage Rubrics
 
@@ -225,10 +238,12 @@ This section only covers the specific details of marking with a rubric. See our 
     - show or hide the descriptor for each attainment level
     - expand or collapse a criterion's attainment levels
 </br>![Rubric in marking panel showing icons for display settings described in text](images/rubric-mark-panel.png)
-3. To enter a mark, select the appropriate attainment level for each criterion. For a percentage or points range, enter the specific mark within the range.
-4. As you enter raw marks, these are converted to a weighted criterion mark and added to the calculated rubric mark for the submission.
+3. Select the appropriate attainment level for each criterion. For a percentage or points range, also enter the specific mark within the range.
+4. For points or percentage rubric types, as you enter raw marks, these are converted to a weighted criterion mark and added to the calculated rubric mark for the submission.
 </br>![example raw criterion mark = 75, weighted criterion mark = 15, calculated rubric mark = 69.6/100](images/rubric-mark-enter.png)
-4. You can also add written feedback:
+5. For no points rubrics, add the final grade manually in the mark pill in the top right.
+</br>![decorative](images/rubric-no-points-mark-pill.png)
+6. You can also add written feedback:
 
     - *Criterion-specific feedback*: click the **speech bubble icon** next to the criterion title. Note: It is not possible to open this feedback box if you have overridden the rubric mark.
     </br>![Criterion feedback text entry box](images/rubric-feedback-criterion.png)
@@ -238,10 +253,10 @@ This section only covers the specific details of marking with a rubric. See our 
 
 Once marks are posted, students can see all the rubric information within the submission:
 
-- the overall rubric mark
-- the criterion mark and the relevant descriptor
+- the overall rubric mark and criterion marks (not for no-points rubrics)
+- the final mark (if mark is manually entered or a mark schema used)
+- relevant criterion descriptors
 - any additional feedback given
-- the final mark, if a mark schema is applied or the rubric mark is manually overridden
 
 ### Using a Rubric with a Mark Schema 
 
