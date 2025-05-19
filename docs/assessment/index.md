@@ -3,7 +3,11 @@
 !!! Summary
     
     A range of digital tools and platforms are available to support formative and summative assessment and feedback.
-    
+
+!!! Tip "Assessment admins: prepare for CAP"
+
+    We have a specific [Assessment readiness guide](https://docs.google.com/document/d/1zsQX9LK37lSYqM7gXbbjKsPBLF7f7CiayU69EC_wLV8/edit?usp=sharing) covering the key considerations to prepare and check assessment set up before CAP.
+
 ## Key assessment guides
 
 <div class="grid cards" markdown>
