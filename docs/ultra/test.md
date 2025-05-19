@@ -34,11 +34,7 @@ Test has a lot of flexible features, which makes it useful in many situations, f
 === "Knowledge check"
 
     **A short, one-off self-assessment**
-
-    !!! Tip
-
-        Don't use the Essay question type, so that the knowledge check can be automatically graded. 
-    
+   
     Some examples:
 
     - **self assessment/knowledge check**: a few questions to check understanding of weekly content. You can do this using Test or by adding questions directly within a [Document](../ultra/documents.md).
@@ -58,10 +54,6 @@ Test has a lot of flexible features, which makes it useful in many situations, f
 === "Practice quiz"
 
     **An informal quiz that can be taken multiple times**
-
-    !!! Tip
-
-        Don't use the Essay question type, so that the quiz can be automatically graded. 
 
     Some examples:
 
@@ -123,19 +115,6 @@ Find out more about how Test has been applied across the University:
     See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
-## Question types
-
-| Question type | Description | Grading type | AI generation |
-| ----------- | ----------- | ----------- | ----------- |
-| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Option order is randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
-| [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Set if answers should be exact, match part of a specified answer or match a pattern. | auto graded | can be auto-generated |
-| [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
-| [True/False](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Choose True or False in response to a given statement. | auto graded | can be auto-generated |
-| [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
-| [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Can set the answer as an extact number or within a range.| auto graded | manual only |
-| [Hotspot](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Drop pin(s) on an image. Consider accessibility carefully. | auto graded | manual only |
-| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Type a response (of any length) in the answer box. Can provide a model answer for feedback. | manually graded | can be auto-generated |
-
 ## Create a Test
 
 === "Knowledge check"
@@ -178,15 +157,90 @@ Find out more about how Test has been applied across the University:
 
     You can build and trial the Test in your personal Ultra sandpit site, and when it is ready use the [Copy Content tool](../ultra/copy-content.md) to add it to your module/exam site in the relevant location.
 
-## Accessible Test Content
+## Test Settings
 
-As with all teaching content, accessibility is very important when building test questions and answer options. [All the usual considerations around accessibility apply to tests](../accessibility/accessible-ultra-content.md), but it is **particularly** important that you take into consideration accessibility when using tables, images or mathematical content in test questions.
+There are various settings possible for Tests, including;
 
+- due date and attempt management
+- randomising the order of pages, questions and answers
+- how marks and feedback are presented to students
+
+Edit key settings such as due date directly in the **Assessment settings** panel, or click the **cog icon** to open the full Test settings.
+
+![decorative](images/test-settings.png)
+
+=== "Knowledge check"
+
+    **Suggested settings**
+    
+    - Details & Information
+        - tick *No due date*
+    - Presentation Options
+        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
+    - Formative Tools
+        - tick *Formative assessment*
+        - leave *Display formative label to students* ticked
+    - Marking & Submissions
+        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
+        - Attempts allowed: set to Unlimited
+        - Assessment mark: leave *Post assessment marks automatically* ticked
+    - Description: add an optional short description to display under the item's name in the Course Content area.
+    - Leave all other settings unticked or as the default.
+
+=== "Practice quiz"
+
+    !!! Tip
+
+        Randomising questions displays **all questions** in the Test in a random order. To instead display a random subset of possible questions, use a Question Pool.
+
+    **Suggested settings**
+
+    - Details & Information
+        - tick *No due date*
+    - Presentation Options
+        - if no randomisation needed: leave all unticked
+        - if randomisation is needed: tick *Randomise questions*, *Randomise answers* or *Randomise pages* as desired
+        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
+    - Formative Tools
+        - tick *Formative assessment*
+        - leave *Display formative label to students* ticked
+    - Marking & Submissions
+        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
+        - Attempts allowed: set to Unlimited
+        - Assessment mark: leave *Post assessment marks automatically* ticked
+    - Description: add an optional short description to display under the item's name in the Course Content area.
+    - Leave all other settings unticked or as the default.
+    
+=== "Formal exam"
+
+    It's essential that settings are correct for formal exams. This will depend on the structure of your Test and other requirements.
+    
+    [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
+
+## Test questions
+
+<!-- ### Accessible Test Content NEEDS UPDATING
+
+[All the usual accessibility considerations apply to Tests](../accessibility/index.md), but it is **particularly** important that you take into consideration accessibility when using tables, images or mathematical content in test questions.
+
+- If using images or graphs, 
 - Guidance on creating accessible images, table and maths can be found on [our "Ultra Accessibility" VLE page](https://vle.york.ac.uk/ultra/courses/_106795_1/outline). (Don't have access? [Contact us](mailto:vle-support@york.ac.uk)).
-- [Examples of quality alternative text on graphs, diagrams and other complex images can be found here](https://www.routledge.com/our-customers/authors/publishing-guidelines/accessible-content/general-samples).
+- [Examples of quality alternative text on graphs, diagrams and other complex images can be found here](https://www.routledge.com/our-customers/authors/publishing-guidelines/accessible-content/general-samples). -->
 
+### Question types
 
-## Add Test questions
+| Question type | Description | Grading type | AI generation |
+| ----------- | ----------- | ----------- | ----------- |
+| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Option order is randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
+| [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Set if answers should be exact, match part of a specified answer or match a pattern. | auto graded | can be auto-generated |
+| [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
+| [True/False](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Choose True or False in response to a given statement. | auto graded | can be auto-generated |
+| [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
+| [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Can set the answer as an extact number or within a range.| auto graded | manual only |
+| [Hotspot](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Drop pin(s) on an image. Consider accessibility carefully. | auto graded | manual only |
+| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Type a response (of any length) in the answer box. Can provide a model answer for feedback. | manually graded | can be auto-generated |
+
+### Adding questions
 
 There are various ways to add questions to a Test. Which method is most appropriate depends on the amount of questions to add, whether to display all questions or a random subset, and whether questions have already been added elsewhere in the site.
 
@@ -224,11 +278,9 @@ There are various ways to add questions to a Test. Which method is most appropri
 
     - add questions to a Question Bank or another Test and then set up a Question Pool(s) in this Test
     
-### Manually add questions
+??? Abstract "Manually add questions"
 
-Add questions individually within the Test interface. You may find it helpful to draft your questions in another document first.
-
-??? question "How to manually add questions"
+    Add questions individually within the Test interface. You may find it helpful to draft your questions in another document first.
 
     1. Click the **plus + icon**.
     2. Select the relevant question type.
@@ -243,17 +295,15 @@ Add questions individually within the Test interface. You may find it helpful to
     5. Click **Save**.
     6. Repeat for all questions.
 
-### Auto-generate questions with AI
+??? Abstract "Auto-generate questions with AI"
 
-Use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate key question types based on your site content. See [Question types](#question-types) above for the supported types.
+    Use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate key question types based on your site content. See [Question types](#question-types) above for the supported types.
 
-!!! ai "Using AI tools effectively"
+    !!! ai "Using AI tools effectively"
 
-    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+        AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
 
-    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
-
-??? question "How to auto generate questions"
+        See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
     1. Create a Test or open an existing Test or Question Bank. To generate a new Question Bank, select **Auto generate** and skip step 2.
     2. Click the **plus icon** where you would like the question(s) to appear, and select **Auto-generate question**.
@@ -294,22 +344,20 @@ Use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate key quest
 
         Further questions are not visible on this screen, scroll to reveal.
 
-### Upload questions from a file
+??? Abstract "Upload questions from a file"
 
-Draft questions in a spreadsheet and **upload them in .tsv format** to your Test. This is helpful to import lots of questions quickly.
+    Draft questions in a spreadsheet and **upload them in .tsv format** to your Test. This is helpful to import lots of questions quickly.
 
-To use optional question settings (eg. partial credit), first upload your file and then manually update each question.
+    To use optional question settings (eg. partial credit), first upload your file and then manually update each question.
 
-??? question "How to upload questions from a file"
-
-    Prepare the file
+    **Prepare the file**
 
     1. Make a copy of the [Ultra tsv template for Tests Google Sheet](https://docs.google.com/spreadsheets/d/17G_QC4bgFbiLmgIFyIl-jOfLbLLFr8yAxCMF3flwGoM/copy)
     2. Enter your questions by editing the *BB test* tab (contains examples of the formatting required for each question type).
     </br>![Multiple choice question in the .tsv format](images/test-upload-tsv-example.png)
     3. Download the questions in .tsv format: File > Download > Tab-separated values (.tsv)
 
-    Upload the file
+    **Upload the file**
 
     1. Return to the Test and click the **plus + icon**.
     2. Select **Upload questions from file**.
@@ -319,15 +367,13 @@ To use optional question settings (eg. partial credit), first upload your file a
 
     For more details and examples of the required file format, see [Blackboard's guide to uploading questions](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Reuse_Questions/Upload_Questions).
 
-### Reuse questions
+??? Abstract "Reuse questions"
 
-Copy questions that already appear in another Test or Question Bank in the site. This creates copies of questions, so any edits made to re-used questions are not updated in the original question. 
+    Copy questions that already appear in another Test or Question Bank in the site. This creates copies of questions, so any edits made to re-used questions are not updated in the original question. 
 
-!!! Tip
+    !!! Tip
 
-    Reusing questions will display all of the selected questions in the Test. If you want to display only a subset (eg. 2 of 10 possible questions), use a Question Pool instead.
-
-??? question "How to reuse questions"
+        Reusing questions will display all of the selected questions in the Test. If you want to display only a subset (eg. 2 of 10 possible questions), use a Question Pool instead.
 
     1. Click the **plus + icon**.
     2. Select **Reuse questions**.
@@ -336,17 +382,15 @@ Copy questions that already appear in another Test or Question Bank in the site.
     4. Click **Copy questions**.
     5. Once the copy is processed, review the status message for any errors.
 
-### Question pools
+??? Abstract "Question pools"
  
-Add a random subset of questions that already appear in another Test or Question Bank in the site. This is useful for creating robust assessments and also for practice quizzes that students may take multiple times.
+    Add a random subset of questions that already appear in another Test or Question Bank in the site. This is useful for creating robust assessments and also for practice quizzes that students may take multiple times.
 
-Question pools do not copy questions; any edits made to questions in a pool will appear everywhere that question is used. Deleting a question from a Question pool does not delete the question in other locations.
+    Question pools do not copy questions; any edits made to questions in a pool will appear everywhere that question is used. Deleting a question from a Question pool does not delete the question in other locations.
 
-!!! Warning
+    !!! Warning
 
-    For a fair and valid assessment, all questions in an individual pool must be of equivalent difficulty. To include questions at different levels or points values, use multiple pools.
-
-??? question "How to add question pools"
+        For a fair and valid assessment, all questions in an individual pool must be of equivalent difficulty. To include questions at different levels or points values, use multiple pools.
 
     1. Click the **plus + icon**.
     2. Select **Add question pool**.
@@ -362,78 +406,6 @@ Question pools do not copy questions; any edits made to questions in a pool will
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cuWBxlV2FVM?si=nJxIyIk57ixUln30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </br>[Use Question Pools in Assessments in the Ultra Course View [YouTube]](https://youtu.be/cuWBxlV2FVM?si=ulkRHUN9G8-YGIWq)
-
-## Test Settings
-
-There are various settings possible for Tests, including;
-
-- due date and attempt management
-- randomising the order of pages, questions and answers
-- how marks and feedback are presented to students
-
-!!! Tip
-
-    Randomising questions displays **all questions** in the Test in a random order. To instead display a random subset of possible questions, use a Question Pool.
-
-Edit settings in the **Assessment settings** panel:
-
-- Click the **cog icon** to open the full Test settings
-- The settings summary gives quick access to some settings: Due date, Mark category, Marking, Attempts allowed, Originality Report
-
-![decorative](images/test-settings.png)
-
-=== "Knowledge check"
-
-    **Suggested settings**
-
-    - Details & Information
-        - tick *No due date*
-        - leave other options unticked
-    - Presentation Options
-        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
-        - leave other options unticked
-    - Formative Tools
-        - tick *Formative assessment*
-        - leave *Display formative label to students* ticked
-    - Marking & Submissions
-        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
-        - Attempts allowed: set to Unlimited
-        - Assessment mark: leave *Post assessment marks automatically* ticked
-        - leave other options unticked
-    - Assessment results: no action needed
-    - Assessment security: no action needed
-    - Additional Tools: no action needed
-    - Description: add an optional short description to display under the item's name in the Course Content area.
-
-=== "Practice quiz"
-
-    **Suggested settings**
-
-    - Details & Information
-        - tick *No due date*
-        - leave other options unticked
-    - Presentation Options
-        - if no randomisation needed: leave all unticked
-        - if randomisation is needed: tick *Randomise questions*, *Randomise answers* or *Randomise pages* as desired
-        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
-    - Formative Tools
-        - tick *Formative assessment*
-        - leave *Display formative label to students* ticked
-    - Marking & Submissions
-        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
-        - Attempts allowed: set to Unlimited
-        - Assessment mark: leave *Post assessment marks automatically* ticked
-        - leave other options unticked
-    - Assessment results: no action needed
-    - Assessment security: no action needed
-    - Additional Tools: no action needed
-    - Description: add an optional short description to display under the item's name in the Course Content area.
-    
-=== "Formal exam"
-
-    It's essential that settings are correct for formal exams. This will depend on the structure of your Test and other requirements.
-    
-    [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
 
 ## Print or download a Test
 
