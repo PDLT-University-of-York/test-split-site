@@ -35,15 +35,23 @@ We are not currently able to fully support Gradescope; please refer to Gradescop
 
 ## UoY-specific guidance
 
-### For all staff
+Comparison of the centrally supported assessment file submission platforms: [**TurnItin vs Ultra Assignment vs Gradescope**](https://docs.google.com/document/d/10GM1FlanvzeqAEXTjMxaKyGkPb0z5DDCMag77ksBOcA/edit?usp=sharing)
 
-[**TurnItin vs Ultra Assignment vs Gradescope** - Centrally supported assessment file submission platforms](https://docs.google.com/document/d/10GM1FlanvzeqAEXTjMxaKyGkPb0z5DDCMag77ksBOcA/edit?usp=sharing)
+An overview of Gradescope’s templated and variable length configurations and their marking workflow:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-g5g-7RgIgM?si=TvMQHbOhn4runJw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Or open full screen:
+
+- [[You Tube] Gradescope templated & variable length overview](https://youtu.be/-g5g-7RgIgM)
+- [[Panopto] Gradescope templated & variable length overview (UoY sign in required)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a41b2d7a-878f-4a4d-91fc-b2d500fc3696)
 
 ### For admins
 
 - [**Gradescope Administration - Overview** of the Gradescope Assignment handling platform and how to insert a submission point](https://docs.google.com/document/d/1lbGybQcvJ_4LhHy6nae_uEYfONN_cWppHYbbKszCt_g)
 - [Gradescope Administration - **Configuring** a Gradescope **Exam/Quiz or Homework / Problem Set Assignment**](https://docs.google.com/document/d/1Ry4hv2HtYCx0BSflyzdV0oXTmhVycfy5JeJy7agBB7A)
 - [Gradescope Administration - **Configuring** a Gradescope **Bubble Sheet Assignment**](https://docs.google.com/document/d/1HVkx_cAe-Ojuh2r8SUmhIXT4o_0jUQWsGqepNK1XMtk)
+- [Gradescope Administration - Creating a **restricted editing submission template**](https://docs.google.com/document/d/14w1FP3r7XCqEJXCljEq3DxGwIICxZxe3hAZHcYZomOU)
 - [Gradescope Administration - Entering Student **Extensions**](https://docs.google.com/document/d/1DxMXpXlpr8L6JrIXMwASStOdv1pMuS7IooonVfllGRc)
 - [Gradescope Administration - Re-syncing the **Roster**](https://docs.google.com/document/d/1DeGnbAt5nwxmZqs8TkdgIhVkz8ibIxMk6LVgVvBAb08)
 - [Gradescope Administration - Managing **problematic or unidentified submissions** for a staff uploaded submission point](https://docs.google.com/document/d/1c4iyvL-a1pMUS2hWdgH4dJRWbwnrt57yPbnOpiXce1A)
