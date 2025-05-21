@@ -37,7 +37,7 @@ These pages provide information on Mentimeter at the University of York with:
 
 !!! Warning
 
-    - Mentimeter has robust data protection measures in place but it should never be used to process ‘internal, confidential or special categories of personal data, nor any other personal data that is particularly worthy of protection’.
+    - Mentimeter has robust data protection measures in place but it should never be used to process ‘internal, confidential or [special categories of personal data](https://www.york.ac.uk/records-management/dp/whatispersonaldata/), nor any other personal data that is particularly worthy of protection’.
     - You must only use the platform in connection with the role you have at the University, which may involve teaching, studying or research, administration or management.
     - You must not use the platform for any private or commercial purposes.
 
