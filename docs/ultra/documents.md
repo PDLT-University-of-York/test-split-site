@@ -228,12 +228,12 @@ Use this block to add a multiple choice question into the Document so students c
 
         Contains data about attempts made and answers selected. 
 
-        - Students (1/2)
+        - Students (1 of 5)
         - Overall attempts (2)
         - Average attempts to correct answer (2)
         - Maximum attempts to correct answer (2)
         - Difficulty rating (Medium)
-        - Breakdown of options selected by students (correct option 50%, one incorrect option 50%, other two options 0%) - not shown on the Statistics panel
+        - Breakdown of options selected by students (correct option 50%, one incorrect option 50%, other two options 0%)
 
 To add more complex knowledge checks or practice quizzes as a separate content item, see our [guide to the Test tool](../ultra/test.md).
 
