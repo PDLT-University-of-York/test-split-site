@@ -14,11 +14,11 @@ tags:
 Discussions can be used in many ways, such as:
 
 - Q&A forum, with optional anonymous posting
-- sharing small-scale student contributions (eg. a relevant paper)
+- sharing small-scale student contributions
 - asynchronous seminar-style discussion
 - facilitating group work
 
-!!! case-study "Case study: Using the journal tool and discussion groups on the *Strategic planning: a journey* module"
+??? case-study "Case study: Using the journal tool and discussion groups on the *Strategic planning: a journey* module"
 
     Jonathan Fanning shares his experiences of using the Course Group, Journal and Discussion tools to support a highly interactive project-based module in SBS. 
 
@@ -32,29 +32,25 @@ Discussions can be used in many ways, such as:
 
 ## Create a discussion
 
-1. In the Course Content area, hover where the discussion should appear. Click the **plus icon** then **Create**.</br>
-2. Under **Participation and Engagement**, select **Discussion**.</br>
-![Decorative](images/discussion-create.png)
-3. Enter a descriptive **discussion title** at the top left. 
-4. Enter instructions or an initial post in the text editor box and click **Save**, or click **Auto-generate discussion** to [use AI to generate a discussion prompt](#generate-discussion-prompts-with-ai). This will also be shown to students as the item description on the course content page.
+1. In the Course Content area, hover where the discussion should appear. Click the **plus icon** then **Create**.
+2. Under **Participation and Engagement**, select **Discussion**
+</br>![Decorative](images/discussion-create.png)
+3. Enter a descriptive **discussion title** at the top. 
+4. Enter instructions or an initial post in the text editor box and click **Save**, or click **Auto-generate discussion** to [use AI to generate a discussion prompt](#generate-discussion-prompts-with-ai). Text entered here is also shown as the item description on the course content page.
 </br>![Example initial post: What are the most important factors to consider when organising a fell race? Include at least two factors and respond to at least two of your peers.](images/discussion-initial-post.png)
-5. To [follow/subscribe to the discussion](#follow-a-discussion), click the **Follow** bell icon adjacent to Discussion Topic (shown after a prompt is saved).
-6. Optionally, click the **cog icon** to open Settings, including:
+5. To [follow/subscribe to the discussion](#follow-a-discussion), click the **Follow** bell icon next to the discussion topic (save the prompt first).
+6. Click the **cog icon** to open Settings, including:
     - student posting & editing settings (including [allow anonymous posts](#anonymous-posting))
     - [assign the discussion to groups](#assign-to-groups)
     - [mark the discussion](#mark-discussion)
-7. Set the discussion as **Visible to students** or specify  **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
+7. Set the discussion as **Visible to students** or specify **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
 </br>![Decorative](images/discussion-set-up.png)
 
 Watch a demonstration of creating a Discussion:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q404ODzUS5w" title="Setting up discussions in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Setting up discussions in Ultra [YouTube]](https://youtu.be/Q404ODzUS5w)
 
-## Generate Discussion prompts with AI
-
-You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate Discussion prompts based on your site content. 
-
-Prompts may be most useful for exploring ideas for assessments and project work, as tasks suggested are often more complex or time-consuming than appropriate for weekly or formative tasks.
+### Generate Discussion prompts with AI
 
 !!! ai "Using AI tools effectively"
 
@@ -62,14 +58,16 @@ Prompts may be most useful for exploring ideas for assessments and project work,
 
     See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
+The [AI Design Assistant Tool](../ultra/ai-da.md) can auto-generate Discussion prompts based on your site content. This may be most useful for exploring ideas for project work and assessments, as tasks suggested are often quite complex.
+
 ## Access a discussion
 
-Users can access discussions in two locations:
+There are two ways to access discussions:
 
-- In the **Course Content area**, for example in a weekly materials section.</br>
-![Course content area: Week 2 section containing lecture and Discussion](images/discussion-access-course-content-area.png)
-- In the dedicated **Discussions area** reached from the top navigation bar. You can also create and organise Discussions here.</br>
-![Discussions Area: all Discussions in the course collated together](images/discussion-access-discussion-area.png)
+- Click on a Discussion located within module materials in the **Course Content area**.
+</br>![Discussion within a weekly materials section](images/discussion-access-course-content-area.png)
+- Open the dedicated **Discussions tab** in the top navigation bar for a list of all Discussions on the site. The tab also shows a counter of unread Discussion posts.
+</br>![Decorative](images/discussion-access-navigation-tab.png)
 
 !!! Tip
 
@@ -183,7 +181,7 @@ You can also grade discussions. This could be useful to:
 ![Marked discussion: due date set and 100 maximum points](images/discussion-mark-details.png)
 </div>
 
-!!! Note
+!!! Tip
 
     You cannot mark discussions that allow anonymous posting.
 
