@@ -38,7 +38,7 @@ Discussions can be used in many ways, such as:
 3. Enter a descriptive **discussion title** at the top. 
 4. Enter instructions or an initial post in the text editor box and click **Save**, or click **Auto-generate discussion** to [use AI to generate a discussion prompt](#generate-discussion-prompts-with-ai). Text entered here is also shown as the item description on the course content page.
 </br>![Example initial post: What are the most important factors to consider when organising a fell race? Include at least two factors and respond to at least two of your peers.](images/discussion-initial-post.png)
-5. To [follow/subscribe to the discussion](#follow-a-discussion), click the **Follow** bell icon next to the discussion topic (save the prompt first).
+5. To [follow/subscribe to the discussion](#follow-a-discussion), click the **Follow** bell icon next to the discussion topic.
 6. Click the **cog icon** to open Settings, including:
     - student posting & editing settings (including [allow anonymous posts](#anonymous-posting))
     - [assign the discussion to groups](#assign-to-groups)
