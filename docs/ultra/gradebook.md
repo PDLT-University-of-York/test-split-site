@@ -193,7 +193,7 @@ Download detailed marks for a specific Ultra assessment (Assignment, Test etc.).
 
 ### Download submissions
 
-Download all submissions to an Ultra Assignment submission point as a ZIP file:
+Download all submissions to a specific Ultra assessment (Assignment, Test etc.) as a ZIP file:
 
 <div markdown class="flexcols">
 <div markdown class="col65">
