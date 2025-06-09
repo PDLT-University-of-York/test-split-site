@@ -157,7 +157,7 @@ Find out more about how Test has been applied across the University:
 
     You can build and trial the Test in your personal Ultra sandpit site, and when it is ready use the [Copy Content tool](../ultra/copy-content.md) to add it to your module/exam site in the relevant location.
 
-## Test Settings
+## Test settings
 
 There are various settings possible for Tests, including;
 
@@ -233,6 +233,7 @@ Edit key settings such as due date directly in the **Assessment settings** panel
 | ----------- | ----------- | ----------- | ----------- |
 | [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick the correct answer(s) from options given. Option order is randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
 | [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Set if answers should be exact, match part of a specified answer or match a pattern. | auto graded | can be auto-generated |
+| [Jumbled Sentence](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Jumbled_Sentence_Questions) | Similar to Fill in the Blank, but select from a list of options instead of entering text. | auto graded | can be auto-generated |
 | [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Options can be fixed or randomised. Can give partial or negative credit. | auto graded | can be auto-generated |
 | [True/False](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Choose True or False in response to a given statement. | auto graded | can be auto-generated |
 | [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |

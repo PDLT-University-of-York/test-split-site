@@ -157,7 +157,7 @@ Navigate the submission file using icons on the left of the menu bar: view thumb
 Comments can be added at specific points on the submission:
 
 1. Click the **Comment icon** in the menu bar, then click the desired location. Or, select the relevant text then click the **comment icon** in the menu above the text.
-2. Enter your comment into the box.
+2. Enter your comment into the pop-up  box. On a small screen this may appear at the bottom of the window.
 3. By default, your name will be shown on the comment. If desired, click the **Anonymous icon** to make the comment anonymously.
 4. Click the **Save button** (this may be shown as an **up arrow icon**).
 5. To edit, delete or change anonymity of a comment, click the **three dots icon** and select the relevant option. 

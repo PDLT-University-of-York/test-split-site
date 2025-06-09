@@ -39,17 +39,7 @@ In edit mode, click the **Accessibility score icon** to open the accessibility f
 
 ## Content blocks
 
-<!-- The available block types are:
-
-- [Content (text editor)](#block-content-text-editor)
-- [HTML (embedded content)](#block-html)
-- [Knowledge check](#block-knowledge-check)
-- [File upload](#block-file-upload)
-- [Content Collection](#block-content-collection)
-- [Image](#block-image)
-- [Convert a file](#block-convert-a-file) -->
-
-![Blocks available: Content, HTML, Knowledge check, File upload, Content Collection, Image, Convert a file](images/documents-content-blocks.png)
+![Blocks available: Content, HTML, Knowledge check, File upload, Content Collection, Image, Divider, Convert a file](images/documents-content-blocks.png)
 
 Documents are built from drag-and-drop content blocks. Add blocks using these methods:
 
@@ -238,12 +228,12 @@ Use this block to add a multiple choice question into the Document so students c
 
         Contains data about attempts made and answers selected. 
 
-        - Students (1/2)
+        - Students (1 of 5)
         - Overall attempts (2)
         - Average attempts to correct answer (2)
         - Maximum attempts to correct answer (2)
         - Difficulty rating (Medium)
-        - Breakdown of options selected by students (correct option 50%, one incorrect option 50%, other two options 0%) - not shown on the Statistics panel
+        - Breakdown of options selected by students (correct option 50%, one incorrect option 50%, other two options 0%)
 
 To add more complex knowledge checks or practice quizzes as a separate content item, see our [guide to the Test tool](../ultra/test.md).
 
@@ -326,6 +316,11 @@ Images should be high quality and must comply with copyright regulations. The [U
 
         **Search results:** 9 images shown on first page (of 10,000 results). None are particularly relevant to the combined search terms: one shows a compass held up in front of pine trees, five show mountain scenes but no people, and three show other types of runners.
 
+### Block: Divider
+
+![A narrow grey bar separating introduction and lecture content](images/documents-block-divider.png)
+
+Use this block to add a grey divider between content items. This is resizable in the same way as other items. To add, just click where you want the divider to appear and select **Divider**.
 
 ### Block: Convert a File
 
@@ -337,12 +332,12 @@ Images should be high quality and must comply with copyright regulations. The [U
 
 Use this block to convert a PDF, Word or PowerPoint file on your device to include the content directly within a Document. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. 
 
-To convert a file:
+??? Info "Convert a file"
 
-1. Use the *hover to add* method and select the **Convert a File** block.
-2. Select the relevant file from your device.
-3. Wait while the file content is converted. Depending on the size of the file, this could take a few minutes.
-4. Carefully check and adapt the content and formatting as necessary.
+    1. Use the *hover to add* method and select the **Convert a File** block.
+    2. Select the relevant file from your device.
+    3. Wait while the file content is converted. Depending on the size of the file, this could take a few minutes.
+    4. Carefully check and adapt the content and formatting as necessary.
 
 ## Layout
 
