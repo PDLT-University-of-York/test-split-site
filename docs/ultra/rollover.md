@@ -35,7 +35,7 @@ This is a general indication of the timeline for the rollover process. Particula
 
 Relevant staff are enrolled on new sites when they are created, so the will appear in enrolled users' [Course list](../ultra/courses-list.md) immediately after rollover. To easily locate the new sites, use the **Terms** filter and select the upcoming academic year.
 
-![Terms filter in search bar above courses list, with drop-down showing different academic years](images/courses-list-term.png)
+![Terms filter in search bar above courses list, with drop-down showing different academic years](images/courses-list-terms.png)
 
 ### Student access
 
