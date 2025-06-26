@@ -20,6 +20,7 @@ nav:
       - Discussion: ultra/discussions.md
       - Journal | reflection: ultra/journal.md
       - Ally | accessibility tool: ultra/ally-tool.md
+      - Ultra accessibility report: ultra/ally-accessibility-report.md
       - AI conversation: ultra/ai-conversation.md
       - AI Design Assistant: ultra/ai-da.md
       - Upload Files: ultra/files.md
@@ -30,6 +31,7 @@ nav:
       - Content visibility & release conditions: ultra/content-visibility.md
       - Copy content: ultra/copy-content.md
       - Batch edit: ultra/batch-edit.md
+      - Export course package: ultra/export-course-package.md
       - Standard Ultra site names: ultra/site-name.md
       # - Manage content in shared sites: ultra/content-shared-sites.md
     - Communication & interaction:
@@ -53,6 +55,7 @@ nav:
       - Course access | site availability: ultra/course-access.md
       - Course staff: ultra/course-staff.md
       - User management: ultra/user-management.md
+      - Rollover: ultra/rollover.md
     - Troubleshooting common issues: help/troubleshooting.md
   - Panopto Videos:
     - panopto/index.md
@@ -83,7 +86,7 @@ nav:
   - Accessibility:
     - accessibility/index.md
     - Ally | accessibility tool: ultra/ally-tool.md
-    # - Ultra | Accessibility report: ultra/ally-accessibility-report.md
+    - Ultra accessibility report: ultra/ally-accessibility-report.md
     - Practical Guide to Digital Accessibility: https://subjectguides.york.ac.uk/accessibility/home
     - Reading List | Accessibility: https://subjectguides.york.ac.uk/readinglists/accessibility 
     # - Accessible maths: accessibility/accessible-maths.md
