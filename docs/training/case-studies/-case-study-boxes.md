@@ -8,6 +8,9 @@
     See the [full case study for more details and the transcript](../training/case-studies/FILENAME.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
+# Case study: Using the journal tool and discussion groups on the *Strategic planning: a journey* module
+sbs-fanning
+
 !!! case-study "Case study: Using the journal tool and discussion groups on the *Strategic planning: a journey* module"
 
     Jonathan Fanning shares his experiences of using the Course Group, Journal and Discussion tools to support a highly interactive project-based module in SBS. 
@@ -297,6 +300,9 @@ sociology-beer
     See the [full case study for more details and the transcript](../training/case-studies/sociology-beer.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
+# Case study: Accessible VLE sites in Ultra
+env-geog-chapman
+
 !!! case-study "Case study: Accessible VLE sites in Ultra"
 
     Laura Chapman explains how Department of Environment and Geography have used the departmental template sites along with the Ally accessibility checker and alternative formats generator to maximise the accessibility of VLE sites for students.
@@ -309,13 +315,18 @@ sociology-beer
     See the [full case study for more details and the transcript](../training/case-studies/env-geog-chapman.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
-!!! case-study "Case study: [TITLE]"
+# Case study: Using accessibility reports to enhance module VLE sites
+sociology-robinson
 
-    [Short overview - a few lines max]
+!!! case-study "Case study: Using accessibility reports to enhance module VLE sites"
 
-    [PANOPTO EMBED CODE]
-    [TITLE [Panopto]](PANOPTO LINK) (LENGTH, UoY log-in required)
+    Carol Robinson explains how Ally Accessibility Reports are systematically used in the Department of Sociology to improve the accessibility of their module VLE sites.
 
-    See the [full case study for more details and the transcript](../training/case-studies/FILENAME.md).
+    Carol firstly demonstrates how to use the accessibility report within a site, and then goes on to describe the departmental processes for using the report to check and improve content accessibility.
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0a415c36-45cd-4717-8b03-b2a600c8d2f6&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Carol Robinson  - Using accessibility reports to enhance module VLE sites" ></iframe>
+
+    [Using accessibility reports to enhance module VLE sites (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0a415c36-45cd-4717-8b03-b2a600c8d2f6) (8 mins 18 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/sociology-robinson.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
-
