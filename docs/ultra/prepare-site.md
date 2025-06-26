@@ -218,10 +218,10 @@ Prepare this section by:
 
         - **Documents** (pages): exact copies
         - **Ultra Assignment**, **Test**, **Turnitin Feedback Studio**, **Gradescope**: 
-            - instructions and settings copied
+            - instructions and settings copied, check and update as needed
             - **deadlines copied, must be updated**
             - submissions are not copied
-        - **Release conditions**: copied, dates must be updated as needed.
+        - **Release conditions** for any materials: copied, must be checked and dates/conditions updated as needed.
 
     !!! Warning "Warning: action required"
 
@@ -304,9 +304,10 @@ Add your content to the relevant section by:
 
         - **Documents** (pages), **uploaded files**, **external links**: exact copies
         - **Course links**: copied updated to link to the relevant item in this year's site
-        - **Discussions**, **Journals**, **Forms**, formative **Tests**: blank copies, settings and due dates retained (check and update as necessary)
+        - **Discussions**, **Journals**, **Forms**, practice quizzes using **Test**: copied as blank items with same settings and due dates, check and update as necessary
         - **Embedded content**: copied exactly, so will embed the same item as the previous site. Anything particular to a cohort (eg. Panopto videos, Padlets) must be updated.
         - **SCORM objects**: may need to be redeployed using the original package
+        - **Release conditions** for any materials: copied, must be checked and dates/conditions updated as needed.
 
     <div markdown class="centered-image">
     ![Decorative](images/prepare-site-rollover-materials.png)
@@ -519,7 +520,6 @@ Note: the Reading List tool is supported by the [Library Reading List team](mail
 
         **Reading List link** in Course Content: copied, but will not link to the Reading List itself until manually attached by the Reading List Team over the summer holiday period.
 
-    
     Check the ***Reading List* link** in your Course Content area:
     
     - if it is missing, add the link by following the steps on the [Reading List guide](../other-tools/reading-list.md)
