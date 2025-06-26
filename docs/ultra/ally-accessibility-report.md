@@ -1,14 +1,9 @@
 ---
-search:
-  exclude: true
----
-
-<!-- ---
 tags:
     - Accessibility
     - Ultra
 ---
--->
+
 
 # Accessibility report
 !!! Summary
@@ -18,14 +13,17 @@ tags:
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.4 Essential: Site and materials content is accessible.
-    - 3.6 Essential: Links and materials titles describe the destination or content.
-    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
 
-## Overview and example
 
-The accessibility report gives a site-wide overview of content accessibility, pulling together the accessibility scores awarded to each item by the [Ally accessibility checker](../ultra/ally-tool.md#accessibility-checker). It can be used to identify common accessibility issues and specific items that need fixing.
+## Overview
 
-The case study below demonstrates how to access and use the accessibility report:
+!!! ai "Using automated tools effectively"
+
+    The accessibility report may not identify all issues within content, so treat this as a **starting point** for your accessibility considerations.
+
+The accessibility report gives a site-wide overview based on the accessibility scores awarded to individual content items by the [Ally accessibility checker](../ultra/ally-tool.md#accessibility-checker). It can be used to identify common accessibility issues and specific items that need fixing.
+
+The case study below introduces the report and explores how departments can use it as part of their site development process:
 
 ??? case-study "Case study: Using accessibility reports to enhance module VLE sites"
 
@@ -53,11 +51,13 @@ To open the site-wide accessibility report:
     - two quick start points: content that is easiest to fix and content with the lowest score
 </br>![described in text](images/ally-acccessibility-report-overview-panel.png)
 
+This is demonstrated in the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRZTV2KlGHE?si=84h-2kUfu7-tLgCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Access the accessibility report [YouTube]](https://youtu.be/HRZTV2KlGHE?feature=shared)
+
 ## Using the report to improving site content
-
-!!! ai "Using automated tools effectively"
-
-    The Ally accessibility checker may not identify all issues within content, so treat this report as a **starting point** for your accessibility considerations.
 
 !!! Tip
 
