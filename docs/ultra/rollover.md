@@ -52,3 +52,11 @@ Sites are created without student enrollments; these are added after the SITS da
 To prepare for the next academic year, various settings need to be updated in sites copied from a previous year along with clearing out old content. In sites copied from the template, module-specific information needs to be entered into template placeholder pages and module materials added.
 
 See our step-by-step guide to [prepare new sites for teaching](../ultra/prepare-site.md) for more details on efficiently completing these tasks.
+
+## Purge: the anti-rollover
+
+The complement to rollover is the Purge, where module sites older than five academic years are deleted from the VLE.
+
+Staff will be contacted by email with more detail if one of their sites is scheduled to be deleted, along with options to retain the site if a valid reason is given.
+
+For sites that are due to be deleted, staff may wish to download (aka “export”) a copy of their site for storage or future reference. See our guide to the [Export Course Package tool](../ultra/export-course-package.md) for details.
