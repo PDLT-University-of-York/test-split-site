@@ -76,7 +76,7 @@ Within the Gradebook, there are various tabs (or views) presenting assessment in
 
     **Use for**: a holistic view of a student's general and assessment activity
 
-    Click **Gradebook**, then select the **Students** tab. This list all students, with their Student ID, username and date of last access. Click the relevant Student name to open a list of all their assessment activity, marks and feedback, accommodations details and general student activity.
+    Click **Gradebook**, then select the **Students** tab. This list all students, with their Student ID, username and date of last access. Click the relevant Student name to open a list of all their assessment activity, marks and feedback, [accommodations](../ultra/accommodations.md) details and general student activity.
 
     ![decorative](images/gradebook-tab-students.png)
 
@@ -109,7 +109,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 <div markdown class="grid">
 <div markdown>
 - Automatically give a zero score if no work is submitted by the deadline.
-- This doesn't affect deadline accommodations or assessment-specific late submission settings
+- This doesn't affect deadline [accommodations](../ultra/accommodations.md) or assessment-specific late submission settings
 - Recommended setting: *off* (default for sites created from January 2025).
 </div>
 <div markdown class="centered-image">

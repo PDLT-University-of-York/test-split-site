@@ -73,7 +73,7 @@ Test has a lot of flexible features, which makes it useful in many situations, f
 
     Some examples:
 
-    - **Remote exam**: students begin the exam during a given time window (eg. 10:00 - 10:30) at a place of their choosing. They then have the given time limit (or longer if accommodations are set) to complete the exam. Can't be invigilated.
+    - **Remote exam**: students begin the exam during a given time window (eg. 10:00 - 10:30) at a place of their choosing. They then have the given time limit (or longer if [accommodations](../ultra/accommodations.md) are set) to complete the exam. Can't be invigilated.
     - **Scheduled on-campus exam**: students complete the exam at a set time in an on-campus computer lab. Can be invigilated, but computer access to other tools can't be locked down. We will advise on set up, but the department must take full responsibility for delivering these exams. For example, it's not possible for central technical support staff to attend in the room.
     - **Formative/mock exam**: to familiarise students with the online exam process.
     

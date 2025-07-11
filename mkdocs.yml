@@ -43,6 +43,7 @@ nav:
       - Notifications: ultra/notifications.md
     - Assessment tools:
       - Gradebook: ultra/gradebook.md
+      - Accommodations for SSPs: ultra/accommodations.md
       - Mark Schema: ultra/mark-schema.md
       - Marking Rubric: ultra/rubric.md
       - Assignment | set up: ultra/assignment-set-up.md
@@ -87,6 +88,7 @@ nav:
     - accessibility/index.md
     - Ally | accessibility tool: ultra/ally-tool.md
     - Ultra accessibility report: ultra/ally-accessibility-report.md
+    - Accommodations for SSPs: ultra/accommodations.md
     - Practical Guide to Digital Accessibility: https://subjectguides.york.ac.uk/accessibility/home
     - Reading List | Accessibility: https://subjectguides.york.ac.uk/readinglists/accessibility 
     # - Accessible maths: accessibility/accessible-maths.md
