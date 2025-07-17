@@ -39,7 +39,7 @@ A playlist of guides is available on Youtube or Panopto:
 These guides cover the second marking and moderation process:
 
 - [Using the Moderator Pack - Written Guide](https://docs.google.com/document/d/17Jgpi4HvPiD9XnOnJGq2IOl8mI-EBkl301DY_LIhxuY/edit)
-- [Using the Moderator Pack - YouTube guide](https://youtu.be/N-hUJnE6X8o) (may contain adverts)
-- [Using the Moderator Pack - Panopto guide](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af14242e-16e8-42ed-ab35-b0f300a0bc91) (advert free)
+- [Using the Moderator Pack - YouTube guide](https://youtu.be/fZbobFMV7JE) (may contain adverts)
+- [Using the Moderator Pack - Panopto guide](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2286630c-660f-4dde-9b4b-b31d00e33b06) (advert free)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-hUJnE6X8o?si=AGEh6ncFyZ1tTfOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
