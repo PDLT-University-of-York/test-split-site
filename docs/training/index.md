@@ -52,9 +52,9 @@ For other training topics, search this site or browse the navigation topics for 
 
 ### Sign up: training sessions
 
-Fill in the form below to sign up for sessions or [open the training booking form in a new window](https://forms.gle/BgDUEFvr9ZUptrJ78) (UoY Google account required).
+Fill in the form below to sign up for sessions or [open the training booking form in a new window](https://forms.gle/9KsQHp52UHcdhS1K6) (UoY Google account required).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdm1sS5Z_xc3cOdsDIIzV52hMjMIOGzPeoyxlbmtQsq7GrwNA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXTrivfJbyGCuol8GsKd9SzZM0AkRJ4s1LiksThPTW4nyvWA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## 1:1 consultations
 
@@ -66,10 +66,10 @@ We can advise on any topic related to our tools, such as:
 - advice on setting up a site for teaching
 - selecting appropriate tools and workflows to support your teaching
 
-Select an appointment time from the schedule below to book a consultation, or [open the 1:1 appointment schedule in a new window](https://calendar.app.google/QzXyjYBa1ZVNbZAU8) (UoY Google account required).
+Select an appointment time from the schedule below to book a consultation, or [open the 1:1 appointment schedule in a new window](https://calendar.app.google/NBA8HpCK1oDfFaDPA) (UoY Google account required).
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wgvYFVHZ33yOXP4q5jIfn1YBW6fB6ByFgWklbKo1XKlRRbNy6O8lEjL7X9ccTXp58xIYr9-OQ?gv=true" style="border: 0" width="100%" height="650" frameborder="0"></iframe>
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0DBMBswlBqDaiQDE250hKdlKFbyoz1yUw5wkcy29GcMr6cwba-hEXt_oy-1u58eDdE7XxZqOG1?gv=true" style="border: 0" width="100%" height="650" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
 
 ## Other training and support
