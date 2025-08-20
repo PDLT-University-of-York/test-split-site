@@ -178,6 +178,8 @@ When you have applied your settings, click **Download**.
 
 Download detailed marks for a specific Ultra assessment (Assignment, Test etc.). This is most useful for analysing Test responses.
 
+For anonymously marked assessments, this is only available once marks have been posted and so deanonymised.
+
 <div markdown class="flexcols">
 <div markdown class="col65">
 1. Open the *Marks* or *Markable Items* Gradebook view.
