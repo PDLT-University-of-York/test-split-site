@@ -85,15 +85,24 @@ There are various ways to open submissions. Ultimately they all have the same ou
 
     ![decorative](images/gradebook-tab-markable-items.png)
 
-### 2. Check multiple & late attempts
+### 2. Late submissions: check for previous submissions
 
 !!! Tip
     
-    If a student submits multiple attempts, you may need to manually select the correct attempt to mark.
+    University assessment policy is to **mark the last on-time submission**, or to mark the first submission if all submissions are late. The correct attempt to mark may not be the default attempt presented for marking.
 
-The marking interface usually opens a submission showing the last attempt made, which in most cases is the attempt that you need to mark. However, University policy is to mark the last on time attempt, or to mark the first attempt if all submissions are late.
+Ultra Assignment stores all submissions made by a student. If a students makes multiple submissions, the default should be to present the last submission (attempt) for marking. Depending on when this was submitted, it may or may not be the correct attempt to mark:
 
-This means that if there are **multiple attempts and at least one of those is late**, you will need to manually select the relevant attempt to mark. This table gives details:
+- Last attempt is **on time**: mark this attempt.
+- Last attempt is **late**: check for previous submissions.
+</br> If there are:
+    - no other submissions: mark this attempt.
+    - any *on-time* submissions: manually select and mark the last on-time attempt.
+    - no on-time submissions, but previous *late* submissions: manually select and mark the first attempt submitted after the deadline.
+
+If this applies to your marking, the sections below give more details on how to do this.
+
+<!-- This means that if there are **multiple attempts and at least one of those is late**, you will need to manually select the relevant attempt to mark. This table gives details:
 
 | Attempts | Submission time            | Policy: attempt to mark   | Interface: mark default attempt  | Late penalty*  |
 | -----    | -----                      | -----                     | -----                            | -----          |
@@ -103,7 +112,7 @@ This means that if there are **multiple attempts and at least one of those is la
 | 1        | **late**                   | only attempt              | yes                              | yes            |
 | 2+       | all **late**               | first late attempt        | **no - manually select attempt** | yes            |
 
-\* Note: late penalties are usually applied by administrators
+\* Note: late penalties are usually applied by administrators -->
 
 ??? info "Identify late submissions"
 
@@ -114,7 +123,7 @@ This means that if there are **multiple attempts and at least one of those is la
     - *Assignment submission tab*: a student's row shows their total attempts and if any are late, eg. *2 attempts (1 late)*. For late or missing submissions, this text is red and a red circle is shown around the user icon/photograph.
     </br>![decorative](images/assignment-marking-late-assignment-submission-tab.png)
 
-??? info "Manually select an attempt"
+??? info "Manually select an attempt to mark"
 
     When viewing a submission in the marking interface, you can manually change to a different attempt: 
 
