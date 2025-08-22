@@ -173,7 +173,7 @@ Click each principle to show details, examples and guidance on implementing the 
     - This is very important for screenreader users, and makes links and documents more usable for everyone.
 
 
-??? essential "3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen."
+??? essential "3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video or Xerte objects) in full screen."
 
     - This makes content easier to access on smaller screens or with some assistive tools.
     - The link provides a fallback in case of problems with the embedded item.
