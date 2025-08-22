@@ -106,7 +106,7 @@ Use this block to add text-based content and YouTube videos via the text editor.
     !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
         - 3.5 Essential: Pre-recorded videos are hosted in a streaming service and captioned accurately.
-        - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+        - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video or Xerte objects) in full screen.
 
     ![Sub menu with YouTube video and Content Market (for Panopto video)](images/documents-block-content-video.png)
 
@@ -148,7 +148,7 @@ Use this block to add text-based content and YouTube videos via the text editor.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
-    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video or Xerte objects) in full screen.
     - 5.1 Recommended: Ensure that students can see and access module materials and content.
 
 !!! Warning
@@ -157,7 +157,7 @@ Use this block to add text-based content and YouTube videos via the text editor.
 
 ![A HTML block used to embed an interactive Xerte object](images/documents-block-html.png)
 
-Use the HTML block to embed third-party content, such as [interactive Xerte objects](../other-tools/xerte.md#embed-xerte-objects), [Padlet pinboards](../other-tools/padlet.md#embed-a-padlet) or [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md#embed-in-another-platform). You can also use this block to manually embed Panopto or YouTube.
+Use the HTML block to embed third-party content, such as [interactive Xerte objects](../other-tools/xerte.md#embed-xerte-objects) or [asynchronous Mentimeter surveys](../other-tools/mentimeter/asynchronous-use.md#embed-in-another-platform). You can also use this block to manually embed Panopto or YouTube.
 
 Make sure that the sharing settings of the third-party object allow your students to view the item.
 

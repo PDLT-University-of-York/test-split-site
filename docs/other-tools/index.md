@@ -38,12 +38,6 @@
     
     Polling, knowledge checks and other interactions.
 
-- :fontawesome-brands-padlet: **[Padlet](../other-tools/padlet.md)**
-    
-    ---
-    
-    A flexible web-based tool for pinboards, discussion and project work.
-
 - :material-hammer-wrench: **[Xerte](../other-tools/xerte.md)**
     
     ---

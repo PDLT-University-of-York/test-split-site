@@ -16,7 +16,7 @@ tags:
 
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
-    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+    - 3.7 Essential: Direct, descriptive links are given to open embedded content (eg. video or Xerte objects) in full screen.
 
 ## Quick start
 
@@ -78,7 +78,7 @@ Ally is available for:
     
     - processed directly: content added in a Content block (the text editor): text, images, files, YouTube videos etc.
     - processed separately: content uploaded in an Image or File block has its own Ally icons. They must be checked or downloaded in alternative formats separately.
-    - not processed: other embedded content, eg. Xerte or Padlet objects
+    - not processed: other embedded content, eg. Xerte objects
 
     Ally icons relating to content directly added to the Document are shown in the heading bar. The accessibility score icon is only shown in *Edit mode* (this may take a few seconds to appear).
     
@@ -221,7 +221,7 @@ Ally may not identify all accessibility issues in a content item, so do your fin
 
 ??? Abstract "Common unidentified issue: missing direct links for embedded content"
 
-    Direct, descriptive links should be given to open embedded content (eg. video, Padlet or Xerte objects) in full screen.
+    Direct, descriptive links should be given to open embedded content (eg. video or Xerte objects) in full screen.
 
     However, Ally can't identify if an embed has an associated direct link. For example, here is didn't identify the missing link to the embedded Xerte object.
 
@@ -235,7 +235,7 @@ Ally may not identify all accessibility issues in a content item, so do your fin
     **How to add direct links for embedded content**:
     
     - Add the link under the embed using the usual method for your content type.
-    - Use link text that describes the embedded content, eg: *Open the embedded Padlet in full screen*
+    - Use link text that describes the embedded content, eg: *Open the embedded video in full screen*
 
 ??? Abstract "Common unidentified issue: non-descriptive file names"
 

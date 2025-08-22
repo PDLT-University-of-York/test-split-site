@@ -125,8 +125,6 @@ Posts are not automatically anonymous - users must  tick **Post anonymously** be
 
 DET staff have the ability to reveal a post's author, for example to investigate inappropriate behaviour. If this is required, please [contact us](mailto:vle-support@york.ac.uk) to discuss.
 
-You can also use [Padlet](../other-tools/padlet.md) for anonymous discussions.
-
 ### Assign to groups
 
 You can split a discussion for different groups of students. For example, to:

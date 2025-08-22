@@ -71,7 +71,7 @@ Check that:
 - all site materials are up to date.
 - any old or unused materials are removed.
 - items are visible to students or release conditions are set correctly.
-- any reused Panopto videos, links and third party tools (eg. Padlet) are shared correctly so students can access the material.
+- any reused Panopto videos, links and third party tools (eg. Mentimeter) are shared correctly so students can access the material.
 - any groups used for teaching (eg. presenting different material to M and H level students) are set up correctly and students enrolled.
 
 ### Lecture Capture and Panopto are set up correctly

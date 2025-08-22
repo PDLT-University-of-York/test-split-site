@@ -27,7 +27,7 @@ For example, Forms could be used to collect:
 
 !!! tip "Alternative tools"
     
-    [Padlet](../other-tools/padlet.md) or [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can also be used for surveys, but allow anonymous responses.
+   [Google Forms](https://subjectguides.york.ac.uk/data/gathering) can also be used for surveys, but allow anonymous responses.
 
 ## Form content
 

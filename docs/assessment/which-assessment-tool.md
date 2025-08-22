@@ -25,7 +25,6 @@ Once you've selected an appropriate tool, select the relevant guide in the navig
     | **Ultra Test** | Knowledge checks, immediate feedback through automarking, practice tests | Non-anonymous | Can upload/import questions |
     | **Ultra Journal** | Reflective practice, documenting development | Non-anonymous | Currently no group Journal option |
     | **Ultra Discussion** | Critical discussion skills, peer support skills, student-created content | Non-anonymous | Can log completion in Gradebook |
-    | **Padlet pinboards** | Discussion & peer support, student-created content, group projects | Non-anonymous | Can embed in Learn Ultra VLE |
     | **Google Docs** | Informal feedback, peer assessment | Non-anonymous | Consider sharing settings carefully |
     | **Panopto Multimedia Submission** | Large video/audio submissions, media editing skills, presentation/performance recordings (non-sACT) | Non-anonymous | School of ACT: use existing shared drive methodology |
     | **Deposit** | Large file submissions | Non-anonymous, can be anonymous if managed by admin | Doesn't integrate directly with Learn Ultra VLE, supported by ITSO |

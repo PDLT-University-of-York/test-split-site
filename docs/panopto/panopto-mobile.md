@@ -1,18 +1,6 @@
 ---
 # tags:
-# Delete to leave only relevant tags
-    - Foundation
-    - Advanced
-    - Teaching
-    - Administration
-    - Ultra
-    - Panopto
-    - Reading List
-    - Canvas
-    - Xerte
-    - Padlet
-    - Mentimeter
-    - Workshop
+#    - Panopto
 ---
 
 # Guide title (short and to the point)
