@@ -29,13 +29,13 @@ We also run synchronous sessions at key points of the academic year, where you c
     - :octicons-arrow-right-24: [On-demand: Prepare sites for teaching](../ultra/prepare-site.md)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
--   :simple-go:  **Getting started with Mentimeter**
+-   :octicons-accessibility-inset-24: **Accessible VLE sites**
 
     ---
-    
-    Experience the question and interaction types available within Mentimeter, then learn to create and deliver your own interactive presentations.
 
-    - :octicons-arrow-right-24: [On-demand: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
+    Key tips to improve the accessibility of your VLE site and teaching materials. Offered as general content and maths-focused options.
+
+    - :octicons-arrow-right-24: On-demand: coming soon
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
 -   :octicons-check-circle-16: **Ultra Assignment: marking**
@@ -46,6 +46,16 @@ We also run synchronous sessions at key points of the academic year, where you c
     
     - :octicons-arrow-right-24: [On-demand: Ultra Assignment marking](../ultra/assignment-marking.md)
     - :octicons-arrow-right-24: Need more support? [Book a 1:1 consultation](#11-consultations) for personalised guidance.
+
+-   :simple-go:  **Getting started with Mentimeter**
+
+    ---
+    
+    Experience the question and interaction types available within Mentimeter, then learn to create and deliver your own interactive presentations.
+
+    - :octicons-arrow-right-24: [On-demand: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
+    - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
+
 </div>
 
 For other training topics, search this site or browse the navigation topics for relevant guides.
