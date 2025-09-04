@@ -1,8 +1,6 @@
 ---
-tags:
-    - Communication
-    - Interactive content
-    - Other tools
+search:
+  exclude: true
 ---
 
 # Padlet
