@@ -602,7 +602,7 @@ You can update the pre-built template Documents, or delete them and create your 
 2. Click on the item(s) 'Students enroled in'.
 3. Check the group's SITS module code is correct, the Role is set to *AutoEnroller* and 'Allow access to course' is ticked.
 
-**UPDATE IMAGE**
+<!-- **UPDATE IMAGE** -->
 <div markdown class="centered-image">
 ![Matching module code in site name and student group enrolment](images/prepare-site-student-group-user.png)
 </div>
