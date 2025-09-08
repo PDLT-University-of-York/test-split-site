@@ -19,7 +19,7 @@ nav:
       - Form | survey: ultra/form.md
       - Discussion: ultra/discussions.md
       - Journal | reflection: ultra/journal.md
-      - Accessible Ultra sites: ultra/accessible-sites.md
+      # - Accessible Ultra sites: ultra/accessible-sites.md
       - Ally | accessibility tool: ultra/ally-tool.md
       - Ultra accessibility report: ultra/ally-accessibility-report.md
       - AI conversation: ultra/ai-conversation.md
@@ -89,7 +89,7 @@ nav:
     - accessibility/index.md
     - Ally | accessibility tool: ultra/ally-tool.md
     - Ultra accessibility report: ultra/ally-accessibility-report.md
-    - Accessible Ultra sites: ultra/accessible-sites.md
+    # - Accessible Ultra sites: ultra/accessible-sites.md
     - Accommodations for SSPs: ultra/accommodations.md
     - Practical Guide to Digital Accessibility: https://subjectguides.york.ac.uk/accessibility/home
     - Reading List | Accessibility: https://subjectguides.york.ac.uk/readinglists/accessibility 
