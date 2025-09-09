@@ -12,7 +12,7 @@ tags:
 
     After this date, there will be **no access** to the platform, either to create new Padlet boards, or to access/view/update existing ones in a “read only” mode or otherwise.
 
-    We apologise for the short notice of this change.
+    We apologise for the short notice of this change. Unfortunately this was unavoidable.
 
 !!! tip "Training session: Exploring alternatives to Padlet"
 
@@ -48,9 +48,9 @@ There are various options to export a Padlet:
 ![Screenshot of Padlet export options, highlighting the existance of the "Export as Excel Spreadsheet" and "Download all Files" options in the list.](images/padlet-export.png)
 </div>
 
-## Supported alternatives to Padlet
+## Alternative tools to replace Padlet
 
-There isn't a direct replacement for the full Padlet functionality. Instead, choose a tool suitable for the particular use cases.
+There isn't a direct replacement for the full Padlet functionality, but there are many tools suitable for particular use cases. These tools also avoid the accessibility issues associated with Padlet.
 
 We will add examples of use cases here over the next few days.
 
@@ -58,70 +58,109 @@ We will add examples of use cases here over the next few days.
 
     Do not use non-supported external tools; there is no University support available, and they have not been assessed for data security, service reliability or accessibility compliance. This poses a risk to users.
 
-### Use case: collecting text responses
+### Use case: collecting responses and comments
 
-Padlet can be used to collate individual or group text responses to tasks and questions, often using the *Column* layout. For example, they could be used to:
+Padlet can be used to collect individual or group responses to tasks and questions, often using the *Column* layout. Example uses include:
 
-- invite topics for a revision session
-- submit anonymous questions on the lecture topic
-- collect outputs of group discussion for plenary
+- topics for a revision session
+- summaries of group discussion for plenary
+- outputs of tasks (eg. find a relevant journal paper)
+
+#### Example Padlet: groupwork discussion summaries
+
+In this *Accessibility scenario for VI workshop* task, workshop participants discussed a set of scenarios in groups and summarise for wiser participants. 
+
+The Padlet is in *Column* format, with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post.
 
 <figure markdown>
-![Column Padlet: instructions and one column per group. Students add responses to questions in their column](images/padlet-collect-responses-column-general.png)
+![Column Padlet example, as described in text](images/padlet-collect-responses-column-specific.png)
+<figcaption>Example: Column Padlet to collect groupwork summaries</figcaption>
 </figure>
 
-#### Alternative: Mentimeter (anonymous comments, no replies)
+??? Abstract "Alternative tool: Mentimeter (text comments only, anonymous, no replies)"
+    
+    - The [**Mentimeter polling tool**](../other-tools/mentimeter/) can be used to collect short text responses.
+    - Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
+    - Use one [open question slide](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*) per question.
+    - No login is required, and responses are anonymous. It is not possible to directly reply to other comments.
 
-- The [**Mentimeter polling tool**](../other-tools/mentimeter/) can be used to collect text responses.
-- Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
-- Use one [open question slide](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*)per question.
-- No login is required, and responses are anonymous. It is not possible to directly reply to other comments.
+    **Reworking the example Padlet**
 
-#### Alternative: Ultra Discussion (optional anonymity, replies possible)
-
-- The [Ultra Discussion tool](../ultra/discussions.md) can be used to collect text responses, images and other content.
-- This tool is particularly suited to collecting asynchronous responses, but can be used in live sessions.
-- Create a Discussion in the module Ultra site, then add Instructions as the initial post and one post per question.
-- You can allow anonymous responses. Students and staff can reply directly to other comments.
-
-??? abstract "Example: collect groupwork discussion comments"
-   
-    In this *Accessibility scenario for VI workshop* Padlet, workshop participants discussed accessibility scenarios in groups and added comments. 
-
-    **Padlet set up**
-
-    A *Column* Padlet with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post.
-
-    ![Column Padlet example, as described in text](images/padlet-collect-responses-column-specific.png)
-
-    **Alternative: Mentimeter**
-
-    This Padlet can be recreated as a Mentimeter presentation, with an open ended question slide for each scenario. In the Settings menu, set the Menti type to *Survey* and *Allow multiple responses per device* so participants can move to the relevant scenario slides and add their responses. 
+    A Mentimeter presentation can be used to collect groupwork summaries, with an open ended question slide for each scenario. In the Settings menu, set the Menti type to *Survey* and *Allow multiple responses per device* so participants can move to the relevant scenario slides and add their responses. 
 
     <figure markdown>
-    ![Responses page: question as title, and cards with each response, organised as a wall](images/padlet-collect-responses-alternative-menti.png)
+    ![Mentimeter responses page: question as title, and cards with each response, organised as a wall](images/padlet-collect-responses-alternative-menti.png)
+    </figcaption>Padlet reworked in Mentimeter</figcaption>
     </figure>
 
-    **Alternative: Ultra Discussion**
+??? Abstract "Alternative tool: Ultra Discussion (text and other content, optional anonymity, replies possible)"
 
-    This Padlet can also be recreated as an Ultra Discussion, with one post (thread) per scenario. Students reply to the post with their comments. It's possible to reply to these comments (either other students or staff).
+    - The [Ultra Discussion tool](../ultra/discussions.md) can be used to collect longer text responses, images and other content.
+    - Requires an Ultra VLE site accessible to the participants (eg. a module site)
+    - This tool is particularly suited to collecting asynchronous responses, but can be used in live sessions.
+    - Create a Discussion in the module Ultra site, then add Instructions as the initial post and one post per question.
+    - You can allow anonymous responses. Students and staff can reply directly to other comments.
+
+    **Reworking the example Padlet**
+
+    An Ultra Discussion is also useful in this case. Set up the Discussion with one post (thread) per scenario. Students reply to the post with their comments. Students and staff can reply to these comments.
 
     <figure markdown>
-    ![Discussion with 4 comments on scenario 1 post, and an Instrctor response to one of those comments](images/padlet-collect-responses-alternative-discussion.png)
+    ![Ultra Discussion with 4 comments on scenario 1 post, and an Instructor response to one of those comments](images/padlet-collect-responses-alternative-discussion.png)
+    </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
     </figure>
 
-<!-- <figure markdown>
-![Mobile device interface with question and space to type response](images/padlet-alternative-menti-open-student.png)
-<figcaption>Participant input view</figcaption>
-</figure> -->
+### Discussion board/Q&A forum
 
-### Discussion/Commenting Spaces
+Padlet is often used to facilitate anonymous discussion boards or to collect anonymous questions. These often use the *Wall* or *Grid* layouts. Posts and replies are visible to other students. Example uses include:
 
-For students to contribute content themselves:
+- asynchronous student discussion of seminar questions
+- collecting questions about module content or assessment
 
-- Discussions and commenting can be undertaken in the Learn VLE either anonymously or non-anonymously using its native [Discussion tool](../ultra/discussions.md)
-- Surveying can be done anonymously or non-anonymously via [Google Forms](https://subjectguides.york.ac.uk/google/core-apps#s-lg-box-wrapper-18870759) or anonymously using the Learn VLE’s native [Form tool](../ultra/form.md)
-- For content sharing outside of the VLE, Google Slides or Microsoft Whiteboards may be useful; Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+#### Example Padlet: Anonymous module Q&A
+
+This *Week 1 Q&A* Padlet uses the *Wall* format to allow students to submit questions anonymously (to other students and also to the lecturer). Students post their question and the lecturer comments on it to reply. Students can also comment on posts if they wish.
+
+<figure markdown>
+![Anonymous questions (eg. Where is the lecture recording? What question types are in the exam), each with a response from the lecturer](images/padlet-discussion.png)
+<figcaption>Example: a Wall Padlet for anonymous Q&A</figcaption>
+</figure>
+
+??? Abstract "Alternate tool: Ultra Discussion (within Ultra VLE sites)"
+
+    - The [Ultra Discussion tool](../ultra/discussions.md) can be used for discussion boards and Q&A forums.
+    - Requires an Ultra VLE site accessible to the participants (eg. a module site). All enrolled users can access the Discussion, post and read other contributions.
+    - There have been lots of improvements to this tool during 2025; it's now possible to 
+    [allow anonymous posting](../ultra/discussions.md#anonymous-posting) and [subscribe to be notified of new posts](../ultra/discussions.md#follow-a-discussion).
+    - Allows posting and commenting, and supports a range of content types; text, links, images, embedded YouTube videos etc.
+
+    **Reworking the example Padlet**
+
+    For use in modules, the Ultra Discussion tool is the most appropriate tool to replace this Padlet. Create a Discussion in the relevant materials folder in your VLE site and add some instructions. In settings, click **Allow anonymous responses and replies**. Students can post their questions either anonymously or non-anonymously.
+
+    <figure markdown>
+    ![Native Ultra Discussion. The initial question posts are shown, with option to expand replies.](images/padlet-discussion-alternative-ultra-discussion.png)
+    </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
+    </figure>
+
+??? Abstract "Alternative tool: Google Docs (for non-Ultra VLE use)"
+
+    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) can be used for Q&As. It's technically possible to use it for discussions, but this would get messy quickly so this use isn't advised.
+    - Shareable across the University or more widely, so suitable for non-module use where there is not an Ultra VLE site. All users with access can post and view contributions.
+    - Allows text contributions, images and some other content types.
+    - Contributors are not explicitly identified, but use is not technically anonymous.
+    - It's not possible to receive notifications when questions are posted.
+
+    **Reworking the example Padlet**
+
+    For use outside modules or other Ultra VLE sites, A Google Doc could replace the Q&A Padlet. Create a Google Doc, share it appropriately with participants and monitor for questions.
+
+    <figure markdown>
+    ![Google Doc with questions and answers typed on the page](images/padlet-discussion-alternative-ultra-discussion.png)
+    </figcaption>Padlet reworked as a Google Doc</figcaption>
+    </figure>
+
+<!-- - Surveying can be done anonymously or non-anonymously via [Google Forms](https://subjectguides.york.ac.uk/google/core-apps#s-lg-box-wrapper-18870759) or anonymously using the Learn VLE’s native [Form tool](../ultra/form.md) -->
 
 ### Content Sharing
 
@@ -130,6 +169,12 @@ To share your content and files with students:
 - Content sharing within the Learn VLE itself is best done using its native [Document page type](../ultra/documents.md), where text, images, links and files can all be shared in one place. The Documents tool has been vastly improved throughout 2025, and continues to regularly receive feature updates.
 - Module readings must be added to the [Leganto Reading List](https://subjectguides.york.ac.uk/readinglists/home).
 - For content sharing outside of the VLE, Google Slides or Microsoft Whiteboards may be useful; Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+
+<!-- ### Bulletin boards -->
+
+<!-- ### Journal/reflection -->
+
+<!-- Something about group work? IPC type thing -->
 
 ### Curated Maps
 
