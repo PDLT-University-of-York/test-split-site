@@ -60,19 +60,29 @@ We will add examples of use cases here over the next few days.
 
 ### Use case: collecting text responses
 
-Padlet can be used to collate individual or group text responses to tasks and questions, where responses to contributions are not required. These Padlets often use the *Column* layout. For example, they could be used to:
+Padlet can be used to collate individual or group text responses to tasks and questions, often using the *Column* layout. For example, they could be used to:
 
-- elicit topics to cover in a revision session
-- submit anonymous questions on lecture topic
+- invite topics for a revision session
+- submit anonymous questions on the lecture topic
 - collect outputs of group discussion for plenary
 
-![Column Padlet: instructions and one column per group. Students add responses to questions in their column](images/padlet-example-text-responses-generic.png)
+<figure markdown>
+![Column Padlet: instructions and one column per group. Students add responses to questions in their column](images/padlet-collect-responses-column-general.png)
+</figure>
 
-#### Alternative platform
+#### Alternative: Mentimeter (anonymous comments, no replies)
 
-The [**Mentimeter polling tool**](../other-tools/mentimeter/) can be used to collect text responses, particularly using the [open question types](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*). No login is required, and responses are anonymous.
+- The [**Mentimeter polling tool**](../other-tools/mentimeter/) can be used to collect text responses.
+- Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
+- Use one [open question slide](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*)per question.
+- No login is required, and responses are anonymous. It is not possible to directly reply to other comments.
 
-Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
+#### Alternative: Ultra Discussion (optional anonymity, replies possible)
+
+- The [Ultra Discussion tool](../ultra/discussions.md) can be used to collect text responses, images and other content.
+- This tool is particularly suited to collecting asynchronous responses, but can be used in live sessions.
+- Create a Discussion in the module Ultra site, then add Instructions as the initial post and one post per question.
+- You can allow anonymous responses. Students and staff can reply directly to other comments.
 
 ??? abstract "Example: collect groupwork discussion comments"
    
@@ -80,23 +90,30 @@ Responses can be collected and shared on screen in a live session, or [embedded 
 
     **Padlet set up**
 
-    A *Column* Padlet with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add responses as comments on the relevant scenario post.
+    A *Column* Padlet with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post.
 
-    ![Column Padlet example, as described in text](images/padlet-example-collect-responses-shelf.png)
+    ![Column Padlet example, as described in text](images/padlet-collect-responses-column-specific.png)
 
-    **Alternative platform: Mentimeter open ended question slides**
+    **Alternative: Mentimeter**
 
     This Padlet can be recreated as a Mentimeter presentation, with an open ended question slide for each scenario. In the Settings menu, set the Menti type to *Survey* and *Allow multiple responses per device* so participants can move to the relevant scenario slides and add their responses. 
 
     <figure markdown>
-    ![Mobile device interface with question and space to type response](images/padlet-alternative-menti-open-student.png)
-    <figcaption>Participant input view</figcaption>
+    ![Responses page: question as title, and cards with each response, organised as a wall](images/padlet-collect-responses-alternative-menti.png)
     </figure>
 
+    **Alternative: Ultra Discussion**
+
+    This Padlet can also be recreated as an Ultra Discussion, with one post (thread) per scenario. Students reply to the post with their comments. It's possible to reply to these comments (either other students or staff).
+
     <figure markdown>
-    ![Responses page: question as title, and cards with each response, organised as a wall](images/padlet-alternative-menti-open-staff.png)
-    <figcaption>Presenter view of responses</figcaption>
+    ![Discussion with 4 comments on scenario 1 post, and an Instrctor response to one of those comments](images/padlet-collect-responses-alternative-discussion.png)
     </figure>
+
+<!-- <figure markdown>
+![Mobile device interface with question and space to type response](images/padlet-alternative-menti-open-student.png)
+<figcaption>Participant input view</figcaption>
+</figure> -->
 
 ### Discussion/Commenting Spaces
 
