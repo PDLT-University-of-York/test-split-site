@@ -45,9 +45,45 @@ We will add examples of use cases here over the next few days.
 
     Do not use non-supported external tools; there is no University support available, and they have not been assessed for data security, service reliability or accessibility compliance. This poses a risk to users.
 
-### Collecting Student Responses
+### Use case: collecting text responses
 
-The [Mentimeter polling tool](../other-tools/mentimeter/) can be used to collect student responses to questions both in and out of live teaching sessions.
+Padlet can be used to collate individual or group text responses to tasks and questions, where responses to contributions are not required. These Padlets often use the *Column* layout. For example, they could be used to:
+
+- elicit topics to cover in a revision session
+- submit anonymous questions on lecture topic
+- collect outputs of group discussion for plenary
+
+![Column Padlet: instructions and one column per group. Students add responses to questions in their column](images/padlet-example-text-responses-generic.png)
+
+#### Alternative platform
+
+The [**Mentimeter polling tool**](../other-tools/mentimeter/) can be used to collect text responses, particularly using the [open question types](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*). No login is required, and responses are anonymous.
+
+Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
+
+??? abstract "Example: collect groupwork discussion comments"
+   
+    In this *Accessibility scenario for VI workshop* Padlet, workshop participants discussed accessibility scenarios in groups and added comments. 
+
+    **Padlet set up**
+
+    A *Column* Padlet with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add responses as comments on the relevant scenario post.
+
+    ![Column Padlet example, as described in text](images/padlet-example-collect-responses-shelf.png)
+
+    **Alternative platform: Mentimeter open ended question slides**
+
+    This Padlet can be recreated as a Mentimeter presentation, with an open ended question slide for each scenario. In the Settings menu, set the Menti type to *Survey* and *Allow multiple responses per device* so participants can move to the relevant scenario slides and add their responses. 
+
+    <figure markdown>
+    ![Mobile device interface with question and space to type response](images/padlet-alternative-menti-open-student.png)
+    <figcaption>Participant input view</figcaption>
+    </figure>
+
+    <figure markdown>
+    ![Responses page: question as title, and cards with each response, organised as a wall](images/padlet-alternative-menti-open-staff.png)
+    <figcaption>Presenter view of responses</figcaption>
+    </figure>
 
 ### Discussion/Commenting Spaces
 
