@@ -282,7 +282,7 @@ From 2025/26, it is University policy that **all modules must use the Reading Li
 - allow the Library to manage stock and access levels.
 - help comply with copyright regulations.
 
-The [Leganto Reading List tool](https://www.york.ac.uk/it-services/tools/leganto/) is connected to your site by the **Reading List** LTI link item in the Course Content area. 
+The [Leganto Reading List tool](https://subjectguides.york.ac.uk/readinglists/home) is connected to your site by the **Reading List** LTI link item in the Course Content area. 
 
 </div>
 <figure markdown="span">
