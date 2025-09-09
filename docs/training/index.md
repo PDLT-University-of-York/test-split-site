@@ -9,7 +9,7 @@ Our training is *on-demand first*, with video and written guidance so you can ac
 
 We also run synchronous sessions at key points of the academic year, where you can ask questions and we explore the tools in more detail.
 
-!!! case-study "New session for Sept 2025: Exploring alternatives to Padlet"
+!!! tip "New session for Sept 2025: Exploring alternatives to Padlet"
 
     The 'noticeboard' tool [Padlet is being withdrawn](https://elearningyork.wpcomstaging.com/2025/09/04/system-update-padlet-access-to-be-retired/) from the University's offering of supported tools from the end of September 2025.  This session presents some alternative options for key teaching and learning scenarios including:
 
@@ -17,8 +17,8 @@ We also run synchronous sessions at key points of the academic year, where you c
      - Sharing curated content with students (including multimedia and links; with various methods of organisation including timelines or mind maps)
      - Providing shared spaces for collaborative work
      - Generating shared maps for 'pin' and 'comment' activities
-    
-    We will include native VLE tools such as [documents](https://vle-support.york.ac.uk/ultra/documents/) and [discussions](https://vle-support.york.ac.uk/ultra/discussions/), along with [Mentimeter](https://vle-support.york.ac.uk/other-tools/mentimeter/) and the [google workspace](https://www.york.ac.uk/it-services/tools/google-workspace/) tools including docs and sheets.  There will be space for discussion of specific Padlet use cases and opportunities for follow ups to consider how specific Padlets could be 'converted' using alternative tools.
+
+    We will include native VLE tools such as [Documents](https://vle-support.york.ac.uk/ultra/documents/) and [Discussions](https://vle-support.york.ac.uk/ultra/discussions/), along with [Mentimeter](https://vle-support.york.ac.uk/other-tools/mentimeter/) and the [Google workspace](https://www.york.ac.uk/it-services/tools/google-workspace/) tools including Docs and Sheets. There will be space for discussion of specific Padlet use cases and opportunities for follow ups to consider how specific Padlets could be 'converted' using alternative tools.
 
     [Sign up for this session](#sign-up-training-sessions)
 
