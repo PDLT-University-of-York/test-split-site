@@ -58,7 +58,7 @@ We will add examples of use cases here over the next few days.
 
     Do not use non-supported external tools; there is no University support available, and they have not been assessed for data security, service reliability or accessibility compliance. This poses a risk to users.
 
-### Use case: collecting responses and comments
+### Collecting responses and comments
 
 Padlet can be used to collect individual or group responses to tasks and questions, often using the *Column* layout. Example uses include:
 
@@ -70,7 +70,7 @@ Padlet can be used to collect individual or group responses to tasks and questio
 
 In this *Accessibility scenario for VI workshop* task, workshop participants discussed a set of scenarios in groups and summarise for wiser participants. 
 
-The Padlet is in *Column* format, with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post.
+The Padlet is in **Column** format, with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post.
 
 <figure markdown>
 ![Column Padlet example, as described in text](images/padlet-collect-responses-column-specific.png)
@@ -110,23 +110,23 @@ The Padlet is in *Column* format, with one column per group. Before the session,
     </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
     </figure>
 
-### Discussion board/Q&A forum
+### Asynchronous discussion board or Q&A forum
 
-Padlet is often used to facilitate anonymous discussion boards or to collect anonymous questions. These often use the *Wall* or *Grid* layouts. Posts and replies are visible to other students. Example uses include:
+Padlet is often used to facilitate anonymous discussion boards or to collect anonymous questions. These often use the **Wall** or **Grid** layouts. Posts and replies are visible to other students. Example uses include:
 
 - asynchronous student discussion of seminar questions
 - collecting questions about module content or assessment
 
 #### Example Padlet: Anonymous module Q&A
 
-This *Week 1 Q&A* Padlet uses the *Wall* format to allow students to submit questions anonymously (to other students and also to the lecturer). Students post their question and the lecturer comments on it to reply. Students can also comment on posts if they wish.
+This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit questions anonymously (to other students and also to the lecturer). Students post their question and the lecturer comments on it to reply. Students can also comment on posts if they wish.
 
 <figure markdown>
 ![Anonymous questions (eg. Where is the lecture recording? What question types are in the exam), each with a response from the lecturer](images/padlet-discussion.png)
 <figcaption>Example: a Wall Padlet for anonymous Q&A</figcaption>
 </figure>
 
-??? Abstract "Alternate tool: Ultra Discussion (within Ultra VLE sites)"
+??? Abstract "Alternative tool: Ultra Discussion (within Ultra VLE sites)"
 
     - The [Ultra Discussion tool](../ultra/discussions.md) can be used for discussion boards and Q&A forums.
     - Requires an Ultra VLE site accessible to the participants (eg. a module site). All enrolled users can access the Discussion, post and read other contributions.
@@ -156,19 +156,91 @@ This *Week 1 Q&A* Padlet uses the *Wall* format to allow students to submit ques
     For use outside modules or other Ultra VLE sites, A Google Doc could replace the Q&A Padlet. Create a Google Doc, share it appropriately with participants and monitor for questions.
 
     <figure markdown>
-    ![Google Doc with questions and answers typed on the page](images/padlet-discussion-alternative-ultra-discussion.png)
+    ![Google Doc with questions and answers typed on the page](images/padlet-discussion-alternative-google-doc.png)
     </figcaption>Padlet reworked as a Google Doc</figcaption>
     </figure>
 
 <!-- - Surveying can be done anonymously or non-anonymously via [Google Forms](https://subjectguides.york.ac.uk/google/core-apps#s-lg-box-wrapper-18870759) or anonymously using the Learn VLE’s native [Form tool](../ultra/form.md) -->
+<!-- For collecting questions/comments in advance for sharing:
+Google Form (async in advance)
+Menti Q&A (live in session) - can be moderated, upvote - avoids duplicates, prioritises etc. great for displaying in class -->
 
-### Content Sharing
+### Curated resources: teaching materials
 
-To share your content and files with students:
+Padlet is sometimes used to provide curated teaching materials and additional module materials, such as:
 
-- Content sharing within the Learn VLE itself is best done using its native [Document page type](../ultra/documents.md), where text, images, links and files can all be shared in one place. The Documents tool has been vastly improved throughout 2025, and continues to regularly receive feature updates.
-- Module readings must be added to the [Leganto Reading List](https://subjectguides.york.ac.uk/readinglists/home).
+- weekly lecture slides, tasks and reading items
+- links to additional or extension resources
+
+!!! Tip 
+    
+    This **is not an appropriate use of Padlet**. Teaching materials should be provided directly within the module's Ultra VLE site. Reading items must be provided on the Leganto Reading List.
+
+#### Example Padlet: module resources
+
+This archive **Column** format Padlet was used pre-Ultra VLE to present weekly module materials, containing:
+
+- an introductory resource: article, link, YouTube video etc.
+- lecture slides in PPT (with PDF slides on the VLE site)
+- post-lecture tasks: reading items, VLE quizzes etc.
+- uploaded PDFs of reading items
+
+While this was well organised and guided students through the content, there are problems presenting materials in Padlet:
+
+- The Padlet format requires lots of scrolling, may have contrast issues, and doesn't allow users to select text. This makes it difficult to use for many users.
+- Materials in a Padlet take students outside the module VLE site. This causes difficulties for some users, and is generally unpopular.
+- Uploaded PDFs are problematic in terms of copyright and accessibility, amongst other issues. Readings should be added to the Reading List instead.
+
+Once Ultra VLE sites were adopted, this Padlet was remade directly within the module site and reading items added to the Reading List.
+
+<figure markdown>
+![Described in text](images/padlet-teaching-resources.png)
+</figcaption>Padlet used for weekly module materials</figcaption>
+</figure>
+
+??? Abstract "Required tool for module materials: Ultra VLE site"
+    
+    - The [Document](../ultra/documents.md) page type is the best option for providing most module materials. This uses drag-and-drop content blocks in a flexible layout to easily add text, images, video, files and more.
+    - Lecture slides and other files can be [uploaded with a Document](../ultra/documents.md#block-file-upload) to integrate with other content, or as [standalone items](../ultra/files.md)
+    - **Do not upload or directly link to reading items**. Use the Reading List instead (see below).
+    - Use your Departmental template materials sections; in most cases s sections or Documents.
+    
+    **Reworking the example Padlet**
+
+    All non-reading item content should be added to the module Ultra VLE site. Add items from each weekly column to the relevant template weekly materials section. Most content is best added into a Document: overview, tasks, slides, details of readings etc. Add content such as Discussions and Quizzes as separate items within the weekly section, so that all weekly content is collated together.
+
+    ![Weekly section with task Document, Discussion and Quiz item. The Document contains a weekly overview of tasks, slides uploaded and viewable on the page, embedded recordings and details of the week's readings on the Reading List](images/padlet-teaching-resources-alternative-ultra-document.png)
+
+
+??? Abstract "Required tool for reading items: Leganto Reading List"
+
+    From 2025/26, it is University policy that **all module readings must be provided through the [Leganto Reading List tool](https://subjectguides.york.ac.uk/readinglists/home)**. This collates all readings in one place and allows direct access to digital items via the University single-sign-on.
+
+    !!! Warning
+
+        Do not directly upload reading items to your Ultra VLE site, or link to them in Google Drive.
+    
+    **Reworking the example Padlet**
+
+    Instead of adding resources to the Padlet, add them to the module Reading List. To use the tool effectively:
+
+    - **tag** each item as Essential, Recommended or Background to help students prioritise and manage their workload. 
+    - aid navigation by using the same **structure** as your VLE site. In most cases this should be weekly sections.
+    - use the **Alternative Format Request (SSP)** tag to identify items for the Library staff to convert to digital format for students who can't access printed text.
+        
+    <figure markdown>
+    ![Structured reading list with importance tags and direct links to view item online](images/padlet-teaching-resources-alternative-readinglist.png)
+    <figcaption>Padlet reading items added to Reading List</figcaption>
+    </figure>
+
+
+### Curated resources: not for teaching
+
 - For content sharing outside of the VLE, Google Slides or Microsoft Whiteboards may be useful; Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+
+<!-- Content outside of modules
+
+Students also adding content in (eg ARC tree) -->
 
 <!-- ### Bulletin boards -->
 
