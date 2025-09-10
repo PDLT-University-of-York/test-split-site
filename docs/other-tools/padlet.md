@@ -52,19 +52,19 @@ There are various options to export a Padlet:
 
 There isn't a direct replacement for the full Padlet functionality, but there are many tools suitable for particular use cases. These tools also avoid the accessibility issues associated with Padlet.
 
-We will add examples of use cases here over the next few days.
+We will add examples of use cases here over the next few days. If you're still not sure of the best replacement after reading this guide, please [contact us](mailto:vle-support@york.ac.uk) to discuss your particular use case.
 
 !!! Tip
 
     Do not use non-supported external tools; there is no University support available, and they have not been assessed for data security, service reliability or accessibility compliance. This poses a risk to users.
 
-### Collecting responses and comments
+### Gathering group or individual work outputs: text-based
 
 Padlet can be used to collect individual or group responses to tasks and questions, often using the *Column* layout. Example uses include:
 
-- topics for a revision session
 - summaries of group discussion for plenary
-- outputs of tasks (eg. find a relevant journal paper)
+- examples of a given item (eg. journal paper)
+- student-created quiz questions for their peers
 
 #### Example Padlet: groupwork discussion summaries
 
@@ -110,14 +110,19 @@ The Padlet is in **Column** format, with one column per group. Before the sessio
     </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
     </figure>
 
-### Asynchronous discussion board or Q&A forum
+---
 
-Padlet is often used to facilitate anonymous discussion boards or to collect anonymous questions. These often use the **Wall** or **Grid** layouts. Posts and replies are visible to other students. Example uses include:
+### Gathering questions or comments
 
-- asynchronous student discussion of seminar questions
-- collecting questions about module content or assessment
+Padlet is often used to collect anonymous questions or comments. These often use the **Wall**, **Column** or **Grid** layouts. Posts and replies are visible to other students. Example uses include:
 
-#### Example Padlet: Anonymous module Q&A
+- Q&A on module content or assessment
+- collecting questions during presentations
+- collaboratively selecting topics for a revision session
+
+These are sometimes handled asynchronously, and sometimes during a live session. Suitable alternatives depend on when comments are gathered, and when/how they will be reviewed.
+
+#### Example Padlet: Fully asynchronous Q&A forum
 
 This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit questions anonymously (to other students and also to the lecturer). Students post their question and the lecturer comments on it to reply. Students can also comment on posts if they wish.
 
@@ -143,12 +148,12 @@ This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit qu
     </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
     </figure>
 
-??? Abstract "Alternative tool: Google Docs (for non-Ultra VLE use)"
+??? Abstract "Alternative tool: Google Docs (for other uses)"
 
-    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) can be used for Q&As. It's technically possible to use it for discussions, but this would get messy quickly so this use isn't advised.
+    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) can be used for Q&As.
     - Shareable across the University or more widely, so suitable for non-module use where there is not an Ultra VLE site. All users with access can post and view contributions.
-    - Allows text contributions, images and some other content types.
-    - Contributors are not explicitly identified, but use is not technically anonymous.
+    - Allows text contributions, images and some other content types. Note that other users can delete content (although this can be restored).
+    - Contributors are not explicitly identified, but use is not technically anonymous. Content is immediately visible to all users with access.
     - It's not possible to receive notifications when questions are posted.
 
     **Reworking the example Padlet**
@@ -160,14 +165,75 @@ This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit qu
     </figcaption>Padlet reworked as a Google Doc</figcaption>
     </figure>
 
-<!-- - Surveying can be done anonymously or non-anonymously via [Google Forms](https://subjectguides.york.ac.uk/google/core-apps#s-lg-box-wrapper-18870759) or anonymously using the Learn VLE’s native [Form tool](../ultra/form.md) -->
-<!-- For collecting questions/comments in advance for sharing:
-Google Form (async in advance)
-Menti Q&A (live in session) - can be moderated, upvote - avoids duplicates, prioritises etc. great for displaying in class -->
+#### Example Padlet: reviewing responses in a live session
+
+This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** format to gather questions relating to different presentations during a live staff workshop. Questions were responded to live after each presentation, either verbally or in the Zoom chat. The same concept could be used to gather questions or comments before a session, to review live.
+
+<figure markdown>
+![Padlet with column for each of 3 presentations. Anonymous questions are added for each one. There are no replies in the Padlet.](images/padlet-qa-synchronous.png)
+<figcaption>Example: Padlet used to elicit questions to review in live session</figcaption>
+</figure>
+
+??? Abstract "Alternative tool: Menti Q&A (synchronous collection)"
+
+    - The [Mentimeter Q&A tool](../other-tools/mentimeter/question-types-qa-comments.md) is an excellent method for gathering and reviewing questions in live sessions.
+    - Contributions are anonymous, with optional moderation and the ability to hide submissions as they come in.
+    - Questions are displayed in a large format so they are easy to see in a live session.
+    - Users can upvote and react to questions with emojis, helping to avoid duplicates and identifying key issues.
+    - You can't respond to contributions within the Q&A slide, so this tool is best for live review.
+
+    **Reworking the example Padlet**
+
+    To collect and review questions in a live session, Menti Q&A is the best tool available to replace this Padlet. [Create a Menti presentation](https://vle-support.york.ac.uk/other-tools/mentimeter/create-presentation/) and add a Q&A slide. Share the access code with participants and display on screen.
+
+    <figure markdown>
+    ![Questions shown in large-scale presentation slides, with a smaller scrollable list to browse and move between questions](images/padlet-qa-synchronous-alternative-mentiqa.png)
+    </figcaption>Padlet reworked as Menti Q&A slide</figcaption>
+    </figure>
+
+??? Abstract "Alternative tool: Google Forms (asynchronous collection)"
+
+    - [Google Forms](https://subjectguides.york.ac.uk/data/survey-tools#s-lg-box-wrapper-18938474) offers a quick, easy to engage with option for pre-session surveys, eg. for needs analysis - when you want to collect responses for discussion or sharing later, especially to elicit comments on multiple topics.
+    - Contributions can be made anonymously. There are multiple question types; multiple choice, open text etc.
+    - Results are immediately visible to creator, with the option to share responses with participants for review on their own devices.
+    - You can't respond to contributions within the Form, so this tool is best for live review.
+
+    A Google Doc may also be a simple alternative if you just need to provide a place for users to add content.
+
+    **Reworking the example Padlet**
+
+    A Padlet in the same format as the above example was used to gather experiences of online teaching for needs analysis before a training session. Google Forms could replace this to collect questions in advance for live review. Create the Form in advance, add question(s) and share with participants. You can screenshare responses, or switch on 'View Results Summary' and share the results link with participants.
+    
+    <div markdown class="grid">
+    <figure markdown>
+    ![Form input screen with three open text questions.](images/padlet-qa-synchronous-alternative-form-input.png)
+    </figcaption>Padlet reworked as Google Form: survey questions</figcaption>
+    </figure>
+    <figure markdown>
+    ![Form results screen summarising responses to each question](images/padlet-qa-synchronous-alternative-form-results.png)
+    </figcaption>Padlet reworked as Google Form: responses for live review</figcaption>
+    </figure>
+    </div>
+
+??? Abstract "Alternative tool: Google Docs (very simple collection option)"
+
+    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) is a very simple option to collect questions/comments for use in a live session.
+    - All users with access can post and view contributions. Users can also delete content (although this can be restored).
+    - Allows text contributions, images and some other content types. 
+    - Contributors are not explicitly identified, but use is not technically anonymous. Content is immediately visible to all users with access.
+    - Present Doc on screen or participants can review on their device for review. You or other users can also directly respond to contributions.
+    - Maximum 100 synchronous contributors. May get messy if there are lot of users editing the Doc simultaneously.
+
+    **Reworking the example Padlet**
+
+    A Padlet in the same format as the above example was used to gather experiences of online teaching for needs analysis before a training session. Google Docs is a lightweight solution that could replace this to collect questions either in advance or during a session for live review. Create a Doc, add question(s) if needed and share with participants. To review, you can screenshare or users can review on their devices.
+
+
+---
 
 ### Curated resources: teaching materials
 
-Padlet is sometimes used to provide curated teaching materials and additional module materials, such as:
+Padlet is sometimes used to provide static module materials and additional resources, such as:
 
 - weekly lecture slides, tasks and reading items
 - links to additional or extension resources
@@ -209,8 +275,10 @@ Once Ultra VLE sites were adopted, this Padlet was remade directly within the mo
 
     All non-reading item content should be added to the module Ultra VLE site. Add items from each weekly column to the relevant template weekly materials section. Most content is best added into a Document: overview, tasks, slides, details of readings etc. Add content such as Discussions and Quizzes as separate items within the weekly section, so that all weekly content is collated together.
 
+    <figure markdown>
     ![Weekly section with task Document, Discussion and Quiz item. The Document contains a weekly overview of tasks, slides uploaded and viewable on the page, embedded recordings and details of the week's readings on the Reading List](images/padlet-teaching-resources-alternative-ultra-document.png)
-
+    <figcaption>Example: Padlet used to provide module materials</figcaption>
+    </figure>
 
 ??? Abstract "Required tool for reading items: Leganto Reading List"
 
@@ -233,28 +301,43 @@ Once Ultra VLE sites were adopted, this Padlet was remade directly within the mo
     <figcaption>Padlet reading items added to Reading List</figcaption>
     </figure>
 
+---
 
-### Curated resources: not for teaching
+### Curated resources: non-teaching
 
-- For content sharing outside of the VLE, Google Slides or Microsoft Whiteboards may be useful; Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+Google Workplace tools (Docs, Slides, Sites) may be useful to share resources outside of a teaching context, or with external users.
 
-<!-- Content outside of modules
+---
 
-Students also adding content in (eg ARC tree) -->
+### Synchronous groupwork creation space
+
+Google Slides or Microsoft Whiteboards may be useful. Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+
+---
+
+<!-- Students also adding content in (eg ARC tree) -->
 
 <!-- ### Bulletin boards -->
 
-<!-- ### Journal/reflection -->
+### Journal or reflection space
+
+The [Ultra Journal tool](../ultra/journal.md) could be useful in this context. This is a private space for either an individual or a group of students and the teaching staff. Staff can comment on student work.
 
 <!-- Something about group work? IPC type thing -->
+
+---
 
 ### Curated Maps
 
 [Google’s My Maps tool](https://www.google.co.uk/maps/about/mymaps/#:~:text=GET%20STARTED-,MAKE%20MAPS,-Easily%20create%20custom) allows users to build shareable, curated maps.
 
+---
+
 ### Mind Maps / Workflows
 
 Mind maps can be created in the University’s supported [MindGenius tool](https://www.york.ac.uk/it-services/tools/mindgenius/).
+
+---
 
 ### Timeline Building
 
