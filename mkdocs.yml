@@ -239,7 +239,7 @@ markdown_extensions: # allow various extra jazzy stuff
   - toc: # Within page Table of Contents (right hand nav bar)
       permalink: false # adds an anchor link at end of each header (shown on hover)
       title: In this guide # ToC title. Can't contain :
-      toc_depth: 2 # Heading level to go down to. heading 2 = main sections
+      toc_depth: 3 # Heading level to go down to. heading 2 = main sections
 
 extra:
   generator: false
