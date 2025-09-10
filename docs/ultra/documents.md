@@ -82,6 +82,8 @@ Use this block to add text-based content and YouTube videos via the text editor.
     **Links**
     <div markdown class="grid">
     <div markdown>
+    To add a link: 
+    
     1. If you've already added the link text in the text editor, select the text.
     2. Click the **Link** icon.
     3. Enter the destination link URL and descriptive link text (**not** "click here" or "open link"), then click **Insert**.

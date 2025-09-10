@@ -142,10 +142,14 @@ Use these tips to make your text-based content easier to navigate for assistive 
 </figure>
 </div>
 
+For more detail, see the [**Block: Content (text editor)** section](../ultra/documents.md#block-content-text-editor) in our Documents guide.
+
 ## Tips: images & figures
 
-- Meaningful **images and figures** have appropriate ALT text or other descriptions to allow screenreader users to access the information.
-- mark decorative items as decorative
+- Add appropriate ALT text for meaningful **images and figures** have or other descriptions to allow screenreader users to access the information.
+- Mark any non-meaningful items as decorative.
+
+For more detail, see the [**Block: Image** section](../ultra/documents.md#block-image) in our Documents guide.
 
 ## Tips: links
 
@@ -153,14 +157,14 @@ Use these tips to make your text-based content easier to navigate for assistive 
 - Don’t use generic text like *click here* or *find out more*
 - In most cases, don't give just the raw URL (eg. www.link.com)
 
+For more detail, see the [**Block: Content (text editor)** section](../ultra/documents.md#block-content-text-editor) in our Documents guide.
+
 ## Tips: uploaded files
 
-- the title describes the file content (eg. Week05_Slides_NavigationTechniques)
-- Any PDF materials are good quality and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative text-based version is also provided.
-- Do not scan and upload published materials 
-- provide the native file format - eg. lecture slides in PPT, not PDF. Students can use the Ally file converter tool to download the file in a different format if they wish.
-- avoid presenting materials stored in Google Drive - upload files instead. Can't use Ally etc, have to leave the site.
+- Use file names that describe the file content without having to open it (eg. Week05_Slides_NavigationTechniques)
+- Make sure any PDF materials are good quality, tagged and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative digital text-based version is also provided.
+- Do not scan and upload published materials. This is not accessible to screenreader or text-to-speech users, and also likely violates copyright. 
+- Provide the native file format, for example, lecture slides as a PPT file, not a PDF. Students can use the Ally file converter tool to download the file in a different format if they wish.
+- Avoid presenting materials stored in Google Drive; this prevents the use of the Ally file converter tool and requires students to leave the site. Upload flies (appropriately!) instead.
 
-[Grackle](https://www.grackledocs.com/) for Google Docs/Slides, [Microsoft Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)).
-
-<!-- For more detail, see our [guide to accessible Ultra content](../accessibility/accessible-ultra-content.md). You can also attend our [Creating Accessible Documents workshop](http://bit.ly/eaccess-training) for a practical introduction. -->
+For more detail, see the [**Block: File upload** section](../ultra/documents.md#block-file-upload) in our Documents guide.
