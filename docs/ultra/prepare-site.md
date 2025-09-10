@@ -282,7 +282,7 @@ From 2025/26, it is University policy that **all modules must use the Reading Li
 - allow the Library to manage stock and access levels.
 - help comply with copyright regulations.
 
-The [Leganto Reading List tool](https://www.york.ac.uk/it-services/tools/leganto/) is connected to your site by the **Reading List** LTI link item in the Course Content area. 
+The [Leganto Reading List tool](https://subjectguides.york.ac.uk/readinglists/home) is connected to your site by the **Reading List** LTI link item in the Course Content area. 
 
 </div>
 <figure markdown="span">
@@ -481,7 +481,7 @@ You can update the pre-built template Documents, or delete them and create your 
     - **Organise items sequentially** to guide students through the materials.
     - **Check links and embedded content** are shared correctly for the new cohort. For example, update links to yearly handbook documents and check any re-used Panopto videos are shared correctly (see [Replay Lecture Capture (Panopto) section](#replay-lecture-capture-panopto) for details).
     - Make sure that **video files are not directly uploaded** to the site or within slide decks.
-    - Check **item visibility** and [update **due dates**](../assessment/update-due-dates.md) or [**Release conditions**](../ultra/content-visibility.md)** (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful to update settings for multiple items at once.
+    - Check **item visibility** and [update **due dates**](../assessment/update-due-dates.md) or [**Release conditions**](../ultra/content-visibility.md) (eg. show on a specific date). [Batch Edit](../ultra/batch-edit.md) may be useful to update settings for multiple items at once.
 
 ??? Abstract "Module materials: set up site from template"
 

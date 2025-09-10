@@ -12,7 +12,20 @@ tags:
 
     After this date, there will be **no access** to the platform, either to create new Padlet boards, or to access/view/update existing ones in a “read only” mode or otherwise.
 
-    We apologise for the short notice of this change.
+    We apologise for the short notice of this change. Unfortunately this was unavoidable.
+
+!!! tip "Training session: Exploring alternatives to Padlet"
+
+    We are offering a new training session that presents some alternative options to Padlet for key teaching and learning scenarios, including:
+
+     - Gathering student ideas and comments (during live teaching sessions or asynchronously; anonymous or non anonymous)
+     - Sharing curated content with students (including multimedia and links; with various methods of organisation including timelines or mind maps)
+     - Providing shared spaces for collaborative work
+     - Generating shared maps for 'pin' and 'comment' activities
+    
+    We will include native VLE tools such as [Documents](https://vle-support.york.ac.uk/ultra/documents/) and [Discussions](https://vle-support.york.ac.uk/ultra/discussions/), along with [Mentimeter](https://vle-support.york.ac.uk/other-tools/mentimeter/) and the [Google workspace](https://www.york.ac.uk/it-services/tools/google-workspace/) tools including Docs and Sheets. There will be space for discussion of specific Padlet use cases and opportunities for follow ups to consider how specific Padlets could be 'converted' using alternative tools.
+
+    [Sign up for this session](../training/index.md#sign-up-training-sessions)
 
 ## Exporting/archiving your Padlets
 
@@ -35,9 +48,9 @@ There are various options to export a Padlet:
 ![Screenshot of Padlet export options, highlighting the existance of the "Export as Excel Spreadsheet" and "Download all Files" options in the list.](images/padlet-export.png)
 </div>
 
-## Supported alternative platforms
+## Alternative tools to replace Padlet
 
-There isn't a direct replacement for the full Padlet functionality. Instead, choose a tool suitable for the particular use cases.
+There isn't a direct replacement for the full Padlet functionality, but there are many tools suitable for particular use cases. These tools also avoid the accessibility issues associated with Padlet.
 
 We will add examples of use cases here over the next few days.
 
@@ -113,7 +126,7 @@ This *Week 1 Q&A* Padlet uses the *Wall* format to allow students to submit ques
 <figcaption>Example: a Wall Padlet for anonymous Q&A</figcaption>
 </figure>
 
-??? Abstract "Alternative tool: Ultra Discussion (within Ultra VLE sites)"
+??? Abstract "Alternate tool: Ultra Discussion (within Ultra VLE sites)"
 
     - The [Ultra Discussion tool](../ultra/discussions.md) can be used for discussion boards and Q&A forums.
     - Requires an Ultra VLE site accessible to the participants (eg. a module site). All enrolled users can access the Discussion, post and read other contributions.
@@ -147,10 +160,6 @@ This *Week 1 Q&A* Padlet uses the *Wall* format to allow students to submit ques
     </figcaption>Padlet reworked as a Google Doc</figcaption>
     </figure>
 
-<!-- For collecting questions/comments in advance for sharing:
-Google Form (async in advance)
-Menti Q&A (live in session) - can be moderated, upvote - avoids duplicates, prioritises etc. great for displaying in class -->
-
 <!-- - Surveying can be done anonymously or non-anonymously via [Google Forms](https://subjectguides.york.ac.uk/google/core-apps#s-lg-box-wrapper-18870759) or anonymously using the Learn VLE’s native [Form tool](../ultra/form.md) -->
 
 ### Content Sharing
@@ -160,10 +169,6 @@ To share your content and files with students:
 - Content sharing within the Learn VLE itself is best done using its native [Document page type](../ultra/documents.md), where text, images, links and files can all be shared in one place. The Documents tool has been vastly improved throughout 2025, and continues to regularly receive feature updates.
 - Module readings must be added to the [Leganto Reading List](https://subjectguides.york.ac.uk/readinglists/home).
 - For content sharing outside of the VLE, Google Slides or Microsoft Whiteboards may be useful; Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
-
-<!-- Content outside of modules
-
-Students also adding content in (eg ARC tree) -->
 
 <!-- ### Bulletin boards -->
 
