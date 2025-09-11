@@ -128,7 +128,7 @@ This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit qu
 
 <figure markdown>
 ![Anonymous questions (eg. Where is the lecture recording? What question types are in the exam), each with a response from the lecturer](images/padlet-discussion.png)
-<figcaption>Example: a Wall Padlet for anonymous Q&A</figcaption>
+<figcaption>Example: Wall Padlet for anonymous asynchronous Q&A</figcaption>
 </figure>
 
 ??? Abstract "Alternative tool: Ultra Discussion (within Ultra VLE sites)"
@@ -171,7 +171,7 @@ This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** 
 
 <figure markdown>
 ![Padlet with column for each of 3 presentations. Anonymous questions are added for each one. There are no replies in the Padlet.](images/padlet-qa-synchronous.png)
-<figcaption>Example: Padlet used to elicit questions to review in live session</figcaption>
+<figcaption>Example: Column Padlet for questions to review in live session</figcaption>
 </figure>
 
 ??? Abstract "Alternative tool: Menti Q&A (synchronous collection)"
@@ -226,58 +226,62 @@ This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** 
 
     **Reworking the example Padlet**
 
-    A Padlet in the same format as the above example was used to gather experiences of online teaching for needs analysis before a training session. Google Docs is a lightweight solution that could replace this to collect questions either in advance or during a session for live review. Create a Doc, add question(s) if needed and share with participants. To review, you can screenshare or users can review on their devices.
-
+    A Padlet in the same format as the above example was used to gather experiences of online teaching for needs analysis before a training session. Google Docs is a lightweight solution that could replace this to collect questions either in advance or during a session for live review. Create a Doc, add question(s) if needed. Give participants Edit access so they can contribute. To review, you can screenshare or users can review on their devices.
 
 ---
 
-### Curated resources: teaching materials
+### Curated resources
 
-Padlet is sometimes used to provide static module materials and additional resources, such as:
+Padlet is sometimes used to provide static materials and resources, such as:
 
 - weekly lecture slides, tasks and reading items
 - links to additional or extension resources
+- careers or academic skills resources
+
+In this use case, users access resources but do not contribute themselves.
+
+#### Example Padlet: teaching materials
 
 !!! Tip 
     
-    This **is not an appropriate use of Padlet**. Teaching materials should be provided directly within the module's Ultra VLE site. Reading items must be provided on the Leganto Reading List.
+    Please **use your VLE site**! Teaching materials should be provided directly within the module's Ultra VLE site. Reading items must be provided on the Leganto Reading List.
 
-#### Example Padlet: module resources
-
-This archive **Column** format Padlet was used pre-Ultra VLE to present weekly module materials, containing:
+This archive *Economic Data Analysis - Resources* Padlet used the **Column** format to present weekly module materials, containing:
 
 - an introductory resource: article, link, YouTube video etc.
 - lecture slides in PPT (with PDF slides on the VLE site)
 - post-lecture tasks: reading items, VLE quizzes etc.
 - uploaded PDFs of reading items
 
-While this was well organised and guided students through the content, there are problems presenting materials in Padlet:
+This was well organised and guided students through the content, but there are there are general problems presenting teaching materials in Padlet:
 
-- The Padlet format requires lots of scrolling, may have contrast issues, and doesn't allow users to select text. This makes it difficult to use for many users.
+- Padlet require lots of scrolling, may have contrast issues, and don't allow users to select text. This makes it difficult to use for many users.
 - Materials in a Padlet take students outside the module VLE site. This causes difficulties for some users, and is generally unpopular.
 - Uploaded PDFs are problematic in terms of copyright and accessibility, amongst other issues. Readings should be added to the Reading List instead.
 
-Once Ultra VLE sites were adopted, this Padlet was remade directly within the module site and reading items added to the Reading List.
+Once Ultra VLE sites and the [VLE Site Design Principles](../ultra/site-design-principles.md) were adopted, this Padlet was remade directly within the module site and reading items added to the Reading List.
 
 <figure markdown>
 ![Described in text](images/padlet-teaching-resources.png)
-</figcaption>Padlet used for weekly module materials</figcaption>
+<figcaption>Example: Padlet used for weekly module materials</figcaption>
 </figure>
 
 ??? Abstract "Required tool for module materials: Ultra VLE site"
     
-    - The [Document](../ultra/documents.md) page type is the best option for providing most module materials. This uses drag-and-drop content blocks in a flexible layout to easily add text, images, video, files and more.
-    - Lecture slides and other files can be [uploaded with a Document](../ultra/documents.md#block-file-upload) to integrate with other content, or as [standalone items](../ultra/files.md)
+    - The [Document](../ultra/documents.md) page type is the best option for providing most module materials. This uses drag-and-drop content blocks in a flexible layout to easily add text, images, video, files and more. Use column titles as section headings or an individual document.
+    - Lecture slides and other files can be [uploaded with a Document](../ultra/documents.md#block-file-upload) to integrate with other content, or as [standalone items](../ultra/files.md).
+    - Panopto and YouTube video content can be [embedded within a Document](../ultra/documents.md#block-html).
+    - Students can use the Ally Alternative Formats tool to convert and download content in a way that works for them, and you can use the Accessibility Report to identify and fix issues.
     - **Do not upload or directly link to reading items**. Use the Reading List instead (see below).
-    - Use your Departmental template materials sections; in most cases s sections or Documents.
+    - Use your Departmental template materials sections; in most cases weekly sections or Documents.
     
     **Reworking the example Padlet**
 
-    All non-reading item content should be added to the module Ultra VLE site. Add items from each weekly column to the relevant template weekly materials section. Most content is best added into a Document: overview, tasks, slides, details of readings etc. Add content such as Discussions and Quizzes as separate items within the weekly section, so that all weekly content is collated together.
+    All non-reading item content should be added to the module Ultra VLE site. Add items from each weekly column to the relevant template weekly materials section. Most content is best added into a Document: overview, tasks, slides, details of readings etc. Add content such as Discussions and Quizzes as separate items within the weekly section, so that all weekly content is collated together. Once complete, remove the Padlet from the site.
 
     <figure markdown>
     ![Weekly section with task Document, Discussion and Quiz item. The Document contains a weekly overview of tasks, slides uploaded and viewable on the page, embedded recordings and details of the week's readings on the Reading List](images/padlet-teaching-resources-alternative-ultra-document.png)
-    <figcaption>Example: Padlet used to provide module materials</figcaption>
+    <figcaption>Padlet reworked as Ultra VLE folder and Document with weekly materials</figcaption>
     </figure>
 
 ??? Abstract "Required tool for reading items: Leganto Reading List"
@@ -286,7 +290,7 @@ Once Ultra VLE sites were adopted, this Padlet was remade directly within the mo
 
     !!! Warning
 
-        Do not directly upload reading items to your Ultra VLE site, or link to them in Google Drive.
+        Do not directly upload reading items to your Ultra VLE site, or link to them in Google Drive etc.
     
     **Reworking the example Padlet**
 
@@ -298,14 +302,79 @@ Once Ultra VLE sites were adopted, this Padlet was remade directly within the mo
         
     <figure markdown>
     ![Structured reading list with importance tags and direct links to view item online](images/padlet-teaching-resources-alternative-readinglist.png)
-    <figcaption>Padlet reading items added to Reading List</figcaption>
+    <figcaption>Padlet reworked by adding items to Reading List</figcaption>
     </figure>
 
----
+#### Example Padlet: non-teaching resources
 
-### Curated resources: non-teaching
+This *You and Your Career* Padlet is one of a series of **Column** Padlets providing content as part of the York Law School's Careers & Development Programme. They contain a range of resource types, including:
 
-Google Workplace tools (Docs, Slides, Sites) may be useful to share resources outside of a teaching context, or with external users.
+- text content within the Padlet itself
+- video demonstrations
+- various useful files (PDF, Word etc.)
+
+The Padlets are hosted within an ongoing VLE site for all current Law students.
+
+<figure markdown>
+![Columns for intro, instructions, booklet etc. Mix of text, video and file content ](images/padlet-nonteaching-resources.png)
+<figcaption>Example: Column Padlet for non-teaching resources</figcaption>
+</figure>
+
+??? Abstract "Alternative tool: Ultra VLE site (teaching-aligned content, current students)"
+
+    - An Ultra VLE site is a suitable tool for providing 'teaching-aligned' content (eg. academic skills, career planning, lab skills), accessible in the VLE with module sites.
+    - [Contact us](mailto:vle-support@york.ac.uk) to set up a new Ultra VLE site if needed.
+    - The [Document](../ultra/documents.md) page type is the best option for providing most resources. This uses drag-and-drop content blocks in a flexible layout to easily add text, images, video, files and more.
+    - Files can be [uploaded with a Document](../ultra/documents.md#block-file-upload) to integrate with other content, or as [standalone items](../ultra/files.md)
+    - Panopto and YouTube video content can be [embedded within a Document](../ultra/documents.md#block-html).
+    - Students can use the Ally Alternative Formats tool to convert and download content in a way that works for them, and you can use the Accessibility Report to identify and fix issues.
+    - Usable with current students only.
+
+    **Reworking the example Padlet**
+
+    As the Padlet is already embedded in an Ultra VLE site and content is aimed at current students, the best alternative is to migrate the content from the Padlet to the VLE site itself. Create a [Document](../ultra/documents.md) (aka VLE page), Use the column titles as section headings and add the text, images, videos and files etc. Once complete, remove the Padlet from the site.
+
+    <figure markdown>
+    ![Document with text content, embedded videos, previewable files and links, using drag and drop layout](images/padlet-nonteaching-resources-alternative-VLE.png)
+    <figcaption>Padlet reworked as Ultra VLE Document</figcaption>
+    </figure>
+
+
+??? Abstract "Alternative tool: Google Site (other content, staff, external users)"
+
+    - A [Google Site](https://subjectguides.york.ac.uk/google/sites) is a simple website publishing tool that's useful to provide non-teaching related content, or any content for staff or external users.
+    - Layout is very flexible, using a range of drag-and-drop 'content blocks' and collapsible sections. Various themes are available to style content.
+    - Supports many content types, including text, images, embedded Google tools (Docs, Slides, YouTube etc.). External files (eg. PDF, Word) can't be added directly, but can be linked/embedded from Google Drive.
+    - Has the usual Google sharing options: specific users, University of York or Public.
+    - There is no access for students to directly download the content, or native accessibility tools within the Site.
+
+    **Reworking the example Padlet**
+
+    If access is needed for external users (eg. alumni), Google Sites could be used to present non-teaching content. This is also a good option for staff-facing content. [Create a Google Site](https://subjectguides.york.ac.uk/google/sites#s-lg-box-wrapper-19232733), add the text, images, embedded videos etc. You may need to upload files to Google Drive to add them. Once complete, publish the site and share with users (viewer access).
+
+    <figure markdown>
+    ![Simple webpage with text content, embedded videos, collapsible sections and files linked from Google Drive, using drag and drop layout](images/padlet-nonteaching-resources-alternative-googlesite.png)
+    <figcaption>Padlet reworked as a Google Site page</figcaption>
+    </figure>
+
+??? Abstract "Alternative tool: Google Docs (very simple option)"
+
+    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) is a very simple option to present curated non-teaching resources.
+    - Useful for lightweight content: add text and images directly, and links to files in Google Drive and videos in Panopto/YouTube.
+    - Presentation and layout is much more restrictive than in Ultra VLE sites or Google Sites.
+    - Document outline/table of contents built automatically using heading structure.
+    - Has the usual Google sharing options: specific users, University of York or Public. Give users View only access.
+
+    **Reworking the example Padlet**
+
+    While basic, Google Docs could be an option to quickly and simply convert non-teaching content from a Padlet. Create a Google Doc, add the text and images, and link to videos/files etc. Once complete, share the Doc with users (viewer access).
+
+    <figure markdown>
+    ![Google Doc with basic text content. Pop-out outline with heading anchors available. All videos and files are linked.](images/padlet-nonteaching-resources-alternative-googledoc.png)
+    <figcaption>Padlet reworked as Google Doc</figcaption>
+    </figure>
+
+
 
 ---
 
@@ -342,3 +411,10 @@ Mind maps can be created in the University’s supported [MindGenius tool](https
 ### Timeline Building
 
 [Timelines can be built in Microsoft PowerPoint](https://support.microsoft.com/en-gb/office/create-a-timeline-in-powerpoint-d1bd35a0-bfa7-428b-ba3c-c8f5b6050791), and then uploaded to the VLE or elsewhere.
+
+---
+
+<!-- ### Portfolio
+
+Google sites
+Department-specific tool -->
