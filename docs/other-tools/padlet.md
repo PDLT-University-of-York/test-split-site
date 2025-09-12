@@ -242,7 +242,7 @@ Example use cases include:
 - collating a range of student-curated materials: links, images, files etc.
 - treasure hunt-style tasks
 
-#### Example Padlet: indiviudal student-curated examples
+#### Example Padlet: individual student-curated examples
 
 In this *Exploring policy research* Padlet, each group has a separate **Column** format Padlet with headings for various types of policy research (eg. Government, think tanks, academic etc.). Within the group, each student finds and summarises a piece of research for each column, providing a link or a file of the full research document. Other students can view and commment on all contributions.
 
