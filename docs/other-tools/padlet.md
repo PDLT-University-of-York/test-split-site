@@ -58,19 +58,19 @@ We will add examples of use cases here over the next few days. If you're still n
 
     Do not use non-supported external tools; there is no University support available, and they have not been assessed for data security, service reliability or accessibility compliance. This poses a risk to users.
 
-### Gathering group or individual work outputs: text-based
+### Gathering responses or summaries (for plenary)
 
-Padlet can be used to collect individual or group responses to tasks and questions, often using the *Column* layout. Example uses include:
+Padlet can be used to collect individual or group responses to tasks and questions for review with the wider group. These often use the *Column* layout. Example uses include gathering:
 
-- summaries of group discussion for plenary
-- examples of a given item (eg. journal paper)
+- summaries of group discussion
+- responses to short in-class questions/tasks
 - student-created quiz questions for their peers
 
-#### Example Padlet: groupwork discussion summaries
+#### Example Padlet: brief groupwork discussion summaries
 
-In this *Accessibility scenario for VI workshop* task, workshop participants discussed a set of scenarios in groups and summarise for wiser participants. 
+In this *Accessibility scenario for VI workshop* task, workshop participants discussed a set of scenarios in groups and summarised points in a Padlet. These were then reviewed live in the session with the wider participants. 
 
-The Padlet is in **Column** format, with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post.
+The Padlet is in **Column** format, with one column per group. Before the session, each scenario is added as a post in the relevant column. During the task, groups discuss their scenarios and add comments on the relevant scenario post. This can then be shown on screen for synchronous review or shared for asynchronous review.
 
 <figure markdown>
 ![Column Padlet example, as described in text](images/padlet-collect-responses-column-specific.png)
@@ -97,13 +97,13 @@ The Padlet is in **Column** format, with one column per group. Before the sessio
 
     - The [Ultra Discussion tool](../ultra/discussions.md) can be used to collect longer text responses, images and other content.
     - Requires an Ultra VLE site accessible to the participants (eg. a module site)
-    - This tool is particularly suited to collecting asynchronous responses, but can be used in live sessions.
+    - This tool is particularly suited to collecting and reviewing asynchronous responses, but can be used in live sessions.
     - Create a Discussion in the module Ultra site, then add Instructions as the initial post and one post per question.
     - You can allow anonymous responses. Students and staff can reply directly to other comments.
 
     **Reworking the example Padlet**
 
-    An Ultra Discussion is also useful in this case. Set up the Discussion with one post (thread) per scenario. Students reply to the post with their comments. Students and staff can reply to these comments.
+    An Ultra Discussion could be useful in this case if staff or students need to respond to the summaries. Set up the Discussion with one post (thread) per scenario. Students reply to the post with their comments. Students and staff can reply to these comments.
 
     <figure markdown>
     ![Ultra Discussion with 4 comments on scenario 1 post, and an Instructor response to one of those comments](images/padlet-collect-responses-alternative-discussion.png)
@@ -112,7 +112,7 @@ The Padlet is in **Column** format, with one column per group. Before the sessio
 
 ---
 
-### Gathering questions or comments
+### Gathering questions or comments (for tutor response)
 
 Padlet is often used to collect anonymous questions or comments. These often use the **Wall**, **Column** or **Grid** layouts. Posts and replies are visible to other students. Example uses include:
 
@@ -230,7 +230,13 @@ This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** 
 
 ---
 
-### Curated resources
+### Gathering student work
+
+Google Slides or Microsoft Whiteboards may be useful. Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+
+---
+
+### Staff-curated resources
 
 Padlet is sometimes used to provide static materials and resources, such as:
 
@@ -311,7 +317,7 @@ This *You and Your Career* Padlet is one of a series of **Column** Padlets provi
 
 - text content within the Padlet itself
 - video demonstrations
-- various useful files (PDF, Word etc.)
+- various useful files (PDF, Word etc.) and links
 
 The Padlets are hosted within an ongoing VLE site for all current Law students.
 
@@ -338,7 +344,6 @@ The Padlets are hosted within an ongoing VLE site for all current Law students.
     ![Document with text content, embedded videos, previewable files and links, using drag and drop layout](images/padlet-nonteaching-resources-alternative-VLE.png)
     <figcaption>Padlet reworked as Ultra VLE Document</figcaption>
     </figure>
-
 
 ??? Abstract "Alternative tool: Google Site (other content, staff, external users)"
 
@@ -378,9 +383,8 @@ The Padlets are hosted within an ongoing VLE site for all current Law students.
 
 ---
 
-### Synchronous groupwork creation space
 
-Google Slides or Microsoft Whiteboards may be useful. Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+
 
 ---
 
