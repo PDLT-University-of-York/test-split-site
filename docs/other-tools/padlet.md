@@ -237,16 +237,19 @@ Padlet is often used to collect outputs of individual or groupwork to be shared 
 
 Example use cases include:
 
-- completing specific tasks, eg. find an example of a journal paper, artefact etc.
+- completing specific tasks, eg. find an example of a journal paper or artefact, treasure hunt etc.
 - providing a space for collaborative in-session work
 - collating a range of student-curated materials: links, images, files etc.
-- treasure hunt-style tasks
+- create a poster
 
 #### Example Padlet: individual student-curated examples
 
 In this *Exploring policy research* Padlet, each group has a separate **Column** format Padlet with headings for various types of policy research (eg. Government, think tanks, academic etc.). Within the group, each student finds and summarises a piece of research for each column, providing a link or a file of the full research document. Other students can view and commment on all contributions.
 
+<figure markdown>
 ![Padlet described in text. Each research summary is a post under the relevant column heading](images/padlet-student-work-find-examples.png)
+</figcaption>Example: Padlet to gather student-curated examples</figcaption>
+</figure>
 
 ??? Abstract "Alternative tool: Ultra Discussion (within VLE site)"
 
@@ -258,7 +261,7 @@ In this *Exploring policy research* Padlet, each group has a separate **Column**
 
     **Reworking the example Padlet**
 
-    The Ultra Discussion tool is likely the best tool to replace this Padlet, as it's easy to access with outher module materials and the research examples are available to refer to later. Create a Discussion in the relevant materials folder in your VLE site and add a starter post with each column heading. Students add their contributions to the relevant post.
+    The Ultra Discussion tool is likely the best tool to replace this Padlet, as it's easy to access with other module materials and the research examples are available to refer to later. Create a Discussion in the relevant materials folder in your VLE site and add a starter post with each column heading. Students add their contributions to the relevant post.
 
     <figure markdown>
     ![Native Ultra Discussion. Starter post for each category made by instructor. Student contributions contain text, flies, images etc.](images/padlet-student-work-find-examples-alternative-discussion.png)
@@ -269,7 +272,53 @@ In this *Exploring policy research* Padlet, each group has a separate **Column**
 
 #### Example Padlet: collaborative in-session groupwork
 
-Google Slides or Microsoft Whiteboards may be useful. Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
+In this *Breakout groups: Renewable energy options* Padlet in **Column** format, each group has a different energy type to research together. They post their work in their group's column, with one post per point. This could be similarly achieved in a **Wall** Padlet for each group.
+
+This is one of Padlet's own example use cases: [Breakout groups Padlet example](https://padlet.com/sample_teacher/breakout-groups-renewable-energy-options-pr2ngbhlnhw9jspa)
+
+<figure markdown>
+![Padlet described in text. The topics are solar energy, wind power, nuclear power](images/padlet-collaborative-groupwork.png)
+</figcaption>Example: Padlet for synchronous collaboration</figcaption>
+</figure>
+
+??? Abstract "Alternative tool: Google Slides (incorporating visual elements)"
+
+    - [Google Slides](https://subjectguides.york.ac.uk/google/core-apps#s-lg-box-wrapper-18870757) is a good tool for collaborative work, especially with a visual aspect.
+    - All students can work in the same Slides deck with 1+ slide per group, or each group can have their own Slides deck.
+    - Supports a range of content: text, images, charts, links to external resources, video, audio etc.
+    - Can be reviewed while students are working, on screen for plenary and retained for future reference.
+    - Has the usual Google sharing options: specific users, University of York or Public. Users will need Edit access to contribute, but can change to Viewer access after the task to lock down content.
+    - Maximum 100 synchronous contributors. May get messy if there are lot of users editing the Slides simultaneously.
+
+    **Reworking the example Padlet**
+
+    To incorporate visual elements in a poster style, Google Slides is a useful and relatively simple option to replace this Padlet. Create a Slides document and add one slide per group, or one Slides document per group. Give students edit access and they work on their own devices. Can be presented on screen for plenary review if desired.
+
+    <figure markdown>
+    ![A highly visual slide with background of a solar panel and points as individual text boxes overlaid on top along with some extra images](images/padlet-collaborative-groupwork-alternative-google-slides.png)
+    </figcaption>Padlet reworked in Google Slides</figcaption>
+    </figure>
+
+??? Abstract "Alternative tool: Google Docs (simple text-based content)"
+
+    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) is a good tool for text-based collaborative work.
+    - Useful for lightweight content: add text and images directly, and links to files and videos.
+    - Presentation and layout is much more restrictive than in Ultra VLE sites or Google Sites.
+    - Document outline/table of contents built automatically using heading structure.
+    - Can be reviewed while students are working, on screen for plenary and retained for future reference.
+    - Has the usual Google sharing options: specific users, University of York or Public. Users will need Edit access to contribute, but can change to Viewer access after the task to lock down content.
+    - Maximum 100 synchronous contributors. May get messy if there are lot of users editing the Slides simultaneously.
+
+    **Reworking the example Padlet**
+
+    For a text-based report, Google Docs is a useful and very simple option to replace this Padlet. Create a Doc and add one page per group, or one Doc per group. Give students edit access and they work on their own devices. Can be presented on screen for plenary review if desired.
+
+    <figure markdown>
+    ![Google Doc with basic text content and some images. Pop-out outline with heading anchors available.](images/padlet-collaborative-groupwork-alternative-google-doc.png)
+    <figcaption>Padlet reworked as Google Doc</figcaption>
+    </figure>
+
+<!-- Google Slides or Microsoft Whiteboards may be useful. Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards). -->
 
 ---
 
