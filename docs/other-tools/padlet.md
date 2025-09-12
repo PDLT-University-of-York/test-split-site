@@ -465,15 +465,41 @@ The Padlets are hosted within an ongoing VLE site for all current Law students.
     <figcaption>Padlet reworked as Google Doc</figcaption>
     </figure>
 
-
-
 ---
 
+### Curated Maps
 
+The **Map** format Padlet is sometimes used for icebreaker activities, or location-based tasks. For example:
 
+- favourite museum you've visited
+- where your favourite author/painter etc. is from
+- finding geographical examples
+
+#### Example Padlet: location-based icebreaker
+
+In this *What's the most exciting place you've lived or worked?* Padlet, students add a pin at their chosen location, then add a text comment and upload a representative image.
+
+<figure markdown>
+![Satellite map of Europe with pins in various locations, also listed on the left menu. The selected location card shows the location name, image and comment.](images/padlet-map.png)
+<figcaption>Example: Map Padlet for location-based task</figcaption>
+</figure>
+
+??? Abstract "Alternative tool: Google Maps"
+
+    - [Google’s My Maps tool](https://www.google.co.uk/maps/about/mymaps/#:~:text=GET%20STARTED-,MAKE%20MAPS,-Easily%20create%20custom) allows users to build shareable, curated maps.
+    - Integrates with Google Drive.
+    - Has the usual Google sharing options: specific users, University of York or Public. Users will need Edit access to contribute, but can change to Viewer access after the task to lock down content.
+
+    **Reworking the example Padlet**
+
+    Google Maps is a completely analogous tool to replace this Padlet, with almost identical workflow and final results. Create a Map, share with students and allow them to select their locations.
+
+    <figure markdown>
+    ![Padlet map content replicated exactly in Google Maps](images/padlet-map-alternative-google-maps.png)
+    <figcaption>Padlet reworked in Google Maps</figcaption>
+    </figure>
 
 ---
-
 <!-- Students also adding content in (eg ARC tree) -->
 
 <!-- ### Bulletin boards -->
@@ -483,12 +509,6 @@ The Padlets are hosted within an ongoing VLE site for all current Law students.
 The [Ultra Journal tool](../ultra/journal.md) could be useful in this context. This is a private space for either an individual or a group of students and the teaching staff. Staff can comment on student work.
 
 <!-- Something about group work? IPC type thing -->
-
----
-
-### Curated Maps
-
-[Google’s My Maps tool](https://www.google.co.uk/maps/about/mymaps/#:~:text=GET%20STARTED-,MAKE%20MAPS,-Easily%20create%20custom) allows users to build shareable, curated maps.
 
 ---
 
