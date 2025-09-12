@@ -122,49 +122,6 @@ Padlet is often used to collect anonymous questions or comments. These often use
 
 These are sometimes handled asynchronously, and sometimes during a live session. Suitable alternatives depend on when comments are gathered, and when/how they will be reviewed.
 
-#### Example Padlet: Fully asynchronous Q&A forum
-
-This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit questions anonymously (to other students and also to the lecturer). Students post their question and the lecturer comments on it to reply. Students can also comment on posts if they wish.
-
-<figure markdown>
-![Anonymous questions (eg. Where is the lecture recording? What question types are in the exam), each with a response from the lecturer](images/padlet-discussion.png)
-<figcaption>Example: Wall Padlet for anonymous asynchronous Q&A</figcaption>
-</figure>
-
-??? Abstract "Alternative tool: Ultra Discussion (within Ultra VLE sites)"
-
-    - The [Ultra Discussion tool](../ultra/discussions.md) can be used for discussion boards and Q&A forums.
-    - Requires an Ultra VLE site accessible to the participants (eg. a module site). All enrolled users can access the Discussion, post and read other contributions.
-    - There have been lots of improvements to this tool during 2025; it's now possible to 
-    [allow anonymous posting](../ultra/discussions.md#anonymous-posting) and [subscribe to be notified of new posts](../ultra/discussions.md#follow-a-discussion).
-    - Allows posting and commenting, and supports a range of content types; text, links, images, embedded YouTube videos etc.
-
-    **Reworking the example Padlet**
-
-    For use in modules, the Ultra Discussion tool is the most appropriate tool to replace this Padlet. Create a Discussion in the relevant materials folder in your VLE site and add some instructions. In settings, click **Allow anonymous responses and replies**. Students can post their questions either anonymously or non-anonymously.
-
-    <figure markdown>
-    ![Native Ultra Discussion. The initial question posts are shown, with option to expand replies.](images/padlet-discussion-alternative-ultra-discussion.png)
-    </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
-    </figure>
-
-??? Abstract "Alternative tool: Google Docs (for other uses)"
-
-    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) can be used for Q&As.
-    - Shareable across the University or more widely, so suitable for non-module use where there is not an Ultra VLE site. All users with access can post and view contributions.
-    - Allows text contributions, images and some other content types. Note that other users can delete content (although this can be restored).
-    - Contributors are not explicitly identified, but use is not technically anonymous. Content is immediately visible to all users with access.
-    - It's not possible to receive notifications when questions are posted.
-
-    **Reworking the example Padlet**
-
-    For use outside modules or other Ultra VLE sites, A Google Doc could replace the Q&A Padlet. Create a Google Doc, share it appropriately with participants and monitor for questions.
-
-    <figure markdown>
-    ![Google Doc with questions and answers typed on the page](images/padlet-discussion-alternative-google-doc.png)
-    </figcaption>Padlet reworked as a Google Doc</figcaption>
-    </figure>
-
 #### Example Padlet: reviewing responses in a live session
 
 This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** format to gather questions relating to different presentations during a live staff workshop. Questions were responded to live after each presentation, either verbally or in the Zoom chat. The same concept could be used to gather questions or comments before a session, to review live.
@@ -228,9 +185,89 @@ This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** 
 
     A Padlet in the same format as the above example was used to gather experiences of online teaching for needs analysis before a training session. Google Docs is a lightweight solution that could replace this to collect questions either in advance or during a session for live review. Create a Doc, add question(s) if needed. Give participants Edit access so they can contribute. To review, you can screenshare or users can review on their devices.
 
+#### Example Padlet: fully asynchronous Q&A forum
+
+This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit questions anonymously (to other students and also to the lecturer). Students post their question and the lecturer comments on it to reply. Students can also comment on posts if they wish.
+
+<figure markdown>
+![Anonymous questions (eg. Where is the lecture recording? What question types are in the exam), each with a response from the lecturer](images/padlet-discussion.png)
+<figcaption>Example: Wall Padlet for anonymous asynchronous Q&A</figcaption>
+</figure>
+
+??? Abstract "Alternative tool: Ultra Discussion (within Ultra VLE sites)"
+
+    - The [Ultra Discussion tool](../ultra/discussions.md) can be used for discussion boards and Q&A forums.
+    - Requires an Ultra VLE site accessible to the participants (eg. a module site). All enrolled users can access the Discussion, post and read other contributions.
+    - There have been lots of improvements to this tool during 2025; it's now possible to 
+    [allow anonymous posting](../ultra/discussions.md#anonymous-posting) and [subscribe to be notified of new posts](../ultra/discussions.md#follow-a-discussion).
+    - Allows posting and commenting, and supports a range of content types; text, links, images, embedded YouTube videos etc.
+
+    **Reworking the example Padlet**
+
+    For use in modules, the Ultra Discussion tool is the most appropriate tool to replace this Padlet. Create a Discussion in the relevant materials folder in your VLE site and add some instructions. In settings, click **Allow anonymous responses and replies**. Students can post their questions either anonymously or non-anonymously.
+
+    <figure markdown>
+    ![Native Ultra Discussion. The initial question posts are shown, with option to expand replies.](images/padlet-discussion-alternative-ultra-discussion.png)
+    </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
+    </figure>
+
+??? Abstract "Alternative tool: Google Docs (for other uses)"
+
+    - A [Google Doc](https://subjectguides.york.ac.uk/google/core-apps) can be used for Q&As.
+    - Shareable across the University or more widely, so suitable for non-module use where there is not an Ultra VLE site. All users with access can post and view contributions.
+    - Allows text contributions, images and some other content types. Note that other users can delete content (although this can be restored).
+    - Contributors are not explicitly identified, but use is not technically anonymous. Content is immediately visible to all users with access.
+    - It's not possible to receive notifications when questions are posted.
+
+    **Reworking the example Padlet**
+
+    For use outside modules or other Ultra VLE sites, A Google Doc could replace the Q&A Padlet. Create a Google Doc, share it appropriately with participants and monitor for questions.
+
+    <figure markdown>
+    ![Google Doc with questions and answers typed on the page](images/padlet-discussion-alternative-google-doc.png)
+    </figcaption>Padlet reworked as a Google Doc</figcaption>
+    </figure>
+
 ---
 
+
 ### Gathering student work
+
+Padlet is often used to collect outputs of individual or groupwork to be shared with the wider group. Padlets commonly use the **Column** or **Wall** format, but there are many options for this use case. Work is shared with the wider group, either for in-session or asynchronous review or reference. In some cases students or staff comment on contributions.
+
+Example use cases include:
+
+- completing specific tasks, eg. find an example of a journal paper, artefact etc.
+- providing a space for collaborative in-session work
+- collating a range of student-curated materials: links, images, files etc.
+- treasure hunt-style tasks
+
+#### Example Padlet: indiviudal student-curated examples
+
+In this *Exploring policy research* Padlet, each group has a separate **Column** format Padlet with headings for various types of policy research (eg. Government, think tanks, academic etc.). Within the group, each student finds and summarises a piece of research for each column, providing a link or a file of the full research document. Other students can view and commment on all contributions.
+
+![Padlet described in text. Each research summary is a post under the relevant column heading](images/padlet-student-work-find-examples.png)
+
+??? Abstract "Alternative tool: Ultra Discussion (within VLE site)"
+
+    - The [Ultra Discussion tool](../ultra/discussions.md) can be very useful to collect outputs from specific tasks, such as finding or summarising an example.
+    - Requires an Ultra VLE site accessible to the participants (eg. a module site).
+    - Allows posting and commenting on others' posts, and supports a range of content types; text, links, images, embedded YouTube videos etc.
+    - Discussions can be visible to all students, or [restricted to specific groups only](../ultra/discussions.md#assign-to-groups).
+    - It is possible to [allow anonymous posting](../ultra/discussions.md#anonymous-posting), if desired.
+
+    **Reworking the example Padlet**
+
+    The Ultra Discussion tool is likely the best tool to replace this Padlet, as it's easy to access with outher module materials and the research examples are available to refer to later. Create a Discussion in the relevant materials folder in your VLE site and add a starter post with each column heading. Students add their contributions to the relevant post.
+
+    <figure markdown>
+    ![Native Ultra Discussion. Starter post for each category made by instructor. Student contributions contain text, flies, images etc.](images/padlet-student-work-find-examples-alternative-discussion.png)
+    </figcaption>Padlet reworked as an Ultra Discussion</figcaption>
+    </figure>
+
+<!-- ??? Abstract "Alternative tool: Google Docs (simple option)" -->
+
+#### Example Padlet: collaborative in-session groupwork
 
 Google Slides or Microsoft Whiteboards may be useful. Zoom has a built in whiteboard for use during Zoom calls. For more details, see [guidance on Google Slides, Microsoft Whiteboards, Zoom Whiteboards and more](https://subjectguides.york.ac.uk/project-management/boards).
 
