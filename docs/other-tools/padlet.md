@@ -79,10 +79,10 @@ The Padlet is in **Column** format, with one column per group. Before the sessio
 
 ??? Abstract "Alternative tool: Mentimeter (text comments only, anonymous, no replies)"
     
-    - The [**Mentimeter polling tool**](../../other-tools/mentimeter/) can be used to collect short text responses.
-    - Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../../other-tools/mentimeter/asynchronous-use.md).
-    - Use one [open question slide](../../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*) per question.
-    - For large numbers of responses, there is an [AI tool available to group and summarise responses](../../other-tools/mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising)
+    - The [**Mentimeter polling tool**](../other-tools/mentimeter/index.md) can be used to collect short text responses (up to 200 characters).
+    - Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
+    - Use one [open question slide](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*) per question.
+    - For large numbers of responses, there is an [AI tool available to group and summarise responses](../other-tools/mentimeter/question-types-open.md#ai-tool-open-response-grouping-and-summarising)
     - No login is required, and responses are anonymous. It is not possible to directly reply to other comments.
 
     **Reworking the example Padlet**
@@ -101,6 +101,7 @@ The Padlet is in **Column** format, with one column per group. Before the sessio
     - This tool is particularly suited to collecting and reviewing asynchronous responses, but can be used in live sessions.
     - Create a Discussion in the module Ultra site, then add Instructions as the initial post and one post per question.
     - You can allow anonymous responses. Students and staff can reply directly to other comments.
+    - Discussions can be visible to all students, or [can be split for specific groups](../ultra/discussions.md#assign-to-groups).
 
     **Reworking the example Padlet**
 
@@ -134,7 +135,7 @@ This *Q&A Sharing experiences with Blackboard Ultra* Padlet used the **Column** 
 
 ??? Abstract "Alternative tool: Menti Q&A (synchronous collection)"
 
-    - The [Mentimeter Q&A tool](../other-tools/mentimeter/question-types-qa-comments.md) is an excellent method for gathering and reviewing questions in live sessions.
+    - The [Mentimeter Q&A tool](../other-tools/mentimeter/question-types-qa-comments.md) is an excellent method for gathering and reviewing questions (up to 200 characters) in live sessions.
     - Contributions are anonymous, with optional moderation and the ability to hide submissions as they come in.
     - Questions are displayed in a large format so they are easy to see in a live session.
     - Users can upvote and react to questions with emojis, helping to avoid duplicates and identifying key issues.
@@ -231,7 +232,6 @@ This *Week 1 Q&A* Padlet uses the **Wall** format to allow students to submit qu
 
 ---
 
-
 ### Gathering student work
 
 Padlet is often used to collect outputs of individual or groupwork to be shared with the wider group. Padlets commonly use the **Column** or **Wall** format, but there are many options for this use case. Work is shared with the wider group, either for in-session or asynchronous review or reference. In some cases students or staff comment on contributions.
@@ -257,7 +257,7 @@ In this *Exploring policy research* Padlet, each group has a separate **Column**
     - The [Ultra Discussion tool](../ultra/discussions.md) can be very useful to collect outputs from specific tasks, such as finding or summarising an example.
     - Requires an Ultra VLE site accessible to the participants (eg. a module site).
     - Allows posting and commenting on others' posts, and supports a range of content types; text, links, images, embedded YouTube videos etc.
-    - Discussions can be visible to all students, or [restricted to specific groups only](../ultra/discussions.md#assign-to-groups).
+    - Discussions can be visible to all students, or [can be split for specific groups](../ultra/discussions.md#assign-to-groups).
     - It is possible to [allow anonymous posting](../ultra/discussions.md#anonymous-posting), if desired.
 
     **Reworking the example Padlet**
