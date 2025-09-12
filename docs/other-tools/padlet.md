@@ -79,10 +79,10 @@ The Padlet is in **Column** format, with one column per group. Before the sessio
 
 ??? Abstract "Alternative tool: Mentimeter (text comments only, anonymous, no replies)"
     
-    - The [**Mentimeter polling tool**](../other-tools/mentimeter/) can be used to collect short text responses.
-    - Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../other-tools/mentimeter/asynchronous-use.md).
-    - Use one [open question slide](../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*) per question.
-    - For large numbers of responses, there is an [AI tool available to group and summarise responses](../other-tools/mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising)
+    - The [**Mentimeter polling tool**](../../other-tools/mentimeter/) can be used to collect short text responses.
+    - Responses can be collected and shared on screen in a live session, or [embedded in your Ultra site for asynchronous use](../../other-tools/mentimeter/asynchronous-use.md).
+    - Use one [open question slide](../../other-tools/mentimeter/question-types-open.md) (*word cloud* and *open ended*) per question.
+    - For large numbers of responses, there is an [AI tool available to group and summarise responses](../../other-tools/mentimeter/question-types-open/#ai-tool-open-response-grouping-and-summarising)
     - No login is required, and responses are anonymous. It is not possible to directly reply to other comments.
 
     **Reworking the example Padlet**
