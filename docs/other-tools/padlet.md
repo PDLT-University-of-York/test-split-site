@@ -16,16 +16,10 @@ tags:
 
 !!! tip "Training session: Exploring alternatives to Padlet"
 
-    We are offering a new training session that presents some alternative options to Padlet for key teaching and learning scenarios, including:
+    We recently offered a training session that presented alternative options to Padlet for key teaching and learning scenarios. The alternatives we included are outlined in full below, and the recording and resources are also available to UoY users from the following links:
 
-     - Gathering student ideas and comments (during live teaching sessions or asynchronously; anonymous or non anonymous)
-     - Sharing curated content with students (including multimedia and links; with various methods of organisation including timelines or mind maps)
-     - Providing shared spaces for collaborative work
-     - Generating shared maps for 'pin' and 'comment' activities
-    
-    We will include native VLE tools such as [Documents](https://vle-support.york.ac.uk/ultra/documents/) and [Discussions](https://vle-support.york.ac.uk/ultra/discussions/), along with [Mentimeter](https://vle-support.york.ac.uk/other-tools/mentimeter/) and the [Google workspace](https://www.york.ac.uk/it-services/tools/google-workspace/) tools including Docs and Sheets. There will be space for discussion of specific Padlet use cases and opportunities for follow ups to consider how specific Padlets could be 'converted' using alternative tools.
-
-    [Sign up for this session](../training/index.md#sign-up-training-sessions)
+     - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
+     - [Resources: Mentimeter presentation](https://www.mentimeter.com/app/presentation/alf35e2y3yp2sajoxv8a25dsvtjxfie4/edit?source=share-modal)
 
 ## Exporting/archiving your Padlets
 
