@@ -62,6 +62,7 @@ We also run synchronous sessions at key points of the academic year, where you c
     Experience the question and interaction types available within Mentimeter, then learn to create and deliver your own interactive presentations.
 
     - :octicons-arrow-right-24: [On-demand: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
+    - :octicons-arrow-right-24: [Recording: Getting started with Mentimeter, Sept 2025 (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd76e923-ffa2-4436-b2de-b35c00ce1367)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
 </div>
