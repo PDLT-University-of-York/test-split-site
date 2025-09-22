@@ -495,8 +495,6 @@ In this *What's the most exciting place you've lived or worked?* Padlet, student
     </figure>
 
 ---
-<!-- Students also adding content in (eg ARC tree) -->
-
 <!-- ### Bulletin boards -->
 
 ### Journal or reflection space
@@ -507,17 +505,23 @@ The [Ultra Journal tool](../ultra/journal.md) could be useful in this context. T
 
 ---
 
+### Timelines
+
+Padlet is sometimes used to create a *Timeline*, where sequential information is displayed horizontally. This usage can be problematic; it requires a lot of horizontal scrolling, and it's usually not possible to see all information at once. A text-based presentation is generally preferable. 
+
+**Reworking Timeline Padlets**
+
+- In most cases, a document with good heading structure is a good way to present sequential information. This could be directly within a VLE site, in a Word document or Google Doc.
+- If a specific timeline format is required, [timelines can be built in Microsoft PowerPoint](https://support.microsoft.com/en-gb/office/create-a-timeline-in-powerpoint-d1bd35a0-bfa7-428b-ba3c-c8f5b6050791), and then uploaded to the VLE.
+
+
+<!-- ---
+
 ### Mind Maps / Workflows
 
 Mind maps can be created in the University’s supported [MindGenius tool](https://www.york.ac.uk/it-services/tools/mindgenius/).
 
----
-
-### Timeline Building
-
-[Timelines can be built in Microsoft PowerPoint](https://support.microsoft.com/en-gb/office/create-a-timeline-in-powerpoint-d1bd35a0-bfa7-428b-ba3c-c8f5b6050791), and then uploaded to the VLE or elsewhere.
-
----
+--- -->
 
 <!-- ### Portfolio
 
