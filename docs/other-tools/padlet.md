@@ -27,7 +27,7 @@ tags:
 
     If you have Padlets that have been used in student teaching or assessment that need to be archived and retained, please export these from the platform as soon as possible.
 
-See your [Dashboard of Padlet boards](https://uniofyork.padlet.org/dashboard?mobile_page=Collection&filter=made) for a list of all your Padlets. You can't export all of your Padlets in bulk; you must export each one separately.
+See your [Dashboard of Padlet boards](https://uniofyork.padlet.org/dashboard?mobile_page=Collection&filter=made) for a list of all your Padlets. You can't export all of your Padlets in bulk; you must export each one separately by opening the Padlet and selecting 'Share' to access the export options.
 
 <div markdown class="grid">
 <div markdown>
