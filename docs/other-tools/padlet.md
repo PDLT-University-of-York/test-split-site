@@ -324,6 +324,7 @@ Padlet is sometimes used to provide static materials and resources, such as:
 - weekly lecture slides, tasks and reading items
 - links to additional or extension resources
 - careers or academic skills resources
+- bulletin boards
 
 In this use case, users access resources but do not contribute themselves.
 
@@ -331,7 +332,7 @@ In this use case, users access resources but do not contribute themselves.
 
 !!! Tip 
     
-    Please **use your VLE site**! Teaching materials should be provided directly within the module's Ultra VLE site. Reading items must be provided on the Leganto Reading List.
+    Please **use your VLE site**! Teaching materials should be provided directly within the module's Ultra VLE site. Reading items must be provided on the Leganto Reading List. **Do not provide module materials via platforms, eg. Google Sites**.
 
 This archive *Economic Data Analysis - Resources* Padlet used the **Column** format to present weekly module materials, containing:
 
