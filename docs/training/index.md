@@ -45,6 +45,7 @@ We also run synchronous sessions at key points of the academic year, where you c
 
     - :octicons-arrow-right-24: On-demand: coming soon
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
+    - :octicons-arrow-right-24: [Recording: Accessible VLE sites - Maths focus, Sept 2025 (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=041543f2-1a52-4d87-b382-b36200e7c49a)
 
 -   :octicons-check-circle-16: **Ultra Assignment: marking**
 
