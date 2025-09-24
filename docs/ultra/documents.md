@@ -354,6 +354,20 @@ Use this block to convert a PDF, Word or PowerPoint file on your device to inclu
     3. Wait while the file content is converted. Depending on the size of the file, this could take a few minutes.
     4. Carefully check and adapt the content and formatting as necessary.
 
+## Block style
+
+You can add a coloured icon and border to highlight any block. We recommend that this is used sparingly to maintain impact, and that styles are applied consistently across pages.
+
+1. Hover over the relevant block and click the **Paint pallette icon**.
+2. Select the desired style option:
+    - Question: ? icon, blue border
+    - Tip: light bulb icon, yellow border
+    - Key points: pin icon, purple border
+    - Next steps: arrows icon, green border
+    - Reset styling: remove style
+
+![Showing steps to add the Key Points style to introductory content block](images/documents-block-style.png)
+
 ## Layout
 
 Content blocks can be arranged in rows up to 4 columns based on 25%, 50% or 75% widths. Each row has its own column layout, giving a lot of flexibility. Rows are responsive to screen size and will wrap on small screens.
