@@ -48,6 +48,8 @@ There isn't a direct replacement for the full Padlet functionality, but there ar
 
 We will add examples of use cases here over the next few days. If you're still not sure of the best replacement after reading this guide, please [contact us](mailto:vle-support@york.ac.uk) to discuss your particular use case.
 
+You can also consult the guide to [choosing the right web platform for your content](https://www.york.ac.uk/staff/essentials/communications-marketing-brand/web-digital/platforms/.)
+
 !!! Tip
 
     Do not use non-supported external tools; there is no University support available, and they have not been assessed for data security, service reliability or accessibility compliance. This poses a risk to users.
