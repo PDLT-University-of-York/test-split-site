@@ -366,7 +366,7 @@ You can add a coloured icon and border to highlight any block. We recommend that
     - Next steps: arrows icon, green border
     - Reset styling: remove style
 
-![Showing steps to add the Key Points style to introductory content block](images/documents-block-style.png)
+![Steps to add the Key Points style to introductory content block](images/documents-block-style.png)
 
 ## Layout
 
