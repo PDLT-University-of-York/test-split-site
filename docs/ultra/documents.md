@@ -339,13 +339,13 @@ Use this block to add a grey divider between content items. This is resizable in
 
 ### Block: Convert a File
 
-!!! ai "Using the file converter effectively"
+!!! ai "Using automated tools effectively"
 
-    Converting a file is a step in content development, not a final product. Careful checking is always needed.
+    This automatic file conversion is a step in content development, not a final product. Careful checking is always needed.
 
 ![A Powerpoint slide converted to text and an image directly within the Document](images/documents-block-convert-file.png)
 
-Use this block to convert a PDF, Word or PowerPoint file on your device to include the content directly within a Document. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. 
+Use this block to convert a PDF, Word or PowerPoint file on your device to include the content directly within a Document. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. The [automatic AI Design Assistant layout tool](#layout-with-the-ai-design-assistant) may be useful here.
 
 ??? Info "Convert a file"
 
@@ -383,6 +383,29 @@ For example, a layout for some video resources could use:
 
     - Blocks are created in a new row, and then can be moved into a column in another row.
     - Rows are always only one block high. This means that you can't add two smaller blocks stacked vertically alongside one larger one in the same row.
+
+### Layout with the AI Design Assistant
+
+!!! ai "Using AI tools effectively"
+
+    An AI-DA generated layout is a step in your content development, not a final product. Careful checking is always needed.
+
+The AI Design Assistant (AI-DA) can generate more attractive layouts for Document content. It can:
+
+- add relevant headings.
+- split up text content and arrange blocks in nicer layouts.
+- (optional) add AI-generated images or images from Unsplash.
+- (optional) add a multiple choice knowledge check question.
+
+??? Info "Using AI-DA to apply Document layout"
+
+    1. Click the **Magic/AI icon** in the top bar.
+    </br>![A very dull Document with a single block of text content. AIDA icon highlighted in top bar](images/documents-layout-aida-icon.png)
+    2. On the *Define the Layout* page, select if you want to include images or the knowledge check. Click **Generate** if a layout hasn't already been generated.
+    3. Review the generated layout and either click **Apply layout** to use it in the Document or click **Generate** for a new layout.
+    </br>![The same text content in a generated layout with a new heading, Unsplash image inline with part of the text, and a knowledge check at the end. It's a lot more attractive than just the block of text.](images/documents-layout-aida-generated.png)
+    4. Check and update the generated heading, image and knowledge check as needed, and make any adjustments needed to the layout.
+    5. Click **Save** in the top bar.
 
 ### Move a whole row
 
