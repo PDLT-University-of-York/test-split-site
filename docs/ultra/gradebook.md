@@ -171,7 +171,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 
 ### Download Results (Test question scores)
 
-**Use to download**: each student's individual answers and scores for each Test question. Might be useful for in-depth question analysis, offline marking etc. There’s also the built in Question Analysis tool.
+**Use to download**: each student's individual answers and scores for each Test question. Might be useful for in-depth question analysis, offline marking etc. There’s also the built in [Question Analysis tool](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Ultra_Question_Analysis).
 
 !!! Tip
 
@@ -194,7 +194,11 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 
 ### Download submissions
 
-Download all submissions to a specific Ultra assessment (Assignment, Test etc.) as a ZIP file:
+!!! Tip
+
+    For an Ultra Test, this downloads the submission information (time, overall mark), but *not* the student's answers. Use **Download Results** above for this.
+
+Download all submissions to a specific Ultra Assignment as a ZIP file:
 
 <div markdown class="flexcols">
 <div markdown class="col65">
