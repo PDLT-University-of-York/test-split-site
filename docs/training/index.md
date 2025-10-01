@@ -11,7 +11,7 @@ We also run synchronous sessions at key points of the academic year, where you c
 
 !!! tip "New session for Sept 2025: Exploring alternatives to Padlet"
 
-    The 'noticeboard' tool [Padlet is being withdrawn](https://elearningyork.wpcomstaging.com/2025/09/04/system-update-padlet-access-to-be-retired/) from the University's offering of supported tools from the end of September 2025.  This session presented some alternative options for key teaching and learning scenarios.The alternatives we included are outlined in full on our [Padlet page](../other-tools/padlet.md), and the recording and resources are also available to UoY users from the following links:
+    The 'noticeboard' tool has now been withdrawn from the University's offering of supported tools.  This session presented some alternative options for key teaching and learning scenarios.The alternatives we included are outlined in full on our [Padlet page](../other-tools/padlet.md), and the recording and resources are also available to UoY users from the following links:
 
      - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
      - [Resources: Mentimeter presentation](https://www.mentimeter.com/app/presentation/alf35e2y3yp2sajoxv8a25dsvtjxfie4/edit?source=share-modal)
