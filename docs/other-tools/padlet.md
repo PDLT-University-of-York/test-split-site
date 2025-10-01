@@ -6,13 +6,10 @@ tags:
 
 # Padlet
 
-!!! failure "Padlet to be retired on 30/09"
+!!! failure "Padlet has been retired"
 
-    Due to unexpected licensing changes leading to rising costs, **Padlet will no longer be available** at the University of York after **September 30th, 2025**.
+    Due to unexpected licensing changes leading to rising costs, **Padlet has now been withdrawn from the University’s offering of supported platforms**.
 
-    After this date, there will be **no access** to the platform, either to create new Padlet boards, or to access/view/update existing ones in a “read only” mode or otherwise.
-
-    We apologise for the short notice of this change. Unfortunately this was unavoidable.
 
 !!! tip "Training session: Exploring alternatives to Padlet"
 
@@ -21,32 +18,12 @@ tags:
      - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
      - [Resources: Mentimeter presentation](https://www.mentimeter.com/app/presentation/alf35e2y3yp2sajoxv8a25dsvtjxfie4/edit?source=share-modal)
 
-## Exporting/archiving your Padlets
-
-!!! Warning
-
-    If you have Padlets that have been used in student teaching or assessment that need to be archived and retained, please export these from the platform as soon as possible.
-
-See your [Dashboard of Padlet boards](https://uniofyork.padlet.org/dashboard?mobile_page=Collection&filter=made) for a list of all your Padlets. You can't export all of your Padlets in bulk; you must export each one separately by opening the Padlet and selecting 'Share' to access the export options.
-
-<div markdown class="grid">
-<div markdown>
-There are various options to export a Padlet:
-
-- Export as **image**: with or without post comments and votes
-- Export as **PDF**
-- Export as **CSV**
-- Export as **Excel Spreadsheet** (.xlsx): includes comments but does not include any uploaded files. *Recommended option for most complete and usable data*
-- **Download all files**: download copies of any files within the Padlet (eg. images, spreadsheets, documents).
-</div>
-![Screenshot of Padlet export options, highlighting the existance of the "Export as Excel Spreadsheet" and "Download all Files" options in the list.](images/padlet-export.png)
-</div>
 
 ## Alternative tools to replace Padlet
 
 There isn't a direct replacement for the full Padlet functionality, but there are many tools suitable for particular use cases. These tools also avoid the accessibility issues associated with Padlet.
 
-We will add examples of use cases here over the next few days. If you're still not sure of the best replacement after reading this guide, please [contact us](mailto:vle-support@york.ac.uk) to discuss your particular use case.
+University staff who have questions or who would like to discuss specific options are encouraged to [contact us](mailto:vle-support@york.ac.uk).
 
 You can also consult the guide to [choosing the right web platform for your content](https://www.york.ac.uk/staff/essentials/communications-marketing-brand/web-digital/platforms/).
 
