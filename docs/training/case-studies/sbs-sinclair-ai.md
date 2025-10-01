@@ -2,7 +2,6 @@
 tags:
     - Case study
     - Assessment
-    - Ultra
 ---
 
 # Case study: Integrating GenAI into assessment on the ‘Business Planning and Sustainable Entrepreneurship’ module
