@@ -1,7 +1,7 @@
 ---
 tags:
     - Other tools
-    - Interactive content
+    - Interactive content 
 ---
 
 # Padlet
