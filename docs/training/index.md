@@ -11,16 +11,10 @@ We also run synchronous sessions at key points of the academic year, where you c
 
 !!! tip "New session for Sept 2025: Exploring alternatives to Padlet"
 
-    The 'noticeboard' tool [Padlet is being withdrawn](https://elearningyork.wpcomstaging.com/2025/09/04/system-update-padlet-access-to-be-retired/) from the University's offering of supported tools from the end of September 2025.  This session presents some alternative options for key teaching and learning scenarios including:
+    The 'noticeboard' tool has now been withdrawn from the University's offering of supported tools.  This session presented some alternative options for key teaching and learning scenarios.The alternatives we included are outlined in full on our [Padlet page](../other-tools/padlet.md), and the recording and resources are also available to UoY users from the following links:
 
-     - Gathering student ideas and comments (during live teaching sessions or asynchronously; anonymous or non anonymous)
-     - Sharing curated content with students (including multimedia and links; with various methods of organisation including timelines or mind maps)
-     - Providing shared spaces for collaborative work
-     - Generating shared maps for 'pin' and 'comment' activities
-
-    We will include native VLE tools such as [Documents](https://vle-support.york.ac.uk/ultra/documents/) and [Discussions](https://vle-support.york.ac.uk/ultra/discussions/), along with [Mentimeter](https://vle-support.york.ac.uk/other-tools/mentimeter/) and the [Google workspace](https://www.york.ac.uk/it-services/tools/google-workspace/) tools including Docs and Sheets. There will be space for discussion of specific Padlet use cases and opportunities for follow ups to consider how specific Padlets could be 'converted' using alternative tools.
-
-    [Sign up for this session](#sign-up-training-sessions)
+     - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
+     - [Resources: Mentimeter presentation](https://www.mentimeter.com/app/presentation/alf35e2y3yp2sajoxv8a25dsvtjxfie4/edit?source=share-modal)
 
 
 <div class="grid cards wide" markdown>
@@ -50,6 +44,7 @@ We also run synchronous sessions at key points of the academic year, where you c
     Key tips to improve the accessibility of your VLE site and teaching materials. Offered as general content and maths-focused options.
 
     - :octicons-arrow-right-24: On-demand: coming soon
+    - :octicons-arrow-right-24: [Recording: Accessible VLE sites - Maths focus, Sept 2025 (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=041543f2-1a52-4d87-b382-b36200e7c49a)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
 -   :octicons-check-circle-16: **Ultra Assignment: marking**
@@ -68,6 +63,7 @@ We also run synchronous sessions at key points of the academic year, where you c
     Experience the question and interaction types available within Mentimeter, then learn to create and deliver your own interactive presentations.
 
     - :octicons-arrow-right-24: [On-demand: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
+    - :octicons-arrow-right-24: [Recording: Getting started with Mentimeter, Sept 2025 (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd76e923-ffa2-4436-b2de-b35c00ce1367)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
 </div>

@@ -55,6 +55,14 @@ Further tips on using specific tools effectively are given below.
 
 This section summarises key tool features and considerations for applying them in your teaching at UoY. For more detail and video demonstrations, see [Blackboard Help's guide to AI-DA](https://help.blackboard.com/Learn/Instructor/Ultra/Course_Content/Create_Content/AI_Design_Assistant)
 
+### Layouts for Documents
+
+AI-DA can arrange existing Document content into a more attractive layout, and also add headings, images and knowledge checks.
+
+![A dull text-based Document converted using AI-DA to look much more engaging](images/aida-document-layout.png)
+
+See our Documents guide for details of [How to use AI-DA to apply layout to Documents](../ultra/documents.md#layout-with-the-ai-design-assistant)
+
 ### Task prompts
 
 AI-DA can generate prompts for **Discussions**, **Assignments** and **Journals**. The output is very similar for the three task types.

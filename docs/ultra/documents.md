@@ -288,6 +288,8 @@ Use this block to upload an image, source an image from Unsplash or generate an 
 
 Images should be high quality and must comply with copyright regulations. The [University’s photo library](https://brand.york.ac.uk/account/dashboard/) or [Unsplash.com](https://unsplash.com/) are good sources of appropriate images.
 
+Ensure that images have appropriate ALT text to describe the content, or are marked as decorative if they don't add meaning. You can also add a caption to give further context or comment on the image, but this shouldn't be used in place of ALT text.
+
 ??? Info "Add an image"
 
     1. Add an Image block, or a Content block and then select the image icon in the text editor. These both open the **Insert image panel**.
@@ -296,27 +298,38 @@ Images should be high quality and must comply with copyright regulations. The [U
         - *Upload an image*: drag a file into the box or click **Upload File** to manually select a file on your device. The file must be a .jpg or .png and less than 10,240MB. Click **Next**.
         - *Unsplash image*: open the Image Source menu and select **Stock images from Unsplash**. This automatically searches based on the Document title, or you can enter your own terms then click **Search**. Select an image and click **Next**.
         - *Generate AI image*: open the Image Source menu and select **Generate images**. This automatically generate images  based on the Document title, or you can enter your own terms then click **Generate**. Select an image and click **Next**.
-        </br>![Unsplash and generated images: described in example below](images/documents-block-image-ai-unsplash.png)
-    3. Set the zoom or aspect ratio as needed and click **Save**.
+        </br>![Unsplash and generated images: described in example below.](images/documents-block-image-ai-unsplash.png)
+    3. Select the aspect ratio, reposition and zoom as needed and click **Next**.
+    </br>![Image preview panel with square aspect, centered position and slightly zoomed in](images/documents-block-image-aspect-zoom.png)
     4. In the Edit File Options panel, adjust the **Display name** (ie. file name) as needed. Provide appropriate **ALT text** or mark the image as decorative. Leave the **File Options** as *View and download*. Click **Save**.
-    </br>![Image preview panel with options to change the aspect ratio, zoom in and re-position. Edit panel as described in text](images/documents-block-image-aspect-edit.png)
+    </br>![Edit File Options panel with features described in text. Inputted content given in example below.](images/documents-block-image-edit-file-options.png)
     5. To edit the image after closing the panel, click the **three dots icon** in the top right of the image and select **Edit image**.
+    6. Position the image block as desired on the page.
+    </br>![The inserted image with caption below, arranged in a row next to text-based content.](images/documents-block-image-final-location.png)
 
-    ??? Abstract "Example: Generated and Unsplash images"
+    ??? Abstract "Example: Generated and Unsplash images and file options"
 
-        Option 1. Generate images
+        **Add image option 1. Generate images**
         
-        **Describe an image:** runner on a mountain holding map
-
-        **Images generated:** four square images in a hyper-realistic style, all clearly AI generated but relevant to the description. Each has a single runner in Lake District-esque mountain terrain holding a map. One runner has an elongated arm and one has a very large map, but all could reasonably be used.
+        - *Describe an image*: runner on a mountain holding map
+        - *Images generated*: four square images in a hyper-realistic style, all clearly AI generated but relevant to the description. Each has a single runner in Lake District-esque mountain terrain holding a map. One runner has an elongated arm and one has a very large map, but all could reasonably be used.
 
         ---
 
-        Option 2. Stock images from Unsplash
+        **Add image option 2. Stock images from Unsplash**
 
-        **Search terms:** mountain running compass
+        - *Search terms*: mountain running compass
+        - *Search results*: 9 images shown on first page (of 10,000 results). None are particularly relevant to the combined search terms: one shows a compass held up in front of pine trees, five show mountain scenes but no people, and three show other types of runners.
 
-        **Search results:** 9 images shown on first page (of 10,000 results). None are particularly relevant to the combined search terms: one shows a compass held up in front of pine trees, five show mountain scenes but no people, and three show other types of runners.
+        ---
+
+        **Edit File Options**
+
+        Inputted content:
+
+        - *Display name*: navigation-and-compass.jpg
+        - *Image caption*: Map and compass navigation is a key fell running skill.
+        - *Alternative text*: A hiking map and compass held up in front of a forest.
 
 ### Block: Divider
 
@@ -326,13 +339,13 @@ Use this block to add a grey divider between content items. This is resizable in
 
 ### Block: Convert a File
 
-!!! ai "Using the file converter effectively"
+!!! ai "Using automated tools effectively"
 
-    Converting a file is a step in content development, not a final product. Careful checking is always needed.
+    This automatic file conversion is a step in content development, not a final product. Careful checking is always needed.
 
 ![A Powerpoint slide converted to text and an image directly within the Document](images/documents-block-convert-file.png)
 
-Use this block to convert a PDF, Word or PowerPoint file on your device to include the content directly within a Document. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. 
+Use this block to convert a PDF, Word or PowerPoint file on your device to include the content directly within a Document. Conversion quality will depend on the type of content in the file. Simple text-based files will be easiest to convert, but more complex formatting and layout may be lost. The [automatic AI Design Assistant layout tool](#layout-with-the-ai-design-assistant) may be useful here.
 
 ??? Info "Convert a file"
 
@@ -340,6 +353,20 @@ Use this block to convert a PDF, Word or PowerPoint file on your device to inclu
     2. Select the relevant file from your device.
     3. Wait while the file content is converted. Depending on the size of the file, this could take a few minutes.
     4. Carefully check and adapt the content and formatting as necessary.
+
+## Block style
+
+You can add a coloured icon and border to highlight any block. We recommend that this is used sparingly to maintain impact, and that styles are applied consistently across pages.
+
+1. Hover over the relevant block and click the **Paint pallette icon**.
+2. Select the desired style option:
+    - Question: ? icon, blue border
+    - Tip: light bulb icon, yellow border
+    - Key points: pin icon, purple border
+    - Next steps: arrows icon, green border
+    - Reset styling: remove style
+
+![Steps to add the Key Points style to introductory content block](images/documents-block-style.png)
 
 ## Layout
 
@@ -356,6 +383,29 @@ For example, a layout for some video resources could use:
 
     - Blocks are created in a new row, and then can be moved into a column in another row.
     - Rows are always only one block high. This means that you can't add two smaller blocks stacked vertically alongside one larger one in the same row.
+
+### Layout with the AI Design Assistant
+
+!!! ai "Using AI tools effectively"
+
+    An AI-DA generated layout is a step in your content development, not a final product. Careful checking is always needed.
+
+The AI Design Assistant (AI-DA) can generate more attractive layouts for Document content. It can:
+
+- add relevant headings.
+- split up text content and arrange blocks in nicer layouts.
+- (optional) add AI-generated images or images from Unsplash.
+- (optional) add a multiple choice knowledge check question.
+
+??? Info "Using AI-DA to apply Document layout"
+
+    1. Click the **Magic/AI icon** in the top bar.
+    </br>![A very dull Document with a single block of text content. AIDA icon highlighted in top bar](images/documents-layout-aida-icon.png)
+    2. On the *Define the Layout* page, select if you want to include images or the knowledge check. Click **Generate** if a layout hasn't already been generated.
+    3. Review the generated layout and either click **Apply layout** to use it in the Document or click **Generate** for a new layout.
+    </br>![The same text content in a generated layout with a new heading, Unsplash image inline with part of the text, and a knowledge check at the end. It's a lot more attractive than just the block of text.](images/documents-layout-aida-generated.png)
+    4. Check and update the generated heading, image and knowledge check as needed, and make any adjustments needed to the layout.
+    5. Click **Save** in the top bar.
 
 ### Move a whole row
 

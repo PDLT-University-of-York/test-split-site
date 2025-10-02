@@ -76,6 +76,10 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [Student and teacher experiences of asynchronous activities with Padlet and Google docs](../../training/case-studies/hoa-sinclair-vyvyan.md)
 - [Using Xerte to enhance asynchronous learning](../../training/case-studies/ipc-martin-genner.md)
 
+## Generative Artificial Intelligence (GenAI) tools
+
+- [Integrating GenAI into assessment on the ‘Business Planning and Sustainable Entrepreneurship’ module](../../training/case-studies/sbs-sinclair-ai.md)
+
 ## Virtual and extended reality (VR/XR)
 
 - [Enhancing skills through VR Simulation](../../training/case-studies/hyms-vr.md)

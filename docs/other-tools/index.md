@@ -4,6 +4,10 @@
     
     We also offer a range of other tools to support teaching and learning. Potential uses include building or presenting content, introducing interactivity and facilitating communication.
 
+!!! Tip
+
+    Not sure where your content belongs? See the the guide to [choosing the right web platform for your content](https://www.york.ac.uk/staff/essentials/communications-marketing-brand/web-digital/platforms/) for more advice.
+
 ## Our tools
 
 <div class="grid cards" markdown>

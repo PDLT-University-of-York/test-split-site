@@ -147,47 +147,46 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 
 ## Download & view Gradebook data
 
-### Download the Gradebook: spreadsheet summary of all marks 
+!!! Tip
 
-On any of the Gradebook views, click the *Download Gradebook* icon (a box with an arrow pointing down into it) on the right of the Gradebook navigation bar.
+    Anonymously graded assessments must be de-anonymised (by clicking *Post all marks*) to allow downloading marks or results.
 
-![decorative](images/gradebook-download-marks-icon.png)
+### Download Gradebook (overall marks)
 
-<div markdown class="grid">
-<div markdown>
+**Use to download**: final mark per student for each selected assessment. Useful for exporting grades for E:vision etc.
 
-Set your desired download options:
+1. On any of the Gradebook views, click the *Download Gradebook* icon (a box with an arrow pointing down into it) on the right of the Gradebook navigation bar.
+</br>![decorative](images/gradebook-download-marks-icon.png)
+2. Select the appropriate settings:
+    - **Mark records**: select *Full Gradebook* (for the final marks)
+    - **Record details**:
+        - Tick *Select All Items* or select specific assessment(s) from the list.
+        - Include feedback: toggle on to also download feedback (for one specific assessment only).
+    - **File Type**: .xls or .csv
+    - **Save Location**: select *My Device* (do not use *Content Collection*)
+        - *My Device*: leave selected to download to your computer.
+        - *Content Collection*: do not choose this option
+</br>![Download options described in text](images/gradebook-download-full-marks.png)
+3. Click **Download**.
 
-- **Mark records**: level of data to include
-    - *Full Gradebook*: the marks as currently shown in the Gradebook.
-    - *Mark history*: full details of all marking activity. You are very unlikely to need this.
-- **Record details**: which assessments to include
-    - Tick *Select All Items* or select specific assessments from the list.
-    - To also download feedback, select one assessment and toggle the feedback option on.
-- **File Type**: select your desired file type: .xls or .csv
-- **Save Location**
-    - *My Device*: leave selected to download to your computer.
-    - *Content Collection*: do not choose this option
+### Download Results (Test question scores)
 
-When you have applied your settings, click **Download**.
-</div>
-![Download options described in text](images/gradebook-download-full-marks.png)
-</div>
+**Use to download**: each student's individual answers and scores for each Test question. Might be useful for in-depth question analysis, offline marking etc. There’s also the built in [Question Analysis tool](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Ultra_Question_Analysis).
 
-### Download Results
+!!! Tip
 
-Download detailed marks for a specific Ultra assessment (Assignment, Test etc.). This is most useful for analysing Test responses.
-
-For anonymously marked assessments, this is only available once marks have been posted and so deanonymised.
+    Questions are included in the specific order they were presented to each student, so if questions were randomised, ‘Question 1’ will differ for each student. To convert back to consistent question order, select *By question and student* format and sort by question text.
 
 <div markdown class="flexcols">
 <div markdown class="col65">
 1. Open the *Marks* or *Markable Items* Gradebook view.
 2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Download Results**.
 3. Select the appropriate settings:
-    - File type: .xls or .csv
-    - Format of results: by student (1 row/student) or By questions and student (1 row/student/question)
-    - Attempts to Download: all attempts or only the marked attempts
+    - **File type**: .xls or .csv
+    - **Format of results**: appropriate option depends on particular use case
+        - *By student*: wide format (one row per student). Only really useful if questions were in the same order for each student.
+        - *By question and student*: long format (one row per question per student). Can easily sort by question text if questions were randomised.
+    - **Attempts to download**: select ‘Mark attempts’
 4. Click **Download**.
 </div>
 ![decorative](images/gradebook-download-results.png)
@@ -195,7 +194,11 @@ For anonymously marked assessments, this is only available once marks have been 
 
 ### Download submissions
 
-Download all submissions to a specific Ultra assessment (Assignment, Test etc.) as a ZIP file:
+!!! Tip
+
+    For an Ultra Test, this downloads the submission information (time, overall mark), but *not* the student's answers. Use **Download Results** above for this.
+
+Download all submissions to a specific Ultra Assignment as a ZIP file:
 
 <div markdown class="flexcols">
 <div markdown class="col65">

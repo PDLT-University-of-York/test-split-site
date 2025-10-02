@@ -23,6 +23,10 @@ A module Ultra site can:
 
 </div>
 
+!!! Tip
+
+    Not sure if your content belongs on the VLE? See the the guide to [choosing the right web platform for your content](https://www.york.ac.uk/staff/essentials/communications-marketing-brand/web-digital/platforms/) for more advice.
+
 ## Key Ultra guides
 
 <div class="grid cards" markdown>
