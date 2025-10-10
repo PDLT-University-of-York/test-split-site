@@ -25,7 +25,7 @@ tags:
 
 !!! Tip
 
-    If your intended usage involves long written answers or file uploads, another tool will be more appropriate.
+    If your intended usage involves long written answers or file uploads, another tool will likely be more appropriate.
 
 !!! Warning
 
@@ -41,7 +41,7 @@ Test has a lot of flexible features, so is useful in many situations, including:
     
     - Very short: 1-3 auto-marked questions only.
     - Check understanding or track completion of specific content.
-    - Can also [add directly within a Document page](../ultra/documents.md#block-knowledge-check)
+    - Can also [add questions directly to a Document page](../ultra/documents.md#block-knowledge-check)
 
 
 -   **Practice quiz**
@@ -53,7 +53,7 @@ Test has a lot of flexible features, so is useful in many situations, including:
     - No specific time to complete.
     - Unlimited attempts.
 
--   **Summative quiz**
+-   **Low-stakes summative quiz**
 
     ---
 
@@ -265,7 +265,7 @@ You can build and trial the Test in your personal Ultra sandpit site, and when i
 
 !!! Tip
 
-    Don't use *Essay* type questions for practice quizzes or other Tests that need automatic mark return, as students can't see any Test results until the Essay questions are manually marked.
+    Don't use *Essay* type questions for practice quizzes or other Tests that need automatic mark return. Essay questions must be manually marked before scores are visible for any question in the Test.
 
 ### Question types
 
@@ -389,7 +389,7 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     4. Click **Copy questions**.
     5. Once the copy is processed, review the status message for any errors.
 
-??? Abstract "Question pools"
+??? Abstract "Question pools (to draw a random subset of questions)"
  
     Build a [question pool to randomly draw a subset from in each Test attempt](#randomisation). Choose from questions that already appear in another Test or Question Bank in the site.
     
@@ -414,7 +414,7 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     </div>
     </div>
 
-### Download paper and answer key
+### Download question paper
 
 You can print or download your Test as a PDF, along with an automatically-generated answer key. This could be useful for archiving and sharing with external examiners, reviewers etc.
 
@@ -433,34 +433,50 @@ To print or save a Test:
 
 ## Settings
 
-### Releasing marks/results/answers etc.
+!!! Warning
 
-maybe a table with recommended settings for different uses?
+    Very specific settings are required for **formal exams** using Test. You **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up these up correctly. This guide should not be considered sufficient guidance for this use case.
 
-### SSP accommodations
+Open the full assessment settings by clicking the **cog icon** at the top of the **Assessment settings** panel next to test content. This panel also includes key quick-access settings.
 
-SSP deadline extensions or extra time allowances must be applied for summative Tests, and for formal formative tests. See our [Accommodations for SSPs guide](../ultra/accommodations.md) for details of how to apply these for your site or Test.
+![Test content page with Assessment Settings panel on right side. Quick access settings: due date, mark category, marking (points and posting), attempts allowed, Originality Report](images/test-settings.png)
 
-### General settings
+### Considering appropriate settings
 
+There are many possible Test settings. This section explains the different settings to guide you to choose the appropriate settings for your specific use case. See below for suggested settings for some example use cases. 
 
+#### Details & Information (Due date)
 
-- time limit - really needed?
-- deadline - allow enough time
+**Key consideration: Does your Test need a due date?**
 
+A due date is only recommended for low-stakes summative quizzes that must be completed by a specific date.
 
+Other use cases do not require a due date.
 
-There are various settings possible for Tests, including;
+=== "Settings: no due date"
 
-- due date and attempt management
-- randomising the order of pages, questions and answers
-- how marks and feedback are presented to students
+    - Due date: tick *No due date*
+    - The next two options are not available
+    - *Allow class conversations*: leave unticked
 
-Edit key settings such as due date directly in the **Assessment settings** panel, or click the **cog icon** to open the full Test settings.
+=== "Settings: with due date"
 
-![decorative](images/test-settings.png)
+    <div markdown class="grid">
+    <div markdown>
 
-=== "Knowledge check"
+    - *Due date*: enter a due date and time (during core work hours) for low-stakes summative quizzes if required.
+    - *Prohibit late submissions*: [optional] tick to automatically submit any in-progress attempts at the deadline (Note: this doesn't prevent new attempts after the deadline).
+    - *Prohibit new attempts after due date*: do not tick; student must be able to submit late. tick to prevent new attempts after the deadline. ????????
+    - *Allow class conversations*: leave unticked
+    </div>
+    ![Details & Information settings panel: described in text](images/test-settings-details-and-information.png)
+    </div>
+
+### Suggested settings for example use cases
+
+This section summarises the important settings for some key example use cases. See the section above for explanation of when it's appropriate to use specific settings.
+
+??? Abstract "Knowledge check"
 
     **Suggested settings**
     
@@ -478,7 +494,7 @@ Edit key settings such as due date directly in the **Assessment settings** panel
     - Description: add an optional short description to display under the item's name in the Course Content area.
     - Leave all other settings unticked or as the default.
 
-=== "Practice quiz"
+??? Abstract "Practice quiz"
 
     !!! Tip
 
@@ -502,11 +518,30 @@ Edit key settings such as due date directly in the **Assessment settings** panel
     - Description: add an optional short description to display under the item's name in the Course Content area.
     - Leave all other settings unticked or as the default.
     
-=== "Formal exam"
+??? Abstract "Formal exam"
 
     It's essential that settings are correct for formal exams. This will depend on the structure of your Test and other requirements.
     
     [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
+
+---
+
+- time limit - really needed?
+- deadline - allow enough time
+
+### SSP accommodations
+
+<div markdown class="grid">
+<div markdown>
+SSP deadline extensions or extra time allowances must be applied for summative Tests and for formal formative tests.
+
+See our [Accommodations for SSPs guide](../ultra/accommodations.md) for instructions on how to do this.
+</div>
+<figure markdown>
+![Purple flag icon next to student name in class register](images/accommodations-flag.png)
+<figcaption>Flag denoting time limit accommodation</figcaption>
+</figure>
+</div>
 
 ## Marking & results
 
@@ -542,7 +577,7 @@ Students can be allowed to view various aspects of Test results. The use case fo
 Some considerations when using these settings:
 
 - If the Test includes any *Essay* type questions, these must be manually marked **before** students can view any scores, regardless of when scores are released. Don't use this question type if the Test won't be manually marked.
-- *Automated feedback* (auto-marked questions) and *Example of correct response* (essay questions) will only be shown if this has been added to the Test questions.
+- *Automated feedback* (auto-marked questions) and *Example of correct response* (essay questions) are only shown if this has been added to the Test questions.
 - It is not possible to show correct answers to auto-marked questions without showing example of correct response for essay questions (and vice versa).
 
 ??? Abstract "What students see: MCQs"
