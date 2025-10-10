@@ -530,29 +530,89 @@ If a Test contains *Essay* type questions, these must be manually marked. This m
 
 ### Student view of assessment results
 
-!!! Tip
-
-    If the Test includes any *Essay* type questions, these must be manually marked before students can view any scores. Don't use this question type if the Test won't be manually marked.
-
 Students can be allowed to view various aspects of Test results. The use case for the particular Test determines which of these it is appropriate for students to see; see the results guidance in the Settings section for more details.
 
-| View option | Shows | Earliest availability |
+| View option | What this shows | Earliest availability |
 | ---------- | ---------- | ---------- |
 | Submission | Questions and responses, plus overall mark (if posted) | After submission |
 | Automated feedback | Feedback added for correct/incorrect answers (auto-marked questions) | After submission |
 | Question score | Individual question scores | After marking |
-| Correct answers | Correct answers (auto-marked questions), example correct answers (essay questions) | After marking |
+| Correct answers | Correct answers (auto-marked questions) and Example of correct response (essay questions) | After marking |
 
-<div markdown class="grid">
-<figure markdown>
-![The student's response. No question score.](images/test-marking-student-answer-view-submission-essay.png)
-<figcaption>Essay: submission</figcaption>
-</figure>
-<figure markdown>
-![The students selected answer is highlighted in the 4 options. No question score.](images/test-marking-student-answer-view-submission-mcq.png)
-<figcaption>MCQ: submission</figcaption>
-</figure>
-</div>
+Some considerations when using these settings:
+
+- If the Test includes any *Essay* type questions, these must be manually marked **before** students can view any scores, regardless of when scores are released. Don't use this question type if the Test won't be manually marked.
+- *Automated feedback* (auto-marked questions) and *Example of correct response* (essay questions) will only be shown if this has been added to the Test questions.
+- It is not possible to show correct answers to auto-marked questions without showing example of correct response for essay questions (and vice versa).
+
+??? Abstract "What students see: MCQs"
+
+    <div markdown class="grid">
+    <div markdown>
+    <figure markdown>
+    ![The student's selected answer highlighted (in black) in the 4 options. No question score.](images/test-marking-student-answer-view-submission-mcq.png)
+    <figcaption>MCQ: submission</figcaption>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As Submission view, plus additional feedback on the student's answer. No specification if answer is correct or incorrect, but could be indicated in feedback text](images/test-marking-student-answer-view-autofeedback-mcq.png)
+    <figcaption>MCQ: automated feedback</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As submission view plus question score shown in top right, eg. 1 out of 1 marks](images/test-marking-student-answer-view-score-mcq.png)
+    <figcaption>MCQ: question score</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As automated feedback view, plus question score shown in top right, eg. 1 out of 1 marks](images/test-marking-student-answer-view-autofeedback-score-mcq.png)
+    <figcaption>MCQ: automated feedback & question score</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As question score view, plus green "correct" label. The student's answer is highlighted in green and also specified as the correct answer](images/test-marking-student-answer-view-score-correctanswer-correct-mcq.png)
+    <figcaption>MCQ: correct answers - correct question</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As question score view, plus red "incorrect" label. The student's answer is highlighted in red and also specified as incorrect. "Correct answer" is shown under the correct answer option.](images/test-marking-student-answer-view-score-correctanswer-incorrect-mcq.png)
+    <figcaption>MCQ: correct answers - incorrect question</figcaption>
+    </figure>
+    </div>
+    </div>
+
+??? Abstract "What students see: Essay questions"
+
+    <div markdown class="grid">
+    <div markdown>
+    <figure markdown>
+    ![The student's short written response. No question score.](images/test-marking-student-answer-view-submission-essay.png)
+    <figcaption>Essay: submission</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As submission view plus question score shown in top right, eg. 2 out of 3 marks](images/test-marking-student-answer-view-score-essay.png)
+    <figcaption>Essay: question score</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As question score view (score = 3 out of 3), plus green "correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-answer-view-score-correctanswer-correct-essay.png)
+    <figcaption>Essay: correct answers - correct question</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As question score view (score = 2 out of 3), plus orange "partially correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-answer-view-score-correctanswer-partial-essay.png)
+    <figcaption>Essay: correct answers - partially correct question</figcaption>
+    </figure>
+    </div>
+    </div>
 
 ### Download results and question scores
 
