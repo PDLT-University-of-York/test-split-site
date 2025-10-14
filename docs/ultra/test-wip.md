@@ -443,36 +443,62 @@ Open the full assessment settings by clicking the **cog icon** at the top of the
 
 ### Considering appropriate settings
 
-There are many possible Test settings. This section explains the different settings to guide you to choose the appropriate settings for your specific use case. See below for suggested settings for some example use cases. 
+There are many possible Test settings. This section explains the different settings to guide you to choose the appropriate settings for your specific use case. See below for suggested settings for some example use cases.
 
 #### Details & Information (Due date)
 
-**Key consideration: Does your Test need a due date?**
+!!! Question "Key consideration: Does your Test need a due date?"
 
-A due date is only recommended for low-stakes summative quizzes that must be completed by a specific date.
+    A due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, you can enter a due date and time during core work hours. Students must be able to start late attempts.
+    
+These settings **can** be updated after students have started their submissions.
 
-Other use cases do not require a due date.
+<!-- <div markdown class="grid">
+<div markdown>
 
-=== "Settings: no due date"
+- *Due date*: tick *No due date*.
+- **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
+- **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can continue and be submitted after the deadline (marked late). Can't start new attempts after the deadline.
+- *Allow class conversations*: attach a Discussion to the Test. Recommend to leave unticked.
+</div>
+![Details & Information settings panel: described in text](images/test-settings-details-and-information-no-duedate.png)
+</div> -->
 
-    - Due date: tick *No due date*
-    - The next two options are not available
-    - *Allow class conversations*: leave unticked
+<div markdown class="flexcols">
+<div markdown class="col65">
 
-=== "Settings: with due date"
+- *Due date*: tick *No due date*.
+- **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
+- **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can continue and be submitted after the deadline (marked late). Can't start new attempts after the deadline.
+- *Allow class conversations*: attaches a Discussion to the Test. Recommend to leave unticked.
+</div>
+![Details & Information settings panel: described in text](images/test-settings-details-and-information-no-duedate.png)
+</div>
 
-    <div markdown class="grid">
-    <div markdown>
+#### Presentation Options
 
-    - *Due date*: enter a due date and time (during core work hours) for low-stakes summative quizzes if required.
-    - *Prohibit late submissions*: [optional] tick to automatically submit any in-progress attempts at the deadline (Note: this doesn't prevent new attempts after the deadline).
-    - *Prohibit new attempts after due date*: do not tick; student must be able to submit late. tick to prevent new attempts after the deadline. ????????
-    - *Allow class conversations*: leave unticked
-    </div>
-    ![Details & Information settings panel: described in text](images/test-settings-details-and-information.png)
-    </div>
+!!! Question "Key consideration: randomisation for robust assessment"
 
-### Suggested settings for example use cases
+    Randomising test content for each attempt can support robust assessment by reducing opportunity for collusion, especially for remote uses of Test. To use random order, make sure that questions/answers do not need to appear in a specific order.
+
+Presentation options mostly relate to the order that questions appear in for each attempt. See the [randomisation section](#randomisation) for more details.
+
+These settings **cannot** be updated after students have started their submissions.
+
+<div markdown class="flexcols">
+<div markdown class="col65">
+
+- *Display one question at a time*: shows each question as a separate page.
+- **! Do not tick !** *Prohibit backtracking*: stops students moving back to previous questions.
+- *Randomise questions*: shows all questions in a random order. With pagination, randomises questions within pages.
+- *Randomise answers*: shows MCQ options in a random order.
+- *Randomise pages*: if page breaks are set, shows pages in a random order. Can choose not to randomise the first page (eg. for instructions page)
+
+</div>
+![Presentation options settings panel: described in text](images/test-settings-presentation-options.png)
+</div>
+
+### Suggested settings
 
 This section summarises the important settings for some key example use cases. See the section above for explanation of when it's appropriate to use specific settings.
 
