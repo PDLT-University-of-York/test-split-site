@@ -9,9 +9,7 @@ tags:
 
 !!! Summary
 
-    Test is a quiz and exam tool with a wide range of uses from informal knowledge checks to summative exams. It is best used for 'right answer' questions with closed answer options or short text input.
-
-    This guide covers how to create and set up a Test, and is primarily aimed at **teaching staff**.
+    Test is a quiz and exam tool with a wide range of uses from informal quizzes to summative exams. This guide covers how to create and set up a Test, and is primarily aimed at **teaching staff**.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -25,52 +23,104 @@ tags:
 
 !!! Tip
 
-    If your intended usage involves long written answers or file uploads, another tool will likely be more appropriate.
+    If your intended usage involves long written answers or file uploads (especially where this needs to be anonymous), another tool will likely be more appropriate.
+
+Test is best used for tasks with 'right answer' questions that can be marked automatically, although it can include manually marked Essay-type questions with short open text input.
+
+This section summarises some common uses of Test. See later sections for more detail on specific aspects of building and implementing a Test.
+
+### Practice quiz
+
+A formative quiz that can be taken many times, usually to practice specific content. There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
+
+??? Abstract "Practice quiz: details & suggested settings"
+
+    <!-- !!! Question "" 
+        
+        A formative quiz that can be taken many times, usually to practice specific content. Marks and feedback are automatically returned immediately after submission, without direct input from module staff. There are no time constraints. -->
+
+    **Questions & presentation**
+
+    - Includes auto-marked question types only.
+    - Often uses [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
+    - May use pagination to break up longer Tests or to manage question order.
+
+    **Suggested settings**
+
+    Leave all settings not mentioned here unticked or as the default.
+
+    - Details & Information
+        - tick *No due date*
+    - Presentation Options
+        - *Display one question at a time*: tick if using LaTeX to improve rendering
+        - *Randomisation options*: tick *Randomise questions* and *Randomise answers*
+    - Formative Tools
+        - *Formative assessment*: tick to show a Formative label
+    - Marking & Submissions
+        - *Attempts allowed*: set to Unlimited
+        - *Assessment mark*: leave *Post assessment marks automatically* ticked
+    - Assessment results:
+        - *Submission view*: tick, set to *after submission*
+        - *Automated question feedback*: tick, set to *after individual mark has been posted*
+        - *Question scores*: tick, set to *after individual mark has been posted*
+        - *Correct answers*: tick, set to *after individual mark has been posted*
+    - Description: add a short contextual description to display under the item's name in the Course Content area.
+
+### Low-stakes summative quiz
+
+A quiz or task worth a few percent (<5%) of overall grade, often related to laboratory work or as a component of continuous assessment. May set a deadline, but does not set a time limit. The only input from module staff is usually to manually post grades and automatic feedback all together at a specific point. 
+
+??? Abstract "Low-stakes summative quiz: details & suggested settings"
+
+    **Questions & presentation**
+
+    - Usually includes auto-marked question types only.
+    - May use [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
+    - May use pagination to break up longer Tests or to manage question order.
+
+    **Suggested settings**
+
+    Leave all settings not mentioned here unticked or as the default.
+
+    - Details & Information
+        - If no deadline: tick *No due date*.
+        - If requires a deadline:
+            - Set a due date and time during work hours.
+            - Apply [SSP deadline extensions](#ssp-accommodations).
+            - *Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
+    - Presentation Options
+        - *Display one question at a time*: tick if using LaTeX to improve rendering
+        - *Randomisation options*: tick as required.
+    - Marking & Submissions
+        - *Attempts allowed*: set to Unlimited, or number of attempts allowed (recommend 3+)
+        - *Attempts to mark*: either set to *Last attempt* (may need to identify the last on time submission if a late submission is made) or *All attempts* then set the *Final mark calculation* as the average or highest mark.
+        - *Assessment mark*: untick *Post assessment marks automatically* to manually release marks all together.
+    - Assessment results:
+        - *All options:*: tick, set to *after individual mark has been posted* or *specific date*.
+    - Description: add a short contextual description to display under the item's name in the Course Content area.
+
+### Formal exams
 
 !!! Warning
 
-    To run a formal exam using Test, you **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up and manage the exam procedure. 
+    To run a formal summative exam using Test, you **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up and manage the exam procedure. This is to facilitate Test administration and comply with University assessment policy requirements.
 
-Test has a lot of flexible features, so is useful in many situations, including:
+A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Some questions may require [manual marking](#manual-marking-essay-type-questions), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
+   
+??? Abstract "Formal exam: summary of procedure"
 
-<div class="grid cards show-bullets" markdown>
+    Formal exams are run very differently to asynchronous uses of Test. The appropriate settings required will depend on the specific exam; [contact us](mailto:vle-support@york.ac.uk) to advise on your use case. Information here is an overview only, and should not be considered appropriate guidance for formal exams.
 
--   **Knowledge check**
+    As an illustrative example, the general procedure for remote exams is:
 
-    ---
-    
-    - Very short: 1-3 auto-marked questions only.
-    - Check understanding or track completion of specific content.
-    - Can also [add questions directly to a Document page](../ultra/documents.md#block-knowledge-check)
-
-
--   **Practice quiz**
-
-    ---
-
-    - Optional formative practice of module content.
-    - Auto-marked questions only.
-    - No specific time to complete.
-    - Unlimited attempts.
-
--   **Low-stakes summative quiz**
-
-    ---
-
-    - Very low-stakes (eg: 2% of grade).
-    - Auto-marked questions only.
-    - No specific time to complete.
-    - Usually allow up to 3 attempts.
-
--   **Formal summative exam**
-
-    ---
-
-    - Scheduled exam during CAP or other assessment period.
-    - Requires a separate exam site.
-    - Very specific settings required: DET will manage this.
-
-</div>
+    1. The Test is set up in a separate exam VLE site before the CAP.
+    2. Onm exam day, students have a specific start window to begin the Test (eg. 10:00 - 10:30 am).
+    3. Once each student starts, they have the full scheduled time to complete the exam plus any SSP extension (eg 2 hours + 25%).
+    4. At the end of the start window, any non-starters are deemed to be absent and their access to the exam site is removed. This is much easier for non-anonymous Tests.
+    5. Students manually submit when finished, or the exam automatically submits if the end of their individual timer is reached.
+    6. The Test and exam site are hidden from students.
+    7. Any manual marking occurs and final marks are processed.
+    8. Marks and feedback are released to students at the end of the CAP.
 
 Find out more about how Test has been used across the University:
 
@@ -268,9 +318,9 @@ Randomisation is a very useful tool for creating robust assessments, particularl
 
 !!! Warning 
 
-    Anonymous marking makes it much harder to administer the Test, so avoid anonymity and manually marked *Essay* question types unless absolutely necessary.
+    Anonymous marking makes it much harder to administer the Test, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
 
-For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked *Essay* question types; we don't recommend anonymity for any formative exams.
+For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked Essay question types; we don't recommend anonymity for any formative exams.
 
 If anonymous marking is on for the Test, you:
 
@@ -301,7 +351,7 @@ You can build and trial the Test in your personal Ultra sandpit site, and when i
 
 !!! Tip
 
-    Don't use *Essay* type questions for practice quizzes or other Tests that need automatic mark return. Essay questions must be manually marked before scores are visible for any question in the Test.
+    Don't use Essay type questions for practice quizzes or other Tests that need automatic mark return. Essay questions must be manually marked before scores are visible for any question in the Test.
 
 ### Question types
 
@@ -318,6 +368,10 @@ Key question types are summarised below. See [Blackboard's Question Types guide]
 | [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Enter a text response (of any length). Can provide a model answer for help grading. | **manually graded** | can be auto-generated |
 
 ### Add questions
+
+!!! Tip
+
+    If a question has any supporting items (eg. figure, table, dataset), use the text editor to add these within the question text rather than as standalone items. This will ensure the item is always displayed with the question. 
 
 There are multiple ways to add questions to a Test. Which method is most appropriate depends on the amount of questions to add, whether to display all questions or a random subset, and whether questions have already been added elsewhere in the site.
  
@@ -479,11 +533,7 @@ Open the full assessment settings by clicking the **cog icon** at the top of the
 
 ![Test content page with Assessment Settings panel on right side. Quick access settings: due date, mark category, marking (points and posting), attempts allowed, Originality Report](images/test-settings.png)
 
-### Considering appropriate settings
-
-There are many possible Test settings. This section explains the different settings to guide you to choose the appropriate settings for your specific use case. See below for suggested settings for some example use cases.
-
-#### Details & Information (Due date)
+### Details & Information (Due date)
 
 !!! Question "Key consideration: Does your Test need a due date?"
 
@@ -502,7 +552,7 @@ These settings **can** be updated after students have started their submissions.
 ![Details & Information settings panel: described in text](images/test-settings-details-and-information-no-duedate.png)
 </div>
 
-#### Presentation Options
+### Presentation Options
 
 !!! Question "Key consideration: randomisation for robust assessment"
 
@@ -515,8 +565,8 @@ These settings **cannot** be updated after students have started their submissio
 <div markdown class="grid">
 <div markdown>
 
-- *Display one question at a time*: shows each question as a separate page.
-- **! Do not tick !** *Prohibit backtracking*: stops students moving back to previous questions.
+- *Display one question at a time*: shows each question as a separate page. May be useful for longer Tests or with maths-heavy content.
+- **! Do not tick !** *Prohibit backtracking*: stops students going back to previous questions.
 - *Randomise questions*: shows all questions in a random order. With pagination, randomises questions within pages.
 - *Randomise answers*: shows MCQ options in a random order.
 - *Randomise pages*: if pagination is used, shows pages in a random order. The first page can be excluded (eg. instructions page).
@@ -524,7 +574,7 @@ These settings **cannot** be updated after students have started their submissio
 ![Presentation options settings panel: described in text](images/test-settings-presentation-options.png)
 </div>
 
-#### Formative Tools
+### Formative Tools
 
 !!! Question "Key consideration: is the Test formative?"
 
@@ -541,7 +591,7 @@ These settings **can** be updated after students have started their submissions.
 ![Formative tools settings panel: described in text](images/test-settings-formative-tools.png)
 </div>
 
-#### Marking & Submissions
+### Marking & Submissions
 
 !!! Question "Key consideration: does marking need to be anonymous?"
 
@@ -551,7 +601,7 @@ These settings **can** be updated after students have started their submissions.
 
     - To automatically release marks immediately after submission, **use only auto-marked question types** and tick *Assessment mark: post automatically*.
     - To release all marks together, untick *Assessment mark: post automatically* and manually post marks when ready.
-    - *Essay*-type questions **must be marked manually** before any marks can be released.
+    - Essay-type questions **must be marked manually** before any marks can be released.
 
 Unless otherwise stated, these settings **can** be updated after students have started their submissions.
 
@@ -575,22 +625,49 @@ Unless otherwise stated, these settings **can** be updated after students have s
 ![Marking & submissions settings (part 2) panel: described in text](images/test-settings-marking-submissions-part2.png)
 </div>
 
-#### Assessment results
+### Assessment results
+
+!!! Question "Key consideration: what results and feedback should be given?"
+
+    What results information should be shown to students varies greatly across uses of Test; a practice quiz may immediately show all question scores and correct answers after submission, whereas a formal exam may restrict results feedback to viewing their submission only on a set date.
+
+!!! Warning 
+
+    Essay-type questions must be manually marked before students can view any results or feedback, regardless of when they are set to be released. **Don't use Essay questions if the Test won't be manually marked** and you want to automatically release results and feedback.
+
+These settings **can** be updated after students have started their submissions. See SECTION BELOW for more details of how students view the various results options.
+
+What students can view, in addition to the posted overall mark:
 
 <div markdown class="grid">
 <div markdown>
-
+- *Submission view*: the questions and their own submitted responses. Required to view any of the below options.
+- *Automated question feedback*: any correct or incorrect answer feedback added for auto-marked questions. The correct answer isn't specified, but may be stated or implied in the feedback text added.
+- *Question scores*: scores for individual questions. The correct answer is not specified, but it may be possible to deduce this. Required to view correct answers. Can't be edited if anonymous marking is on.
+- *Correct answers*: correct answers for auto-marked questions and any example correct response added for essay questions. It is not possible to show only one of these feedback components. Can't be edited if anonymous marking is on.
 </div>
 ![Assessment results settings panel: described in text](images/test-settings-assessment-results.png)
 </div>
 
-#### Assessment security
+Results can be released at various times:
+
+<div markdown class="grid">
+<div markdown>
+- *After submission*: releases immediately after submission. Applies to *submission* and *automated feedback* only.
+- *After individual mark has been posted*: releases after [automatic or manual mark posting](#assessment-results). Does not apply for *automated feedback*. 
+- *After due date*: releases after the deadline passes, if set.
+- **! Do not tick !** *After all marks have been posted*: won't release until all students with access to the Test have received an overall mark, which often does not occur. 
+- *On specific date*: releases chosen results components at a specific date and time. Often used to release formal exam results.
+- **! Do not tick !** *One time*: allows a single view after submission. If this restriction is needed, instead manage site and Test availability to allow access for a specific period.
+</div>
+![Assessment results timings panel: described in text](images/test-settings-assessment-results-timing.png)
+</div>
+
+### Assessment security
 
 !!! Question "Key consideration: is fine access control needed?"
 
-    unpredictable access (if specific groups can use release conditions)
-    
-    May be used for escape room-type activities or to manage starts across multiple exam rooms for in-person exams with Test.
+    If it's not known exactly who will need access to your Test and when, access can be managed by setting up an access code to open the Test. This may be useful for escape room-type activities or to manage starts across multiple rooms for in-person exams with Test.
 
 This setting **can** be edited after students start their submissions.
 
@@ -601,7 +678,7 @@ This setting **can** be edited after students start their submissions.
 ![Assessment security settings panel: described in text](images/test-settings-assessment-security.png)
 </div>
 
-#### Additional tools
+### Additional tools & Description
 
 Unless otherwise stated, these settings **can** be updated after students have started their submissions.
 
@@ -609,64 +686,11 @@ Unless otherwise stated, these settings **can** be updated after students have s
 <div markdown>
 - *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must [apply SSP time extensions](#ssp-accommodations) for relevant students; don't make multiple copies with different time limits.
 - *Assign to groups*: use as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
-- *Originality report*: enables a Turnitin originality report. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test. Can be added after students start their attempts, but will only apply to new submissions.
+- *Originality report*: adds Turnitin originality reporting. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test.
+- *Description*: adds a contextual note to the Test item on the Course Content page. Maximum 750 characters.
 </div>
-![Additional tools settings panel: described in text](images/test-settings-additional-tools.png)
+![Additional tools & Description settings panel: described in text](images/test-settings-additional-tools.png)
 </div>
-
----
-
-### Suggested settings
-
-This section summarises the important settings for some key example use cases. See the section above for explanation of when it's appropriate to use specific settings.
-
-??? Abstract "Knowledge check"
-
-    **Suggested settings**
-    
-    - Details & Information
-        - tick *No due date*
-    - Presentation Options
-        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
-    - Formative Tools
-        - tick *Formative assessment*
-        - leave *Display formative label to students* ticked
-    - Marking & Submissions
-        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
-        - Attempts allowed: set to Unlimited
-        - Assessment mark: leave *Post assessment marks automatically* ticked
-    - Description: add an optional short description to display under the item's name in the Course Content area.
-    - Leave all other settings unticked or as the default.
-
-??? Abstract "Practice quiz"
-
-    !!! Tip
-
-        Randomising questions displays **all questions** in the Test in a random order. To instead display a random subset of possible questions, use a Question Pool.
-
-    **Suggested settings**
-
-    - Details & Information
-        - tick *No due date*
-    - Presentation Options
-        - if no randomisation needed: leave all unticked
-        - if randomisation is needed: tick *Randomise questions*, *Randomise answers* or *Randomise pages* as desired
-        - if using LaTeX, tick *Display one question at a time* for more consistent rendering
-    - Formative Tools
-        - tick *Formative assessment*
-        - leave *Display formative label to students* ticked
-    - Marking & Submissions
-        - Mark category: leave as *Test* or change to *Quiz* (this will change the icon displayed in the Course Content area)
-        - Attempts allowed: set to Unlimited
-        - Assessment mark: leave *Post assessment marks automatically* ticked
-    - Description: add an optional short description to display under the item's name in the Course Content area.
-    - Leave all other settings unticked or as the default.
-    
-??? Abstract "Formal exam"
-
-    It's essential that settings are correct for formal exams. This will depend on the structure of your Test and other requirements.
-    
-    [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
 
 ### SSP accommodations
 
@@ -686,13 +710,13 @@ See our [Accommodations for SSPs guide](../ultra/accommodations.md) for instruct
 
 ## Marking & results
 
-### Manual marking (*Essay* type questions)
-
-If a Test contains *Essay* type questions, these must be manually marked. This must occur before scores or feedback for auto-marked questions can be released, so Essay questions should be avoided in most cases.
+### Manual marking
 
 !!! Tip
 
     Make sure that the Test is Hidden from students to prevent accidentally releasing marks early.
+
+If a Test contains Essay type questions, these must be manually marked. This **must occur before scores or feedback for auto-marked questions can be released**, so Essay questions should be avoided in most cases.
 
 1. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
 </br>![](images/test-marking-open-submission.png)
@@ -710,20 +734,14 @@ If a Test contains *Essay* type questions, these must be manually marked. This m
 
 ### Student view of assessment results
 
-Students can be allowed to view various aspects of Test results. The use case for the particular Test determines which of these it is appropriate for students to see; see the results guidance in the Settings section for more details.
+Students can view various aspects of assessment results and feedback. These are summarised here, see the [Assessment results settings section](#assessment-results) above for more details.
 
 | View option | What this shows | Earliest availability |
 | ---------- | ---------- | ---------- |
-| Submission | Questions and responses, plus overall mark (if posted) | After submission |
-| Automated feedback | Feedback added for correct/incorrect answers (auto-marked questions) | After submission |
-| Question score | Individual question scores | After marking |
-| Correct answers | Correct answers (auto-marked questions) and Example of correct response (essay questions) | After marking |
-
-Some considerations when using these settings:
-
-- If the Test includes any *Essay* type questions, these must be manually marked **before** students can view any scores, regardless of when scores are released. Don't use this question type if the Test won't be manually marked.
-- *Automated feedback* (auto-marked questions) and *Example of correct response* (essay questions) are only shown if this has been added to the Test questions.
-- It is not possible to show correct answers to auto-marked questions without showing example of correct response for essay questions (and vice versa).
+| Submission view | Questions and responses, plus overall mark (if posted) | After submission |
+| Automated question feedback | Feedback added for correct/incorrect answers (auto-marked questions) | After submission |
+| Question scores | Individual question scores | After marks posted |
+| Correct answers | Correct answers (auto-marked questions) and any example correct responses added (essay questions) | After marks posted |
 
 ??? Abstract "What students see: MCQs"
 
@@ -797,14 +815,3 @@ Some considerations when using these settings:
 ### Download results and question scores
 
 After the exam, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download--view-gradebook-data) for details of how to do this.
-
-
-
----
----
-| Question types | Manual marking | View score | Post assessment marks | Possible use case |
-| ----- | ----- | ----- | ----- | ----- |
-| Auto-graded only | Not needed | Immediately (after submission) | Automatically | Practice quizzes |
-| Auto-graded only | Not needed | At the same time | Manually on certain date | Formal exams (formative or negative) |
-| Includes essay type | Needed: will occur | Immediately (after manual marking) | Automatically | Formative/homework task |
-| Includes essay type | Needed: will not occur | Immediately or all at once | Can't post marks without manual marking. Provide an answer key and allow submission view for self-marking | Formative exam |
