@@ -290,6 +290,8 @@ Images should be high quality and must comply with copyright regulations. The [U
 
 Ensure that images have appropriate ALT text to describe the content, or are marked as decorative if they don't add meaning. You can also add a caption to give further context or comment on the image, but this shouldn't be used in place of ALT text.
 
+For more details, see our [general advice on ALT text](https://subjectguides.york.ac.uk/media/images#s-lg-box-wrapper-18695081) and [advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
+
 ??? Info "Add an image"
 
     1. Add an Image block, or a Content block and then select the image icon in the text editor. These both open the **Insert image panel**.

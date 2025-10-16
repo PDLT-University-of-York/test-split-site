@@ -497,9 +497,9 @@ Padlet is sometimes used to create a *Timeline*, where sequential information is
 
 <!-- ---
 
-### Mind Maps / Workflows
+<!-- ### Mind Maps / Workflows
 
-Mind maps can be created in the University’s supported [MindGenius tool](https://www.york.ac.uk/it-services/tools/mindgenius/).
+Mind maps can be created in the University’s supported [MindGenius tool](https://www.york.ac.uk/it-services/tools/mindgenius/). -->
 
 --- -->
 
