@@ -108,8 +108,14 @@ img {
     min-width: 300px;
 }
 
-/*** ----- grid cards styling */
+/*** ----- grid styling */
+/* remove top margin for first child in the div */
+.grid>div>ul:first-child,
+.grid>div>p:first-child {
+    margin-top: 0;
+}
 
+/*** ----- grid cards styling */
 /* default -> hide bullets in lists inside card */
 .grid.cards ul li {
     list-style-type: none;

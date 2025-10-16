@@ -96,28 +96,62 @@ Find out more about how Test has been used across the University:
     See the [full case study for more details and the transcript](../training/case-studies/cs-yuan.md).
     You can also browse our [full set of case studies](../training/case-studies/index.md).
 
+---
+
 ## Considerations
 
 ### Accessibility
 
 There are some particular accessibility considerations when creating Test questions, along with [all the usual accessibility considerations](../accessibility/index.md).
 
+Some general considerations are covered in the Digital Accessibility Team's [guide for graphic adjustments for vision-impaired students](https://docs.google.com/document/d/1_ANA76QioWT2x8k4gf27We5Ceo_T9choYLbwqkOa64Q/edit?usp=sharing). These tips are helpful for all users.
+
 <div markdown class="grid">
 <div markdown>
-#### Images and figures
+#### Images and figures: descriptions
 
 Images and figures used in Test questions must have an appropriate text-based alternative of the information:
 
 - simple images: add ALT text describing the key information to answer the question.
-- complex images: provide a separate text description (eg. data in table format, description of a diagram etc.). This can be uploaded to the question as a separate file.
+- complex images: provide a separate text description (eg. data in table format, description of a diagram etc.).
 
-For more details and guidance, see our [General advice on ALT text](https://subjectguides.york.ac.uk/media/images#s-lg-box-wrapper-18695081) and [advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
+For more guidance on image descriptions for assessments:
+
+- Our [General advice on ALT text](https://subjectguides.york.ac.uk/media/images#s-lg-box-wrapper-18695081)
+- [NWEA Image description guidance for assessments (PDF)](https://www.nwea.org/uploads/2022/11/Image-Description-Guidelines-for-Assessments_NWEA_2021.pdf)
+- [Higher Education advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
 </div>
 <figure markdown>
 ![Described in example below](images/test-figure-alt-text.png)
 <figcaption>ALT text describing a simple figure in an MCQ</figcaption>
 </figure>
 </div>
+
+#### Images and figures: colour and resolution
+
+!!! Tip
+
+    Colour-blindness is common and not generally disclosed. You should assume that colour-blindness considerations are needed for your Test.
+
+<div markdown class="flexcols">
+<div markdown class="col65">
+Consider use of **colour** in your images and figures:
+
+- Do not convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure.
+- Avoid using red and green together; this is the most problematic colour combination.
+- Ensure there is sufficient contrast between foreground and background colours (at least 4.5:1).
+- [WhoCanUse](https://www.whocanuse.com/) is our recommended tool to check contrast and explore how colour choices can affect people with different visual impairments.
+</div>
+<figure markdown>
+![Scatterplot points: Factor 1 = blue circles, factor 2 = red triangles](images/test-figure-colour-meaning.png)
+<figcaption>Using colour and shape to differentiate factors</figcaption>
+</figure>
+</div>
+
+Also ensure that images and figures are **high resolution**. This prevents pixelation or blurriness when zooming in or using a screen magnifier, and improves usage for everyone.
+
+- [Veronica with Four Eyes](https://veroniiiica.com/how-to-create-high-resolution-images-for-low-vision/) describes their experiences using images as a student with low vision, and offers tips on creating high resolution images.
+- See our [Practical Guide to media editing](https://subjectguides.york.ac.uk/media/images) for more technical guidance on image resolution.
 
 #### Content visibility
 
@@ -260,6 +294,8 @@ To create a Test:
 ![decorative](images/test-create.png)
 
 You can build and trial the Test in your personal Ultra sandpit site, and when it is ready use the [Copy Content tool](../ultra/copy-content.md) to add it to your module/exam site in the relevant location.
+
+--- 
 
 ## Questions
 
@@ -431,6 +467,8 @@ To print or save a Test:
 
 ![decorative](images/test-print.png)
 
+---
+
 ## Settings
 
 !!! Warning
@@ -449,27 +487,16 @@ There are many possible Test settings. This section explains the different setti
 
 !!! Question "Key consideration: Does your Test need a due date?"
 
-    A due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, you can enter a due date and time during core work hours. Students must be able to start late attempts.
+    A due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, you can enter a due date and time during core work hours. **Students must be able to start and submit late attempts.**
     
 These settings **can** be updated after students have started their submissions.
 
-<!-- <div markdown class="grid">
+<div markdown class="grid">
 <div markdown>
 
 - *Due date*: tick *No due date*.
 - **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
-- **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can continue and be submitted after the deadline (marked late). Can't start new attempts after the deadline.
-- *Allow class conversations*: attach a Discussion to the Test. Recommend to leave unticked.
-</div>
-![Details & Information settings panel: described in text](images/test-settings-details-and-information-no-duedate.png)
-</div> -->
-
-<div markdown class="flexcols">
-<div markdown class="col65">
-
-- *Due date*: tick *No due date*.
-- **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
-- **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can continue and be submitted after the deadline (marked late). Can't start new attempts after the deadline.
+- **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can be manually submitted after the deadline (marked late). Can't start new attempts after the deadline.
 - *Allow class conversations*: attaches a Discussion to the Test. Recommend to leave unticked.
 </div>
 ![Details & Information settings panel: described in text](images/test-settings-details-and-information-no-duedate.png)
@@ -485,18 +512,109 @@ Presentation options mostly relate to the order that questions appear in for eac
 
 These settings **cannot** be updated after students have started their submissions.
 
-<div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="grid">
+<div markdown>
 
 - *Display one question at a time*: shows each question as a separate page.
 - **! Do not tick !** *Prohibit backtracking*: stops students moving back to previous questions.
 - *Randomise questions*: shows all questions in a random order. With pagination, randomises questions within pages.
 - *Randomise answers*: shows MCQ options in a random order.
-- *Randomise pages*: if page breaks are set, shows pages in a random order. Can choose not to randomise the first page (eg. for instructions page)
-
+- *Randomise pages*: if pagination is used, shows pages in a random order. The first page can be excluded (eg. instructions page).
 </div>
 ![Presentation options settings panel: described in text](images/test-settings-presentation-options.png)
 </div>
+
+#### Formative Tools
+
+!!! Question "Key consideration: is the Test formative?"
+
+    We recommend applying both of these settings for any formative or practice use of Test.
+
+These settings **can** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+
+- *Formative Assessment*: shows a formative label on the Test. This doesn't exclude the item from any automatic Gradebook mark calculations.
+- *Display formative label to students*: default on if *Formative assessment* is ticked. Leave ticked.
+</div>
+![Formative tools settings panel: described in text](images/test-settings-formative-tools.png)
+</div>
+
+#### Marking & Submissions
+
+!!! Question "Key consideration: does marking need to be anonymous?"
+
+    [Anonymity](#anonymity) should only be applied if absolutely required for a summative Test containing manually marked questions.
+
+!!! Question "Key consideration: should marks be posted (released) automatically?"
+
+    - To automatically release marks immediately after submission, **use only auto-marked question types** and tick *Assessment mark: post automatically*.
+    - To release all marks together, untick *Assessment mark: post automatically* and manually post marks when ready.
+    - *Essay*-type questions **must be marked manually** before any marks can be released.
+
+Unless otherwise stated, these settings **can** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+- *Mark Category*: may change the icon shown on the item, but doesn't have any real impact.
+- *Attempts allowed*: how many test submissions can be made. For formative use, set to *Unlimited*. For summative low-stakes quizzes set to the relevant amount.
+- *Attempts to mark*: which test submission to mark. In most cases leave as *Last attempt*. For the highest or average score of multiple attempts, select *All attempts* then the relevant *Final mark calculation* (average, highest, lowest mark).
+- *Mark using*: leave as the default *Points*, change to *Percentage* or use a [mark schema](../ultra/mark-schema.md) to convert marks to qualitative categories.
+- *Maximum points*: automatically calculated from individual question scores, cannot be edited.
+</div>
+![Marking & submissions settings (part 1) panel: described in text](images/test-settings-marking-submissions-part1.png)
+<!-- </div> -->
+
+<!-- <div markdown class="grid"> -->
+<div markdown>
+- *Anonymous marking: Hide student names*: only use if absolutely required for summative Tests with manually marked questions. Can't be used with automatic mark posting. Can't be updated after students have started their submissions.
+- *Evaluation options: Delegated marking*: assign markers to specific groups of students. Only required for manually marked questions and large cohorts.
+- *Assessment mark: post automatically*: immediately releases overall mark after an attempt is submitted (if all auto-marked questions) or marked (if includes essay questions). Untick to manually manage overall mark release. See [Assessment results](#assessment-results) to manage access to Test content after marks are released.
+</div>
+![Marking & submissions settings (part 2) panel: described in text](images/test-settings-marking-submissions-part2.png)
+</div>
+
+#### Assessment results
+
+<div markdown class="grid">
+<div markdown>
+
+</div>
+![Assessment results settings panel: described in text](images/test-settings-assessment-results.png)
+</div>
+
+#### Assessment security
+
+!!! Question "Key consideration: is fine access control needed?"
+
+    unpredictable access (if specific groups can use release conditions)
+    
+    May be used for escape room-type activities or to manage starts across multiple exam rooms for in-person exams with Test.
+
+This setting **can** be edited after students start their submissions.
+
+<div markdown class="grid">
+<div markdown>
+- *Access code*: click *Add access code* and toggle on the slider to require students to enter a 6-digit code to begin an attempt.
+</div>
+![Assessment security settings panel: described in text](images/test-settings-assessment-security.png)
+</div>
+
+#### Additional tools
+
+Unless otherwise stated, these settings **can** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must [apply SSP time extensions](#ssp-accommodations) for relevant students; don't make multiple copies with different time limits.
+- *Assign to groups*: use as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
+- *Originality report*: enables a Turnitin originality report. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test. Can be added after students start their attempts, but will only apply to new submissions.
+</div>
+![Additional tools settings panel: described in text](images/test-settings-additional-tools.png)
+</div>
+
+---
 
 ### Suggested settings
 
@@ -550,11 +668,6 @@ This section summarises the important settings for some key example use cases. S
     
     [Contact us](mailto:vle-support@york.ac.uk) to advise on appropriate settings for your specific exam.
 
----
-
-- time limit - really needed?
-- deadline - allow enough time
-
 ### SSP accommodations
 
 <div markdown class="grid">
@@ -569,25 +682,31 @@ See our [Accommodations for SSPs guide](../ultra/accommodations.md) for instruct
 </figure>
 </div>
 
+--- 
+
 ## Marking & results
 
 ### Manual marking (*Essay* type questions)
 
 If a Test contains *Essay* type questions, these must be manually marked. This must occur before scores or feedback for auto-marked questions can be released, so Essay questions should be avoided in most cases.
 
-1. Make sure that the Test is Hidden from students to prevent accidentally releasing marks early.
-2. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
+!!! Tip
+
+    Make sure that the Test is Hidden from students to prevent accidentally releasing marks early.
+
+1. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
 </br>![](images/test-marking-open-submission.png)
-3. Marking methods:
+2. Marking methods:
     - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. Question order will differ between attempts if randomisation was used.
     </br>![One attempt highlighted in left panel attempt list, with essay question and other questions from that attempt.](images/test-marking-by-student.png)
     - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses.
     </br>![One question highlighted in left panel question list, with collated answers for the same essay question from all students](images/test-marking-by-question.png)
-4. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
+3. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
 ![Essay question and student response with example answer text and mark entered](images/test-marking-essay-question.png)
-5. Once each essay question in an attempt has been marked, the final score is updated in the overall mark pill (on Student view).
+4. Once each essay question in an attempt has been marked, the final score is updated in the overall mark pill (on Student view).
 </br>![Attempt mark shown at top of specific attempt and for each student in left panel attempt list](images/test-marking-scores.png)
-6. **Anonymous marking:** once marking is complete, click **Post all marks** on the Test submissions tab to de-anonymise results.
+5. When marking is complete, click *Post all marks* on the Test submissions tab (if anonymously marked, this will also **de-anonymise results**).
+6. When ready to release marks, make the Test (and site, if needed) visible to students.
 
 ### Student view of assessment results
 
@@ -678,3 +797,14 @@ Some considerations when using these settings:
 ### Download results and question scores
 
 After the exam, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download--view-gradebook-data) for details of how to do this.
+
+
+
+---
+---
+| Question types | Manual marking | View score | Post assessment marks | Possible use case |
+| ----- | ----- | ----- | ----- | ----- |
+| Auto-graded only | Not needed | Immediately (after submission) | Automatically | Practice quizzes |
+| Auto-graded only | Not needed | At the same time | Manually on certain date | Formal exams (formative or negative) |
+| Includes essay type | Needed: will occur | Immediately (after manual marking) | Automatically | Formative/homework task |
+| Includes essay type | Needed: will not occur | Immediately or all at once | Can't post marks without manual marking. Provide an answer key and allow submission view for self-marking | Formative exam |
