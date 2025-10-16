@@ -5,7 +5,7 @@
 
 # Navigation 
 nav:
-  - Test WIP: ultra/test-wip.md
+  # - Test WIP: ultra/test-wip.md
   - Learn Ultra VLE:
     - ultra/index.md
     - VLE site design principles: ultra/site-design-principles.md

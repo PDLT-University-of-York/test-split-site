@@ -25,7 +25,7 @@ tags:
 
     If your intended usage involves long written answers or file uploads (especially where this needs to be anonymous), another tool will likely be more appropriate.
 
-Test is best used for tasks with 'right answer' questions that can be marked automatically, although it can include manually marked Essay-type questions with short open text input.
+Test is best used for tasks with 'right answer' questions and automatic marking, although it can include manually marked Essay-type questions with short open text input.
 
 This section summarises some common uses of Test. See later sections for more detail on specific aspects of building and implementing a Test.
 
@@ -34,10 +34,6 @@ This section summarises some common uses of Test. See later sections for more de
 A formative quiz that can be taken many times, usually to practice specific content. There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
 
 ??? Abstract "Practice quiz: details & suggested settings"
-
-    <!-- !!! Question "" 
-        
-        A formative quiz that can be taken many times, usually to practice specific content. Marks and feedback are automatically returned immediately after submission, without direct input from module staff. There are no time constraints. -->
 
     **Questions & presentation**
 
@@ -105,11 +101,19 @@ A quiz or task worth a few percent (<5%) of overall grade, often related to labo
 
     To run a formal summative exam using Test, you **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up and manage the exam procedure. This is to facilitate Test administration and comply with University assessment policy requirements.
 
-A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Some questions may require [manual marking](#manual-marking-essay-type-questions), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
+A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
    
 ??? Abstract "Formal exam: summary of procedure"
 
-    Formal exams are run very differently to asynchronous uses of Test. The appropriate settings required will depend on the specific exam; [contact us](mailto:vle-support@york.ac.uk) to advise on your use case. Information here is an overview only, and should not be considered appropriate guidance for formal exams.
+    Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and should not be considered sufficient guidance for running formal exams with Test.
+    
+    **Questions & presentation**
+
+    - Often includes auto-marked question types only, but can include some manually marked short answer questions.
+    - May use [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
+    - May use pagination to break up longer Tests or to manage question order.
+
+    **Procedure overview**
 
     As an illustrative example, the general procedure for remote exams is:
 
@@ -239,7 +243,7 @@ Some particular considerations:
 
 ### Randomisation
 
-Randomisation is a very useful tool for creating robust assessments, particularly in remote settings (limits collusion opportunities). There are various randomisation methods, which can be combined:
+Randomisation is a very useful tool for creating robust assessments, particularly in remote settings through limiting collusion opportunities. Test has various randomisation methods, which can be combined:
 
 ??? Abstract "Random order: Test presentation options"
 
@@ -248,7 +252,7 @@ Randomisation is a very useful tool for creating robust assessments, particularl
     <figcaption>The same content is shuffled</figcaption>
     </figure>
 
-    The overall Test settings contain three options to randomise the order of test content. These appear in the *Presentation Options* section.
+    The *Presentation Options* Test settings have three methods to randomise the order of test content:
 
     **Questions**
     
@@ -258,15 +262,14 @@ Randomisation is a very useful tool for creating robust assessments, particularl
     
     **Answers**
     
-    - Randomises the order of MCQ answer options.
-    - Don't use 'all of the above' type answers; set multiple correct answers instead. 
+    - Randomises the order of MCQ answer options for relevant questions.
+    - Don't use 'A and B are correct' type answers; use 'All other options are correct' or set multiple correct answers instead. 
         
     **Pages**
     
-    - Randomises the order of sections (pages) within the Test.
-    - Must define pages by adding page breaks between relevant questions.
+    - If pagination is set up, this randomises the order of pages within the Test.
     - Combine with *random question order* to also randomise questions within pages.
-    - Tick *Do not randomise first page* to pin particular content to the start of the Test.
+    - Tick *Do not randomise first page* to pin the first page to the start of the Test (eg. instructions).
 
 ??? Abstract "Random question selection: Question pools"
 
@@ -289,9 +292,7 @@ Randomisation is a very useful tool for creating robust assessments, particularl
     
     The example in the diagram above has three question pools. For each attempt, two questions are randomly selected from each pool, giving six questions in total. There are six possible combinations of two questions from the three pools, giving 216 possible combinations for the six questions in total.
     
-    Even for the small question pools in this example it's likely that each attempt/student will receive a unique question set. However, in practice question pools are larger than this for increased robustness and repeatability; we recommend around 5 questions in the pool per question drawn for the Test.
-
-<!-- See our [Question pools & banks guide](www.google.com) for more details on setting this up effectively. -->
+    Even for the small question pools in this example it's likely that each attempt/student will receive a unique question set. However, larger question pools are preferable for increased robustness and repeatability; we recommend 5 questions in the pool per question drawn for the Test (ie. if each student gets 4 questions, the pool should contain around 20 questions).
 
 ??? Abstract "Random formula values: Calculated Formula question type"
     
@@ -313,19 +314,18 @@ Randomisation is a very useful tool for creating robust assessments, particularl
 
     ![Described in text](images/test-question-calculated-formula.png)
 
-
 ### Anonymity
 
 !!! Warning 
 
     Anonymous marking makes it much harder to administer the Test, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
 
-For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked Essay question types; we don't recommend anonymity for any formative exams.
+For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked Essay question types; we don't recommend anonymity for formative exams.
 
 If anonymous marking is on for the Test, you:
 
-- can't see who has submitted/started; this makes it hard to manage exam access
-- can't download answers/results/scores until results are de-anonymised
+- can't see who has submitted/started. This makes it hard to manage exam access, especially for large cohorts.
+- can't download answers, overall results or question scores until results are de-anonymised.
 
 ## Create a Test
 
@@ -467,10 +467,6 @@ There are multiple ways to add questions to a Test. Which method is most appropr
 ??? Abstract "Reuse questions"
 
     Add questions that already appear in another Test or Question Bank in the site. This **copies questions**, so any edits made to re-used questions are not updated in the original question. 
-
-    !!! Tip
-
-        Reusing questions will display all of the selected questions in the Test. If you want to display only a subset (eg. 2 of 10 possible questions), use a Question Pool instead.
 
     1. Click the **plus + icon**.
     2. Select **Reuse questions**.
@@ -614,9 +610,7 @@ Unless otherwise stated, these settings **can** be updated after students have s
 - *Maximum points*: automatically calculated from individual question scores, cannot be edited.
 </div>
 ![Marking & submissions settings (part 1) panel: described in text](images/test-settings-marking-submissions-part1.png)
-<!-- </div> -->
 
-<!-- <div markdown class="grid"> -->
 <div markdown>
 - *Anonymous marking: Hide student names*: only use if absolutely required for summative Tests with manually marked questions. Can't be used with automatic mark posting. Can't be updated after students have started their submissions.
 - *Evaluation options: Delegated marking*: assign markers to specific groups of students. Only required for manually marked questions and large cohorts.
@@ -635,7 +629,7 @@ Unless otherwise stated, these settings **can** be updated after students have s
 
     Essay-type questions must be manually marked before students can view any results or feedback, regardless of when they are set to be released. **Don't use Essay questions if the Test won't be manually marked** and you want to automatically release results and feedback.
 
-These settings **can** be updated after students have started their submissions. See SECTION BELOW for more details of how students view the various results options.
+These settings **can** be updated after students have started their submissions. See the [Student view: Results section](#student-view-results) below for more details of how the various results options appear to students.
 
 What students can view, in addition to the posted overall mark:
 
@@ -680,14 +674,14 @@ This setting **can** be edited after students start their submissions.
 
 ### Additional tools & Description
 
-Unless otherwise stated, these settings **can** be updated after students have started their submissions.
+Unless stated, these settings **cannot** be updated after students have started their submissions.
 
 <div markdown class="grid">
 <div markdown>
 - *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must [apply SSP time extensions](#ssp-accommodations) for relevant students; don't make multiple copies with different time limits.
 - *Assign to groups*: use as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
 - *Originality report*: adds Turnitin originality reporting. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test.
-- *Description*: adds a contextual note to the Test item on the Course Content page. Maximum 750 characters.
+- *Description*: adds a contextual note to the Test item on the Course Content page. Maximum 750 characters. Can be updated after students have started their submissions.
 </div>
 ![Additional tools & Description settings panel: described in text](images/test-settings-additional-tools.png)
 </div>
@@ -732,9 +726,9 @@ If a Test contains Essay type questions, these must be manually marked. This **m
 5. When marking is complete, click *Post all marks* on the Test submissions tab (if anonymously marked, this will also **de-anonymise results**).
 6. When ready to release marks, make the Test (and site, if needed) visible to students.
 
-### Student view of assessment results
+### Student view: results
 
-Students can view various aspects of assessment results and feedback. These are summarised here, see the [Assessment results settings section](#assessment-results) above for more details.
+After marks are released, students can view various aspects of assessment results and feedback via the original Test interface. These are summarised here, see the [Assessment results settings section](#assessment-results) for details.
 
 | View option | What this shows | Earliest availability |
 | ---------- | ---------- | ---------- |
