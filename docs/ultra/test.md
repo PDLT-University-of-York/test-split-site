@@ -180,54 +180,28 @@ Find out more about how Test has been used across the University:
 
 There are some particular accessibility considerations when creating Test questions, along with [all the usual accessibility considerations](../accessibility/index.md).
 
-Some general considerations are covered in the Digital Accessibility Team's [guide for graphic adjustments for vision-impaired students](https://docs.google.com/document/d/1_ANA76QioWT2x8k4gf27We5Ceo_T9choYLbwqkOa64Q/edit?usp=sharing). These tips are helpful for all users.
-
-<div markdown class="grid">
-<div markdown>
-#### Images and figures: descriptions
-
-Images and figures used in Test questions must have an appropriate text-based alternative of the information:
-
-- simple images: add ALT text describing the key information to answer the question.
-- complex images: provide a separate text description (eg. data in table format, description of a diagram etc.).
-
-For more guidance on image descriptions for assessments:
-
-- Our [General advice on ALT text](https://subjectguides.york.ac.uk/media/images#s-lg-box-wrapper-18695081)
-- [NWEA Image description guidance for assessments (PDF)](https://www.nwea.org/uploads/2022/11/Image-Description-Guidelines-for-Assessments_NWEA_2021.pdf)
-- [Higher Education advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
-</div>
-<figure markdown>
-![Described in example below](images/test-figure-alt-text.png)
-<figcaption>ALT text describing a simple figure in an MCQ</figcaption>
-</figure>
-</div>
-
-#### Images and figures: colour and resolution
-
 !!! Tip
 
-    Colour-blindness is common and not generally disclosed. You should assume that colour-blindness considerations are needed for your Test.
+    Colour blindness is common and not generally disclosed. You should always consider colour blindness for any colour choices in your Test images or figures.
 
-<div markdown class="flexcols">
-<div markdown class="col65">
-Consider use of **colour** in your images and figures:
+- Appropriately **describe relevant information**:
+    - simple images: add ALT text describing the key information to answer the question.
+    - complex images: provide a separate text description (eg. data in table format, description of a diagram etc.).
+- Consider **use of colour**: don't convey meaning by colour alone, avoid red/green combinations and use a high enough contrast between foreground and background.
+- Use **high resolution** images to prevent pixelation or blurriness when zooming in.
 
-- Do not convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure.
-- Avoid using red and green together; this is the most problematic colour combination.
-- Ensure there is sufficient contrast between foreground and background colours (at least 4.5:1).
-- [WhoCanUse](https://www.whocanuse.com/) is our recommended tool to check contrast and explore how colour choices can affect people with different visual impairments.
-</div>
+See our [guide to accessible images in Ultra sites](../ultra/accessible-sites.md#tips-images--figures) for more details.
+
+<div markdown class="grid">
+<figure markdown>
+![Described image in MCQ question: What relationship is shown in the scatterplot? ALT text: As x increases, y increases. Points are tightly distributed on a straight line.](images/test-figure-alt-text.png)
+<figcaption>ALT text describing a simple figure</figcaption>
+</figure>
 <figure markdown>
 ![Scatterplot points: Factor 1 = blue circles, factor 2 = red triangles](images/test-figure-colour-meaning.png)
 <figcaption>Using colour and shape to differentiate factors</figcaption>
 </figure>
 </div>
-
-Also ensure that images and figures are **high resolution**. This prevents pixelation or blurriness when zooming in or using a screen magnifier, and improves usage for everyone.
-
-- [Veronica with Four Eyes](https://veroniiiica.com/how-to-create-high-resolution-images-for-low-vision/) describes their experiences using images as a student with low vision, and offers tips on creating high resolution images.
-- See our [Practical Guide to media editing](https://subjectguides.york.ac.uk/media/images) for more technical guidance on image resolution.
 
 #### Content visibility
 
@@ -243,19 +217,11 @@ Some particular considerations:
 <figcaption>Considering content visibility during question design</figcaption>
 </figure>
 
-??? Abstract "Image descriptions: Accessible question examples"
+??? Abstract "Image description: content visibility example"
 
-    **Example 1: Multiple-choice question with a simple figure and ALT text**
+    **Matching figures to text descriptions**
 
-    Question text: This scatterplot shows the relationship between two variables. What is the correlation shown?
-
-    ALT text for the scatterplot: As x increases, y increases. Points are tightly distributed on a straight line.
-
-    Answer options: strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation
-
-    **Example 2: Matching figures to text descriptions**
-
-    A matching question where scatterplots of showing correlations are matched to the text description (strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation).
+    A matching question where scatterplots showing different correlations are matched to the text description (strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation).
 
     Question text: For each scatterplot, select the correlation shown.
 

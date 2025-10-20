@@ -96,6 +96,13 @@ img {
     margin-right: 10px;
 }
 
+/* remove top margin for first child in the div */
+.flexcols>div>p:first-child,
+.flexcols>figure,
+.flexcols>figure>p:first-child {
+    margin-top: 0;
+}
+
 /* 65% width: col65 expands x2 more than other column */
 .flexcols>.col65 {
     flex: 2;

@@ -25,9 +25,13 @@ This guide covers key practices to improve the accessibility of your Ultra sites
 
 -   :material-tools: **Tools & resources**
 
+    ---
+
     Appropriately using Ultra and aligned teaching tools to improve accessibility.
 
 -   :material-pencil: **Content tips**
+
+    ---
 
     Good practice to improve accessibility of content within your Ultra site: text, images, links and files.
 
@@ -43,7 +47,7 @@ Departmental Ultra templates have been developed to apply the [VLE site design p
 - **Assessment**: to contain all assessment information
 - **Reading List**: all module readings
 - **Replay Lecture Capture (Panopto)**: the module's lecture capture recordings
-- **Module materials sections:** in most cases, weekly sections 
+- **Module materials sections:** in most cases, weekly sections. Organise your teaching content within these sections. 
 
 </div>
 <figure markdown>
@@ -146,25 +150,91 @@ For more detail, see the [**Block: Content (text editor)** section](../ultra/doc
 
 ## Tips: images & figures
 
-- Add appropriate ALT text for meaningful **images and figures** have or other descriptions to allow screenreader users to access the information.
-- Mark any non-meaningful items as decorative.
+Some general considerations for images are covered in the Digital Accessibility Team's [guide for graphic adjustments for vision-impaired students](https://docs.google.com/document/d/1_ANA76QioWT2x8k4gf27We5Ceo_T9choYLbwqkOa64Q/edit?usp=sharing). These tips are helpful for all users.
 
-For more detail, see the [**Block: Image** section](../ultra/documents.md#block-image) in our Documents guide.
+### ALT text and image descriptions
+
+<div markdown class="grid">
+<div markdown>
+Images and figures must have an appropriate text-based alternative of the information:
+
+- **simple images**: add ALT text describing the key information relevant to the particular context
+- **complex images**: provide a separate text description (eg. data in table format, description of a diagram etc.) and direct users to that in the ALT text.
+</br>For example, the image in this section is described in the expandable example below.
+- **purely decorative images**: tick the box to *Mark the image as decorative*
+</div>
+<figure markdown>
+![Described in example below](images/test-figure-alt-text.png)
+<figcaption>ALT text describing a simple figure</figcaption>
+</figure>
+</div>
+
+??? Abstract "Example image description"
+
+    **Example: Multiple-choice question with a simple figure and ALT text**
+
+    Question text: This scatterplot shows the relationship between two variables. What is the correlation shown?
+
+    ALT text for the scatterplot: As x increases, y increases. Points are tightly distributed on a straight line.
+
+    Answer options: strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation
+
+For more guidance on image descriptions:
+
+- [Adding Images and ALT text in Learn Ultra sites](../ultra/documents.md#block-image)
+- [General advice on ALT text](https://subjectguides.york.ac.uk/media/images#s-lg-box-wrapper-18695081)
+- [Scope's advice on writing ALT text](https://business.scope.org.uk/how-to-write-better-alt-text-descriptions-for-accessibility/): considers which information is important to include
+- [NWEA Image description guidance for assessments (PDF)](https://www.nwea.org/uploads/2022/11/Image-Description-Guidelines-for-Assessments_NWEA_2021.pdf)
+- [Higher Education advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
+
+### Colour
+
+!!! Tip
+
+    Colour blindness is common and not generally disclosed. You should assume that colour blindness considerations are needed for your materials.
+
+<div markdown class="flexcols">
+<div markdown class="col65">
+Consider use of **colour** in your images and figures:
+
+- Don't convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure.
+- Avoid using red and green together; this is the most problematic colour combination.
+- Ensure there is sufficient contrast between foreground and background colours (at least 4.5:1).
+- [WhoCanUse](https://www.whocanuse.com/) is our recommended tool to check contrast and explore how colour choices can affect people with different visual impairments.
+</div>
+<figure markdown>
+![Scatterplot points: Factor 1 = blue circles, factor 2 = red triangles](images/accessible-sites-figure-colour-meaning.png)
+<figcaption>Using colour and shape to differentiate factors</figcaption>
+</figure>
+</div>
+
+### Resolution
+
+Also ensure that images and figures are **high resolution**. This prevents pixelation or blurriness when zooming in or using a screen magnifier, and improves usage for everyone.
+
+- [Veronica with Four Eyes](https://veroniiiica.com/how-to-create-high-resolution-images-for-low-vision/) describes their experiences using images as a student with low vision, and offers tips on creating high resolution images.
+- See our [Practical Guide to media editing](https://subjectguides.york.ac.uk/media/images) for more technical guidance on image resolution.
 
 ## Tips: links
 
-- Use **meaningful link text** that accurately describes the destination content, eg. [how to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility).
-- Don’t use generic text like *click here* or *find out more*
-- In most cases, don't give just the raw URL (eg. www.link.com)
+Accessible link text describes the destination content so that the link makes sense by itself. This makes your text more readable and is important for assistive technology users.
 
-For more detail, see the [**Block: Content (text editor)** section](../ultra/documents.md#block-content-text-editor) in our Documents guide.
+- Use **meaningful link text** that accurately describes the destination content, eg. [Scope guide: How to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility).
+- **Don’t use generic text** like *click here* or *find out more*; screen readers can extract links from text, but without content these links are meaningless.
+- In most cases, **don't give the raw URL** (eg. www.link.com). This generally doesn't make much sense and makes text harder to read.
+
+For more guidance on writing effective link text:
+
+- [Adding links to text content in an Ultra VLE site](../ultra/documents.md#block-content-text-editor)
+- [Scope guide: How to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility): lots of simple, practical tips
+- [WebAIM guide: hyperlinks](https://webaim.org/techniques/hypertext/): background on how screen readers use links
 
 ## Tips: uploaded files
 
 - Use file names that describe the file content without having to open it (eg. Week05_Slides_NavigationTechniques)
-- Make sure any PDF materials are good quality, tagged and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative digital text-based version is also provided.
+- Make sure any PDF materials are good quality, tagged and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative digital text-based version must also be provided.
 - Do not scan and upload published materials. This is not accessible to screenreader or text-to-speech users, and also likely violates copyright. 
-- Provide the native file format, for example, lecture slides as a PPT file, not a PDF. Students can use the Ally file converter tool to download the file in a different format if they wish.
+- Provide the native file format, for example, lecture slides as a PPT file. Students can use the Ally file converter tool to download the file in a different format if they wish.
 - Avoid presenting materials stored in Google Drive; this prevents the use of the Ally file converter tool and requires students to leave the site. Upload flies (appropriately!) instead.
 
 For more detail, see the [**Block: File upload** section](../ultra/documents.md#block-file-upload) in our Documents guide.
