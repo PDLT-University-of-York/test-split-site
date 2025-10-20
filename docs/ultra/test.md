@@ -116,9 +116,14 @@ May set a deadline, but does not set a time limit. The only input from module st
 
     To run a formal summative exam using Test, you **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up and manage the exam procedure. This is to facilitate Test administration and comply with University assessment policy requirements.
 
+<div markdown class="grid">
+<div markdown>
 A scheduled summative exam during CAP or other assessment period, either remotely on in-person.
 
 Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
+</div>
+![Test in Course Content area: Summative exam, no due date, 120 minute timer, access instructions in description](images/test-use-formal-exam.png)
+</div>
    
 ??? Abstract "Formal exam: summary of procedure"
 
@@ -335,7 +340,7 @@ Randomisation is a very useful tool for creating robust assessments, particularl
 
 !!! Warning 
 
-    Anonymous marking makes it much harder to administer the Test, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
+    Anonymously marked Tests are much harder to administer, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
 
 For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked Essay question types; we don't recommend anonymity for formative exams.
 
@@ -343,6 +348,8 @@ If anonymous marking is on for the Test, you:
 
 - can't see who has submitted/started. This makes it hard to manage exam access, especially for large cohorts.
 - can't download answers, overall results or question scores until results are de-anonymised.
+
+--- 
 
 ## Create a Test
 
