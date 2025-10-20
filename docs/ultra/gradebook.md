@@ -145,7 +145,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 </div>
 </div>
 
-## Download & view Gradebook data
+## Download Gradebook data
 
 !!! Tip
 

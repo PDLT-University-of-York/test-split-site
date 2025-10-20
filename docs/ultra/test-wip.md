@@ -31,7 +31,14 @@ This section summarises some common uses of Test. See later sections for more de
 
 ### Practice quiz
 
-A formative quiz that can be taken many times, usually to practice specific content. There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
+<div markdown class="grid">
+<div markdown>
+A formative quiz that can be taken many times, usually to practice specific content. 
+
+There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
+</div>
+![Test in Course Content area: Week 3 Practice quiz, no due date, formative](images/test-use-practice-quiz.png)
+</div>
 
 ??? Abstract "Practice quiz: details & suggested settings"
 
@@ -64,8 +71,14 @@ A formative quiz that can be taken many times, usually to practice specific cont
 
 ### Low-stakes summative quiz
 
-A quiz or task worth a few percent (<5%) of overall grade, often related to laboratory work or as a component of continuous assessment. May set a deadline, but does not set a time limit. The only input from module staff is usually to manually post grades and automatic feedback all together at a specific point. 
+<div markdown class="grid">
+<div markdown>
+A quiz or task worth a few percent (<5%) of overall grade, often related to laboratory work or as a component of continuous assessment.
 
+May set a deadline, but does not set a time limit. The only input from module staff is usually to manually post grades and automatic feedback all together at a specific point. 
+</div>
+![Test in Course Content area: Summative MCQs 1, no due date, This quiz is worth 2% of your final grade, based on your highest scoring attempt.](images/test-use-summative-quiz.png)
+</div>
 ??? Abstract "Low-stakes summative quiz: details & suggested settings"
 
     **Questions & presentation**
@@ -79,11 +92,13 @@ A quiz or task worth a few percent (<5%) of overall grade, often related to labo
     Leave all settings not mentioned here unticked or as the default.
 
     - Details & Information
-        - If no deadline: tick *No due date*.
-        - If requires a deadline:
+        - If no deadline in VLE: 
+            - Tick *No due date*.
+            - This can be easier to manage manually, especially for large cohorts.
+        - If requires a deadline in VLE:
             - Set a due date and time during work hours.
             - Apply [SSP deadline extensions](#ssp-accommodations).
-            - *Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
+            - **Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
     - Presentation Options
         - *Display one question at a time*: tick if using LaTeX to improve rendering
         - *Randomisation options*: tick as required.
@@ -92,7 +107,7 @@ A quiz or task worth a few percent (<5%) of overall grade, often related to labo
         - *Attempts to mark*: either set to *Last attempt* (may need to identify the last on time submission if a late submission is made) or *All attempts* then set the *Final mark calculation* as the average or highest mark.
         - *Assessment mark*: untick *Post assessment marks automatically* to manually release marks all together.
     - Assessment results:
-        - *All options:*: tick, set to *after individual mark has been posted* or *specific date*.
+        - *All options*: tick, set to *after individual mark has been posted* or *specific date*.
     - Description: add a short contextual description to display under the item's name in the Course Content area.
 
 ### Formal exams
@@ -101,11 +116,13 @@ A quiz or task worth a few percent (<5%) of overall grade, often related to labo
 
     To run a formal summative exam using Test, you **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up and manage the exam procedure. This is to facilitate Test administration and comply with University assessment policy requirements.
 
-A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
+A scheduled summative exam during CAP or other assessment period, either remotely on in-person.
+
+Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
    
 ??? Abstract "Formal exam: summary of procedure"
 
-    Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and should not be considered sufficient guidance for running formal exams with Test.
+    Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and **should not be considered sufficient guidance for running formal exams with Test**.
     
     **Questions & presentation**
 
@@ -382,11 +399,11 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     1. Click the **plus + icon**.
     2. Select the relevant question type.
     </br> ![decorative](images/test-manually-add-questions.png)
-    3. Enter the question and answers as needed for that question type (see the linked guides in the [Question Types section](#question-types) for more information)
+    3. Enter the question and answers as needed for that question type.
     4. Optional question settings (availability depends on question type):
         - set partial or negative credit for different answers
         - set the question as extra credit
-        - add automated feedback
+        - add automated feedback (auto-marked types) or example correct answer (Essay type only)
         - change the points awarded (default = 1 point)
         </br>![Multiple choice question manually built in the editor, highlighting optional features listed.](images/test-question-options.png)
     5. Click **Save**.
@@ -506,7 +523,7 @@ You can print or download your Test as a PDF, along with an automatically-genera
 
 !!! Tip
     
-    If Test questions are randomised, a new version is generated each time the Test is printed.
+    If randomisation is used, a new version is generated each time the Test is printed.
 
 To print or save a Test:
 
@@ -533,14 +550,14 @@ Open the full assessment settings by clicking the **cog icon** at the top of the
 
 !!! Question "Key consideration: Does your Test need a due date?"
 
-    A due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, you can enter a due date and time during core work hours. **Students must be able to start and submit late attempts.**
+    Setting a due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, enter a due date and time during core work hours and [apply SSP extensions](#ssp-accommodations). **Students must be able to start and submit late attempts.**
     
 These settings **can** be updated after students have started their submissions.
 
 <div markdown class="grid">
 <div markdown>
 
-- *Due date*: tick *No due date*.
+- *Due date*: tick *No due date* or enter a deadline and [apply SSP extensions](#ssp-accommodations).
 - **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
 - **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can be manually submitted after the deadline (marked late). Can't start new attempts after the deadline.
 - *Allow class conversations*: attaches a Discussion to the Test. Recommend to leave unticked.
@@ -678,7 +695,7 @@ Unless stated, these settings **cannot** be updated after students have started 
 
 <div markdown class="grid">
 <div markdown>
-- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must [apply SSP time extensions](#ssp-accommodations) for relevant students; don't make multiple copies with different time limits.
+- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must apply [SSP extensions](#ssp-accommodations) for relevant students; don't make multiple Tests with different time limits.
 - *Assign to groups*: use as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
 - *Originality report*: adds Turnitin originality reporting. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test.
 - *Description*: adds a contextual note to the Test item on the Course Content page. Maximum 750 characters. Can be updated after students have started their submissions.
@@ -704,6 +721,10 @@ See our [Accommodations for SSPs guide](../ultra/accommodations.md) for instruct
 
 ## Marking & results
 
+### Review auto-marked scores
+
+For fully auto-marked Tests, no manual marking is required. You can review the marks in the *Test's Submissions* tab or in the *Gradebook Marks* tab. See the [guide to view Gradebook data](../ultra/gradebook.md#view-gradebook-data-and-submissions) for more details.
+
 ### Manual marking
 
 !!! Tip
@@ -714,17 +735,18 @@ If a Test contains Essay type questions, these must be manually marked. This **m
 
 1. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
 </br>![](images/test-marking-open-submission.png)
-2. Marking methods:
-    - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. Question order will differ between attempts if randomisation was used.
+2. If a Due Date was set, the correct attempt to mark may not be the default attempt presented for marking. You will need to check which attempt to mark if there are late submissions. See our [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions) for details.
+3. Marking methods:
+    - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. If randomisation was used, question order will differ between attempts.
     </br>![One attempt highlighted in left panel attempt list, with essay question and other questions from that attempt.](images/test-marking-by-student.png)
     - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses.
     </br>![One question highlighted in left panel question list, with collated answers for the same essay question from all students](images/test-marking-by-question.png)
-3. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
+4. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
 ![Essay question and student response with example answer text and mark entered](images/test-marking-essay-question.png)
-4. Once each essay question in an attempt has been marked, the final score is updated in the overall mark pill (on Student view).
+5. Once each essay question in an attempt has been marked, the final score is updated in the overall mark pill (on Student view).
 </br>![Attempt mark shown at top of specific attempt and for each student in left panel attempt list](images/test-marking-scores.png)
-5. When marking is complete, click *Post all marks* on the Test submissions tab (if anonymously marked, this will also **de-anonymise results**).
-6. When ready to release marks, make the Test (and site, if needed) visible to students.
+6. When marking is complete, click *Post all marks* on the Test submissions tab (if anonymously marked, this will also **de-anonymise results**).
+7. When ready to release marks, make the Test (and site, if needed) visible to students.
 
 ### Student view: results
 
@@ -808,4 +830,27 @@ After marks are released, students can view various aspects of assessment result
 
 ### Download results and question scores
 
-After the exam, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download--view-gradebook-data) for details of how to do this.
+!!! Tip
+
+    An anonymously marked Test must be de-anonymised (by posting all marks) before results can be downloaded.
+
+After marking is complete, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download-gradebook-data) for details.
+
+### Question Analysis
+
+The Question Analysis tool gives analytics data on:
+
+- General Test summary: average overall score, number of possible questions, number of completed attempts, average time spent
+- Individual questions:
+    - discrimination: measure of how well the question differentiates between high and low-scoring students
+    - difficulty: percentage of students who answered correctly
+    - breakdown of answers selected (auto-marked question types)
+
+<figure markdown>
+![Content as described in text above. Discrimination and Difficulty summarised in  aggregated bar charts](images/test-question-analysis.png)
+<figcaption>Question Analysis: Test Summary information</figcaption>
+</figure>
+
+This can be useful to understand student performance and review and refine your question practice for future tests. For example, if one question is consistently answered incorrectly, you can review the question wording and answers chosen to see if the question is genuinely difficult, or if there is as issue with the question wording that could be tweaked for next time. 
+
+See [Blackboard Help's guide to Question Analysis](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Ultra_Question_Analysis) for more details.
