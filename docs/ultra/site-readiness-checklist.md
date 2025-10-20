@@ -31,7 +31,7 @@ Check that:
 - any GTAs from previous years that are no longer involved in the module are removed
 - Primary Instructor settings are used to identify module-specific staff (where other staff are also enrolled)
 
-For more details on these checks, see [General settings guidance in Preparing module sites](../ultra/prepare-site.md#general-settings).
+For more details on these checks, see the [General settings guidance in Preparing module sites](../ultra/prepare-site.md#general-settings-structure).
 
 ## 2. Site content is ready 
 
@@ -62,7 +62,7 @@ Check that:
 - content is organised and labelled clearly and consistently.
 - Pre-recorded videos are hosted in a streaming service (eg. Panopto/YouTube) and captioned accurately.
 
-We recommend using the [Ally Course Accessibility Report](https://docs.google.com/document/d/1oDokxj1Fcfw_CmxOTTT6yOT-CCvZrNAgM3IsVVGE1Is/edit?usp=sharing) to check the accessibility of your site and help you address issues.
+We recommend using the [Ally Course Accessibility Report](../ultra/ally-accessibility-report.md) to check the accessibility of your site and help you address issues.
 
 ### Site materials are up to date and available
 
@@ -90,7 +90,7 @@ Check that:
 
 - the site contains a Reading List link in the Course Content area.
 - all module readings are included in teh Reading List and unused/out of date items have been removed.
-- the Reading List is structured to match the module amterials section, and items are tagged as Essential, Recommended or Background.
+- the Reading List is structured to match the module materials section, and items are tagged as Essential, Recommended or Background.
 - the Reading List is published to students.
 
 ## 3. Students can access the site
@@ -98,7 +98,7 @@ For students to access a site, they must be enrolled on the site AND the site mu
 
 ### Students are enrolled
 
- **Student enrollment** is usually managed automatically through a group enrollment linked to SITS. Check this is set up correctly following the steps in [Release to students guidance in Preparing module sites](../ultra/prepare-site.md/#release-to-students).
+**Student enrollment** is usually managed automatically through a group enrollment linked to SITS. Check this is set up correctly following the steps in the [student access guidance in Prepare sites for teaching](../ultra/prepare-site.md#student-access).
 
 ### The site is open to students
 

@@ -45,7 +45,7 @@ The guides below particularly focus on accessible practice. Accessibility tips a
     ---
 
     - [:octicons-arrow-right-24: Ally tool](../ultra/ally-tool.md): item-level checker & alternative formats generator
-    <!-- - [:octicons-arrow-right-24: Accessibility report](../ultra/ally-accessibility-report.md): site-level accessibility checker -->
+    - [:octicons-arrow-right-24: Accessibility report](../ultra/ally-accessibility-report.md): site-level accessibility checker
     - [:octicons-arrow-right-24: Documents](../ultra/documents.md): advice for accessible text, images and embedded content
     
 - **:material-toolbox: Other tools**
@@ -53,7 +53,7 @@ The guides below particularly focus on accessible practice. Accessibility tips a
     ---
 
     - [:octicons-arrow-right-24: Panopto: Editing captions](../panopto/editing-captions.md): check automatic captions
-    - [:octicons-arrow-right-24: Reading List: structure & tagging](../other-tools/reading-list/#set-up-your-reading-list): use sections and priority tags
+    - [:octicons-arrow-right-24: Reading List: structure & tagging](../other-tools/reading-list.md/#set-up-your-reading-list): use sections and priority tags
     - [:octicons-arrow-right-24: Reading List: accessible formats](https://subjectguides.york.ac.uk/readinglists/accessibility): let the Library know which readings are needed in other formats
 
 </div>
