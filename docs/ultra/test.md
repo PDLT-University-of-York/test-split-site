@@ -17,7 +17,10 @@ tags:
     - 4.1 Essential: The assessment section contains all information about module assessments.
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
 
-![Example Test with multiple choice and fill in the blank question types](images/test-example.png)
+<figure markdown>
+![Example Test showing multiple choice question, quick access settings and tab to access student submissions](images/test-example.png)
+<figcaption>Test: staff view of interface</figcaption>
+</figure>
 
 ## Uses of Test
 
@@ -207,27 +210,30 @@ See our [guide to accessible images in Ultra sites](../ultra/accessible-sites.md
 
 Make sure that the content needed to answer a question can be easily viewed on screen. Avoid requiring students to scroll through dropdowns, or other situations where they can't see all of the relevant question content at once.
 
+<div markdown class="grid">
+<div markdown>
 Some particular considerations:
 
 - Students may be taking the Test on a laptops or or other small screen, so trial your test in Student Preview mode to make sure content can be easily seen on a small screen.
-- If using images in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. If  images are the answer options, students must scroll through the drop down to see them all. This makes it difficult to compare images, especially if they are similar.
-
+- If using multiple images in the same question, consider splitting these into separate questions to make images clearer. Eg. instead of a matching question with five plots, split each into its own multiple choice question with the same answer options.
+- If images must be used in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. If  images are the answer options, students must scroll through the drop down to see them all. This makes it difficult to compare images, especially if they are similar.
+</div>
 <figure markdown>
-![Described in example](images/test-figures-matching-questions.png)
-<figcaption>Considering content visibility during question design</figcaption>
+![MCQ question (1 point): a single scatterplot with 5 text relationship options to select from. All is clear and easy to see.](images/test-content-visibility-separate-question.png)
+<figcaption>Best practice: separate question per figure</figcaption>
 </figure>
+</div>
 
-??? Abstract "Image description: content visibility example"
-
-    **Matching figures to text descriptions**
-
-    A matching question where scatterplots showing different correlations are matched to the text description (strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation).
-
-    Question text: For each scatterplot, select the correlation shown.
-
-    Good practice: Scatterplots are the Prompts, so can all be seen and compared on the main page without scrolling. The text-based descriptions appear in an Answers drop-down list next to each scatterplot. These are text descriptions and can all be seen at once without scrolling.
-
-    Poor practice: Text descriptions are the Prompts, appearing in a short list. The scatterplots appear in an Answers drop-down list next to each description. Students must scroll through the plots, with only two of the plots visible at once.
+<div markdown class="grid">
+<figure markdown>
+![Matching question (5 points): scatterplots as prompts, with 5 text relationships options to select from in adjacent answers drop down. The figure is quite small, but can see all answer options.](images/test-content-visibility-images-prompts.png)
+<figcaption>Figures as matching question prompts</figcaption>
+</figure>
+<figure markdown>
+![Matching question (5 points): relationships as text prompts, with 5 scatterplots to select from in adjacent answers drop down. Can't see all answer option figures without scrolling.](images/test-content-visibility-images-options.png)
+<figcaption>Figures as matching question answers</figcaption>
+</figure>
+</div>
 
 ### Randomisation
 

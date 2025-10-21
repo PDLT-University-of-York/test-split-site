@@ -154,9 +154,9 @@ div.centered-image {
 }
 
 /* remove margins from figure*/
-figure.no-margin,
-figure.no-margin>p {
-    margin: 0;
+.md-typeset figure,
+.md-typeset figure>p:first-child {
+    margin-top: 0;
 }
 
 /*** ----- tabbed content styling */

@@ -164,7 +164,7 @@ Images and figures must have an appropriate text-based alternative of the inform
 - **purely decorative images**: tick the box to *Mark the image as decorative*
 </div>
 <figure markdown>
-![Described in example below](images/test-figure-alt-text.png)
+![Described in example below](images/accessible-sites-figure-alt-text.png)
 <figcaption>ALT text describing a simple figure</figcaption>
 </figure>
 </div>
@@ -176,8 +176,6 @@ Images and figures must have an appropriate text-based alternative of the inform
     Question text: This scatterplot shows the relationship between two variables. What is the correlation shown?
 
     ALT text for the scatterplot: As x increases, y increases. Points are tightly distributed on a straight line.
-
-    Answer options: strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation
 
 For more guidance on image descriptions:
 
