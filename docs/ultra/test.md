@@ -33,7 +33,7 @@ This section summarises some common uses of Test. See later sections for more de
 
 <div markdown class="grid">
 <div markdown>
-A formative quiz that can be taken many times, usually to practice specific content. 
+A formative quiz that can be taken many times, usually to practise specific content. 
 
 There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
 </div>
@@ -140,7 +140,7 @@ Some questions may require [manual marking](#manual-marking), possibly [anonymou
     As an illustrative example, the general procedure for remote exams is:
 
     1. The Test is set up in a separate exam VLE site before the CAP.
-    2. Onm exam day, students have a specific start window to begin the Test (eg. 10:00 - 10:30 am).
+    2. On exam day, students have a specific start window to begin the Test (eg. 10:00 - 10:30 am).
     3. Once each student starts, they have the full scheduled time to complete the exam plus any SSP extension (eg 2 hours + 25%).
     4. At the end of the start window, any non-starters are deemed to be absent and their access to the exam site is removed. This is much easier for non-anonymous Tests.
     5. Students manually submit when finished, or the exam automatically submits if the end of their individual timer is reached.
@@ -246,12 +246,12 @@ Randomisation is a very useful tool for creating robust assessments, particularl
     
     - Randomises the order of all questions in the Test.
     - If pages used, questions are randomised within the page.
-    - Questions must be able to appear in any order (ie. do not refer to earlier questions).
+    - Questions must work in any order (ie. do not refer to earlier questions).
     
     **Answers**
     
     - Randomises the order of MCQ answer options for relevant questions.
-    - Don't use 'A and B are correct' type answers; use 'All other options are correct' or set multiple correct answers instead. 
+    - Answers must work in any order. Don't use 'A and B are correct' type answers; use 'All other options are correct' or set multiple correct answers instead. 
         
     **Pages**
     
@@ -355,7 +355,7 @@ Key question types are summarised below. See [Blackboard's Question Types guide]
 | [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Can give partial or negative credit. | auto graded | can be auto-generated |
 | [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Answer can be exact number or within a range.| auto graded | manual only |
-| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Enter a text response (of any length). Can provide a model answer for help grading. | **manually graded** | can be auto-generated |
+| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions) | Enter a text response (of any length). Can provide a model answer to help grading or as feedback. | **manually graded** | can be auto-generated |
 
 ### Add questions
 
@@ -374,8 +374,8 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     </br> ![decorative](images/test-manually-add-questions.png)
     3. Enter the question and answers as needed for that question type.
     4. Optional question settings (availability depends on question type):
-        - set partial or negative credit for different answers
-        - set the question as extra credit
+        - set [partial or negative credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Answer_Questions) for questions with multiple correct answers
+        - set the question as [extra credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Extra_Credit_Questions)
         - add automated feedback (auto-marked types) or example correct answer (Essay type only)
         - change the points awarded (default = 1 point)
         </br>![Multiple choice question manually built in the editor, highlighting optional features listed.](images/test-question-options.png)
@@ -712,7 +712,7 @@ If a Test contains Essay type questions, these must be manually marked. This **m
 3. Marking methods:
     - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. If randomisation was used, question order will differ between attempts.
     </br>![One attempt highlighted in left panel attempt list, with essay question and other questions from that attempt.](images/test-marking-by-student.png)
-    - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses.
+    - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses. This is not affected by randomisation.
     </br>![One question highlighted in left panel question list, with collated answers for the same essay question from all students](images/test-marking-by-question.png)
 4. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
 ![Essay question and student response with example answer text and mark entered](images/test-marking-essay-question.png)
@@ -734,68 +734,114 @@ After marks are released, students can view various aspects of assessment result
 
 ??? Abstract "What students see: MCQs"
 
+    These examples show the student view of multiple choice question results with various combinations of release settings.
+
+    ??? Abstract "Example question, answers and feedback text"
+
+        The question shown in all interface examples:
+
+        - **Question**: What type of footwear is generally recommended for fell running?
+        - **Answer options**:
+            - Basketball shoes for extra ankle support.
+            - Heavy hiking boots.
+            - Standard road running shoes.
+            - Trail running shoes with good grip and support. [correct answer]
+        - **Automated feedback**:
+            - Correct: Well done - good grip is very important on muddy and rocky terrain.
+            - Incorrect: Consider what footwear is most appropriate for running in varied terrain.
+
     <div markdown class="grid">
     <div markdown>
     <figure markdown>
-    ![The student's selected answer highlighted (in black) in the 4 options. No question score.](images/test-marking-student-answer-view-submission-mcq.png)
+    ![The question text and student's selected answer highlighted (in black) in the 4 options. No question score. Question, answer and feedback text are given above.](images/test-marking-student-view-submission-mcq.png)
     <figcaption>MCQ: submission</figcaption>
     </div>
     <div markdown>
     <figure markdown>
-    ![As Submission view, plus additional feedback on the student's answer. No specification if answer is correct or incorrect, but could be indicated in feedback text](images/test-marking-student-answer-view-autofeedback-mcq.png)
+    ![As Submission view, plus additional feedback on the student's answer. No specification if answer is correct or incorrect, but could be indicated in feedback text](images/test-marking-student-view-autofeedback-mcq.png)
     <figcaption>MCQ: automated feedback</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As submission view plus question score shown in top right, eg. 1 out of 1 marks](images/test-marking-student-answer-view-score-mcq.png)
+    ![As submission view plus question score shown in top right, eg. 0 out of 1 marks](images/test-marking-student-view-score-mcq.png)
     <figcaption>MCQ: question score</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As automated feedback view, plus question score shown in top right, eg. 1 out of 1 marks](images/test-marking-student-answer-view-autofeedback-score-mcq.png)
+    ![As automated feedback view, plus question score shown in top right, eg. 0 out of 1 marks](images/test-marking-student-view-autofeedback-score-mcq.png)
     <figcaption>MCQ: automated feedback & question score</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view, plus green "correct" label. The student's answer is highlighted in green and also specified as the correct answer](images/test-marking-student-answer-view-score-correctanswer-correct-mcq.png)
+    ![As question score view, plus green "correct" label. The student's answer is highlighted in green and also identified as the correct answer](images/test-marking-student-view-score-correctanswer-correct-mcq.png)
     <figcaption>MCQ: correct answers - correct question</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view, plus red "incorrect" label. The student's answer is highlighted in red and also specified as incorrect. "Correct answer" is shown under the correct answer option.](images/test-marking-student-answer-view-score-correctanswer-incorrect-mcq.png)
+    ![As question score view, plus red "incorrect" label. The student's answer is highlighted in red and also identified as incorrect. "Correct answer" is shown under the correct answer option.](images/test-marking-student-view-score-correctanswer-incorrect-mcq.png)
     <figcaption>MCQ: correct answers - incorrect question</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As correct answers view, plus automated "well done" feedback for correct answer](images/test-marking-student-view-autofeedback-score-correctanswers-correct-mcq.png)
+    <figcaption>MCQ: automated feedback & correct answers - correct question</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As correct answers view, plus automated "try again" feedback for incorrect answer](images/test-marking-student-view-autofeedback-score-correctanswers-incorrect-mcq.png)
+    <figcaption>MCQ: automated feedback & correct answers - incorrect question</figcaption>
     </figure>
     </div>
     </div>
 
 ??? Abstract "What students see: Essay questions"
 
+    These examples show the student view of essay question results with various combinations of release settings.
+
+    ??? Abstract "Example question, answers and feedback text"
+
+        The question shown in all interface examples:
+
+        - **Question**: Explain why navigation is a crucial skill for fell runners.
+        - **Answers**:
+            - Correct (3/3): Fell running is deeply rooted in tradition and self-sufficiency, so GPS navigation is not allowed in races. Courses are also rarely marked, as generally the only requirement is to visit checkpoints in the right order. This means runners need to be able to navigate using a map and compass to choose their own routes.
+            - Partially correct (2/3): Runners need to navigate with map and compass because GPS is forbidden in races. It's also generally a very important skill for personal safety, so you can get yourself off the mountain in bad weather or without a phone.
+        - **Example correct answer**:
+        </br> 1 point each, up to a maximum of 3 points:
+            - GPS navigation is not allowed
+            - routes are usually unmarked
+            - can choose your own route between points
+            - part of the fell runner's self-sufficiency ethos
+            - important for personal safety
+
     <div markdown class="grid">
     <div markdown>
     <figure markdown>
-    ![The student's short written response. No question score.](images/test-marking-student-answer-view-submission-essay.png)
+    ![The question text and student's short written response. No question score. Question, answer and feedback text are given above.](images/test-marking-student-view-submission-essay.png)
     <figcaption>Essay: submission</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As submission view plus question score shown in top right, eg. 2 out of 3 marks](images/test-marking-student-answer-view-score-essay.png)
+    ![As submission view plus question score shown in top right, eg. 3 out of 3 marks](images/test-marking-student-view-score-essay.png)
     <figcaption>Essay: question score</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view (score = 3 out of 3), plus green "correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-answer-view-score-correctanswer-correct-essay.png)
+    ![As question score view (score = 3 out of 3), plus green "correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-view-score-correctanswer-correct-essay.png)
     <figcaption>Essay: correct answers - correct question</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view (score = 2 out of 3), plus orange "partially correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-answer-view-score-correctanswer-partial-essay.png)
+    ![As question score view (score = 2 out of 3), plus orange "partially correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-view-score-correctanswer-partial-essay.png)
     <figcaption>Essay: correct answers - partially correct question</figcaption>
     </figure>
     </div>
