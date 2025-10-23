@@ -9,7 +9,9 @@ tags:
 
 !!! Summary
 
-    Test is a quiz and exam tool with a wide range of uses from informal quizzes to summative exams. This guide covers how to create and set up a Test, and is primarily aimed at **teaching staff**.
+    Test is a quiz and exam tool with a wide range of uses from informal quizzes to summative exams.
+
+    This guide covers how to create and set up a Test, and is aimed at **teaching staff** and **administrators**.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -22,7 +24,7 @@ tags:
 <figcaption>Test: staff view of interface</figcaption>
 </figure>
 
-## Uses of Test
+## Uses of Test: overview
 
 !!! Tip
 
@@ -30,7 +32,7 @@ tags:
 
 Test is best used for tasks with 'right answer' questions and automatic marking, although it can include manually marked Essay-type questions with short open text input.
 
-This section summarises some common uses of Test. See later sections for more detail on specific aspects of building and implementing a Test.
+This section summarises some common uses of Test and suggested settings as a quick overview. See later sections for more detail on specific aspects of building and implementing a Test.
 
 ### Practice quiz
 
@@ -38,25 +40,30 @@ This section summarises some common uses of Test. See later sections for more de
 <div markdown>
 A formative quiz that can be taken many times, usually to practise specific content. 
 
-There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
+There is no deadline or time limit. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
 </div>
 ![Test in Course Content area: Week 3 Practice quiz, no due date, formative](images/test-use-practice-quiz.png)
 </div>
 
 ??? Abstract "Practice quiz: details & suggested settings"
 
-    **Questions & presentation**
+    **Test location within Learn Ultra VLE site**
 
-    - Includes auto-marked question types only.
+    In most cases, put the quiz alongside the content it relates to. Ie. a quiz practicing week 5 content should appear in the week 5 section.
+    
+    **Questions, presentation and marking**
+
+    - Includes auto-marked [question types](#question-types) only.
     - Often uses [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
     - May use pagination to break up longer Tests or to manage question order.
+    - Results are automatically released immediately after the quiz is submitted.
 
     **Suggested settings**
 
     Leave all settings not mentioned here unticked or as the default.
 
     - Details & Information
-        - tick *No due date*
+        - *Due date*: tick *No due date*
     - Presentation Options
         - *Display one question at a time*: tick if using LaTeX to improve rendering
         - *Randomisation options*: tick *Randomise questions* and *Randomise answers*
@@ -72,45 +79,58 @@ There is no deadline or timer. Marks and feedback are automatically returned imm
         - *Correct answers*: tick, set to *after individual mark has been posted*
     - Description: add a short contextual description to display under the item's name in the Course Content area.
 
-### Low-stakes summative quiz
+### Summative coursework quiz or task
 
 <div markdown class="grid">
 <div markdown>
-A quiz or task worth a few percent (<5%) of overall grade, often related to laboratory work or as a component of continuous assessment.
+A quantitative quiz, problem set or other task completed remotely and asynchronously in a students' own time.**These are classified as coursework, not as exams**; here a Test attempt is analogous to an assignment file submission.
 
-May set a deadline, but does not set a time limit. The only input from module staff is usually to manually post grades and automatic feedback all together at a specific point. 
+Usually has a deadline, but no time limit. Students can request extensions and late submissions must be accepted.
 </div>
-![Test in Course Content area: Summative MCQs 1, no due date, This quiz is worth 2% of your final grade, based on your highest scoring attempt.](images/test-use-summative-quiz.png)
+![Test in Course Content area: Summative Problem Set 1, due date set, description: Problem set 1 of 4. Each set is worth 10% of your final grade (40% in total from problem sets).](images/test-use-summative-problem-set.png)
 </div>
-??? Abstract "Low-stakes summative quiz: details & suggested settings"
 
-    **Questions & presentation**
+??? Abstract "Summative coursework task: details & suggested settings"
 
-    - Usually includes auto-marked question types only.
+    !!! Tip
+
+        If you are in any doubt about the appropriate settings for your Test, please [contact us](mailto:vle-support@york.ac.uk) for advice or to check settings before the task is made available to students.
+
+        If setting a due date, liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc.
+
+    **Test location within Learn Ultra VLE site**
+
+    All formal assessment items should be located in the Assessment section.
+
+    **Questions, presentation and marking**
+
+    - Often includes auto-marked [question types](#question-types) only, but can include some [manually marked](#manual-marking) short answer Essay-type questions.
     - May use [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
     - May use pagination to break up longer Tests or to manage question order.
+    - May use [anonymity](#anonymity) if requires manual marking, but this makes administration more complex.
 
     **Suggested settings**
 
     Leave all settings not mentioned here unticked or as the default.
 
     - Details & Information
-        - If no deadline in VLE: 
-            - Tick *No due date*.
-            - This can be easier to manage manually, especially for large cohorts.
-        - If requires a deadline in VLE:
-            - Set a due date and time during work hours.
-            - Apply [SSP deadline extensions](#ssp-accommodations).
-            - **Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
+        - *Due date*: set a due date and time during work hours or tick *No due date* if no deadline is required.
+        - If setting a due date, liaise with your departmental assessment administration team to **manage deadline extensions for SSPs, ECAs** etc.
+        - **Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
     - Presentation Options
         - *Display one question at a time*: tick if using LaTeX to improve rendering
         - *Randomisation options*: tick as required.
     - Marking & Submissions
-        - *Attempts allowed*: set to Unlimited, or number of attempts allowed (recommend 3+)
-        - *Attempts to mark*: either set to *Last attempt* (may need to identify the last on time submission if a late submission is made) or *All attempts* then set the *Final mark calculation* as the average or highest mark.
+        - *Mark category*: optionally set to *Assignment*.
+        - *Attempts allowed*: set to Unlimited.
+        - *Attempts to mark*: set to *Last attempt* (may need to identify the last on time submission if a late submission is made, see the [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions)).
+        - *Anonymous marking: Hide student names*: tick if anonymous marking is required.
         - *Assessment mark*: untick *Post assessment marks automatically* to manually release marks all together.
     - Assessment results:
-        - *All options*: tick, set to *after individual mark has been posted* or *specific date*.
+        - *Submission view*: tick, set to *after submission*
+        - *Other options*:
+            - if should be shown to students, tick and set to *specific date* with the date of mark release.
+            - is should not be shown to students, leave unticked.
     - Description: add a short contextual description to display under the item's name in the Course Content area.
 
 ### Formal exams
@@ -121,35 +141,44 @@ May set a deadline, but does not set a time limit. The only input from module st
 
 <div markdown class="grid">
 <div markdown>
-A scheduled summative exam during CAP or other assessment period, either remotely on in-person.
+A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Requires a separate exam site and very specific set up.
 
-Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
+Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date.
 </div>
-![Test in Course Content area: Summative exam, no due date, 120 minute timer, access instructions in description](images/test-use-formal-exam.png)
+![Test in Course Content area: Summative exam, no due date, 120 minute time limit, access instructions in description](images/test-use-formal-exam.png)
 </div>
    
 ??? Abstract "Formal exam: summary of procedure"
 
-    Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and **should not be considered sufficient guidance for running formal exams with Test**.
+    !!! Warning
     
-    **Questions & presentation**
+        Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and **should not be considered sufficient guidance for running formal exams with Test**.
 
-    - Often includes auto-marked question types only, but can include some manually marked short answer questions.
+    **Test location within Learn Ultra VLE site**
+
+    We will set up a separate exam site for formal exams using Test. This is required for smooth administration and exam security.
+    
+    **Questions, presentation and marking**
+
+    - Often includes auto-marked [question types](#question-types) only, but can include some [manually marked](#manual-marking) short answer Essay-type questions.
     - May use [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
     - May use pagination to break up longer Tests or to manage question order.
+    - May use [anonymity](#anonymity) if requires manual marking, but this makes administration more complex.
 
     **Procedure overview**
 
-    As an illustrative example, the general procedure for remote exams is:
+    As an illustrative example, the general procedure for **remote exams** is:
 
     1. The Test is set up in a separate exam VLE site before the CAP.
     2. On exam day, students have a specific start window to begin the Test (eg. 10:00 - 10:30 am).
     3. Once each student starts, they have the full scheduled time to complete the exam plus any SSP extension (eg 2 hours + 25%).
-    4. At the end of the start window, any non-starters are deemed to be absent and their access to the exam site is removed. This is much easier for non-anonymous Tests.
-    5. Students manually submit when finished, or the exam automatically submits if the end of their individual timer is reached.
+    4. At the end of the start window, any non-starters are deemed to be absent and their access to the exam site is removed. This is much easier to manage for non-anonymous Tests.
+    5. Students manually submit when finished, or the exam automatically submits if the end of their individual time limit is reached.
     6. The Test and exam site are hidden from students.
     7. Any manual marking occurs and final marks are processed.
     8. Marks and feedback are released to students at the end of the CAP.
+
+    **In-person exams** have a different procedure to align with the different assessment policy requirements.
 
 Find out more about how Test has been used across the University:
 
@@ -193,7 +222,7 @@ There are some particular accessibility considerations when creating Test questi
 - Consider **use of colour**: don't convey meaning by colour alone, avoid red/green combinations and use a high enough contrast between foreground and background.
 - Use **high resolution** images to prevent pixelation or blurriness when zooming in.
 
-See our [guide to accessible images in Ultra sites](../ultra/accessible-sites.md#tips-images--figures) for more details.
+See our [guide to accessible images in Ultra sites](../ultra/accessible-sites.md#tips-images-and-figures) for more details.
 
 <div markdown class="grid">
 <figure markdown>
@@ -208,13 +237,17 @@ See our [guide to accessible images in Ultra sites](../ultra/accessible-sites.md
 
 #### Content visibility
 
-Make sure that the content needed to answer a question can be easily viewed on screen. Avoid requiring students to scroll through dropdowns, or other situations where they can't see all of the relevant question content at once.
+Make sure that the content needed to answer a question can be easily viewed on screen. Avoid requiring students to scroll through dropdowns, move between pages, or other situations where they can't see all of the relevant question content at once.
+
+General considerations:
+
+- Students may be taking the Test on a laptops or or other small screen, so trial your test in Student Preview mode to make sure content can be easily seen on a small screen.
+- Do not split information needed to answer a question across different pages.
 
 <div markdown class="grid">
 <div markdown>
-Some particular considerations:
+Considerations for images in matching questions:
 
-- Students may be taking the Test on a laptops or or other small screen, so trial your test in Student Preview mode to make sure content can be easily seen on a small screen.
 - If using multiple images in the same question, consider splitting these into separate questions to make images clearer. Eg. instead of a matching question with five plots, split each into its own multiple choice question with the same answer options.
 - If images must be used in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. If  images are the answer options, students must scroll through the drop down to see them all. This makes it difficult to compare images, especially if they are similar.
 </div>
@@ -231,7 +264,7 @@ Some particular considerations:
 </figure>
 <figure markdown>
 ![Matching question (5 points): relationships as text prompts, with 5 scatterplots to select from in adjacent answers drop down. Can't see all answer option figures without scrolling.](images/test-content-visibility-images-options.png)
-<figcaption>Figures as matching question answers</figcaption>
+<figcaption>Poor practice: figures as matching question answers</figcaption>
 </figure>
 </div>
 
@@ -314,11 +347,11 @@ Randomisation is a very useful tool for creating robust assessments, particularl
 
     Anonymously marked Tests are much harder to administer, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
 
-For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked Essay question types; we don't recommend anonymity for formative exams.
+For any Test that contains only auto-marked questions, there is no need for anonymity. Because of the administrative challenges, anonymity should only be used for summative exams with manually marked Essay question types.
 
 If anonymous marking is on for the Test, you:
 
-- can't see who has submitted/started. This makes it hard to manage exam access, especially for large cohorts.
+- can't see who has started or submitted an attempt. This makes it hard to manage exam access, especially for large cohorts.
 - can't download answers, overall results or question scores until results are de-anonymised.
 
 --- 
@@ -529,14 +562,16 @@ Open the full assessment settings by clicking the **cog icon** at the top of the
 
 !!! Question "Key consideration: Does your Test need a due date?"
 
-    Setting a due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, enter a due date and time during core work hours and [apply SSP extensions](#ssp-accommodations). **Students must be able to start and submit late attempts.**
+    Setting a due date/deadline (eg. submit by 15/05/2026 14:00) is only recommended for summative coursework tasks.
+    
+    If required, set a due date and time during core work hours and liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension). **Students must be able to start and submit late attempts.**
     
 These settings **can** be updated after students have started their submissions.
 
 <div markdown class="grid">
 <div markdown>
 
-- *Due date*: tick *No due date* or enter a deadline and [apply SSP extensions](#ssp-accommodations).
+- *Due date*: tick *No due date* or set a due date and time during core work hours. If used, liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc.
 - **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
 - **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can be manually submitted after the deadline (marked late). Can't start new attempts after the deadline.
 - *Allow class conversations*: attaches a Discussion to the Test. Recommend to leave unticked.
@@ -550,7 +585,7 @@ These settings **can** be updated after students have started their submissions.
 
     Randomising test content for each attempt can support robust assessment by reducing opportunity for collusion, especially for remote uses of Test. To use random order, make sure that questions/answers do not need to appear in a specific order.
 
-Presentation options mostly relate to the order that questions appear in for each attempt. See the [randomisation section](#randomisation) for more details.
+Presentation options mostly relate to the order that questions appear in for each attempt. See the [randomisation](#randomisation) section for more details.
 
 These settings **cannot** be updated after students have started their submissions.
 
@@ -674,25 +709,25 @@ Unless stated, these settings **cannot** be updated after students have started 
 
 <div markdown class="grid">
 <div markdown>
-- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must apply [SSP extensions](#ssp-accommodations) for relevant students; don't make multiple Tests with different time limits.
-- *Assign to groups*: use as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
+- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. If used, must apply [SSP extra time extensions](#extensions-and-extra-time) for relevant students.
+- *Assign to groups*: to set as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
 - *Originality report*: adds Turnitin originality reporting. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test.
 - *Description*: adds a contextual note to the Test item on the Course Content page. Maximum 750 characters. Can be updated after students have started their submissions.
 </div>
 ![Additional tools & Description settings panel: described in text](images/test-settings-additional-tools.png)
 </div>
 
-### SSP accommodations
+### Extensions and extra time
+
+For Tests with a **deadline** (eg. submit by 15/05/2026 14:00), liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension).
 
 <div markdown class="grid">
 <div markdown>
-SSP deadline extensions or extra time allowances must be applied for summative Tests and for formal formative tests.
-
-See our [Accommodations for SSPs guide](../ultra/accommodations.md) for instructions on how to do this.
+For Tests with a clear pedagogical for a **time limit** (eg. complete within 2 hours), extra time accommodations must be set for students with a relevant SSP (eg. 25% extra time). This must be set in each site for each student. See our [Accommodations for SSPs guide](../ultra/accommodations.md) for details.
 </div>
 <figure markdown>
 ![Purple flag icon next to student name in class register](images/accommodations-flag.png)
-<figcaption>Flag denoting time limit accommodation</figcaption>
+<figcaption>Flag showing SSP extra time accommodation</figcaption>
 </figure>
 </div>
 

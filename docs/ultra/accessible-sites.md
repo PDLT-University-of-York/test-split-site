@@ -148,7 +148,7 @@ Use these tips to make your text-based content easier to navigate for assistive 
 
 For more detail, see the [**Block: Content (text editor)** section](../ultra/documents.md#block-content-text-editor) in our Documents guide.
 
-## Tips: images & figures
+## Tips: images and figures
 
 Some general considerations for images are covered in the Digital Accessibility Team's [guide for graphic adjustments for vision-impaired students](https://docs.google.com/document/d/1_ANA76QioWT2x8k4gf27We5Ceo_T9choYLbwqkOa64Q/edit?usp=sharing). These tips are helpful for all users.
 
