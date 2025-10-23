@@ -11,45 +11,26 @@ tags:
 
     Set accommodations in a site to automatically apply SSP extensions to Test time limits.
 
-## Accommodation types
-
 Accommodations are adaptations to assessment settings for students with an SSP. Ultra offers two types of accommodation:
 
-### Time limit accommodation
+## Time limit accommodation
+
+!!! Tip
+
+    Time limit accommodations must be set for each student and in each site. There is currently no automatic method to set accommodations in bulk.
+    
+    Once set, the extra time is automatically applied to all timed assessments on the site.
 
 <div markdown class="grid">
 <div markdown>
-The time limit accommodation extends the time limit for timed assessments. For example, in a Test with 60 minute time limit, a 25% extension has 75 minutes and a 50% extension has 90 minutes.
+The time limit accommodation extends the time allowed for timed assessments. For example, in a Test with 60 minute time limit, a 25% extension has 75 minutes and a 50% extension has 90 minutes. Students see their own personal time limit.
 </div>
 ![Accommodations panel: Students with a time limit accommodation have more time to finish their work during timed assessments.](images/accommodations-timelimit-intro.png)
 </div>
 
-Once the accommodation is set, extensions are automatically applied to all Ultra Tests with a time limit set on the site. Students see their own personal time limit.
+Time limit accommodations can be applied and updated while a student has in-progress Test attempts. The time limit will update immediately, but the student may need to refresh the page to display this correctly.
 
-### Due date accommodation
-
-!!! Warning
-
-    The due date accommodation type is not applicable at UoY.
-
-<div markdown class="grid">
-<div markdown>
-The due date accommodation means submissions are never marked as late. It does not extend the assessment deadline.
-</div>
-![Accommodations panel: Students with a time limit accommodation have more time to finish their work during timed assessments.](images/accommodations-duedate-intro.png)
-</div>
-
-This does not align with UoY assessment policy, so **do not use this option**. To set deadline extensions for submitted work, set up multiple submission points with different deadlines.
-
-## Setting time limit accommodations
-
-!!! Tip
-
-    Accommodations must be set for each student and in each site. There is currently no automatic method to set accommodations in bulk.
-    
-    Once set, accommodations are automatically applied to all relevant assessments on the site.
-
-Start by accessing the accommodations panel using your preferred method:
+To apply accommodations, Start by accessing the accommodations panel using your preferred method:
 
 - *Via the Gradebook*: open the Gradebook and select the **Students tab**. Locate the relevant student then click the **three dots icon** and select **Accommodations**.
 </br>![decorative](images/accommodations-via-gradebook.png)
@@ -69,4 +50,19 @@ To set the relevant time limit extension:
 5. Students with accommodations set are shown with a **purple flag icon** wherever their name appears. To edit accommodations once they are set, follow the steps above. Any changes are applied immediately.
 </div>
 ![decorative](images/accommodations-timelimit-set.png)
+</div>
+
+## Due date accommodation
+
+!!! Warning
+
+    The due date accommodation type is not applicable at UoY.
+
+<div markdown class="grid">
+<div markdown>
+The due date accommodation means submissions are never marked as late. It does not extend the assessment deadline.
+
+**Do not apply this accommodation**. There are various methods to manage deadline extensions for SSPs and ECAs etc. Liaise with your departmental assessment administration team to set up the relevant method for your assessment.
+</div>
+![Accommodations panel: Students with a time limit accommodation have more time to finish their work during timed assessments.](images/accommodations-duedate-intro.png)
 </div>
