@@ -125,7 +125,7 @@ This **staff-only** function checks content items and assigns them an **accessib
 - untagged PDFs and scanned PDFs that aren't OCR-ed
 
 <div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="col_2">
 An **accessibility score icon** appears on the item with a gauge (or dial) giving a quick measure of content accessibility.
 
 This may take up to a few minutes to appear, depending on the complexity of the content.
@@ -286,7 +286,7 @@ There are also various other platform-specific accessibility checkers available.
     The alternative format generator works best if the original content is accessible and well-structured. It can't fix accessibility issues in the content.
 
 <div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="col_2">
 This function allows **staff and students** to download Ultra Documents and uploaded files in a range of alternative formats.
 
 This helps users access content in a way that suits their needs and preferences.

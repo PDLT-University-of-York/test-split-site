@@ -130,7 +130,7 @@ Use these checkers to improve accessibility:
     In the Ultra text editor, we recommend using the default font, text size and colour settings.
 
 <div markdown class="flexcols">
-<div markdown class="col75">
+<div markdown class="col_3">
 Use these tips to make your text-based content easier to navigate for assistive technology users, vision-impaired users and dyslexic and neurodiverse users:
 
 - Structure text and documents with Heading Styles.
@@ -192,7 +192,7 @@ For more guidance on image descriptions:
     Colour blindness is common and not generally disclosed. You should assume that colour blindness considerations are needed for your materials.
 
 <div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="col_2">
 Consider use of **colour** in your images and figures:
 
 - Don't convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure.

@@ -87,6 +87,7 @@ img {
 .flexcols {
     display: flex;
     flex-wrap: wrap;
+    margin: 1em 0;
 }
 
 /* default: columns equally distributed */
@@ -97,20 +98,24 @@ img {
 }
 
 /* remove top margin for first child in the div */
-.flexcols>div>p:first-child,
-.flexcols>figure,
-.flexcols>figure>p:first-child {
+.flexcols>div>*:first-child {
     margin-top: 0;
 }
 
-/* 65% width: col65 expands x2 more than other column */
-.flexcols>.col65 {
+/* 55% ish width: col55 expands x1.3 more than other column */
+.flexcols>.col_1-3 {
+    flex: 1.3;
+    min-width: 300px;
+}
+
+/* 65% width: col_2 expands x2 more than other column */
+.flexcols>.col_2 {
     flex: 2;
     min-width: 300px;
 }
 
-/* 75% width: col75 expands x3 more than other column */
-.flexcols>.col75 {
+/* 75% width: col_3 expands x3 more than other column */
+.flexcols>.col_3 {
     flex: 3;
     min-width: 300px;
 }
@@ -154,9 +159,21 @@ div.centered-image {
 }
 
 /* remove margins from figure*/
-.md-typeset figure,
-.md-typeset figure>p:first-child {
+figure>p {
+    margin: 0;
+}
+
+.md-typeset .grid figure,
+.md-typeset .grid figure:first-child>p,
+.md-typeset .flexcols figure,
+.md-typeset .flexcols figure:first-child>p  {
     margin-top: 0;
+}
+
+.md-typeset figure,
+.md-typeset .grid>figure:last-child>figcaption,
+.md-typeset .flexcols>figure:last-child>figcaption {
+    margin-bottom: 0;
 }
 
 /*** ----- tabbed content styling */

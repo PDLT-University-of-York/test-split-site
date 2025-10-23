@@ -178,7 +178,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
     Questions are included in the specific order they were presented to each student, so if questions were randomised, ‘Question 1’ will differ for each student. To convert back to consistent question order, select *By question and student* format and sort by question text.
 
 <div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="col_2">
 1. Open the *Marks* or *Markable Items* Gradebook view.
 2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Download Results**.
 3. Select the appropriate settings:
@@ -201,7 +201,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 Download all submissions to a specific Ultra Assignment as a ZIP file:
 
 <div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="col_2">
 1. Open the *Marks* Gradebook view.
 2. Click the relevant assessment icon and then select **Download Submissions**.
 3. Select individual student(s) or tick the box next to *Name* to select all students.
@@ -219,7 +219,7 @@ To assist in analysing results, you can view summary mark statistics each assess
     Statistics include any automatic zeroes assigned for non-submission.
 
 <div markdown class="flexcols">
-<div markdown class="col65">
+<div markdown class="col_2">
 1. Open the *Marks* or *Markable Items* Gradebook view.
 2. Click the relevant assessment icon (in *Marks*) or the three dots icon (in *Markable Items*) and then select **Statistics**.
 3. Review the statistics:

@@ -244,12 +244,13 @@ General considerations:
 - Students may be taking the Test on a laptops or or other small screen, so trial your test in Student Preview mode to make sure content can be easily seen on a small screen.
 - Do not split information needed to answer a question across different pages.
 
-<div markdown class="grid">
-<div markdown>
+<div markdown class="flexcols">
+<div markdown class="col_1-3">
 Considerations for images in matching questions:
 
-- If using multiple images in the same question, consider splitting these into separate questions to make images clearer. Eg. instead of a matching question with five plots, split each into its own multiple choice question with the same answer options.
-- If images must be used in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. If  images are the answer options, students must scroll through the drop down to see them all. This makes it difficult to compare images, especially if they are similar.
+- Best practice: if using multiple images in the same question, consider splitting these into separate questions to make images clearer. Eg. instead of a matching question with five plots, split each into its own multiple choice question with the same answer options.
+- If images must be used in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. However, notes that images may be shown quite small due to the layout for this question type.
+- Do not put images as the answer options. This options can't be viewed at once and requires scrolling through the drop down to see all images. This makes it difficult to compare images, especially if they are similar.
 </div>
 <figure markdown>
 ![MCQ question (1 point): a single scatterplot with 5 text relationship options to select from. All is clear and easy to see.](images/test-content-visibility-separate-question.png)
