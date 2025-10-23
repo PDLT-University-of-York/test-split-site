@@ -9,7 +9,9 @@ tags:
 
 !!! Summary
 
-    Test is a quiz and exam tool with a wide range of uses from informal quizzes to summative exams. This guide covers how to create and set up a Test, and is primarily aimed at **teaching staff**.
+    Test is a quiz and exam tool with a wide range of uses from informal quizzes to summative exams.
+
+    This guide covers how to create and set up a Test, and is aimed at **teaching staff** and **administrators**.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -17,9 +19,12 @@ tags:
     - 4.1 Essential: The assessment section contains all information about module assessments.
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
 
-![Example Test with multiple choice and fill in the blank question types](images/test-example.png)
+<figure markdown>
+![Example Test showing multiple choice question, quick access settings and tab to access student submissions](images/test-example.png)
+<figcaption>Test: staff view of interface</figcaption>
+</figure>
 
-## Uses of Test
+## Uses of Test: overview
 
 !!! Tip
 
@@ -27,26 +32,38 @@ tags:
 
 Test is best used for tasks with 'right answer' questions and automatic marking, although it can include manually marked Essay-type questions with short open text input.
 
-This section summarises some common uses of Test. See later sections for more detail on specific aspects of building and implementing a Test.
+This section summarises some common uses of Test and suggested settings as a quick overview. See later sections for more detail on specific aspects of building and implementing a Test.
 
 ### Practice quiz
 
-A formative quiz that can be taken many times, usually to practice specific content. There is no deadline or timer. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
+<div markdown class="grid">
+<div markdown>
+A formative quiz that can be taken many times, usually to practise specific content. 
+
+There is no deadline or time limit. Marks and feedback are automatically returned immediately after submission, without direct input from module staff.
+</div>
+![Test in Course Content area: Week 3 Practice quiz, no due date, formative](images/test-use-practice-quiz.png)
+</div>
 
 ??? Abstract "Practice quiz: details & suggested settings"
 
-    **Questions & presentation**
+    **Test location within Learn Ultra VLE site**
 
-    - Includes auto-marked question types only.
+    In most cases, put the quiz alongside the content it relates to. Ie. a quiz practicing week 5 content should appear in the week 5 section.
+    
+    **Questions, presentation and marking**
+
+    - Includes auto-marked [question types](#question-types) only.
     - Often uses [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
     - May use pagination to break up longer Tests or to manage question order.
+    - Results are automatically released immediately after the quiz is submitted.
 
     **Suggested settings**
 
     Leave all settings not mentioned here unticked or as the default.
 
     - Details & Information
-        - tick *No due date*
+        - *Due date*: tick *No due date*
     - Presentation Options
         - *Display one question at a time*: tick if using LaTeX to improve rendering
         - *Randomisation options*: tick *Randomise questions* and *Randomise answers*
@@ -62,37 +79,58 @@ A formative quiz that can be taken many times, usually to practice specific cont
         - *Correct answers*: tick, set to *after individual mark has been posted*
     - Description: add a short contextual description to display under the item's name in the Course Content area.
 
-### Low-stakes summative quiz
+### Summative coursework quiz or task
 
-A quiz or task worth a few percent (<5%) of overall grade, often related to laboratory work or as a component of continuous assessment. May set a deadline, but does not set a time limit. The only input from module staff is usually to manually post grades and automatic feedback all together at a specific point. 
+<div markdown class="grid">
+<div markdown>
+A quantitative quiz, problem set or other task completed remotely and asynchronously in a students' own time.**These are classified as coursework, not as exams**; here a Test attempt is analogous to an assignment file submission.
 
-??? Abstract "Low-stakes summative quiz: details & suggested settings"
+Usually has a deadline, but no time limit. Students can request extensions and late submissions must be accepted.
+</div>
+![Test in Course Content area: Summative Problem Set 1, due date set, description: Problem set 1 of 4. Each set is worth 10% of your final grade (40% in total from problem sets).](images/test-use-summative-problem-set.png)
+</div>
 
-    **Questions & presentation**
+??? Abstract "Summative coursework task: details & suggested settings"
 
-    - Usually includes auto-marked question types only.
+    !!! Tip
+
+        If you are in any doubt about the appropriate settings for your Test, please [contact us](mailto:vle-support@york.ac.uk) for advice or to check settings before the task is made available to students.
+
+        If setting a due date, liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc.
+
+    **Test location within Learn Ultra VLE site**
+
+    All formal assessment items should be located in the Assessment section.
+
+    **Questions, presentation and marking**
+
+    - Often includes auto-marked [question types](#question-types) only, but can include some [manually marked](#manual-marking) short answer Essay-type questions.
     - May use [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
     - May use pagination to break up longer Tests or to manage question order.
+    - May use [anonymity](#anonymity) if requires manual marking, but this makes administration more complex.
 
     **Suggested settings**
 
     Leave all settings not mentioned here unticked or as the default.
 
     - Details & Information
-        - If no deadline: tick *No due date*.
-        - If requires a deadline:
-            - Set a due date and time during work hours.
-            - Apply [SSP deadline extensions](#ssp-accommodations).
-            - *Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
+        - *Due date*: set a due date and time during work hours or tick *No due date* if no deadline is required.
+        - If setting a due date, liaise with your departmental assessment administration team to **manage deadline extensions for SSPs, ECAs** etc.
+        - **Do not tick** the options *Prohibit late submissions* or *Prohibit new attempts after due date*. Assessment policy states that students must be able to submit work late.
     - Presentation Options
         - *Display one question at a time*: tick if using LaTeX to improve rendering
         - *Randomisation options*: tick as required.
     - Marking & Submissions
-        - *Attempts allowed*: set to Unlimited, or number of attempts allowed (recommend 3+)
-        - *Attempts to mark*: either set to *Last attempt* (may need to identify the last on time submission if a late submission is made) or *All attempts* then set the *Final mark calculation* as the average or highest mark.
+        - *Mark category*: optionally set to *Assignment*.
+        - *Attempts allowed*: set to Unlimited.
+        - *Attempts to mark*: set to *Last attempt* (may need to identify the last on time submission if a late submission is made, see the [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions)).
+        - *Anonymous marking: Hide student names*: tick if anonymous marking is required.
         - *Assessment mark*: untick *Post assessment marks automatically* to manually release marks all together.
     - Assessment results:
-        - *All options:*: tick, set to *after individual mark has been posted* or *specific date*.
+        - *Submission view*: tick, set to *after submission*
+        - *Other options*:
+            - if should be shown to students, tick and set to *specific date* with the date of mark release.
+            - is should not be shown to students, leave unticked.
     - Description: add a short contextual description to display under the item's name in the Course Content area.
 
 ### Formal exams
@@ -101,30 +139,46 @@ A quiz or task worth a few percent (<5%) of overall grade, often related to labo
 
     To run a formal summative exam using Test, you **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up and manage the exam procedure. This is to facilitate Test administration and comply with University assessment policy requirements.
 
-A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date. Requires a separate exam site and very specific set up; DET will manage this.
+<div markdown class="grid">
+<div markdown>
+A scheduled summative exam during CAP or other assessment period, either remotely on in-person. Requires a separate exam site and very specific set up.
+
+Some questions may require [manual marking](#manual-marking), possibly [anonymously](#anonymity), but there are no long text answers or file uploads. Scores and feedback are released manually on a specific date.
+</div>
+![Test in Course Content area: Summative exam, no due date, 120 minute time limit, access instructions in description](images/test-use-formal-exam.png)
+</div>
    
 ??? Abstract "Formal exam: summary of procedure"
 
-    Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and should not be considered sufficient guidance for running formal exams with Test.
+    !!! Warning
     
-    **Questions & presentation**
+        Formal exams are run very differently to asynchronous uses of Test. The appropriate set up depends on the specific exam requirements; [contact us](mailto:vle-support@york.ac.uk) to advise on your specific exam. Information here is an overview only, and **should not be considered sufficient guidance for running formal exams with Test**.
 
-    - Often includes auto-marked question types only, but can include some manually marked short answer questions.
+    **Test location within Learn Ultra VLE site**
+
+    We will set up a separate exam site for formal exams using Test. This is required for smooth administration and exam security.
+    
+    **Questions, presentation and marking**
+
+    - Often includes auto-marked [question types](#question-types) only, but can include some [manually marked](#manual-marking) short answer Essay-type questions.
     - May use [randomisation](#randomisation) to present questions in a different order in each attempt, and/or question pools to draw a random subset of questions from a larger bank of questions.
     - May use pagination to break up longer Tests or to manage question order.
+    - May use [anonymity](#anonymity) if requires manual marking, but this makes administration more complex.
 
     **Procedure overview**
 
-    As an illustrative example, the general procedure for remote exams is:
+    As an illustrative example, the general procedure for **remote exams** is:
 
     1. The Test is set up in a separate exam VLE site before the CAP.
-    2. Onm exam day, students have a specific start window to begin the Test (eg. 10:00 - 10:30 am).
+    2. On exam day, students have a specific start window to begin the Test (eg. 10:00 - 10:30 am).
     3. Once each student starts, they have the full scheduled time to complete the exam plus any SSP extension (eg 2 hours + 25%).
-    4. At the end of the start window, any non-starters are deemed to be absent and their access to the exam site is removed. This is much easier for non-anonymous Tests.
-    5. Students manually submit when finished, or the exam automatically submits if the end of their individual timer is reached.
+    4. At the end of the start window, any non-starters are deemed to be absent and their access to the exam site is removed. This is much easier to manage for non-anonymous Tests.
+    5. Students manually submit when finished, or the exam automatically submits if the end of their individual time limit is reached.
     6. The Test and exam site are hidden from students.
     7. Any manual marking occurs and final marks are processed.
     8. Marks and feedback are released to students at the end of the CAP.
+
+    **In-person exams** have a different procedure to align with the different assessment policy requirements.
 
 Find out more about how Test has been used across the University:
 
@@ -158,88 +212,62 @@ Find out more about how Test has been used across the University:
 
 There are some particular accessibility considerations when creating Test questions, along with [all the usual accessibility considerations](../accessibility/index.md).
 
-Some general considerations are covered in the Digital Accessibility Team's [guide for graphic adjustments for vision-impaired students](https://docs.google.com/document/d/1_ANA76QioWT2x8k4gf27We5Ceo_T9choYLbwqkOa64Q/edit?usp=sharing). These tips are helpful for all users.
-
-<div markdown class="grid">
-<div markdown>
-#### Images and figures: descriptions
-
-Images and figures used in Test questions must have an appropriate text-based alternative of the information:
-
-- simple images: add ALT text describing the key information to answer the question.
-- complex images: provide a separate text description (eg. data in table format, description of a diagram etc.).
-
-For more guidance on image descriptions for assessments:
-
-- Our [General advice on ALT text](https://subjectguides.york.ac.uk/media/images#s-lg-box-wrapper-18695081)
-- [NWEA Image description guidance for assessments (PDF)](https://www.nwea.org/uploads/2022/11/Image-Description-Guidelines-for-Assessments_NWEA_2021.pdf)
-- [Higher Education advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
-</div>
-<figure markdown>
-![Described in example below](images/test-figure-alt-text.png)
-<figcaption>ALT text describing a simple figure in an MCQ</figcaption>
-</figure>
-</div>
-
-#### Images and figures: colour and resolution
-
 !!! Tip
 
-    Colour-blindness is common and not generally disclosed. You should assume that colour-blindness considerations are needed for your Test.
+    Colour blindness is common and not generally disclosed. You should always consider colour blindness for any colour choices in your Test images or figures.
 
-<div markdown class="flexcols">
-<div markdown class="col65">
-Consider use of **colour** in your images and figures:
+- Appropriately **describe relevant information**:
+    - simple images: add ALT text describing the key information to answer the question.
+    - complex images: provide a separate text description (eg. data in table format, description of a diagram etc.).
+- Consider **use of colour**: don't convey meaning by colour alone, avoid red/green combinations and use a high enough contrast between foreground and background.
+- Use **high resolution** images to prevent pixelation or blurriness when zooming in.
 
-- Do not convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure.
-- Avoid using red and green together; this is the most problematic colour combination.
-- Ensure there is sufficient contrast between foreground and background colours (at least 4.5:1).
-- [WhoCanUse](https://www.whocanuse.com/) is our recommended tool to check contrast and explore how colour choices can affect people with different visual impairments.
-</div>
+See our [guide to accessible images in Ultra sites](../ultra/accessible-sites.md#tips-images-and-figures) for more details.
+
+<div markdown class="grid">
+<figure markdown>
+![Described image in MCQ question: What relationship is shown in the scatterplot? ALT text: As x increases, y increases. Points are tightly distributed on a straight line.](images/test-figure-alt-text.png)
+<figcaption>ALT text describing a simple figure</figcaption>
+</figure>
 <figure markdown>
 ![Scatterplot points: Factor 1 = blue circles, factor 2 = red triangles](images/test-figure-colour-meaning.png)
 <figcaption>Using colour and shape to differentiate factors</figcaption>
 </figure>
 </div>
 
-Also ensure that images and figures are **high resolution**. This prevents pixelation or blurriness when zooming in or using a screen magnifier, and improves usage for everyone.
-
-- [Veronica with Four Eyes](https://veroniiiica.com/how-to-create-high-resolution-images-for-low-vision/) describes their experiences using images as a student with low vision, and offers tips on creating high resolution images.
-- See our [Practical Guide to media editing](https://subjectguides.york.ac.uk/media/images) for more technical guidance on image resolution.
-
 #### Content visibility
 
-Make sure that the content needed to answer a question can be easily viewed on screen. Avoid requiring students to scroll through dropdowns, or other situations where they can't see all of the relevant question content at once.
+Make sure that the content needed to answer a question can be easily viewed on screen. Avoid requiring students to scroll through dropdowns, move between pages, or other situations where they can't see all of the relevant question content at once.
 
-Some particular considerations:
+General considerations:
 
 - Students may be taking the Test on a laptops or or other small screen, so trial your test in Student Preview mode to make sure content can be easily seen on a small screen.
-- If using images in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. If  images are the answer options, students must scroll through the drop down to see them all. This makes it difficult to compare images, especially if they are similar.
+- Do not split information needed to answer a question across different pages.
 
+<div markdown class="flexcols">
+<div markdown class="col_1-3">
+Considerations for images in matching questions:
+
+- Best practice: if using multiple images in the same question, consider splitting these into separate questions to make images clearer. Eg. instead of a matching question with five plots, split each into its own multiple choice question with the same answer options.
+- If images must be used in Matching questions, put images inside the Prompt, not the Answer portion. This means students can see all the answer options together for each image. However, notes that images may be shown quite small due to the layout for this question type.
+- Do not put images as the answer options. This options can't be viewed at once and requires scrolling through the drop down to see all images. This makes it difficult to compare images, especially if they are similar.
+</div>
 <figure markdown>
-![Described in example](images/test-figures-matching-questions.png)
-<figcaption>Considering content visibility during question design</figcaption>
+![MCQ question (1 point): a single scatterplot with 5 text relationship options to select from. All is clear and easy to see.](images/test-content-visibility-separate-question.png)
+<figcaption>Best practice: separate question per figure</figcaption>
 </figure>
+</div>
 
-??? Abstract "Image descriptions: Accessible question examples"
-
-    **Example 1: Multiple-choice question with a simple figure and ALT text**
-
-    Question text: This scatterplot shows the relationship between two variables. What is the correlation shown?
-
-    ALT text for the scatterplot: As x increases, y increases. Points are tightly distributed on a straight line.
-
-    Answer options: strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation
-
-    **Example 2: Matching figures to text descriptions**
-
-    A matching question where scatterplots of showing correlations are matched to the text description (strong positive correlation, weak positive correlation, no correlation, weak negative correlation, strong negative correlation).
-
-    Question text: For each scatterplot, select the correlation shown.
-
-    Good practice: Scatterplots are the Prompts, so can all be seen and compared on the main page without scrolling. The text-based descriptions appear in an Answers drop-down list next to each scatterplot. These are text descriptions and can all be seen at once without scrolling.
-
-    Poor practice: Text descriptions are the Prompts, appearing in a short list. The scatterplots appear in an Answers drop-down list next to each description. Students must scroll through the plots, with only two of the plots visible at once.
+<div markdown class="grid">
+<figure markdown>
+![Matching question (5 points): scatterplots as prompts, with 5 text relationships options to select from in adjacent answers drop down. The figure is quite small, but can see all answer options.](images/test-content-visibility-images-prompts.png)
+<figcaption>Figures as matching question prompts</figcaption>
+</figure>
+<figure markdown>
+![Matching question (5 points): relationships as text prompts, with 5 scatterplots to select from in adjacent answers drop down. Can't see all answer option figures without scrolling.](images/test-content-visibility-images-options.png)
+<figcaption>Poor practice: figures as matching question answers</figcaption>
+</figure>
+</div>
 
 ### Randomisation
 
@@ -258,12 +286,12 @@ Randomisation is a very useful tool for creating robust assessments, particularl
     
     - Randomises the order of all questions in the Test.
     - If pages used, questions are randomised within the page.
-    - Questions must be able to appear in any order (ie. do not refer to earlier questions).
+    - Questions must work in any order (ie. do not refer to earlier questions).
     
     **Answers**
     
     - Randomises the order of MCQ answer options for relevant questions.
-    - Don't use 'A and B are correct' type answers; use 'All other options are correct' or set multiple correct answers instead. 
+    - Answers must work in any order. Don't use 'A and B are correct' type answers; use 'All other options are correct' or set multiple correct answers instead. 
         
     **Pages**
     
@@ -318,14 +346,16 @@ Randomisation is a very useful tool for creating robust assessments, particularl
 
 !!! Warning 
 
-    Anonymous marking makes it much harder to administer the Test, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
+    Anonymously marked Tests are much harder to administer, so avoid anonymity and manually marked Essay question types unless absolutely necessary.
 
-For any Test that contains only auto-marked questions, there is no need for anonymity. Anonymity is only required for summative exams with manually marked Essay question types; we don't recommend anonymity for formative exams.
+For any Test that contains only auto-marked questions, there is no need for anonymity. Because of the administrative challenges, anonymity should only be used for summative exams with manually marked Essay question types.
 
 If anonymous marking is on for the Test, you:
 
-- can't see who has submitted/started. This makes it hard to manage exam access, especially for large cohorts.
+- can't see who has started or submitted an attempt. This makes it hard to manage exam access, especially for large cohorts.
 - can't download answers, overall results or question scores until results are de-anonymised.
+
+--- 
 
 ## Create a Test
 
@@ -365,7 +395,7 @@ Key question types are summarised below. See [Blackboard's Question Types guide]
 | [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Can give partial or negative credit. | auto graded | can be auto-generated |
 | [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Answer can be exact number or within a range.| auto graded | manual only |
-| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions)  | Enter a text response (of any length). Can provide a model answer for help grading. | **manually graded** | can be auto-generated |
+| [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions) | Enter a text response (of any length). Can provide a model answer to help grading or as feedback. | **manually graded** | can be auto-generated |
 
 ### Add questions
 
@@ -382,11 +412,11 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     1. Click the **plus + icon**.
     2. Select the relevant question type.
     </br> ![decorative](images/test-manually-add-questions.png)
-    3. Enter the question and answers as needed for that question type (see the linked guides in the [Question Types section](#question-types) for more information)
+    3. Enter the question and answers as needed for that question type.
     4. Optional question settings (availability depends on question type):
-        - set partial or negative credit for different answers
-        - set the question as extra credit
-        - add automated feedback
+        - set [partial or negative credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Answer_Questions) for questions with multiple correct answers
+        - set the question as [extra credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Extra_Credit_Questions)
+        - add automated feedback (auto-marked types) or example correct answer (Essay type only)
         - change the points awarded (default = 1 point)
         </br>![Multiple choice question manually built in the editor, highlighting optional features listed.](images/test-question-options.png)
     5. Click **Save**.
@@ -506,7 +536,7 @@ You can print or download your Test as a PDF, along with an automatically-genera
 
 !!! Tip
     
-    If Test questions are randomised, a new version is generated each time the Test is printed.
+    If randomisation is used, a new version is generated each time the Test is printed.
 
 To print or save a Test:
 
@@ -533,14 +563,16 @@ Open the full assessment settings by clicking the **cog icon** at the top of the
 
 !!! Question "Key consideration: Does your Test need a due date?"
 
-    A due date is only recommended for low-stakes summative quizzes with a specific deadline. If required, you can enter a due date and time during core work hours. **Students must be able to start and submit late attempts.**
+    Setting a due date/deadline (eg. submit by 15/05/2026 14:00) is only recommended for summative coursework tasks.
+    
+    If required, set a due date and time during core work hours and liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension). **Students must be able to start and submit late attempts.**
     
 These settings **can** be updated after students have started their submissions.
 
 <div markdown class="grid">
 <div markdown>
 
-- *Due date*: tick *No due date*.
+- *Due date*: tick *No due date* or set a due date and time during core work hours. If used, liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc.
 - **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
 - **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can be manually submitted after the deadline (marked late). Can't start new attempts after the deadline.
 - *Allow class conversations*: attaches a Discussion to the Test. Recommend to leave unticked.
@@ -554,7 +586,7 @@ These settings **can** be updated after students have started their submissions.
 
     Randomising test content for each attempt can support robust assessment by reducing opportunity for collusion, especially for remote uses of Test. To use random order, make sure that questions/answers do not need to appear in a specific order.
 
-Presentation options mostly relate to the order that questions appear in for each attempt. See the [randomisation section](#randomisation) for more details.
+Presentation options mostly relate to the order that questions appear in for each attempt. See the [randomisation](#randomisation) section for more details.
 
 These settings **cannot** be updated after students have started their submissions.
 
@@ -678,31 +710,35 @@ Unless stated, these settings **cannot** be updated after students have started 
 
 <div markdown class="grid">
 <div markdown>
-- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. Must [apply SSP time extensions](#ssp-accommodations) for relevant students; don't make multiple copies with different time limits.
-- *Assign to groups*: use as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
+- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. Used for formal exams, but otherwise **do not use without a clear pedagogical need**. If used, must apply [SSP extra time extensions](#extensions-and-extra-time) for relevant students.
+- *Assign to groups*: to set as a collaborative group task. May be useful for escape room-type activities, but otherwise not likely to be useful for other uses of Test.
 - *Originality report*: adds Turnitin originality reporting. This should not be required; if you think this is needed, it's likely a different tool will be more suitable than Test.
 - *Description*: adds a contextual note to the Test item on the Course Content page. Maximum 750 characters. Can be updated after students have started their submissions.
 </div>
 ![Additional tools & Description settings panel: described in text](images/test-settings-additional-tools.png)
 </div>
 
-### SSP accommodations
+### Extensions and extra time
+
+For Tests with a **deadline** (eg. submit by 15/05/2026 14:00), liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension).
 
 <div markdown class="grid">
 <div markdown>
-SSP deadline extensions or extra time allowances must be applied for summative Tests and for formal formative tests.
-
-See our [Accommodations for SSPs guide](../ultra/accommodations.md) for instructions on how to do this.
+For Tests with a clear pedagogical for a **time limit** (eg. complete within 2 hours), extra time accommodations must be set for students with a relevant SSP (eg. 25% extra time). This must be set in each site for each student. See our [Accommodations for SSPs guide](../ultra/accommodations.md) for details.
 </div>
 <figure markdown>
 ![Purple flag icon next to student name in class register](images/accommodations-flag.png)
-<figcaption>Flag denoting time limit accommodation</figcaption>
+<figcaption>Flag showing SSP extra time accommodation</figcaption>
 </figure>
 </div>
 
 --- 
 
 ## Marking & results
+
+### Review auto-marked scores
+
+For fully auto-marked Tests, no manual marking is required. You can review the marks in the *Test's Submissions* tab or in the *Gradebook Marks* tab. See the [guide to view Gradebook data](../ultra/gradebook.md#view-gradebook-data-and-submissions) for more details.
 
 ### Manual marking
 
@@ -714,17 +750,18 @@ If a Test contains Essay type questions, these must be manually marked. This **m
 
 1. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
 </br>![](images/test-marking-open-submission.png)
-2. Marking methods:
-    - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. Question order will differ between attempts if randomisation was used.
+2. If a Due Date was set, the correct attempt to mark may not be the default attempt presented for marking. You will need to check which attempt to mark if there are late submissions. See our [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions) for details.
+3. Marking methods:
+    - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. If randomisation was used, question order will differ between attempts.
     </br>![One attempt highlighted in left panel attempt list, with essay question and other questions from that attempt.](images/test-marking-by-student.png)
-    - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses.
+    - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses. This is not affected by randomisation.
     </br>![One question highlighted in left panel question list, with collated answers for the same essay question from all students](images/test-marking-by-question.png)
-3. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
+4. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
 ![Essay question and student response with example answer text and mark entered](images/test-marking-essay-question.png)
-4. Once each essay question in an attempt has been marked, the final score is updated in the overall mark pill (on Student view).
+5. Once each essay question in an attempt has been marked, the final score is updated in the overall mark pill (on Student view).
 </br>![Attempt mark shown at top of specific attempt and for each student in left panel attempt list](images/test-marking-scores.png)
-5. When marking is complete, click *Post all marks* on the Test submissions tab (if anonymously marked, this will also **de-anonymise results**).
-6. When ready to release marks, make the Test (and site, if needed) visible to students.
+6. When marking is complete, click *Post all marks* on the Test submissions tab (if anonymously marked, this will also **de-anonymise results**).
+7. When ready to release marks, make the Test (and site, if needed) visible to students.
 
 ### Student view: results
 
@@ -739,68 +776,114 @@ After marks are released, students can view various aspects of assessment result
 
 ??? Abstract "What students see: MCQs"
 
+    These examples show the student view of multiple choice question results with various combinations of release settings.
+
+    ??? Abstract "Example question, answers and feedback text"
+
+        The question shown in all interface examples:
+
+        - **Question**: What type of footwear is generally recommended for fell running?
+        - **Answer options**:
+            - Basketball shoes for extra ankle support.
+            - Heavy hiking boots.
+            - Standard road running shoes.
+            - Trail running shoes with good grip and support. [correct answer]
+        - **Automated feedback**:
+            - Correct: Well done - good grip is very important on muddy and rocky terrain.
+            - Incorrect: Consider what footwear is most appropriate for running in varied terrain.
+
     <div markdown class="grid">
     <div markdown>
     <figure markdown>
-    ![The student's selected answer highlighted (in black) in the 4 options. No question score.](images/test-marking-student-answer-view-submission-mcq.png)
+    ![The question text and student's selected answer highlighted (in black) in the 4 options. No question score. Question, answer and feedback text are given above.](images/test-marking-student-view-submission-mcq.png)
     <figcaption>MCQ: submission</figcaption>
     </div>
     <div markdown>
     <figure markdown>
-    ![As Submission view, plus additional feedback on the student's answer. No specification if answer is correct or incorrect, but could be indicated in feedback text](images/test-marking-student-answer-view-autofeedback-mcq.png)
+    ![As Submission view, plus additional feedback on the student's answer. No specification if answer is correct or incorrect, but could be indicated in feedback text](images/test-marking-student-view-autofeedback-mcq.png)
     <figcaption>MCQ: automated feedback</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As submission view plus question score shown in top right, eg. 1 out of 1 marks](images/test-marking-student-answer-view-score-mcq.png)
+    ![As submission view plus question score shown in top right, eg. 0 out of 1 marks](images/test-marking-student-view-score-mcq.png)
     <figcaption>MCQ: question score</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As automated feedback view, plus question score shown in top right, eg. 1 out of 1 marks](images/test-marking-student-answer-view-autofeedback-score-mcq.png)
+    ![As automated feedback view, plus question score shown in top right, eg. 0 out of 1 marks](images/test-marking-student-view-autofeedback-score-mcq.png)
     <figcaption>MCQ: automated feedback & question score</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view, plus green "correct" label. The student's answer is highlighted in green and also specified as the correct answer](images/test-marking-student-answer-view-score-correctanswer-correct-mcq.png)
+    ![As question score view, plus green "correct" label. The student's answer is highlighted in green and also identified as the correct answer](images/test-marking-student-view-score-correctanswer-correct-mcq.png)
     <figcaption>MCQ: correct answers - correct question</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view, plus red "incorrect" label. The student's answer is highlighted in red and also specified as incorrect. "Correct answer" is shown under the correct answer option.](images/test-marking-student-answer-view-score-correctanswer-incorrect-mcq.png)
+    ![As question score view, plus red "incorrect" label. The student's answer is highlighted in red and also identified as incorrect. "Correct answer" is shown under the correct answer option.](images/test-marking-student-view-score-correctanswer-incorrect-mcq.png)
     <figcaption>MCQ: correct answers - incorrect question</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As correct answers view, plus automated "well done" feedback for correct answer](images/test-marking-student-view-autofeedback-score-correctanswers-correct-mcq.png)
+    <figcaption>MCQ: automated feedback & correct answers - correct question</figcaption>
+    </figure>
+    </div>
+    <div markdown>
+    <figure markdown>
+    ![As correct answers view, plus automated "try again" feedback for incorrect answer](images/test-marking-student-view-autofeedback-score-correctanswers-incorrect-mcq.png)
+    <figcaption>MCQ: automated feedback & correct answers - incorrect question</figcaption>
     </figure>
     </div>
     </div>
 
 ??? Abstract "What students see: Essay questions"
 
+    These examples show the student view of essay question results with various combinations of release settings.
+
+    ??? Abstract "Example question, answers and feedback text"
+
+        The question shown in all interface examples:
+
+        - **Question**: Explain why navigation is a crucial skill for fell runners.
+        - **Answers**:
+            - Correct (3/3): Fell running is deeply rooted in tradition and self-sufficiency, so GPS navigation is not allowed in races. Courses are also rarely marked, as generally the only requirement is to visit checkpoints in the right order. This means runners need to be able to navigate using a map and compass to choose their own routes.
+            - Partially correct (2/3): Runners need to navigate with map and compass because GPS is forbidden in races. It's also generally a very important skill for personal safety, so you can get yourself off the mountain in bad weather or without a phone.
+        - **Example correct answer**:
+        </br> 1 point each, up to a maximum of 3 points:
+            - GPS navigation is not allowed
+            - routes are usually unmarked
+            - can choose your own route between points
+            - part of the fell runner's self-sufficiency ethos
+            - important for personal safety
+
     <div markdown class="grid">
     <div markdown>
     <figure markdown>
-    ![The student's short written response. No question score.](images/test-marking-student-answer-view-submission-essay.png)
+    ![The question text and student's short written response. No question score. Question, answer and feedback text are given above.](images/test-marking-student-view-submission-essay.png)
     <figcaption>Essay: submission</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As submission view plus question score shown in top right, eg. 2 out of 3 marks](images/test-marking-student-answer-view-score-essay.png)
+    ![As submission view plus question score shown in top right, eg. 3 out of 3 marks](images/test-marking-student-view-score-essay.png)
     <figcaption>Essay: question score</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view (score = 3 out of 3), plus green "correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-answer-view-score-correctanswer-correct-essay.png)
+    ![As question score view (score = 3 out of 3), plus green "correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-view-score-correctanswer-correct-essay.png)
     <figcaption>Essay: correct answers - correct question</figcaption>
     </figure>
     </div>
     <div markdown>
     <figure markdown>
-    ![As question score view (score = 2 out of 3), plus orange "partially correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-answer-view-score-correctanswer-partial-essay.png)
+    ![As question score view (score = 2 out of 3), plus orange "partially correct" label. The Example of a correct response is shown under the student's answer and highlighted in green.](images/test-marking-student-view-score-correctanswer-partial-essay.png)
     <figcaption>Essay: correct answers - partially correct question</figcaption>
     </figure>
     </div>
@@ -808,4 +891,27 @@ After marks are released, students can view various aspects of assessment result
 
 ### Download results and question scores
 
-After the exam, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download--view-gradebook-data) for details of how to do this.
+!!! Tip
+
+    An anonymously marked Test must be de-anonymised (by posting all marks) before results can be downloaded.
+
+After marking is complete, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download-gradebook-data) for details.
+
+### Question Analysis
+
+The Question Analysis tool gives analytics data on:
+
+- General Test summary: average overall score, number of possible questions, number of completed attempts, average time spent
+- Individual questions:
+    - discrimination: measure of how well the question differentiates between high and low-scoring students
+    - difficulty: percentage of students who answered correctly
+    - breakdown of answers selected (auto-marked question types)
+
+<figure markdown>
+![Content as described in text above. Discrimination and Difficulty summarised in  aggregated bar charts](images/test-question-analysis.png)
+<figcaption>Question Analysis: Test Summary information</figcaption>
+</figure>
+
+This can be useful to understand student performance and review and refine your question practice for future tests. For example, if one question is consistently answered incorrectly, you can review the question wording and answers chosen to see if the question is genuinely difficult, or if there is as issue with the question wording that could be tweaked for next time. 
+
+See [Blackboard Help's guide to Question Analysis](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Ultra_Question_Analysis) for more details.
