@@ -186,6 +186,7 @@ If a user was automatically [enrolled through a Group user](#enrol-a-cohort-or-u
 4. Use the appropriate method to unenrol the user:
     - *Delete user and all their data*: Click the **dustbin icon** next to the user's name. When prompted, click **Remove Member**. Note that **this cannot be undone**.
     - *Remove a user's access but keep their data*: Untick **Allow access to course** and click **Save**.
+    </br>![](images/user-management-unenrol.png)
 
 ### Troubleshooting 
 
