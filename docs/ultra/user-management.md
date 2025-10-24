@@ -42,9 +42,8 @@ The key roles are summarised below, from the most to the least permissive:
 | Teaching Assistant | Assistant | Staff/GTAs that should have limited access to enrol others, but otherwise act as an Instructor. |
 | Marker | Marker | Staff/GTAs who only need to mark student submissions, or who should not have edit access to content. Can't access closed sites. |
 | Course Builder | Organisation Builder | Staff/GTAs who only need to build or edit course content. They can't mark student submissions. |
-| Student | Participant | Students studying the module, any user that should have read-only access to the site (note: they will appear in the Gradebook). Can't access closed sites. |
-| Guest | Guest | **Phased out from Feb 2025**. </br>Year-based sites (eg. Y2024): do not use. </br>Open sites (YOPEN): use for [cohort and user group enrollments](#enrol-a-cohort-or-user-group).|
-| AutoEnroller | AutoEnroller | **Phased in from Feb 2025**. </br>Year-based sites (eg. Y2024): use for [cohort and user group enrollments](#enrol-a-cohort-or-user-group). </br>Open sites (YOPEN): do not use. |
+| Student | Participant | Students studying (or auditing) the module and any other users that should have read-only access to the site (note: they will appear in the Gradebook). Can't access closed sites. |
+| AutoEnroller | AutoEnroller | Use for [cohort and user group enrollments](#enrol-a-cohort-or-user-group). All users enrolled through Auto-enroller receive the student role. |
 
 For more information on each Role's access level and what they can do, see [our Course Roles spreadsheet](https://docs.google.com/spreadsheets/d/1aCRa_aV3JQrgppSFVRjbyznAJvuEVZTVJEnlo5tLkfc/edit?usp=sharing).
 
@@ -83,10 +82,9 @@ Instructors can manually enrol other users on a site if needed.
 1. Open the **Class Register** and click the **plus icon** in the top right.
 </br>![decorative](images/user-management-enrol-plus.png)
 3. On the *Enrol people* panel, search for the user to enrol. As there can be multiple people with the same name, it's best practice to search using their username (abc123) or email so you enrol the correct person.
-</br>![Searching with username shows the relevant user details below](images/user-management-enrol-search.png)
 4. Click the **plus icon** next to their name and select the relevant role from the drop down menu. The default **role** is Student.
-![Role menu shows Student, Teaching Assistant, Course Builder, Marker, Instructor, Guest, HYMS Course Viewer](images/user-management-enrol-select-role.png)
 5. Click **Save**.
+</br>![Individual enrolment steps as described in text. Role menu shows Student, Teaching Assistant, Course Builder, Marker, Instructor, Auto Enroller, HYMS Course Viewer](images/user-management-enrol-individual.png)
 
 Instructors, Teaching Assistants and Course Builders can access the site immediately. Users with other roles have access if the [site is *Open* to students](../ultra/course-access.md).
 
@@ -100,7 +98,7 @@ The error *No results found. Check the spelling and try again.* can mean a few t
 
 ## Enrol a cohort or user group
 
-Student cohort enrolments and larger staff group enrolments are automatically managed through *group users* based on SITS module enrolments (*SITS group users*) or larger cohort groupings (*People Group Users*).
+Student cohort enrolments and larger staff group enrolments are automatically managed through *group users* based on SITS module enrolments (*SITS group users*) or larger cohort groupings (*People Group Users*). All users enrolled through a group user receive the Student role.
 
 Group enrolments are automatically synchronised with SITS data and staff records. This occurs every morning around 9am, so **enrolments via user groups are not immediate**. For example, new staff members automatically receive access to sites and students going on a Leave of Absence automatically lose access to their module sites. Both enrolment changes occur the day after the source data updates.
 
@@ -112,10 +110,8 @@ To enrol a **SITS group user**:
 </br>![decorative](images/user-management-enrol-plus.png)
 2. Search for the the module code to enrol (eg. LAW00008M)
 3. Carefully select the correct group by checking the identifier below the group name for the right year, level, semester and occurrence.
-Eg. group name (2024-law00008m-s2-a) = year *2024*, level *m*, semester *s2* and occurrence *a*.
-4. In the drop-down menu, select the correct role for the type of site:
-    - Year-based site (Y2024): **AutoEnroller** (Note: module sites are year-based)
-    - Open site: **Guest**
+Eg. group name (2025-law00008m-s2-a) = year *2025*, level *m*, semester *s2* and occurrence *a*.
+4. In the drop-down menu, select **AutoEnroller**.
 5. Click **Save**.
 </br>![Searching for the module code returns two groups: previous and current year cohorts](images/user-management-enrol-SITS-group.png)
 
@@ -125,7 +121,11 @@ Students enrolled on the module in SITS will be added to the site at the data sy
 
 There are various **people group users** available for each department, including:
 
-=== "Student group users"
+<div markdown class="grid cards show-bullets">
+
+- Student group users
+
+    ---
 
     - all staff and students
     - all students
@@ -134,10 +134,12 @@ There are various **people group users** available for each department, includin
     - research postgraduates
     - all undergraduates
     - undergraduates by year (eg. Year 1)
-
+    
     **Note**: There are no programme or route-level group users.
 
-=== "Staff group users"
+- Staff group users
+
+    --- 
 
     - all staff and students
     - all staff
@@ -145,17 +147,16 @@ There are various **people group users** available for each department, includin
     - teaching staff
     - support staff
     - research staff
-
+    
     **Note**: Staff enrolled via a people group user will be given the Student role.
+</div>
 
 To enrol a people group user:
 
 1. Open the **Class Register** and click the **plus icon** in the top right.
 </br>![decorative](images/user-management-enrol-plus.png)
 2. Type a cohort keyword like *postgraduate* or *archaeology* to see all the groups available. Carefully select the correct group (see below for tips).
-3. In the drop-down menu, select the correct role for the type of site:
-    - Year-based site (Y2024): **AutoEnroller** (Note: module sites are year-based)
-    - Open site: **Guest**
+3. In the drop-down menu, select **AutoEnroller**.
 4. Click **Save**.
 </br>![Searching for a department returns all associated staff and student group users](images/user-management-enrol-PG-group.png)
 
