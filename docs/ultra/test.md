@@ -79,6 +79,17 @@ There is no deadline or time limit. Marks and feedback are automatically returne
         - *Correct answers*: tick, set to *after individual mark has been posted*
     - Description: add a short contextual description to display under the item's name in the Course Content area.
 
+??? case-study "Case study: Ultra Test for practice quizzes [Language & Linguistic Science]"
+
+    Ellie Rye provides a walkthrough of the 'Structure of English' Ultra site, describing how they applied the Ultra template to present teaching content, and reflects on the use of Discussions and Tests for formative practice quizzes.
+
+    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Ellie Rye, LLS, Structure of English" ></iframe>
+
+    [Structure of English (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234) (8 mins 21 secs, UoY log-in required)
+
+    See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
+    You can also browse our [full set of case studies](../training/case-studies/index.md).
+
 ### Summative coursework quiz or task
 
 <div markdown class="grid">
@@ -180,24 +191,11 @@ Some questions may require [manual marking](#manual-marking), possibly [anonymou
 
     **In-person exams** have a different procedure to align with the different assessment policy requirements.
 
-Find out more about how Test has been used across the University:
-
-??? case-study "Case study: Ultra Test for practice quizzes [Language & Linguistic Science]"
-
-    Ellie Rye provides a walkthrough of the 'Structure of English' Ultra site, describing how they applied the Ultra template to present teaching content, and reflects on the use of Discussions and Tests for formative practice quizzes.
-
-    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Ellie Rye, LLS, Structure of English" ></iframe>
-
-    [Structure of English (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affd8a23-7d50-4d21-87d0-b15600b04234) (8 mins 21 secs, UoY log-in required)
-
-    See the [full case study for more details and the transcript](../training/case-studies/lls-rye.md).
-    You can also browse our [full set of case studies](../training/case-studies/index.md).
-
 ??? case-study "Case study: Ultra Test for formative and summative assessment [Computer Science]"
 
     Tommy Yuan shares his experiences of using the Ultra test tool for formative and summative assessment. Topics include how it can save time for lecturers and administrators, and reduce the likelihood of collusion and academic misconduct.
 
-    Watch their presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0ed26b92-2446-45e4-9815-b141010d308f&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Tommy Yuan: VLE Test for assessment" ></iframe>
+    Watch his presentation:<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0ed26b92-2446-45e4-9815-b141010d308f&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Tommy Yuan: VLE Test for assessment" ></iframe>
 
     [VLE Test for assessment (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ed26b92-2446-45e4-9815-b141010d308f) (6 mins 59 secs, UoY log-in required)
 
@@ -553,7 +551,7 @@ To print or save a Test:
 
 !!! Warning
 
-    Very specific settings are required for **formal exams** using Test. You **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up these up correctly. This guide should not be considered sufficient guidance for this use case.
+    Very specific settings are required for **formal exams** using Test. You **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up these up correctly. The advice here should not be considered sufficient guidance for this use case.
 
 Open the full assessment settings by clicking the **cog icon** at the top of the **Assessment settings** panel next to test content. This panel also includes key quick-access settings.
 
@@ -629,15 +627,15 @@ These settings **can** be updated after students have started their submissions.
 
     - To automatically release marks immediately after submission, **use only auto-marked question types** and tick *Assessment mark: post automatically*.
     - To release all marks together, untick *Assessment mark: post automatically* and manually post marks when ready.
-    - Essay-type questions **must be marked manually** before any marks can be released.
+    - Essay-type questions **must be marked manually** before any marks can be released. Don't use this type if results need to be returned automatically.
 
 Unless otherwise stated, these settings **can** be updated after students have started their submissions.
 
 <div markdown class="grid">
 <div markdown>
 - *Mark Category*: may change the icon shown on the item, but doesn't have any real impact.
-- *Attempts allowed*: how many test submissions can be made. For formative use, set to *Unlimited*. For summative low-stakes quizzes set to the relevant amount.
-- *Attempts to mark*: which test submission to mark. In most cases leave as *Last attempt*. For the highest or average score of multiple attempts, select *All attempts* then the relevant *Final mark calculation* (average, highest, lowest mark).
+- *Attempts allowed*: how many test submissions can be made. For practice quizzes and summative coursework, set to *Unlimited*.
+- *Attempts to mark*: which test submission to mark. In most cases leave as *Last attempt*.
 - *Mark using*: leave as the default *Points*, change to *Percentage* or use a [mark schema](../ultra/mark-schema.md) to convert marks to qualitative categories.
 - *Maximum points*: automatically calculated from individual question scores, cannot be edited.
 </div>
@@ -744,13 +742,13 @@ For fully auto-marked Tests, no manual marking is required. You can review the m
 
 !!! Tip
 
-    Make sure that the Test is Hidden from students to prevent accidentally releasing marks early.
+    Make sure that the Test is Hidden from students to prevent accidentally releasing marks early. If using a separate exam site, also make sure the [site is Closed](../ultra/course-access.md).
 
 If a Test contains Essay type questions, these must be manually marked. This **must occur before scores or feedback for auto-marked questions can be released**, so Essay questions should be avoided in most cases.
 
 1. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
 </br>![](images/test-marking-open-submission.png)
-2. If a Due Date was set, the correct attempt to mark may not be the default attempt presented for marking. You will need to check which attempt to mark if there are late submissions. See our [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions) for details.
+2. If a Due Date was set and a student has made a late submission, the correct attempt to mark may not be the default attempt presented, so you will need to check which attempt to mark. See our [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions) for details.
 3. Marking methods:
     - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. If randomisation was used, question order will differ between attempts.
     </br>![One attempt highlighted in left panel attempt list, with essay question and other questions from that attempt.](images/test-marking-by-student.png)
