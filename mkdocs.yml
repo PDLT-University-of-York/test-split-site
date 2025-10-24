@@ -5,7 +5,6 @@
 
 # Navigation 
 nav:
-  # - Test WIP: ultra/test-wip.md
   - Learn Ultra VLE:
     - ultra/index.md
     - VLE site design principles: ultra/site-design-principles.md
@@ -105,6 +104,7 @@ nav:
       - TFS & E:Vision | manage feedback & marks: assessment/tfs/feedback-marks.md
     - Ultra assessment tools:
       - Gradebook: ultra/gradebook.md
+      - Accommodations for SSPs: ultra/accommodations.md
       - Mark Schema: ultra/mark-schema.md
       - Marking Rubric: ultra/rubric.md
       - Assignment | set up: ultra/assignment-set-up.md

@@ -27,7 +27,6 @@ New sites will appear in your [Courses list](../ultra/courses-list.md). You may 
 
     ![decorative](../help/images/ycode-list.png)
 
-
 ## General settings & structure
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"

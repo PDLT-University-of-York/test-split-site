@@ -93,7 +93,7 @@ Use this block to add text-based content and YouTube videos via the text editor.
     </div>
     </div>
 
-    Link text must describe the destination so that the link makes sense by itself. This is important for assistive technology and also makes your text more readable. For example: [How to write better link text for accessibility](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility/), not **"Click here for more details"**.
+    Effective text describes the destination content so that the link makes sense by itself. This is a simple but very effective accessibility consideration, and also makes your text more readable. See our [guide to accessible links in Ultra VLE sites](../ultra/accessible-sites.md#tips-links) for more details.
 
     **Code or maths content**
 

@@ -127,7 +127,7 @@ There are a range of question types available:
 - Multiple Choice
 - True/False
 
-See our Test Guide for details of [how to auto-generate Test questions using AI-DA](../ultra/test.md#auto-generate-questions-with-ai).
+See our guide to [adding Test questions](../ultra/test.md#add-questions) for more details.
 
 ### Learning Modules
 
@@ -174,4 +174,4 @@ AI-DA doesn't automate repetitive tasks such as updating multiple due dates. How
 
 - [Batch Edit](../ultra/batch-edit.md): change due dates, set release conditions and delete items in bulk
 - [Copy Content](../ultra/copy-content.md): copy items from within the current site or from another site
-- [Upload Test questions](../ultra/test.md#upload-questions-from-a-file): upload existing Test questions from a .csv file
+- Upload Test questions: upload existing Test questions from a .csv file. See our guide to [adding Test questions](../ultra/test.md#add-questions) for more details.

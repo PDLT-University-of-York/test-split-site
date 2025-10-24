@@ -41,4 +41,4 @@ Lecture capture recordings are available though the LTI link to the module's Pan
 
 You can also embed a Panopto video within an Ultra document. This is useful to integrate the video with other teaching content.
 
-For details, see our [guide to Embedding video in an Ultra Document](../ultra/documents.md#videos)
+For details, see our [guide to Embedding content in an Ultra Document](../ultra/documents.md#block-html)
