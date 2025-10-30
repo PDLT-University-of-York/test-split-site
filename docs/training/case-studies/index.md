@@ -72,6 +72,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 
 ## Other tools
 
+- [Using Mentimeter to engage students in Learn Ultra before seminars](../../training/case-studies/psychology-davies.md)
 - [Mentimeter staff case studies](../../other-tools/mentimeter/case-studies.md)
 - [Student and teacher experiences of asynchronous activities with Padlet and Google docs](../../training/case-studies/hoa-sinclair-vyvyan.md)
 - [Using Xerte to enhance asynchronous learning](../../training/case-studies/ipc-martin-genner.md)
