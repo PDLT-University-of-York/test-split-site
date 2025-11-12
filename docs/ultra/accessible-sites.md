@@ -39,9 +39,15 @@ This guide covers key practices to improve the accessibility of your Ultra sites
 
 ## Tool: Departmental Ultra template
 
+!!! Accessibility "How using the template supports accessibility"
+
+    Departmental Ultra templates have been developed to apply the [VLE site design principles](../ultra/site-design-principles.md), many of which relate to meeting accessibility requirements.
+
+    The pre-built structure and key items gives consistency across sites, making it easier to navigate and locate specific content. This gives a better experience for all users, but can be crucial for users with accessibility needs, so they can spend limited time and energy on learning, rather than finding content.
+
 <div markdown class="grid">
 <div markdown>
-Departmental Ultra templates have been developed to apply the [VLE site design principles](../ultra/site-design-principles.md). Templates contain the following pre-built sections:
+Templates contain the following pre-built sections:
 
 - **Module information**: key module and departmental information
 - **Assessment**: to contain all assessment information
@@ -68,11 +74,18 @@ If any sections or pages are missing from your site, [contact us](mailto:vle-sup
 
 ## Tool: Reading List
 
-From 2025/26, it is University policy that **all module readings must be provided through the [Leganto Reading List tool](https://subjectguides.york.ac.uk/readinglists/home)**. This supports accessibility by collating all readings in one place and allowing direct access to digital items via the University single-sign-on.
+!!! Accessibility "How using the Reading List supports accessibility"
+
+    A quality Reading List supports accessibility by collating all readings in one place, helping students prioritise reading tasks and allowing direct access to digital items via the University single-sign-on.
+    
+    It's also crucial for the Library team to provide alternative formats of content for print-impaired users.
+
+From 2025/26, it is University policy that **all module readings must be provided through the [Leganto Reading List tool](https://subjectguides.york.ac.uk/readinglists/home)**.
 
 Using your Reading List to improve accessibility:
 
-- **Tag** each item as Essential, Recommended or Background to help students prioritise and manage their workload. 
+- **Tag** each item as Essential, Recommended or Background to help students prioritise and manage their workload.
+- **Do not upload readings** - add them to your Reading List instead.
 - Aid navigation by using the same **structure** as your VLE site. In most cases this should be weekly sections.
 - Use the **Alternative Format Request (SSP)** tag to identify items for the Library staff to convert to digital format for students who can't access printed text.
 
@@ -125,20 +138,16 @@ Use these checkers to improve accessibility:
 
 ## Tips: text content
 
-!!! Tip
-
-    In the Ultra text editor, we recommend using the default font, text size and colour settings.
-
 <div markdown class="flexcols">
 <div markdown class="col_3">
-Use these tips to make your text-based content easier to navigate for assistive technology users, vision-impaired users and dyslexic and neurodiverse users:
+Make your text-based content easier to navigate and read for assistive technology users, vision-impaired users and dyslexic and neurodiverse users:
 
-- Structure text and documents with Heading Styles.
-- Use left-aligned text.
-- Use a legible font and text size.
-- Make sure there is sufficient colour contrast between text and the background.
-- Consider bulleted lists to break up long chunks of text.
-- Use tables only to present data; don't use them for layout.
+- Structure text with **heading styles**. Always start with the *Title* header and use heading levels in order.
+- Use **left-aligned text**. This makes it much easier for screen magnifier users to locate text, and is easier to read for many users.
+- Use a **legible font and text size** (we recommend using default settings).
+- Consider use of **colour**: see the [Tips: colour section](#tips-colour) for details. 
+- Consider **bulleted lists** to break up long chunks of text.
+- Use tables only to present data; **don't use tables for layout**.
 </div>
 <figure markdown="span">
 ![Heading styles: Title, Heading, sub heading, paragraph](images/documents-block-content-text-styles.png)
@@ -151,6 +160,8 @@ For more detail, see the [**Block: Content (text editor)** section](../ultra/doc
 ## Tips: images and figures
 
 Some general considerations for images are covered in the Digital Accessibility Team's [guide for graphic adjustments for vision-impaired students](https://docs.google.com/document/d/1_ANA76QioWT2x8k4gf27We5Ceo_T9choYLbwqkOa64Q/edit?usp=sharing). These tips are helpful for all users.
+
+Also consider use of **colour** in your images and figures, especially for assessment materials. See the [Tips: colour section](#tips-colour) for details. 
 
 ### ALT text and image descriptions
 
@@ -185,7 +196,14 @@ For more guidance on image descriptions:
 - [NWEA Image description guidance for assessments (PDF)](https://www.nwea.org/uploads/2022/11/Image-Description-Guidelines-for-Assessments_NWEA_2021.pdf)
 - [Higher Education advice on describing complex images](https://www.learningapps.co.uk/moodle/xertetoolkits/play.php?template_id=3023#page1)
 
-### Colour
+### Resolution
+
+Also ensure that images and figures are **high resolution**. This prevents pixelation or blurriness when zooming in or using a screen magnifier, and improves usage for everyone.
+
+- [Veronica with Four Eyes](https://veroniiiica.com/how-to-create-high-resolution-images-for-low-vision/) describes their experiences using images as a student with low vision, and offers tips on creating high resolution images.
+- See our [Practical Guide to media editing](https://subjectguides.york.ac.uk/media/images) for more technical guidance on image resolution.
+
+## Tips: colour
 
 !!! Tip
 
@@ -193,9 +211,9 @@ For more guidance on image descriptions:
 
 <div markdown class="flexcols">
 <div markdown class="col_2">
-Consider use of **colour** in your images and figures:
+Consider use of **colour** in your text, images and figures:
 
-- Don't convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure.
+- Don't convey meaning via colour alone. For example, use different point shapes and colours for multiple factors in a figure. Refer to the text label, not just the "red button".
 - Avoid using red and green together; this is the most problematic colour combination.
 - Ensure there is sufficient contrast between foreground and background colours (at least 4.5:1).
 - [WhoCanUse](https://www.whocanuse.com/) is our recommended tool to check contrast and explore how colour choices can affect people with different visual impairments.
@@ -205,13 +223,6 @@ Consider use of **colour** in your images and figures:
 <figcaption>Using colour and shape to differentiate factors</figcaption>
 </figure>
 </div>
-
-### Resolution
-
-Also ensure that images and figures are **high resolution**. This prevents pixelation or blurriness when zooming in or using a screen magnifier, and improves usage for everyone.
-
-- [Veronica with Four Eyes](https://veroniiiica.com/how-to-create-high-resolution-images-for-low-vision/) describes their experiences using images as a student with low vision, and offers tips on creating high resolution images.
-- See our [Practical Guide to media editing](https://subjectguides.york.ac.uk/media/images) for more technical guidance on image resolution.
 
 ## Tips: links
 
@@ -227,12 +238,13 @@ For more guidance on writing effective link text:
 - [Scope guide: How to write better link text](https://business.scope.org.uk/article/how-to-write-better-link-text-for-accessibility): lots of simple, practical tips
 - [WebAIM guide: hyperlinks](https://webaim.org/techniques/hypertext/): background on how screen readers use links
 
-## Tips: uploaded files
+## Tips: uploaded files and additional content
 
-- Use file names that describe the file content without having to open it (eg. Week05_Slides_NavigationTechniques)
-- Make sure any PDF materials are good quality, tagged and have searchable/highlightable text (OCR). If scans of handwritten notes are uploaded, an alternative digital text-based version must also be provided.
-- Do not scan and upload published materials. This is not accessible to screenreader or text-to-speech users, and also likely violates copyright. 
-- Provide the native file format, for example, lecture slides as a PPT file. Students can use the Ally file converter tool to download the file in a different format if they wish.
-- Avoid presenting materials stored in Google Drive; this prevents the use of the Ally file converter tool and requires students to leave the site. Upload flies (appropriately!) instead.
+- **File names**: use a consistent file naming format and describe file content without having to open it (eg. Week05_Slides_NavigationTechniques)
+- Make sure any **PDF materials** are good quality, tagged and have searchable/highlightable text (OCR).
+- If **handwritten notes** are uploaded, an alternative digital text-based version must also be provided.
+- **Do not scan and upload published materials**. This is not accessible to screenreader or text-to-speech users, and also likely violates copyright. Add reading items to the [Reading List](#tool-reading-list) instead.
+- Provide the **native file format**, for example, lecture slides as a PPT file. These are generally more flexible for users' needs, and they can use the [Ally file converter tool](../ultra/ally-tool.md#ally-accessibility-tool) to download files in different formats if they wish. You can provide PDF versions additionally, but this is not necessary. 
+- **Avoid materials stored in Google Drive** (Slides, Docs etc.). The Ally file converter tool can't be used with these files, and it may require students to leave the VLE site. Upload files instead.
 
-For more detail, see the [**Block: File upload** section](../ultra/documents.md#block-file-upload) in our Documents guide.
+For information on uploading files, see the [**Block: File upload** section](../ultra/documents.md#block-file-upload) in our Documents guide.
