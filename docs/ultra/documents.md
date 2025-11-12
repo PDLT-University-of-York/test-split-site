@@ -258,6 +258,7 @@ In Document view mode, users can preview the file directly within the site. They
 
     <div markdown class="grid">
     <div markdown>
+    
     1. Select the relevant file from your device.
     2. In the *File Options panel*, enter a  **Display name** (title) that meaningfully describes the contents without having to open the file.
     3. Set *File Options* to **View and download**.
