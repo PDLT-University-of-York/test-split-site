@@ -267,7 +267,7 @@ In Document view mode, users can preview the file directly within the site. They
     ![Edit File Options panel. Display name: IFR_Week5_NavigationTechniques_Slides.pptx, File options: 'View and download'](images/documents-block-file-upload-settings.png)
     </div>
 
-To upload a file as a standalone item in teh Course Content area, see our [guide to Files](../ultra/files.md).
+To upload a file as a standalone item in the Course Content area, see our [guide to Files](../ultra/files.md).
 
 ### Block: Content Collection
 
