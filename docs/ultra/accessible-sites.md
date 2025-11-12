@@ -37,6 +37,8 @@ This guide covers key practices to improve the accessibility of your Ultra sites
 
 </div>
 
+---
+
 ## Tool: Departmental Ultra template
 
 !!! Accessibility "How using the template supports accessibility"
@@ -117,7 +119,7 @@ Using Panopto to improve accessibility:
 - Ensure **pre-recorded videos are [accurately captioned](../panopto/editing-captions.md)**. It is not required to correct automatic captions for the current year's lecture captures, but students can request this.
 - If you need to use recordings for multiple cohorts, [contact us](mailto:vle-support@york.ac.uk) to set up an Ongoing Panopto folder for your module.
 
-## Tool: Accessibility checkers
+## Tool: accessibility checkers
 
 !!! ai "Using automated tools effectively"
 
@@ -135,6 +137,8 @@ Use these checkers to improve accessibility:
 - Ultra: [Ally accessibility report](../ultra/ally-accessibility-report.md) for content added directly within the site and uploaded materials
 - [Microsoft Accessibility checker](https://support.microsoft.com/en-gb/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) for Word, PowerPoint etc.
 - Grackle for Google Docs: launch from the Extensions menu
+
+---
 
 ## Tips: text content
 
