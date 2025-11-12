@@ -12,8 +12,10 @@
     --md-admonition-principle--light: #E31A821a;
     --md-admonition-casestudy: #FD5000;
     --md-admonition-casestudy--light: #FD50001a;
-    --md-admonition-ai: #7e56c2;
-    --md-admonition-ai--light: #7e56c21a;
+    --md-admonition-ai: #9e9e9e;
+    --md-admonition-ai--light: #9e9e9e1a;
+    --md-admonition-ally: #7e56c2;
+    --md-admonition-ally--light: #7e56c21a;
 }
 
 .md-nav__item .md-nav__link--active {
@@ -317,4 +319,24 @@ background-color: var(--md-admonition-ai--light);
 background-color:var(--md-admonition-ai);
 -webkit-mask-image: var(--md-admonition-icon--ai);
         mask-image: var(--md-admonition-icon--ai);
+}
+
+/* Accessibility: box for content pages */
+
+:root {
+    --md-admonition-icon--ally: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0M3.75 6a.75.75 0 0 0 0 1.5h2.409a2 2 0 0 0-.025.151l-.307 2.508-.323 3.011a.75.75 0 0 0 1.492.16l.25-2.33h1.509l.25 2.33a.748.748 0 0 0 1.199.552.75.75 0 0 0 .291-.712l-.32-3-.309-2.519a2 2 0 0 0-.025-.151h2.409a.75.75 0 0 0 0-1.5zM8 6a2 2 0 1 0 .001-3.999A2 2 0 0 0 8 6"/></svg>')
+}
+.md-typeset .admonition.accessibility,
+.md-typeset details.accessibility {
+border-color: var(--md-admonition-ally);
+}
+.md-typeset .accessibility > .admonition-title,
+.md-typeset .accessibility > summary {
+background-color: var(--md-admonition-ally--light);
+}
+.md-typeset .accessibility > .admonition-title::before,
+.md-typeset .accessibility > summary::before {
+background-color:var(--md-admonition-ally);
+-webkit-mask-image: var(--md-admonition-icon--ally);
+        mask-image: var(--md-admonition-icon--ally);
 }
