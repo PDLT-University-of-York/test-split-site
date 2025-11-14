@@ -3,7 +3,7 @@ tags:
     - Case study
 ---
 
-# Case study: Applying emerging Virtual Reality technologies to the study of spatial audio
+# Case study: Virtual Reality welding training
 
 School of Physics, Engineering & Technology (PET)<br />Mark Hough, Engineering Manufacturing Facilities Manager
 
