@@ -32,6 +32,10 @@ Discussions can be used in many ways, such as:
 
 ## Create a discussion
 
+!!! Tip
+
+    The right hand settings summary panel is not visible if the Discussion is within a Learning Module. In this case, use the **cog icon** to access all settings.
+
 1. In the Course Content area, hover where the discussion should appear. Click the **plus icon** then **Create**.
 2. Under **Participation and Engagement**, select **Discussion**
 </br>![Decorative](images/discussion-create.png)
@@ -127,11 +131,16 @@ DET staff have the ability to reveal a post's author, for example to investigate
 
 ### Assign to groups
 
-You can split a discussion for different groups of students. For example, to:
+!!! Tip
 
-- make a discussion easier to manage for large student cohorts.
-- provide a discussion space for each seminar group.
-- support project or collaborative work.
+    Use this quick and easy setting to avoid creating multiple Discussions for each group with release Conditions to manage access.
+
+By assigning a Discussion to groups, a separate Discussion space is created for each group. Students can only access their own Discussion, but staff can access all of them.
+
+This can be useful to:
+
+- provide private discussion spaces for seminar groups or to support groupwork.
+- manage discussions for large student cohorts.
 
 Set up:
 
@@ -147,8 +156,6 @@ To view each group's discussion:
 1. Open the discussion.
 2. Select the relevant group name from the drop-down menu below the instructions.
 ![Decorative](images/discussion-groups-view.png)
-
-You can also limit discussion visibility using **Release Conditions**. However, this method requires a separate discussion for each group, so it needs more care to set up and manage. See our [Release conditions guide](../ultra/content-visibility.md#release-conditions) for details.
 
 ### Post first
 
@@ -183,11 +190,25 @@ You can also grade discussions. This could be useful to:
 
     You cannot mark discussions that allow anonymous posting.
 
-To mark a discussion:
+#### Set up a marked discussion
 
-1. Open the discussion and click the **Discussion Settings** cog icon.
+1. Open the Discussion and click the **Discussion Settings** cog icon.
 2. Select **Mark discussion**.</br>
-3. In the **Marking and Participation** section, set the due date and how the discussion is marked.</br>
+3. In the **Marking and Participation** section that appears, set:
+    - the due date (during working hours)
+    - any participation requirements (numbers of posts and/or replies to make) 
+    - if the discussion activity (ie. students cannot reply or edit posts) should stop after the due date.
+    - how the discussion is marked.</br>
 ![Decorative](images/discussion-marking.png)
-4. If desired, **Add marking rubric**. You can create a rubric here or reuse a rubric already in your site.</br>
+4. In Additional Tools, there is also the option to [add a marking rubric](../ultra/rubric.md).</br>
 5. Click **Save**.
+
+#### Mark discussion participation
+
+1. Open the Discussion and select the **Marks & Participation** tab.
+</br>![Decorative](images/discussion-marks-participation-tab.png)
+2. Click a student's name to open their participation.
+3. There are various [Discussion metrics available](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Discussions/View_Discussion_Performance) which you may use to inform your marking.
+4. Enter a mark in the mark pill in the top right.
+5. Use the arrows to move between students.
+6. When all participation has been marked, click **Post all marks**.
