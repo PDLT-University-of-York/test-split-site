@@ -11,7 +11,7 @@ tags:
 
 Staff in a range of different departments are using Mentimeter in a variety of ways to support active and inclusive learning.  If you would like to explore some examples, please see the following resource.  You can browse through video vignettes with staff talking about their practices, and you can also filter the examples by purpose / context, by question type, or by department.
 
-[![decorative](images/case-studies-video-vignettes.jpg)](https://bit.ly/yorkmentivideos)[UoY staff video vignettes: Using Mentimeter to support active and inclusive learning and teaching](https://bit.ly/yorkmentivideos)
+[![decorative](images/case-studies-video-vignettes.jpg)](https://script.google.com/a/macros/york.ac.uk/s/AKfycbxs1uNLVd9fi0MjeMMIvhMW2V8HKDu-UVTYyMfxm5MMfBXSjyojZjvL7J7ysOoseFl-/exec)[UoY staff video vignettes: Using Mentimeter to support active and inclusive learning and teaching](https://script.google.com/a/macros/york.ac.uk/s/AKfycbxs1uNLVd9fi0MjeMMIvhMW2V8HKDu-UVTYyMfxm5MMfBXSjyojZjvL7J7ysOoseFl-/exec)
 
 Purposes for use include:
 
