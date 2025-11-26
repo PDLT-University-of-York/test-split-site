@@ -4,7 +4,7 @@ tags:
     - Ultra
 ---
 
-# Learning Modules & Folders 
+# Learning Modules & Folders: content containers 
 
 !!! Summary
 
@@ -16,99 +16,64 @@ tags:
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
 
-## Overview: content container types
+## Overview
 
-Learning Modules and Folders are containers to organise site content. Throughout this guide, where the same applies for both Learning Modules and Folders, we use *container* for simplicity.
-
-They function largely the same for staff, but students navigate the content items within the two container types differently. This means that there are some situations where either a Learning Module or a Folder may be more suitable.
-
-=== "Learning Module"
-
-    **Learning Modules** make it easy for students to move between items, so are most appropriate for providing module materials.
+!!! Tip
     
-    ![Decorative](images/folder-learning-module-example-lm.png)
+    Learning Modules and Folders are very similar; where the same guidance applies to both, *container* is used here for simplicity.
 
-    - Used throughout the Ultra template structure
-    - Can contain sub-folders (nested folders function like Learning Modules)
-    - Default Learning Module icon, can [change to a personalised image](#learning-module-images)
-    - Students can access items in any order, or you can use **Forced sequence** to make them work through items in order
-    - Students can navigate between items without closing them (but staff can’t)
-    
-    ![Use previous/next options to navigate between items in a Learning Module](images/folder-learning-module-navigate.png)
+Learning Modules and Folders are containers for other site content, helping to organise your site and make it easier for users to find what they need. Module site templates contain pre-built Learning Modules for key site content.
 
-=== "Folder"
+In the Course Content area, click the container to show its content items then click a specific item to open it.
 
-    **Folders** are best used for reference items where students are likely to need only a specific item.
-    
-    ![Decorative](images/folder-learning-module-example-f.png)
-    
-    - Generally not included in the Ultra template structure, but you can add Folders to your site if needed
-    - Can contain sub-folders (nested folders function like Folders)
-    - Default Folder icon, can't be personalised
-    - Students can always access items in any order
-    - Students must close an item before selecting another
+To add content to a container, drag in an existing item or hover where you want to add it, click the plus icon then select the relevant item type.
 
-## Create a container
+<div markdown class="grid">
+<figure markdown>
+![Course content area showing Reading List and two weekly Learning Modules, each with title, short description and a relevant image](images/folder-learning-module-content-area.png)
+<figcaption>Learning Modules in Course Content area</figcaption>
+</figure>
+<figure markdown>
+![Course content area showing Reading List and two weekly Learning Modules, each with title, short description and a relevant image](images/folder-learning-module-content.png)
+<figcaption>Weekly materials within a Learning Module</figcaption>
+</figure>
+</div>
+
+## Folder features
+
+![Folder: Lab reference documents. Description: data sets, formulae sheets, safety forms etc.](images/folder-learning-module-example-f.png)
+
+**Folders** are best used for reference and standalone items. 
+
+- *Template*: generally not included in Ultra templates, but you can add Folders to your site if needed.
+- *Nesting*: can contain sub-folders, but avoid unnecessary nesting. Nested folders function like Folders.
+- *Icon*: not personalisable; always has the default Folder icon.
+- *Navigation*: click an item within the Folder to open it. To move between items, close the current item, go back to the folder and select the next item.
+
+## Learning Module features
+
+**Learning Modules** allow easy navigation between items, so should be used in most instances.
+
+![Learning Module: Week 3 - Finding Economic Data. Description: summary of weekly topic. Custom image relevant to topic.](images/folder-learning-module-example-lm.png)
+
+- *Template*: used throughout Ultra templates, and you can add more to your site if needed.
+- *Nesting*: can contain sub-folders, but avoid unnecessary nesting. There is no option to add sub-learning modules, but nested folders function like Learning Modules.
+- *Icon*: personalisable; use the default Learning Module icon or [add a custom image](#learning-module-images)
+- *Navigation*: click an item within the Learning Module to open it. To move between items, use the table of contents or the previous/next buttons. Can apply **Forced sequence** to make students access items in order. See below for more details of [Learning Module navigation](#navigation--table-of-contents).
+
+### Navigation & Table of Contents
+
+inc. forced sequence
+
+### Learning Module images
 
 !!! Tip
 
-    Module site templates have pre-built containers for your site materials, so you're unlikely to need to create containers yourself. 
-
-Containers can be created within the Course Content area. 
-
-- Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder.
-- Learning Modules cannot be directly created inside another container, but a Folder within a Learning Module navigates like a Learning Module. 
-
-To create a Folder or Learning Module:
-
-1. Hover where the container should appear. Click the **plus icon** then **Create**.
-</br> ![Decorative](images/folder-learning-module-plus-create.png)
-2. Under **Course Content Items**, select **Learning Module** or **Folder**.
-</br> ![Decorative](images/folder-learning-module-create.png)
-3. On the container *Settings panel*:
-    - Enter a descriptive title for the container (eg. *Week 3: equipment & safety*).
-    - Set the [item visibility](../ultra/content-visibility.md) (you an also set this later).
-    - Add a brief **description** to display under the container title in the Course Content area.
-</br> ![Decorative](images/folder-learning-module-settings.png)
-4. For Learning Modules only:
-    - If you want students to access content items in order, click **Forced Sequence**.
-    - Add a [Learning Module image](#learning-module-images) if desired.
-5. Click **Save**.
-
-## Edit an existing container
-
-1. Click the **three dots icon** then **Edit** for an existing Learning Module.
-</br>![decorative](images/folder-learning-module-3dots-edit.png)
-2. Update the Title, Description (information that shows on the Course Content page) and other settings as needed.
-3. Click **Save**.
-
-## Convert container type
-
-!!! Note
-
-    This feature is available from early February 2025.
-
-Folders and Learning Modules can be converted to the other container type after creation. This does not affect the content inside the container.
-
-If a Learning Module is converted to a Folder, it will lose any image associated with it. This is not retained if it's later converted back to a Learning Module.
-
-![Example Learning Module with image, converted to Folder without image then back to a Learning Module but with no image](images/folder-learning-module-convert-lose-image.png)
-
-To convert container type:
-
-1. On the relevant container, click the **three dots icon** then **Change to folder** or **Create learning module**, depending on the container type.
-</br>![decorative](images/folder-learning-module-convert.png)
-2. Read the warning and click **Continue** if you are happy to proceed.
-
-## Learning Module images
+    Some departmental templates include pre-populated Learning Module images and icons. Refer to your departmental guidance on whether these should be changed.
 
 Learning Modules can display a small image on the Course Content page to make the site more visually appealing and aid navigation. You can't manually change the size or shape of the image shown, but they resize based on the display size..
 
 ![Square image to left of learning module title. Larger displays have a large image, on smaller displays it reduces to the same height as the title](images/folder-learning-module-image-example.png)
-
-!!! Note
-
-    Some departmental templates include pre-populated Learning Module images and icons. Refer to your departmental guidance on whether these should be changed.
 
 To add or change an image:
 
@@ -127,9 +92,7 @@ You can also create icons to upload:
 - [Guides on image manipulation to create an icon](https://subjectguides.york.ac.uk/media/images)
 - [Create icons: template for number or letter icons](https://docs.google.com/presentation/d/19ey3zq2l-GP7PAQocRhXfbK1Ua3Fy8mV/edit?usp=sharing&ouid=101199476229048788013&rtpof=true&sd=true)
 
-## Generate Learning Modules & images with AI
-
-You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate Learning Modules with descriptions and images based on your site content.
+### Generate Learning Modules & images with AI
 
 !!! ai "Using AI tools effectively"
 
@@ -137,7 +100,8 @@ You can use the [AI Design Assistant Tool](../ultra/ai-da.md) to auto-generate L
 
     See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
-Steps to generate Learning Modules:
+    
+The [AI Design Assistant Tool](../ultra/ai-da.md) can auto-generate Learning Modules with descriptions and images based on your site content.
 
 1. In a relevant location in the Course Content Area, click the **plus icon**, then **Auto-Generate Modules**. In an empty site, just click Auto-Generate Modules.
 2. Define the Learning Modules:
@@ -172,3 +136,53 @@ Steps to generate Learning Modules:
     - *Week 4: Navigating in Fell Running*. Develop crucial navigation skills for fell running adventures. Learn to read maps, use compasses, and navigate challenging terrains with confidence. Enhance your ability to stay on course in any fell running event.
 
     Each Learning Module also has a generated decorative image relevant to the content.
+
+## Manage containers
+
+### Edit existing containers
+
+1. Click the **three dots icon** then **Edit** for an existing Learning Module.
+</br>![decorative](images/folder-learning-module-3dots-edit.png)
+2. Update the Title, Description (information that shows on the Course Content page) and other settings as needed.
+3. Click **Save**.
+
+### Convert container type
+
+Folders and Learning Modules can be converted to the other container type after creation. This does not affect the content inside the container.
+
+If a Learning Module is converted to a Folder, it will lose any image associated with it. This is not retained if it's later converted back to a Learning Module.
+
+![Example Learning Module with image, converted to Folder without image then back to a Learning Module but with no image](images/folder-learning-module-convert-lose-image.png)
+
+To convert container type:
+
+1. On the relevant container, click the **three dots icon** then **Change to folder** or **Create learning module**, depending on the container type.
+</br>![decorative](images/folder-learning-module-convert.png)
+2. Read the warning and click **Continue** if you are happy to proceed.
+
+### Create containers
+
+!!! Tip
+
+    Module site templates have pre-built containers for your site materials, so you're unlikely to need to create containers yourself. 
+
+Containers can be created within the Course Content area. 
+
+- Folders can also be created inside another container for supporting multi-level structures. A Folder within a Folder navigates like a Folder.
+- Learning Modules cannot be directly created inside another container, but a Folder within a Learning Module navigates like a Learning Module. 
+
+To create a Folder or Learning Module:
+
+1. Hover where the container should appear. Click the **plus icon** then **Create**.
+</br> ![Decorative](images/folder-learning-module-plus-create.png)
+2. Under **Course Content Items**, select **Learning Module** or **Folder**.
+</br> ![Decorative](images/folder-learning-module-create.png)
+3. On the container *Settings panel*:
+    - Enter a descriptive title for the container (eg. *Week 3: equipment & safety*).
+    - Set the [item visibility](../ultra/content-visibility.md) (you an also set this later).
+    - Add a brief **description** to display under the container title in the Course Content area.
+</br> ![Decorative](images/folder-learning-module-settings.png)
+4. For Learning Modules only:
+    - If you want students to access content items in order, click **Forced Sequence**.
+    - Add a [Learning Module image](#learning-module-images) if desired.
+5. Click **Save**.
