@@ -91,7 +91,8 @@ This is useful if students should be able to see the item in the site content, b
 
 ### Multiple rules
 
-Multiple rules can be added to the same item to set different release conditions for different students. For example, use two rules to give one group early access to an item before releasing it to all students:
+Multiple rules can be added to the same item to set different release conditions for different students. For example, use two rules to give one group early access to an item before releasing it to all students
+:
 
 - *Rule 1*: release to the early access group on date 1
 - *Rule 2*: release to all users on date 2
