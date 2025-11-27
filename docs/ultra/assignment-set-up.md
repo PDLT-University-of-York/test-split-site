@@ -38,11 +38,36 @@ The Assignment tool does technically allow anonymous submissions, however **we d
 
 For text-based anonymous summative assignments, see our [TurnItIn Feedback Studio set up guide](../assessment/tfs/set-up.md).
 
-## Set up submission points
+## Generate Assignment prompts & rubrics with AI
 
-- All formal formative and summative assessment information and submission points **must be located in the Assessment section**. A [Course Link](../ultra/links.md#course-link) can be used to also present the item in a weekly section if desired.
-- Give **clear instructions** on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section. Include technical requirements as needed, eg. file type, number of files to submit, page orientation etc.
-- **Marking criteria or grading policies** for the assignment must be available or linked within the Assessment section.
+!!! ai "Using AI tools effectively"
+
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
+
+    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
+
+The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/rubric.md#generate-using-ai) as a starting point of your own rubric development.
+
+## Create an Assignment
+
+!!! Tip
+
+    All formal formative and summative assessment information and submission points **must be located in the Assessment section**. 
+
+To create an assignment:
+
+1. In the **Assessment section**, hover where the Assignment should appear. Click the **purple plus icon**, then **Create** and select **Assignment**.
+2. Enter a descriptive title at the top left. 
+3. Add clear **Instructions** for the assessment.
+</br>Note: the Assignment must be visible for students to view instructions entered here. If required before that, add instructions as a separate item and clearly direct students to it in the Assignment.
+4. Click the **cog icon** to open Settings: set a Due Date within working hours and adjust other settings (see suggested settings below). Click **Save** when finished.
+5. Once confident that the Assignment is ready, set it as **Visible to students** or specify **Release conditions**(see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
+
+![Decorative](images/assignment-create.png)
+
+You may like to set up and preview the Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md) to copy it into your module site. 
+
+## Settings
 
 ### Deadline and late submission considerations
 
@@ -59,20 +84,9 @@ There are two settings relating to late submission. **Do not tick these settings
 - *Prohibit late submissions*: automatically submits any in-progress work at the deadline (ie. files that have been uploaded as drafts but not submitted) and prevents new submissions.
 - *Prohibit new attempts after due date*: prevents beginning a new submission after the deadline. Automatically applied if *Prohibit late submissions* is ticked.
 
-### Individual assessment
-
 !!! Tip
 
-    To avoid students seeing the Assignment before it is ready, you may like to set up and preview an Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md) to copy it into your module site. 
-
-To set up an individual Assignment: 
-
-1. In the **Assessment section**, hover where you want to add the Assignment and click the **purple plus icon**.
-2. Select **Assignment**.
-3. Add a **descriptive title**, set [appropriate **visibility**](../ultra/content-visibility.md) and add **instructions** as text or a file.
-4. Click the **cog icon** to set a Due Date within working hours and adjust other settings (see suggested settings below).
-5. Click **Save** when finished.
-6. Preview the Assignment and then copy to your module site.
+    You may like to set up and preview an Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md) to copy it into your module site. 
 
 ![Decorative](images/assignment-set-up.png)
 
@@ -139,17 +153,7 @@ Appropriate settings will depend on your particular assessment, but here are our
 
 For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
-## Generate Assignment prompts & rubrics with AI
-
-The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/rubric.md#generate-using-ai) as a starting point of your own rubric development.
-
-!!! ai "Using AI tools effectively"
-
-    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
-
-    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
-
-### Group assessment
+## Group assessment
 
 Group assessment is best managed using Ultra Assignment. Note that *TurnItIn does not support group assessment*.
 
