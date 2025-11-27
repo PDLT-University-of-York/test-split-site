@@ -528,6 +528,17 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     </div>
     </div>
 
+### Bulk edit question points
+
+1. Click the **three dots icon** in the *Test Content* header, then select **Bulk edit points**.
+</br>![decorative](images/test-bulk-edit-points-open.png)
+2. Use the options to questions:
+    - tick **Select all**
+    - tick **specific questions**
+    - **filter** by selected question types
+3. In the **Points** box, enter the new points value, then click **Update**
+</br>![decorative](images/test-bulk-edit-points-select-set.png)
+
 ### Download question paper
 
 You can print or download your Test as a PDF, along with an automatically-generated answer key. This could be useful for archiving and sharing with external examiners, reviewers etc.
@@ -538,12 +549,10 @@ You can print or download your Test as a PDF, along with an automatically-genera
 
 To print or save a Test:
 
-1. Open the **Content and Settings** tab in the relevant Test. 
-2. Click **Print** above the Test content.
-3. Click **Print** in the pop up box.
-4. The answer key (shown first) and test are generated and shown in print preview. Save as PDF or send to the printer.
-
-![decorative](images/test-print.png)
+1. Click the **three dots icon** in the *Test Content* header, then select **Print**.
+</br>![decorative](images/test-print.png)
+2. Click **Print** in the pop up box.
+3. The answer key (shown first) and test are generated and shown in print preview. Save as PDF or send to the printer.
 
 ---
 
@@ -552,10 +561,13 @@ To print or save a Test:
 !!! Warning
 
     Very specific settings are required for **formal exams** using Test. You **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up these up correctly. The advice here should not be considered sufficient guidance for this use case.
+  
+Click the **cog icon** to open full Test settings. This is found:
 
-Open the full assessment settings by clicking the **cog icon** at the top of the **Assessment settings** panel next to test content. This panel also includes key quick-access settings.
+- in the heading banner in most cases if the Test is within a Learning Module.
+- at the top of the summary **Assessment settings** panel next to test content on a larger screen or if the Test is outside a Learning Module.
 
-![Test content page with Assessment Settings panel on right side. Quick access settings: due date, mark category, marking (points and posting), attempts allowed, Originality Report](images/test-settings.png)
+![Test inside LM with cog icon only and Test outside LM with summary Assessment Settings panel on right side,showing due date, mark category, marking (points and posting).](images/test-settings.png)
 
 ### Details & Information (Due date)
 
