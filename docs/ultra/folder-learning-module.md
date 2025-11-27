@@ -16,6 +16,11 @@ tags:
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
 
+<figure markdown>
+![Learning Module container in Course Content area, and opened to show content items](images/folder-learning-module-overview.png)
+<figcaption>Learning Module container for organising content items</figcaption>
+</figure>
+
 ## Overview
 
 !!! Tip
@@ -63,7 +68,15 @@ To add content to a container, drag in an existing item or hover where you want 
 
 ### Navigation & Table of Contents
 
-inc. forced sequence
+!!! Tip
+
+    The Table of Contents and navigation within Learning Modules is available from 5th December.
+
+Navigate between items within a Learning Module using the **table of contents panel** or the **next / previous item buttons** above the item content.
+
+For Ultra Assignments, Test, Discussions and some other items, the **settings** summary panel may not appear inside Learning Modules on smaller screens, such as laptops. Instead, click the *cog ion* in the header to access the full settings. 
+
+![Decorative](images/folder-learning-module-toc-detail.png)
 
 ### Learning Module images
 
@@ -100,7 +113,6 @@ You can also create icons to upload:
 
     See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
-    
 The [AI Design Assistant Tool](../ultra/ai-da.md) can auto-generate Learning Modules with descriptions and images based on your site content.
 
 1. In a relevant location in the Course Content Area, click the **plus icon**, then **Auto-Generate Modules**. In an empty site, just click Auto-Generate Modules.
