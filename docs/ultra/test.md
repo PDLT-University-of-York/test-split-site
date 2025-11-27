@@ -20,7 +20,7 @@ tags:
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
 
 <figure markdown>
-![Example Test showing multiple choice question, quick access settings and tab to access student submissions](images/test-example.png)
+![Example Test within a Learning Module showing a matching question, cog to access settings and tab to access student submissions](images/test-example.png)
 <figcaption>Test: staff view of interface</figcaption>
 </figure>
 
@@ -367,7 +367,7 @@ To create a Test:
 2. Enter a descriptive **name** at the top left. 
 3. Click the plus icon to add **questions** (see Test questions section below).
 4. Set a **Due date** within work hours and adjust other settings as needed (see Test settings section below).
-5. Once confident that the Test is ready, set it as **Visible to students** or specify  **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
+5. Once confident that the Test is ready, set it as **Visible to students** or specify **Release conditions**(see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
 
 ![decorative](images/test-create.png)
 
