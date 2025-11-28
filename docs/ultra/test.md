@@ -646,7 +646,7 @@ Unless otherwise stated, these settings **can** be updated after students have s
 <div markdown class="grid">
 <div markdown>
 - *Mark Category*: may change the icon shown on the item, but doesn't have any real impact.
-- *Attempts allowed*: how many test submissions can be made. For practice quizzes and summative coursework, set to *Unlimited*.
+- *Attempts allowed*: how many test submissions can be made. For practice quizzes and summative coursework, set to *Unlimited*. Can't be reduced after students start their submissions.
 - *Attempts to mark*: which test submission to mark. In most cases leave as *Last attempt*.
 - *Mark using*: leave as the default *Points*, change to *Percentage* or use a [mark schema](../ultra/mark-schema.md) to convert marks to qualitative categories.
 - *Maximum points*: automatically calculated from individual question scores, cannot be edited.

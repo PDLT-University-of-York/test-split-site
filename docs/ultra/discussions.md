@@ -32,29 +32,21 @@ Discussions can be used in many ways, such as:
 
 ## Create a discussion
 
-!!! Tip
-
-    The right hand settings summary panel is not visible if the Discussion is within a Learning Module. In this case, use the **cog icon** to access all settings.
-
 1. In the Course Content area, hover where the discussion should appear. Click the **plus icon** then **Create**.
 2. Under **Participation and Engagement**, select **Discussion**
-</br>![Decorative](images/discussion-create.png)
-3. Enter a descriptive **discussion title** at the top. 
-4. Enter instructions or an initial post in the text editor box and click **Save**, or click **Auto-generate discussion** to [use AI to generate a discussion prompt](#generate-discussion-prompts-with-ai). Text entered here is also shown as the item description on the course content page.
-</br>![Example initial post: What are the most important factors to consider when organising a fell race? Include at least two factors and respond to at least two of your peers.](images/discussion-initial-post.png)
+3. Enter a descriptive **discussion title** at the top
+4. Enter instructions or an initial post in the text editor box and click **Save**. Text entered here is also shown as the item description on the course content page.
+</br>![Decorative](images/discussion-set-up-1.png)
 5. To [follow/subscribe to the discussion](#follow-a-discussion), click the **Follow** bell icon next to the discussion topic.
-6. Click the **cog icon** to open Settings, including:
-    - student posting & editing settings (including [allow anonymous posts](#anonymous-posting))
-    - [assign the discussion to groups](#assign-to-groups)
-    - [mark the discussion](#mark-discussion)
-7. Set the discussion as **Visible to students** or specify **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
-</br>![Decorative](images/discussion-set-up.png)
+6. If required, click the **cog icon** to open settings, or the **people** icon to open the participant list with engagement details.
+7. When ready, set the discussion as **Visible to students** or specify **Release conditions** (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
+</br>![Decorative](images/discussion-set-up-2.png)
 
-Watch a demonstration of creating a Discussion:
+<!-- Watch a demonstration of creating a Discussion:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q404ODzUS5w" title="Setting up discussions in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Setting up discussions in Ultra [YouTube]](https://youtu.be/Q404ODzUS5w)
+[Setting up discussions in Ultra [YouTube]](https://youtu.be/Q404ODzUS5w) -->
 
-### Generate Discussion prompts with AI
+## Generate Discussion prompts with AI
 
 !!! ai "Using AI tools effectively"
 
@@ -63,6 +55,8 @@ Watch a demonstration of creating a Discussion:
     See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
 The [AI Design Assistant Tool](../ultra/ai-da.md) can auto-generate Discussion prompts based on your site content. This may be most useful for exploring ideas for project work and assessments, as tasks suggested are often quite complex.
+
+![Stars/AI icon in header bar](images/discussion-ai.png)
 
 ## Access a discussion
 
@@ -103,7 +97,14 @@ Notifications contain the site and discussion name, but not the post itself, so 
 </figure>
 </div>
 
-## Discussion options
+## Discussion settings
+
+Click the **cog icon** to open full Discussion settings. This is found:
+
+- in the heading banner in most cases if the Discussion is within a Learning Module.
+- at the top of the summary **Discussion settings** panel next to discussion content on a larger screen or if the Discussion is outside a Learning Module.
+
+![Discussion inside LM with cog icon only and Discussion outside LM with summary Discussion Settings panel on right side, showing marking details.](images/discussion-settings.png)
 
 Discussions can be set up in various ways to support different teaching and learning activities.
 
