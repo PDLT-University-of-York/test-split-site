@@ -124,8 +124,7 @@ img {
 
 /*** ----- grid styling */
 /* remove top margin for first child in the div */
-.grid>div>ul:first-child,
-.grid>div>p:first-child {
+.grid>div>*:first-child {
     margin-top: 0;
 }
 

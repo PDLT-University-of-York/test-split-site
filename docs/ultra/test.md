@@ -20,7 +20,7 @@ tags:
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
 
 <figure markdown>
-![Example Test showing multiple choice question, quick access settings and tab to access student submissions](images/test-example.png)
+![Example Test within a Learning Module showing a matching question, cog to access settings and tab to access student submissions](images/test-example.png)
 <figcaption>Test: staff view of interface</figcaption>
 </figure>
 
@@ -367,7 +367,7 @@ To create a Test:
 2. Enter a descriptive **name** at the top left. 
 3. Click the plus icon to add **questions** (see Test questions section below).
 4. Set a **Due date** within work hours and adjust other settings as needed (see Test settings section below).
-5. Once confident that the Test is ready, set it as **Visible to students** or specify  **Release conditions** in the top right (see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
+5. Once confident that the Test is ready, set it as **Visible to students** or specify **Release conditions**(see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
 
 ![decorative](images/test-create.png)
 
@@ -528,6 +528,17 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     </div>
     </div>
 
+### Bulk edit question points
+
+1. Click the **three dots icon** in the *Test Content* header, then select **Bulk edit points**.
+</br>![decorative](images/test-bulk-edit-points-open.png)
+2. Use the options to questions:
+    - tick **Select all**
+    - tick **specific questions**
+    - **filter** by selected question types
+3. In the **Points** box, enter the new points value, then click **Update**
+</br>![decorative](images/test-bulk-edit-points-select-set.png)
+
 ### Download question paper
 
 You can print or download your Test as a PDF, along with an automatically-generated answer key. This could be useful for archiving and sharing with external examiners, reviewers etc.
@@ -538,12 +549,10 @@ You can print or download your Test as a PDF, along with an automatically-genera
 
 To print or save a Test:
 
-1. Open the **Content and Settings** tab in the relevant Test. 
-2. Click **Print** above the Test content.
-3. Click **Print** in the pop up box.
-4. The answer key (shown first) and test are generated and shown in print preview. Save as PDF or send to the printer.
-
-![decorative](images/test-print.png)
+1. Click the **three dots icon** in the *Test Content* header, then select **Print**.
+</br>![decorative](images/test-print.png)
+2. Click **Print** in the pop up box.
+3. The answer key (shown first) and test are generated and shown in print preview. Save as PDF or send to the printer.
 
 ---
 
@@ -552,10 +561,13 @@ To print or save a Test:
 !!! Warning
 
     Very specific settings are required for **formal exams** using Test. You **must** [contact us](mailto:vle-support@york.ac.uk) well in advance to set up these up correctly. The advice here should not be considered sufficient guidance for this use case.
+  
+Click the **cog icon** to open full Test settings. This is found:
 
-Open the full assessment settings by clicking the **cog icon** at the top of the **Assessment settings** panel next to test content. This panel also includes key quick-access settings.
+- in the heading banner in most cases if the Test is within a Learning Module.
+- at the top of the summary **Assessment settings** panel next to test content on a larger screen or if the Test is outside a Learning Module.
 
-![Test content page with Assessment Settings panel on right side. Quick access settings: due date, mark category, marking (points and posting), attempts allowed, Originality Report](images/test-settings.png)
+![Test inside LM with cog icon only and Test outside LM with summary Assessment Settings panel on right side,showing due date, mark category, marking (points and posting).](images/test-settings.png)
 
 ### Details & Information (Due date)
 
@@ -634,7 +646,7 @@ Unless otherwise stated, these settings **can** be updated after students have s
 <div markdown class="grid">
 <div markdown>
 - *Mark Category*: may change the icon shown on the item, but doesn't have any real impact.
-- *Attempts allowed*: how many test submissions can be made. For practice quizzes and summative coursework, set to *Unlimited*.
+- *Attempts allowed*: how many test submissions can be made. For practice quizzes and summative coursework, set to *Unlimited*. Can't be reduced after students start their submissions.
 - *Attempts to mark*: which test submission to mark. In most cases leave as *Last attempt*.
 - *Mark using*: leave as the default *Points*, change to *Percentage* or use a [mark schema](../ultra/mark-schema.md) to convert marks to qualitative categories.
 - *Maximum points*: automatically calculated from individual question scores, cannot be edited.

@@ -19,7 +19,10 @@ tags:
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
     - 4.3 Essential: Provide marking criteria or other grading policies showing how work is marked.
 
-![Example Assignment for a formative essay with task instructions](images/assignment-example.png)
+<figure markdown>
+![Example Assignment within a Learning Module showing text box to add instructions, cog to access settings and tab to access student submissions](images/assignment-example.png)
+<figcaption>Assignment: staff view of interface</figcaption>
+</figure>
 
 ## When to use Assignment
 
@@ -38,86 +41,84 @@ The Assignment tool does technically allow anonymous submissions, however **we d
 
 For text-based anonymous summative assignments, see our [TurnItIn Feedback Studio set up guide](../assessment/tfs/set-up.md).
 
-## Set up submission points
+## Generate Assignment prompts & rubrics with AI
 
-- All formal formative and summative assessment information and submission points **must be located in the Assessment section**. A [Course Link](../ultra/links.md#course-link) can be used to also present the item in a weekly section if desired.
-- Give **clear instructions** on the assessment task and requirements, either within the submission point or in its own item also within the Assessment section. Include technical requirements as needed, eg. file type, number of files to submit, page orientation etc.
-- **Marking criteria or grading policies** for the assignment must be available or linked within the Assessment section.
+!!! ai "Using AI tools effectively"
 
-### Deadline and late submission considerations
+    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
 
-Assessment **deadlines must be set within working hours** so students can access technical support if needed. Ideally, please set the deadline between 10:00 and 16:00, Monday - Friday.
+    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
 
-!!! Warning 
-    
-    University assessment policy requires that students must be permitted to submit work late, so you **must not apply settings preventing late submissions**. 
-    
-    Any late submissions received are clearly flagged in the marking interface so they can be easily identified.
+The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/rubric.md#generate-using-ai) as a starting point of your own rubric development.
 
-There are two settings relating to late submission. **Do not tick these settings**:
-
-- *Prohibit late submissions*: automatically submits any in-progress work at the deadline (ie. files that have been uploaded as drafts but not submitted) and prevents new submissions.
-- *Prohibit new attempts after due date*: prevents beginning a new submission after the deadline. Automatically applied if *Prohibit late submissions* is ticked.
-
-### Individual assessment
+## Create an Assignment
 
 !!! Tip
 
-    To avoid students seeing the Assignment before it is ready, you may like to set up and preview an Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md) to copy it into your module site. 
+    All formal formative and summative assessment information and submission points **must be located in the Assessment section**. 
 
-To set up an individual Assignment: 
+To create an assignment:
 
-1. In the **Assessment section**, hover where you want to add the Assignment and click the **purple plus icon**.
-2. Select **Assignment**.
-3. Add a **descriptive title**, set [appropriate **visibility**](../ultra/content-visibility.md) and add **instructions** as text or a file.
-4. Click the **cog icon** to set a Due Date within working hours and adjust other settings (see suggested settings below).
-5. Click **Save** when finished.
-6. Preview the Assignment and then copy to your module site.
+1. In the **Assessment section**, hover where the Assignment should appear. Click the **purple plus icon**, then **Create** and select **Assignment**.
+2. Enter a descriptive title at the top left. 
+3. Add clear **Instructions** for the assessment.
+</br>Note: the Assignment must be visible for students to view instructions entered here. If required before that, add instructions as a separate item and clearly direct students to it in the Assignment.
+4. Click the **cog icon** to open Settings: set a Due Date within working hours and adjust other settings (see suggested settings below). Click **Save** when finished.
+5. Once confident that the Assignment is ready, set it as **Visible to students** or specify **Release conditions**(see our guide to [Content visibility](../ultra/content-visibility.md) for more detail).
 
-![Decorative](images/assignment-set-up.png)
+![Decorative](images/assignment-create.png)
 
-Appropriate settings will depend on your particular assessment, but here are our general recommended settings:
+You may like to set up and preview the Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md) to copy it into your module site. 
+
+## Settings
+
+Click the **cog icon** to open full Assignment settings. This is found:
+
+- in the heading banner in most cases if the Assignment is within a Learning Module.
+- at the top of the summary **Assessment settings** panel next to assignment content on a larger screen or if the Assignment is outside a Learning Module.
+
+![Assignment inside LM with cog icon only and Assignment outside LM with summary Assessment Settings panel on right side,showing due date, mark category, marking (points and posting).](images/assignment-settings.png)
+
+Appropriate settings will depend on your particular assignment, but here are our general recommended settings. More details on each setting is given below.
 
 ??? Abstract "Recommended settings: Formative"
 
     - **Details & Information**
-        - set a *Due date* (this must be within working hours) or tick *No due date*
-        - do **not** tick *Prohibit late submissions* or *Prohibit new attempts after due date* (see above)
+        - tick *No due date* or set a *Due date* (this must be within working hours)
+        - do **not** tick *Prohibit late submissions* or *Prohibit new attempts after due date*
         - leave all other options unticked
     - **Formative Tools**
         - tick *Formative assessment*
         - leave *Display formative label to students* ticked
     - **Marking & Submissions**
-        - *Mark category*: in most cases, leave this as Assignment, but you can change to another option (eg. Presentation). This determines the icon shown on the item in the Course Content area and can be used to filter the Gradebook.
+        - *Mark category*: in most cases, leave this as Assignment, but can be updated.
         - *Attempts allowed*: set to Unlimited
         - *Attempts to mark*: set to Last attempt
         - *Mark using*: leave as Points or change to Percentage or a qualitative marking schema (eg. Complete/Incomplete)
         - *Maximum points*: leave as 100 or change to another amount. For formative work, that is often '1' to show the work is marked.
         - *Anonymous marking*: leave unticked - Assignment should only be used for *non-anonymous* assessment
         - *Evaluation options*:
-            - Two markers per student: not recommended (ie. every assignment must be second marked)
-            - Peer review: can't be used if multiple attempts are allowed
             - Delegated marking: assign staff to mark specific group(s) of students. Usually not necessary, but see our [Guide to delegated marking](https://docs.google.com/document/d/1PWCIBntTazlmoTGUT9PyYZfRv1bFChWezIdDlGiIQQA/edit?usp=sharing) if required.
-        - *Assessment mark*: in most cases, leave *Post marks automatically* unticked to release marks manually. If this is ticked, marks and feedback are released to students immediately when a mark is entered for a submission; this could be useful to streamline workflow for large cohorts with lots of markers.
-    - **Assessment Security**: leave unticked
+            - leave other options unticked
+        - *Assessment mark: post marks automatically*: leave unticked to release marks manually.
+    - **Assessment Security**: leave unticked unless very fine access control is required
     - **Additional Tools**
-        - *Time limit*: not recommended unless there is a clear pedagogic rationale for this
+        - *Time limit*: leave unticked
         - *Use marking rubric*: if desired, attach a marking rubric to streamlime marking and feedback
-        - *Goals & standards*: leave unticked, not used at UoY
-        - *Assigned groups*: not relevant to individual assignments
-        - *Originality Report*: not recommended for formative work
-    - **Description**: if desired, enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment). Don't enter full instructions here, put those in the body of the Assignment.
+        - *Assigned groups*: if needed, assign to groups to create a [group assignment](../ultra/assignment-groups.md)
+        - *Originality Report*: enable if required
+    - **Description**: enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment).
 
 ??? Abstract "Recommended settings: non-anonymous summative"
 
     - **Details & Information**
         - set a *Due date* (this must be within working hours)
-        - do **not** tick *Prohibit late submissions* or *Prohibit new attempts after due date* (see above)
+        - do **not** tick *Prohibit late submissions* or *Prohibit new attempts after due date*
         - leave all other options unticked
     - **Formative Tools**
         - leave unticked
     - **Marking & Submissions**
-        - *Mark category*: in most cases, leave this as Assignment, but you can change to another option (eg. Presentation). This determines the icon shown on the item in the Course Content area and can be used to filter the Gradebook.
+        - *Mark category*: in most cases, leave this as Assignment, but can be updated.
         - *Attempts allowed*: set to Unlimited
         - *Attempts to mark*: set to Last attempt
         - *Mark using*: leave as Points or change to Percentage or a qualitative marking schema (eg. Pass/Fail)
@@ -127,35 +128,126 @@ Appropriate settings will depend on your particular assessment, but here are our
             - Two markers per student: not recommended (ie. every assignment must be second marked)
             - Peer review: can't be used if multiple attempts are allowed
             - Delegated marking: assign staff to mark specific group(s) of students. Usually not necessary, but see our [Guide to delegated marking](https://docs.google.com/document/d/1PWCIBntTazlmoTGUT9PyYZfRv1bFChWezIdDlGiIQQA/edit?usp=sharing) if required.
-        - *Assessment mark*: leave *Post marks automatically* unticked to release marks manually once the marking process is complete.
-    - **Assessment Security**: leave unticked
+        - *Assessment mark: post marks automatically*: leave unticked to release marks manually.
+    - **Assessment Security**: leave unticked unless very fine access control is required
     - **Additional Tools**
-        - *Time limit*: not recommended unless there is a clear pedagogic rationale for this
+        - *Time limit*: leave unticked
         - *Use marking rubric*: if desired, attach a marking rubric to streamlime marking and feedback
-        - *Goals & standards*: not used at UoY
-        - *Assigned groups*: not relevant to individual assignments
-        - *Originality Report*: not currently recommended
-    - **Description**: if desired, enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment). Don't enter full instructions here, put those in the body of the Assignment.
+        - *Assigned groups*: if needed, assign to groups to create a [group assignment](../ultra/assignment-groups.md)
+        - *Originality Report*: enable if required
+    - **Description**:  enter a description to show on the item in the Course Content area (ie. students can see this before they open the Assignment).
+
+### Details & Information (Due date)
+
+!!! Question "Key consideration: Does your Assignment need a due date?"
+
+    Setting a due date/deadline (eg. submit by 15/05/2026 14:00) is only recommended for summative tasks. Formative tasks may be easier to manage without a deadline.
+    
+    If required, set a due date and time during core work hours and liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension). **Students must be able to start and submit late attempts.**
+    
+These settings **can** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+
+- *Due date*: tick *No due date* or set a due date and time during core work hours. If used, liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc.
+- **! Do not tick !** *Prohibit late submissions*: in-progress attempts are automatically submitted at the deadline (not marked late). Can't start new attempts after the deadline.
+- **! Do not tick !** *Prohibit new attempts after due date*: in-progress attempts at the deadline can be manually submitted after the deadline (marked late). Can't start new attempts after the deadline.
+- *Allow class conversations*: attaches a Discussion to the Assignment. Recommend to leave unticked.
+- *Collect submissions offline*: for marking physical submissions or performances. Unlikely to be necessary.
+</div>
+![Details & Information settings panel: described in text](images/assignment-settings-details-and-information.png)
+</div>
+
+### Formative Tools
+
+!!! Question "Key consideration: is the Assignment formative?"
+
+    We recommend applying both of these settings for any formative Assignments.
+
+These settings **can** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+
+- *Formative Assessment*: shows a formative label on the Assignment. This doesn't exclude the item from any automatic Gradebook mark calculations.
+- *Display formative label to students*: default on if *Formative assessment* is ticked. Leave ticked.
+</div>
+![Formative tools settings panel: described in text](images/assignment-settings-formative-tools.png)
+</div>
+
+### Marking & Submissions
+
+!!! Question "Key consideration: does marking need to be anonymous?"
+
+    [Anonymity](#anonymity) is currently tricky to manage in Assignments, so should not be applied. If your summative assignment requires anonymous marking, [Turnitin Feedback Studio](../assessment/tfs/set-up.md) is likely more appropriate.
+
+Unless otherwise stated, these settings **can** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+- *Mark Category*: may change the icon shown on the item, but doesn't have any real impact.
+- *Attempts allowed*: how many assignment submissions can be made. In most cases set to *Unlimited*. Can't be reduced after students start their submissions.
+- *Attempts to mark*: which assignment submission to mark. In most cases leave as *Last attempt*.
+- *Mark using*: leave as the default *Points*, change to *Percentage* or use a [mark schema](../ultra/mark-schema.md) to convert marks to qualitative categories.
+- *Maximum points*: leave as the default *100* or adjust as needed.
+</div>
+![Marking & submissions settings (part 1) panel: described in text](images/assignment-settings-marking-submissions-part1.png)
+
+<div markdown>
+- *Anonymous marking: Hide student names*: don't use. Can't be updated after students have started their submissions.
+- *Evaluation options: Two markers per student*: require double-marking for *all* students. If ticked, you will be prompted to select markers. Not recommended in most cases.
+- *Evaluation options: Peer review*: allows students to give feedback on peers' submissions. Only available if 1 attempt allowed. Can't be updated after students have started their submissions. See [Blackboard Help's guide to Peer review](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments/Self_and_Peer_Assessment/Peer_Review_for_Qualitative_Peer_Assessments) for more details.
+- *Evaluation options: Delegated marking*: assign markers to specific groups of students. Only required for manually marked questions and large cohorts.
+- *Assessment mark: post automatically*: immediately releases overall mark after an attempt is marked. In most cases, leave unticked to manually manage overall mark release.
+</div>
+![Marking & submissions settings (part 2) panel: described in text](images/assignment-settings-marking-submissions-part2.png)
+</div>
+
+### Assessment security
+
+!!! Question "Key consideration: is fine access control needed?"
+
+    If it's not known exactly who will need access to your Assignment and when, access can be managed by setting up an access code to open the Assignment. This may be useful for escape room-type activities, for example.
+
+This setting **can** be edited after students start their submissions.
+
+<div markdown class="grid">
+<div markdown>
+- *Access code*: click *Add access code* and toggle on the slider to require students to enter a 6-digit code to begin an attempt.
+</div>
+![Assessment security settings panel: described in text](images/assignment-settings-assessment-security.png)
+</div>
+
+### Additional tools & Description
+
+Unless stated, these settings **cannot** be updated after students have started their submissions.
+
+<div markdown class="grid">
+<div markdown>
+- *Time limit*: adds a timer for attempts, with optional automatic submission at the end. In most cases, this is not applicable.
+- *Use marking rubric*: add a [marking rubric](../ultra/rubric.md) to assist with marking and feedback.
+- *Assign to groups*: to set as a collaborative group task. Useful for group assessment and  escape room-type activities.
+- *Originality report*: adds Turnitin originality reporting.
+- *Description*: adds a contextual note to the Assignment item on the Course Content page. Maximum 750 characters. Can be updated after students have started their submissions.
+</div>
+![Additional tools & Description settings panel: described in text](images/assignment-settings-additional-tools.png)
+</div>
 
 For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
 
-## Generate Assignment prompts & rubrics with AI
+## Group assessment
 
-The AI Design Assistant Tool can [auto-generate assignment prompts](../ultra/ai-da.md#task-prompts) based on your site content. This tool may also be useful for exploring ideas for project work or discussion tasks more generally. It can also [generate marking rubric content](../ultra/rubric.md#generate-using-ai) as a starting point of your own rubric development.
-
-!!! ai "Using AI tools effectively"
-
-    AI-generated content is a **starting point** for your own content development rather than a finished product. You must always **carefully check** that output is accurate and appropriate for your intended use and adapt as needed.
-
-    See our [general guide to Artificial Intelligence tools](../other-tools/ai.md) for more details on using AI responsibly.
-
-### Group assessment
-
+<div markdown class="grid">
+<div markdown>
 Group assessment is best managed using Ultra Assignment. Note that *TurnItIn does not support group assessment*.
 
 The **Assign to Course Groups** feature allows a student to transparently make a submission on behalf of the whole group, and for group and/or individual marks and feedback to be released to group members.
 
 See our [guide to Group Assignments](../ultra/assignment-groups.md) for full details and how to set this up.
+</div>
+![Assignment called 'Group presentation submission' with 2 groups attached](images/assignment-assign-to-groups.png)
+</div>
 
 ## Preview the student submission process
 
