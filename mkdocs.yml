@@ -176,8 +176,8 @@ theme:
   icon:
     logo: octicons/home-16
     tag: # Shown in tag label at the top of pages
-      KeyGuideTeaching: simple/go
-      KeyGuideAdmin: simple/go
+      KeyGuideTeaching: material/key-variant
+      KeyGuideAdmin: material/key-variant
       Accessibility: octicons/accessibility-inset-16
       Assessment: octicons/check-circle-16
       Communication: octicons/megaphone-16
