@@ -9,7 +9,7 @@ tags:
 
 !!! Summary
 
-    An introduction to navigating the Ultra system and the basics of creating site content.
+    An introduction to navigating the Ultra system and within sites.
 
 ## Updated navigation: January 2026
 
@@ -108,22 +108,25 @@ Courses and Community sites are navigated in the same way.
 
 ### Top menu
 
-![Top menu with tabs for: Content, Calendar, Announcements, Discussions, Gradebook, Analytics, Groups](images/navigation-site-top-menu.png)
+![Top menu navigation tabs immediately above site banner](images/navigation-site-top-menu.png)
 
-Within sites, navigate between parts of the site using the top menu. Key tabs are:
+Within sites, navigate between parts of the site using the top menu. The menu tabs are:
 
-- **Content**: the site homepage, with all site content
+- **Content**: the site homepage, with all site content.
+- **Calendar**: collates Due Dates for assessments within the site. Does not integrate with the Timetable or other UoY systems.
 - [**Announcements**](../ultra/announcements.md): send read-only messages to all enrolled students
-- [**Gradebook**](../ultra/gradebook.md): collates all assessments in the site
+- [**Gradebook**](../ultra/gradebook.md): collates all assessments in the site.
+- **Analytics**: information on student activity within the site.
 - [**Groups**](../ultra/course-groups.md): create and manage student groups for collaborative work or to support marking
 
-![Decorative](images/navigation-site-settings-home.png)
+![Top menu with other buttons above the navigation tabs, at the top of the screen](images/navigation-site-settings-home.png)
 
-The top banner also includes:
+The top menu banner also includes:
 
-- **Course Settings**: to manage [site availability](../ultra/course-access.md) and other site-wide settings
-- **Home** button to close the site and return to the Home page (from January 2026).
-- **Courses** button to move between recently-visited course sites, or to go to the Courses page (from January 2026).
+- **Home**: to close the site and return to the Home page (from January 2026).
+- **Courses**: to move between recently-visited course sites, or to go to the Courses page (from January 2026).
+- **Course Settings**: to manage [site availability](../ultra/course-access.md) and other site-wide settings.
+- **Student Preview**: to check how content appears to students.
 
 ### Content tab
 
@@ -131,6 +134,6 @@ The Content tab is the main area of the site, and acts as the site's home page. 
 
 - **Course Content**: where all the site content is added and viewed
 - **Details & Actions**: some additional site features and settings, including:
-    - **Class Register**: set the [Primary Instructor](../ultra/course-staff.md#primary-instructor) and [enrol users](../ultra/user-management.md#enrol-individual-users) if needed
-    - [**Course Image**](../ultra/course-image.md): update the site banner
-    - **Books & Tools**: for integrated tools, particularly the [Ally accessibility report](../ultra/ally-accessibility-report.md)
+    - **Class Register**: set the [Primary Instructor](../ultra/course-staff.md#primary-instructor) and [enrol users](../ultra/user-management.md#enrol-individual-users) if needed.
+    - [**Course Image**](../ultra/course-image.md): update the site banner.
+    - **Books & Tools**: for integrated tools, particularly the [Ally accessibility report](../ultra/ally-accessibility-report.md).
