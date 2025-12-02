@@ -31,7 +31,7 @@ Small changes to system-level navigation:
 
     This applies to Course and Community sites.
 
-![Updated site navigation, largely in the appearance of the header / menu section](images/navigation-new-site.png)
+![Updated site navigation, largely in the appearance of the header / menu section. Further described in text.](images/navigation-new-site.png)
 
 Cosmetic changes and some additional functionality for site-level navigation:
 
