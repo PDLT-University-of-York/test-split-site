@@ -35,7 +35,7 @@ New sites will appear in your [Courses list](../ultra/courses-list.md). You may 
     - 1.4 Essential: Site title contains the SITS code and official module name.
     - 2.1 Essential: Site structure includes sections for module information, assessment, Reading List, Replay Content and module materials.
 
-For an introduction to key parts of the site, see [Getting started with Ultra: Site structure](../ultra/getting-started.md#ultra-site-structure-module-template).
+For an introduction to key parts of the site, see the [Navigation guide](../ultra/navigation.md).
 
 !!! Tip
 
