@@ -9,23 +9,16 @@ Our training is *on-demand first*, with video and written guidance so you can ac
 
 We also run synchronous sessions at key points of the academic year, where you can ask questions and we explore the tools in more detail.
 
-!!! tip "New session for Sept 2025: Exploring alternatives to Padlet"
-
-    The 'noticeboard' tool has now been withdrawn from the University's offering of supported tools.  This session presented some alternative options for key teaching and learning scenarios.The alternatives we included are outlined in full on our [Padlet page](../other-tools/padlet.md), and the recording and resources are also available to UoY users from the following links:
-
-     - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
-     - [Resources: Mentimeter presentation](https://www.mentimeter.com/app/presentation/alf35e2y3yp2sajoxv8a25dsvtjxfie4/edit?source=share-modal)
-
-
 <div class="grid cards wide" markdown>
 
 -   :simple-go: **Getting started with Ultra**
 
     ---
 
-    An introduction to the key features of the Ultra platform and sites, aimed at users new to Learn Ultra or needing a refresher.
+    Key guides for users new to Ultra:
    
-    - :octicons-arrow-right-24: [On-demand: Getting started with Ultra](../ultra/getting-started.md)
+    - :octicons-arrow-right-24: [On-demand: Navigation](../ultra/navigation.md)
+    - :octicons-arrow-right-24: [On-demand: Courses list](../ultra/courses-list.md)
     - :octicons-arrow-right-24: Need more support? [Book a 1:1 consultation](#11-consultations) for personalised guidance.
 
 -   :fontawesome-regular-compass: **Prepare your Ultra site for teaching**
@@ -43,7 +36,7 @@ We also run synchronous sessions at key points of the academic year, where you c
 
     Key tips to improve the accessibility of your VLE site and teaching materials. Offered as general content and maths-focused options.
 
-    - :octicons-arrow-right-24: On-demand: coming soon
+    - :octicons-arrow-right-24: [On-demand: Accessible Ultra sites](../ultra/accessible-sites.md)
     - :octicons-arrow-right-24: [Recording: Accessible VLE sites - Maths focus, Sept 2025 (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=041543f2-1a52-4d87-b382-b36200e7c49a)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
 
@@ -65,6 +58,16 @@ We also run synchronous sessions at key points of the academic year, where you c
     - :octicons-arrow-right-24: [On-demand: Mentimeter presentations](../other-tools/mentimeter/create-presentation.md)
     - :octicons-arrow-right-24: [Recording: Getting started with Mentimeter, Sept 2025 (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd76e923-ffa2-4436-b2de-b35c00ce1367)
     - :octicons-arrow-right-24: [Book a live training session](#sign-up-training-sessions)
+
+-   :material-toolbox:  **Replacements for Padlet**
+
+    ---
+    
+    The Padlet tool was retired in September 2025, but there are many alternatives available:
+
+    - :octicons-arrow-right-24: [On-demand: Padlet alternatives](../other-tools/padlet.md)
+   - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
+    - :octicons-arrow-right-24: Need more support? [Book a 1:1 consultation](#11-consultations) for personalised guidance.
 
 </div>
 

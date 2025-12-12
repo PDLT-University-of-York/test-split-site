@@ -31,28 +31,47 @@ A module Ultra site can:
 
 <div class="grid cards" markdown>
 
--   **:material-key-variant: Essentials**
+-   **:material-key-variant: Essentials for all**
 
     ---
     
     - [:octicons-arrow-right-24: VLE site design principles](../ultra/site-design-principles.md)
-    - [:octicons-arrow-right-24: Getting Started with Ultra](../ultra/getting-started.md)
+    - [:octicons-arrow-right-24: Navigation: system & sites](../ultra/navigation.md)
+    - [:octicons-arrow-right-24: Manage your notifications](../ultra/notifications.md)
+    - [:octicons-arrow-right-24: Courses list](../ultra/courses-list.md)
+    - [:octicons-arrow-right-24: Accessible Ultra sites](../ultra/accessible-sites.md)
 
--  **:material-content-paste: Build your site content**
+-  **:material-human-male-board: Teaching staff**
 
     ---
     
     - [:octicons-arrow-right-24: Prepare sites for teaching](../ultra/prepare-site.md)
     - [:octicons-arrow-right-24: Documents (pages)](../ultra/documents.md)
+    - [:octicons-arrow-right-24: Ally accessibility report](../ultra/ally-accessibility-report.md)
+    - [:octicons-arrow-right-24: Course access](../ultra/course-access.md)
+    - [:octicons-arrow-right-24: Announcements](../ultra/announcements.md)
+    - [:octicons-arrow-right-24: Discussions](../ultra/discussions.md)
+    - [:octicons-arrow-right-24: Ultra Test](../ultra/test.md)
 
--   **:octicons-megaphone-16: Communication & interaction**
+-   **:material-laptop-account: Administrators**
 
     ---
     
-    - [:octicons-arrow-right-24: Announcements](../ultra/announcements.md)
-    - [:octicons-arrow-right-24: Discussions](../ultra/discussions.md)
-    - [:octicons-arrow-right-24: Manage your notifications](../ultra/notifications.md)
+    - [:octicons-arrow-right-24: Turnitin Feedback Studio](../assessment/tfs/index.md)
+    - [:octicons-arrow-right-24: Ultra Assignment](../ultra/assignment-set-up.md)
+    - [:octicons-arrow-right-24: Ultra Test](../ultra/test.md)
+    - [:octicons-arrow-right-24: Update due dates](../assessment/update-due-dates.md)
+    - [:octicons-arrow-right-24: User management (enrol users)](../ultra/user-management.md)
+    - [:octicons-arrow-right-24: Course Groups](../ultra/course-groups.md)
+    - [:octicons-arrow-right-24: SSP accommodations](../ultra/accommodations.md)
 
+-   **:octicons-mortar-board-16: Students**
+
+    ---
+
+    Student guidance is available on the Skills Guides:
+
+    - [:octicons-arrow-right-24: Learning Technology: A Practical Guide](https://subjectguides.york.ac.uk/learning-tech/)
 
 </div>
 

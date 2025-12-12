@@ -8,7 +8,7 @@ nav:
   - Learn Ultra VLE:
     - ultra/index.md
     - VLE site design principles: ultra/site-design-principles.md
-    - Getting started with Ultra: ultra/getting-started.md
+    - Navigation | system & sites: ultra/navigation.md
     - Prepare sites for teaching: ultra/prepare-site.md
     - Site content:
       - Learning Modules & Folders: ultra/folder-learning-module.md
@@ -176,8 +176,8 @@ theme:
   icon:
     logo: octicons/home-16
     tag: # Shown in tag label at the top of pages
-      KeyGuideTeaching: simple/go
-      KeyGuideAdmin: simple/go
+      KeyGuideTeaching: material/key-variant
+      KeyGuideAdmin: material/key-variant
       Accessibility: octicons/accessibility-inset-16
       Assessment: octicons/check-circle-16
       Communication: octicons/megaphone-16
@@ -301,6 +301,7 @@ plugins:
         'ultra/site-availability.md' : 'ultra/course-access.md'
         'ultra/text.md': 'ultra/documents.md'    
         'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+        'ultra/getting-started.md': 'ultra/navigation.md'
         'ultra/unenrol-user.md' : 'ultra/user-management.md#unenrol-a-user'
         'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
         'ultra/youtube.md': 'ultra/documents.md#videos'

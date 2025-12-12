@@ -7,32 +7,43 @@ tags:
 
 !!! Summary
 
-    The Course Image is a customisable site banner image.
+    The Course Image is a customisable site banner image that appears within sites and as a thumbnail on the Courses page.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 2.3 Essential: Design and images adhere to the UoY brand.
 
-The Course Image is a site banner image. It appears in two locations:
+## Updated navigation: January 2026
 
-- Course List: appears in the tile view of the module site 
-- Within the site: a banner across the main 'Content' view of the site.
+An updated navigation system is coming in January 2026. This will make it easier to move around the Ultra system and between sites, and makes better use of screen space.
 
-![Decorative](images/course-image-example.png)
+As part of this, the Course Image (banner) becomes full width, with the site name overlaid. If no Course Image is set, a plain placeholder banner is used.
 
-You can change the Course Image supplied with your site template to a decorative image related to your module.
+**The advice and images below have been updated to reflect this new navigation.**
+
+---
+
+## Banner & thumbnails
+
+Within sites, the Course Image is full-width site banner. The site name and Ycode are overlaid on the bottom portion of the banner.
+
+![Decorative](images/course-image-banner.png)
+
+The Course image also appears as thumbnails on the Courses page (tiled view) and the recent Courses list:
+
+![Decorative](images/course-image-thumbnails.png)
 
 ## Add or update the course image
 
 !!! Tip
 
-    Course banners must be decorative only, and also resize to fit screen size. Because of this, avoid including text in your Course Image.
+    Avoid including text in your Course Image; banners should be purely decorative and text may be obscured by resizing to fit different screen sizes.
 
 To add or update the Course Image:
 
-1. In the **Details &  Actions** menu, click **Course Image**, or if you already have a Course Image you can click the **edit/pencil icon** on the banner.
-</br> ![Decorative](images/course-image-edit-icons.png)
-2. On the *Display Settings* panel, click the **image icon**.
+1. Click the **edit/pencil icon** on the banner, or click **Edit display settings** under *Course Image* in the *Details &  Actions* panel.
+</br> ![Decorative](images/course-image-edit.png)
+2. In the *Display settings* panel, click the **image icon** above the image preview.
 </br> ![Decorative](images/course-image-image-icon.png)
 3. On the *Insert image* panel, there are two ways to add an image:
     - **Upload from Device**: drag and drop an image file or click **Upload file** and select an image (must be at least 1200x2400 pixels).
@@ -40,35 +51,31 @@ To add or update the Course Image:
 </br> ![Decorative](images/course-image-insert-image.png)
 4. Preview the image and click **Next**.
 5. Position and zoom the image as required. Consider how the image will be resized to fit screen sizes; the central portion of the grid will always be shown. Click **Save**.
-</br> ![Decorative](images/course-image-position-zoom.png)
+</br>![Decorative](images/course-image-position-zoom.png)
 6. Check that the **Course Image** toggle is set to **On**.
 7. By default, the banner image is marked as decorative; leave this ticked.
 </br>![Alternative text section, with decorative label box ticked. Note: This image provides no additional value and is only decorative. It will be hidden for people using assistive technologies.](images/course-image-alt-text.png)
 8. Click **Save**.
 
-<!-- You can also watch a demonstration of adding a Course Image:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O0B4R8RyBYU" title="Course images in Ultra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Course images in Ultra [YouTube]](https://youtu.be/O0B4R8RyBYU) -->
-
 ## Remove the course image
 
 !!! Tip
 
-    An image will always be shown in the thumbnail view in the Courses list. If there is no Course Image in your site, a default image will be used.
+    If you hide or delete the course image, a default plain placeholder image is used instead.
 
-To **hide** the course image in the site but keep it in the Courses list thumbnail:
+To **hide** the course image in the site but keep it in the thumbnails:
 
-1. In the **Details &  Actions** menu, click **Course Image**, or click the **edit/pencil icon** on the banner.
-2. Set the *Course Banner* toggle to **Off**.
-
-![Course Banner panel. The course banner is displayed at the top of the course page using the Course Image. You can turn the banner on or off using the control below.](images/course-image-banner-off.png)
+1. Click the **edit/pencil icon** on the banner, or click **Edit display settings** under *Course Image* in the *Details &  Actions* panel.
+2. In the *Display settings* panel, set the *Course Banner* toggle to **Off**.
+</br>![Course Banner panel. The course banner is displayed at the top of the course page using the Course Image. You can turn the banner on or off using the control below.](images/course-image-banner-off.png)
 
 To completely **delete** the course image and use a default image in the Courses list thumbnail:
 
-1. In the **Details &  Actions** menu, click **Course Image**, or click the **edit/pencil icon** on the banner.
-2. Click the **bin icon** and **Delete** when prompted.
-
-![Warning message: Are you sure you want to delete this image? By deleting this image the course banner will not be displayed and a default image will be used for the course thumbnail.](images/course-image-delete.png)
+1. Click the **edit/pencil icon** on the banner, or click **Edit display settings** under *Course Image* in the *Details &  Actions* panel.
+2. In the *Display settings* panel, click the **bin icon** above the image preview.
+</br> ![Decorative](images/course-image-bin.png) 
+3. On the *Delete image* panel, click **Delete**.
+</br>![Warning message: Are you sure you want to delete this image? By deleting this image the course banner will not be displayed and a default image will be used for the course thumbnail.](images/course-image-delete.png)
 
 ## Sourcing images
 
