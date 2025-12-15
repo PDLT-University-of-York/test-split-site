@@ -395,6 +395,40 @@ Key question types are summarised below. See [Blackboard's Question Types guide]
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Answer can be exact number or within a range.| auto graded | manual only |
 | [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions) | Enter a text response (of any length). Can provide a model answer to help grading or as feedback. | **manually graded** | can be auto-generated |
 
+### January 2026 update: multiple choice options
+
+#### **New feature**: limit the number of selectable options
+
+- Some example uses:
+    - if one correct answer: limit to selecting only one option
+    - if multiple correct answers: limit to the number of correct answers and prevent selecting all options
+- Default values for existing questions:
+    - 1 correct answer: select up to *1 option*
+    - 2+ correct answers: select up to the *total number of options*
+- Default value for new questions: select up to *4 options*
+
+#### **Changes to option presentation**: options will not be labelled A/B/C/D etc.
+
+Instead of A/B/C/D labels, multiple choice options have a clickable button depending on how many options can be selected:
+
+- select up to 1 option: radio button
+- select up to 2+ options: check box
+
+<div markdown class="grid">
+<figure markdown>
+![Multiple choice question with one correct answer, four options in total](images/test-multiple-choice-radio-button.png)
+<figcaption>
+Radio button: select only one
+</figcaption>
+</figure>
+<figure markdown>
+![Multiple answer question with two correct answers, four options in total](images/test-multiple-choice-check-box.png)
+<figcaption>
+Check boxes: can select multiple options
+</figcaption>
+</figure>
+</div>
+
 ### Add questions
 
 !!! Tip
@@ -527,6 +561,25 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     </br>[Use Question Pools in Assessments in the Ultra Course View [YouTube]](https://youtu.be/cuWBxlV2FVM?si=ulkRHUN9G8-YGIWq)
     </div>
     </div>
+
+### Partial & negative credit
+
+These settings can be applied to multiple choice, multiple answer and matching question types.
+
+**Partial credit**
+
+- Behaviour: *awards* a proportion of the marks available for each *correct* option selected. By default, 100% is evenly split between correct answers.
+- Example: a question has two correct answers, each worth half of the total points if selected.
+- Useful to: award points for any correct answer given.
+
+**Negative scoring**
+
+- Behaviour: *subtracts* a proportion of the marks available for each *incorrect* option selected, with the option to allow negative overall question scores. By default, -100% is evenly split between incorrect answers.
+- Example: a question has two incorrect answers, each deducting half of the total points if selected.
+- Useful to: discourage guessing or selecting all possible options.
+- Alternatives:
+    - allow partial credit but set the maximum number of options as the number of correct answers (from January 2026).
+    - don't allow partial credit, so marks are only awarded for fully correct answers.
 
 ### Bulk edit question points
 
