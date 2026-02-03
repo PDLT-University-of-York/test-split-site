@@ -17,7 +17,6 @@ tags:
 
 Use our [support dashboards in Google Looker Studio](https://lookerstudio.google.com/embed/reporting/4de0e8c1-2254-4f46-a08e-e048d192baae/page/p_60kddgyw8c) to see:
 
- - **System Updates & Changes**: new features and changes that have been released, or are expected to be released soon on our systems
  - **Planned Outages/Degradations**: future, current and past planned outages or degradations, such as updates, maintenance or similar
  - **Unplanned Outages/Degradations** unplanned outages or degradations, ie. an unexpected problem that's taken a system completely offline or made it run slowly for end users.
 
@@ -25,7 +24,6 @@ Use our [support dashboards in Google Looker Studio](https://lookerstudio.google
 
 You can also access and filter the base spreadsheets directly in Google Sheets, particularly if the Google Looker Studio dashboards are inaccessible to a piece of assistive technology that you are using:
 
- - [System Updates Sheet](https://docs.google.com/spreadsheets/d/1Diz4EtXxllz07U2ZSo1izlX8dAH65AlDESGK2ieQhsY/edit#gid=172144886)
  - [Planned Outages/Degradations Sheet](https://docs.google.com/spreadsheets/d/1_AibFcL71ZvvJay6E7C7FKkNpIts3E8xTdjnFA8Fr1Q/edit#gid=1593061267)
 - [Unplanned Outages/Degradations Sheet](https://docs.google.com/spreadsheets/d/1_AibFcL71ZvvJay6E7C7FKkNpIts3E8xTdjnFA8Fr1Q/edit#gid=770753579)
 
