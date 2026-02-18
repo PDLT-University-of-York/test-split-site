@@ -16,6 +16,10 @@ tags:
     - 3.4 Essential: Site and materials content is accessible.
     - 3.6 Essential: Links and materials titles describe the destination or content.
 
+!!! Warning
+
+    **Do not upload reading items** such as journal papers or books etc., as this likely violates accessibility and copyright legislation. Instead, provide all readings via your module [Reading List](../other-tools/reading-list.md).
+
 There are two methods to upload files to your site. Choose the most appropriate method for how you intend the file to be used, and make sure that it is organised in your site structure.
 
 ## Standalone content item

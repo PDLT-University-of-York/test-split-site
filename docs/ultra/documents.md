@@ -246,6 +246,10 @@ To add more complex knowledge checks or practice quizzes as a separate content i
     - 3.3 Essential: Provide up-to-date documents in an accepted file format.
     - 3.6 Essential: Links and materials titles describe the destination or content.
 
+!!! Warning
+
+    **Do not upload reading items** such as journal papers or books etc., as this likely violates accessibility and copyright legislation. Instead, provide all readings via your module [Reading List](../other-tools/reading-list.md).
+
 ![File upload block with lecture slides below a content block with explanatory text](images/documents-block-file-upload.png)
 
 Use this block to add PDF, Word, Powerpoint (etc.) files to your Document. This is especially useful for lecture slides and other files that students will use during weekly teaching.
