@@ -171,7 +171,7 @@ On any of the Gradebook views, click the *cog* icon on the right of the Gradeboo
 
 ### Download Results (Test question scores)
 
-**Use to download**: each student's individual answers and scores for each Test question. Might be useful for in-depth question analysis, offline marking etc. There’s also the built in [Question Analysis tool](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Ultra_Question_Analysis).
+**Use to download**: each student's individual answers and scores for each Test question. Might be useful for in-depth question analysis, offline marking etc. There’s also the built in [Question Analysis tool](https://help.anthology.com/blackboard/instructor/en/interact-with-students/discussions/view-discussion-performance-and-analytics.html).
 
 !!! Tip
 

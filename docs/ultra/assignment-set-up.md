@@ -197,7 +197,7 @@ Unless otherwise stated, these settings **can** be updated after students have s
 <div markdown>
 - *Anonymous marking: Hide student names*: don't use. Can't be updated after students have started their submissions.
 - *Evaluation options: Two markers per student*: require double-marking for *all* students. If ticked, you will be prompted to select markers. Not recommended in most cases.
-- *Evaluation options: Peer review*: allows students to give feedback on peers' submissions. Only available if 1 attempt allowed. Can't be updated after students have started their submissions. See [Blackboard Help's guide to Peer review](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments/Self_and_Peer_Assessment/Peer_Review_for_Qualitative_Peer_Assessments) for more details.
+- *Evaluation options: Peer review*: allows students to give feedback on peers' submissions. Only available if 1 attempt allowed. Can't be updated after students have started their submissions. See [Blackboard Help's guide to Peer review](https://help.anthology.com/blackboard/instructor/en/assessments/peer-review-for-qualitative-peer-assessments.html) for more details.
 - *Evaluation options: Delegated marking*: assign markers to specific groups of students. Only required for manually marked questions and large cohorts.
 - *Assessment mark: post automatically*: immediately releases overall mark after an attempt is marked. In most cases, leave unticked to manually manage overall mark release.
 </div>
@@ -234,7 +234,7 @@ Unless stated, these settings **cannot** be updated after students have started 
 ![Additional tools & Description settings panel: described in text](images/assignment-settings-additional-tools.png)
 </div>
 
-For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.blackboard.com/Learn/Instructor/Ultra/Assignments)
+For more detail, see [Staff Help: Ultra Assignment Set Up & Use - Blackboard's Own Guide](https://help.anthology.com/blackboard/instructor/en/assessments/assignments/create-assignments.html)
 
 ## Group assessment
 

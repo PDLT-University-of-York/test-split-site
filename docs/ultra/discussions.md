@@ -209,7 +209,7 @@ You can also grade discussions. This could be useful to:
 1. Open the Discussion and select the **Marks & Participation** tab.
 </br>![Decorative](images/discussion-marks-participation-tab.png)
 2. Click a student's name to open their participation.
-3. There are various [Discussion metrics available](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Discussions/View_Discussion_Performance) which you may use to inform your marking.
+3. There are various [Discussion metrics available](https://help.anthology.com/blackboard/instructor/en/interact-with-students/discussions/view-discussion-performance-and-analytics.html) which you may use to inform your marking.
 4. Enter a mark in the mark pill in the top right.
 5. Use the arrows to move between students.
 6. When all participation has been marked, click **Post all marks**.

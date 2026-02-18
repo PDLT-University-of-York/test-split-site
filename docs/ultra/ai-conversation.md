@@ -19,7 +19,7 @@ There are also various [AI Design Assistant tools](../ultra/ai-da.md) available 
 
 ## Getting started
 
-This guide summarises the key aspects of the AI Conversation tool for use at the University of York. For more detail, see [Blackboard Help's guide to AI Conversations](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/AI_Conversation).
+This guide summarises the key aspects of the AI Conversation tool for use at the University of York. For more detail, see [Blackboard Help's guide to AI Conversations](https://help.anthology.com/blackboard/instructor/en/course-and-content-management/add-content/ai-conversation.html).
 
 The AI conversation tool has two components:
 

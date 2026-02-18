@@ -69,7 +69,7 @@ Depending on your intended use case, consider where students would expect the Jo
 
 ![Reflective Journal with instructions on post requirements and suggested topics ](images/journal-create.png)
 
-This is demonstrated in the video below, or for more detail see [Blackboard's guide to setting up Journals](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Journals)
+This is demonstrated in the video below, or for more detail see [Blackboard's guide to setting up Journals](https://help.anthology.com/blackboard/instructor/en/interact-with-students/journals.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lk180brvk2c?si=D3JU-GJY7zBA5P4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </br>[Blackboard guide: Create a Journal in the Ultra Course View [YouTube]](https://youtu.be/lk180brvk2c?si=bfzUaZLJVsuDQqrA)
@@ -90,4 +90,4 @@ Prompts may be most useful for exploring ideas for assessments and project work,
 
 Journals can be used for assessment purposes, and marked online in the Ultra site. You can include a marking rubric.
 
-For details on the marking workflow, see [Blackboard's guide to Grading Journals](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Journals/Grade_Journals).
+For details on the marking workflow, see [Blackboard's guide to Grading Journals](https://help.anthology.com/blackboard/instructor/en/interact-with-students/journals.html#id185066).

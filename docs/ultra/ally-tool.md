@@ -320,9 +320,3 @@ To download content in an alternative format:
 3. Click Download.
 
 ![Alternative format options: listed in text](images/ally-tool-alternative-formats-options.png)
-
-<!-- Core Ally Guidance:
-
-- [Student Ally Guidance](https://docs.google.com/document/d/1c296bnkMAP058YXv8eBlHA8Cu6f3Ul3OOhyk3lo9dfw/edit) (findable via [our central student help pages](https://subjectguides.york.ac.uk/learning-tech/accessibility))
-- [Staff Ally Guidance](https://docs.google.com/document/d/1oDokxj1Fcfw_CmxOTTT6yOT-CCvZrNAgM3IsVVGE1Is/edit?usp=sharing) (RETIRE THIS)
-- [Ally Guidance from Blackboard Anthology](https://help.blackboard.com/Ally/Ally_for_LMS) (the supplier). -->

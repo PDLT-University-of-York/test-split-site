@@ -267,7 +267,7 @@ Open the collapsible panel on the right side to enter feedback and access a mark
 
     - enter text
     - upload a file
-    - [record audio or video feedback](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Audio_Video_Recording#ultra_feedback)
+    - record audio or video feedback
     </div>
     ![decorative](images/assignment-marking-overall-feedback.png)
     </div>

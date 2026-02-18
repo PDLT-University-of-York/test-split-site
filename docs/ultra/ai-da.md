@@ -53,7 +53,7 @@ Further tips on using specific tools effectively are given below.
 
 ## AI-DA content generation tools
 
-This section summarises key tool features and considerations for applying them in your teaching at UoY. For more detail and video demonstrations, see [Blackboard Help's guide to AI-DA](https://help.blackboard.com/Learn/Instructor/Ultra/Course_Content/Create_Content/AI_Design_Assistant)
+This section summarises key tool features and considerations for applying them in your teaching at UoY. For more detail and video demonstrations, see [Blackboard Help's guide to AI-DA](https://help.anthology.com/blackboard/administrator/en/tools-management/blackboard-ai-design-assistant.html)
 
 ### Layouts for Documents
 

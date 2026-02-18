@@ -327,7 +327,7 @@ Randomisation is a very useful tool for creating robust assessments, particularl
     <figcaption>Questions use different values for the same formula</figcaption>
     </figure>
     
-    The [**Calculated Formula**](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions) question type generates multiple versions of the question with randomly selected formula values.
+    The [**Calculated Formula**](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types/calculated-formula-questions.html) question type generates multiple versions of the question with randomly selected formula values.
     
     Students use the same formula with different input values for each question version, which therefore have different correct answers. This is useful for robust assessment where the focus is on correctly performing the calculation, rather than a specific outcome.
     
@@ -383,15 +383,15 @@ You can build and trial the Test in your personal Ultra sandpit site, and when i
 
 ### Question types
 
-Key question types are summarised below. See [Blackboard's Question Types guide](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types) for details of the various other question types available. 
+Key question types are summarised below. See [Blackboard's Question Types guide](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types.html) for details of the various other question types available. 
 
 | Question type | Description | Grading type | AI generation |
 | ----------- | ----------- | ----------- | ----------- |
-| [Multiple Choice](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Choice_Questions)  | Pick a single correct answer from options given. | auto graded | can be auto-generated |
-| [Multiple Answer](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Answer_Questions)  | Pick multiple correct answers from options given. Can give partial or negative credit. | auto graded | manual only |
+| [Multiple Choice](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types/multiple-choice-questions.html)  | Pick a single correct answer from options given. | auto graded | can be auto-generated |
+| [Multiple Answer](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types/multiple-answer-questions.html)  | Pick multiple correct answers from options given. Can give partial or negative credit. | auto graded | manual only |
 | [Fill in the Blank](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Fill_in_the_Blank_Questions) | Input the missing word(s) in the given text. Answer can be exact or match a pattern | auto graded | can be auto-generated |
 | [Matching](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Matching_Questions)| Match corresponding items from two groups. Can give partial or negative credit. | auto graded | can be auto-generated |
-| [Calculated Formula](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Formula_Questions)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
+| [Calculated Formula](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types/calculated-formula-questions.html)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Answer can be exact number or within a range.| auto graded | manual only |
 | [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions) | Enter a text response (of any length). Can provide a model answer to help grading or as feedback. | **manually graded** | can be auto-generated |
 
@@ -446,7 +446,7 @@ There are multiple ways to add questions to a Test. Which method is most appropr
     </br> ![decorative](images/test-manually-add-questions.png)
     3. Enter the question and answers as needed for that question type.
     4. Optional question settings (availability depends on question type):
-        - set [partial or negative credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Multiple_Answer_Questions) for questions with multiple correct answers
+        - set [partial or negative credit](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types/multiple-answer-questions.html) for questions with multiple correct answers
         - set the question as [extra credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Extra_Credit_Questions)
         - add automated feedback (auto-marked types) or example correct answer (Essay type only)
         - change the points awarded (default = 1 point)
@@ -977,4 +977,4 @@ The Question Analysis tool gives analytics data on:
 
 This can be useful to understand student performance and review and refine your question practice for future tests. For example, if one question is consistently answered incorrectly, you can review the question wording and answers chosen to see if the question is genuinely difficult, or if there is as issue with the question wording that could be tweaked for next time. 
 
-See [Blackboard Help's guide to Question Analysis](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Ultra_Question_Analysis) for more details.
+See [Blackboard Help's guide to Question Analysis](https://help.anthology.com/blackboard/instructor/en/interact-with-students/discussions/view-discussion-performance-and-analytics.html) for more details.
