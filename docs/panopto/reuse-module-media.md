@@ -51,10 +51,9 @@ The most appropriate method to reuse recordings depnds on your situation:
 1. Follow steps 1-4 as shown in the first scenario.
 2. Select **move** from the options which appear.
 3. To select more videos check the relevant check boxes, or click the check box above the video list to select all videos.
-4. Search for your Ongoing Media folder. This will either contain the name of your module or the SITS module code (eg Ongoing Media: MAN00001H). 
-![Annotated screenshot showing drop down menu of module folders](Images/reuse-module-media-5.png)
+4. Search for your Ongoing Media folder. This will either contain the name of your module or the SITS module code (eg Ongoing Media: MAN00001H).
 5. Click **Move**. 
 
 !!! Tip
-     If your department has an Ongoing Module Media storage area set up, this can also be located from the **Browse** menu in Panopto by selecting your department name, Ongoing Media then Ongoing Module Media.
+     If your department has an Ongoing Module Media storage area set up, this can also be located from the **Browse** menu in Panopto by selecting the top level ".Ongoing Media" folder.
 
