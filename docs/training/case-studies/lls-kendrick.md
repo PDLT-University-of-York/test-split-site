@@ -5,7 +5,7 @@ tags:
     - Ultra
 ---
 
-# Case study: Developing an AI-powered tutor for a Mesters level conversation analysis module.
+# Case study: Developing an AI-powered tutor for a Masters level conversation analysis module.
 
 Department of Language and Linguistic Science<br />Kobin Kendrick
 
