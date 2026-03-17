@@ -80,6 +80,9 @@ Videos from staff at the University of York showing approaches to learning, teac
 ## Generative Artificial Intelligence (GenAI) tools
 
 - [Integrating GenAI into assessment on the ‘Business Planning and Sustainable Entrepreneurship’ module](../../training/case-studies/sbs-sinclair-ai.md)
+- [Developing an AI-powered tutor for a Masters level conversation analysis module](../../training/case-studies/lls-kendrick.md)
+- [Integrating Generative AI within an essay-based assessment on the year 3 module ‘India and Its Neighbourhood’](../../training/case-studies/politics-roy.md)
+- [Designing and delivering a Generative AI literacy strand on a language and study skills module](../../training/case-studies/ipc-martin.md)
 
 ## Virtual and extended reality (VR/XR)
 
