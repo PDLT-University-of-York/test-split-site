@@ -13,7 +13,7 @@ Phil Martin outlines how he designed and delivered an AI literacy strand on a la
 
 He describes the ways in which the strand aimed to go beyond a focus on technical instruction and specific tools, towards an appreciation of the ethical and practical issues involved in the uses of AI in Higher Education.  
 
-The strand was initially run as a non-credit bearing pilot but this allowed for the development of an assessment model combining handwritten work with no direct uses of AI tools, and creative digital outputs giving experience of the ways in which AI can be used for multimedia production. He felt that this combination worked well as an opportunity for students to develop a critical and reflective lens of the uses of AI.
+The strand was initially run as a non-credit bearing pilot but this allowed for the development of an assessment model combining handwritten work allowing for no direct uses of AI tools, with creative digital outputs built using a range of AI tools to encourage students to explore varied uses of AI. He felt that this combination worked well as an opportunity for students to develop a critical and reflective lens on AI.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6ab45fb6-fb01-4102-b7a4-b40300c514eb&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" style="border: 1px solid #464646; width: 720px; height: 405px;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Phil Martin - AI Literacy"></iframe>

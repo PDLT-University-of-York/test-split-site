@@ -8,7 +8,7 @@ tags:
 
 Department of Politics<br />Indrajit Roy
 
-Indrajit Roy describes a pilot in which AI was integrated into the assessment for a third-year politics module 'India and its Neighbourhood'. Indrajit required students to write traditional essays, then to engage with Gemini of their chosen topic and incorporate a short critique of the output. An integrated introductory session was delivered by the Digital Skills Team to support students. The AI critique was not marked directly to ensure that it would not become overly daunting for the students.  Indrajit points to benefits of the exercise in encouraging critical engagement with Generative AI.
+Indrajit Roy describes a pilot in which AI was integrated into the assessment for a third-year politics module 'India and its Neighbourhood'. Indrajit required students to write traditional essays, then to engage with Gemini on their chosen topic and incorporate a short critique of the output. An integrated introductory session was delivered by the Digital Skills Team to support students. The AI critique was not marked directly to ensure that it would not become overly daunting for the students.  Indrajit points to benefits of the exercise in encouraging critical engagement with Generative AI.
 
 Watch their presentation:
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=83025258-63f4-4eea-9de9-b40300c5257e&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Indrajit Roy - GenAI for India and its neighbourhood" ></iframe>
