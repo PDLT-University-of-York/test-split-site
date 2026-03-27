@@ -17,7 +17,7 @@ To activate survey mode, select ‘survey’ from settings. The word ‘survey�
 
 ![Decorative](images/asynchronous-use-survey-mode.png) 
 
-You can also check the accessibility of your presentation which will flag any issues such as problems with colour contrast or missing ALT text on images
+You can also check the accessibility of your presentation which will flag any issues such as problems with colour contrast or missing ALT text on images.
 
 ![Decorative](images/asynchronous-use-accessibility-check.png) 
 
