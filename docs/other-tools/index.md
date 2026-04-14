@@ -101,7 +101,7 @@
 
 </div>
 
-For more tools, see our guidance on getting [help from other teams](../help/contact-us.md#help-from-other-teams)
+For more tools, see the [University software pages](https://www.york.ac.uk/it-services/tools/software/) and our guidance on getting [help from other teams](../help/contact-us.md#help-from-other-teams)
 
 ## External/non-supported tools
 
