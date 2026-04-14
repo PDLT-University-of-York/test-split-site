@@ -83,6 +83,7 @@ Videos from staff at the University of York showing approaches to learning, teac
 - [Developing an AI-powered tutor for a Masters level conversation analysis module](../../training/case-studies/lls-kendrick.md)
 - [Integrating Generative AI within an essay-based assessment on the year 3 module ‘India and Its Neighbourhood’](../../training/case-studies/politics-roy.md)
 - [Designing and delivering a Generative AI literacy strand on a language and study skills module](../../training/case-studies/ipc-martin.md)
+- [Creating a podcast using Gen AI to support student learning](../../training/case-studies/chem-smith.md)
 
 ## Virtual and extended reality (VR/XR)
 
