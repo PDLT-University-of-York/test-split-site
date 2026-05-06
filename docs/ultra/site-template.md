@@ -18,15 +18,23 @@ Each module site should use the provided template; this is key for supporting ac
 ## Current report
 
 !!! tip
-    This is a snapshot of templating compliance and Ally data available on DD/MM/YYYY. Data do not automatically update to reflect changes made to sites after this point.
+    The report is a snapshot of templating compliance and Ally data available on 06/05/2026. It does not automatically update to reflect site changes made after this point.
 
-The current report is available in the dashboard below, or you can [open the dashboard in a new window](https://datastudio.google.com/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d) (UoY only).
+The current report is available in the dashboard below (UoY only), including:
+
+- Page 1 - Templating & Ally: faculty overview
+- Page 2 - Templating: Faculty & department summary
+- Page 3 - Templating & Ally: Site details
+
+There are filters in the top bar and buttons to move between pages in the bottom right. 
+
+To see detail more clearly, you can [open the dashboard in a new window](https://datastudio.google.com/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d). There is also use a bottom panel to open the report in full screen or navigate through pages.
 
 <iframe width="100%" min-width="600px" height="350px" src="https://datastudio.google.com/embed/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-## Methodology
+## Report methodology
 
-The report performs a series of automatic checks against module content. This produces two metrics which can be used to identify sites where the template (and therefore the Site Design Principles) may not be applied appropriately:
+The report performs a series of automatic checks against site content and compares this to the relevant departmental template. This produces two metrics which can be used to identify sites where the template (and therefore the Site Design Principles) may not be applied appropriately:
 
 <div class="grid cards show-bullets" markdown>
 
@@ -46,10 +54,10 @@ The report performs a series of automatic checks against module content. This pr
 
     ---
     
-    A more nuanced  based on specific issues present:
+    A more nuanced summary reflecting specific issues present:
     
     - weighted average scored from 0-100%
-    - points are deducted for each minor, medium and major issue identified
+    - increasing points are deducted for each minor, medium and major issue identified
 
 </div>
 
@@ -68,8 +76,6 @@ These metrics are calculated based on three broad compliance areas:
     - Partial (medium issues)
     - Needs attention (major issues)
     - Not classifiable (major issue)
-
-    It may not be possible to classify structures with non-systematically named items (eg. items named only by the topic). This also makes it more difficult for students to navigate content easily.
 
 ??? Abstract "Required items"
 
@@ -107,3 +113,31 @@ These metrics are calculated based on three broad compliance areas:
     - visible placeholder items, archived items or empty sections (medium issue)
     - high amounts of hidden items, unorganised items or repeated sequential items, eg. two 'Week 2' sections (minor issue)
     - Primary Instructor is not set (minor issue)
+
+## FAQs
+
+??? Question "Which sites are included in the report?"
+
+    The report includes sites from the current academic year that use the standard [DEP00001C-S1-A] naming format. Sites that do not have any enrolled students are excluded, along with sites for online exams.
+
+    Some sites may legitimately have very little content, eg. placement year modules, or other reasons why the template may not really apply. Any possible template exemption is flagged on the site report page. These sites are not excluded from departmental and faculty averages.
+
+??? Question "Why doesn't the report update to show changes to sites?"
+
+    The report is produced manually; it presents a snapshot of site data, and does not automatically update based on changes to sites after this point.
+
+    Within each site, the [Ally score and report](../ultra/ally-accessibility-report.md) *does* update after site changes.
+
+??? Question "Why is structure shown as *No content identified* when there are materials in the site?"
+
+    Structure classification largely relies on matching item names to various item types, so **it may not be possible to classify structures with non-systematically named items**.
+    
+    For example, systematically-named sections ("Week 4: Navigational skills") are easily classified, but content sections named only by the topic ("Navigational skills") or the lecturer's name are much more difficult to identify. This will affect the templating score as a major issue, but it is also important to address as non-systematic item naming makes it more difficult for students to navigate content easily.
+
+    The structure classification is also **based on visible content** only, so if all items are hidden then the content is not identified.
+
+??? Question "Why is a required item shown as missing when it is present in the site?"
+
+    The report matches item names in the site to a list of possible names for each required item. We have included a long list of reasonable matches for each required item, but if items are named differently they ay not be identified. If an item name matches multiple items, only one match is applied. For consistency, it's best practice to **use the item names from the template**.
+
+    The report also only identifies **required pages within the Module Information or Assessment section or at the top-level of the site**. For example, if the assessment criteria is included but within a weekly section, it will not be picked up by the report. This reflects the need for students to be able to easily locate key items.
