@@ -11,24 +11,22 @@ tags:
 !!! summary
 	To assist with departmental site QA review processes, a template compliance report is produced at the end of each semester. This report is intended as a starting point, and is not a direct judge of site or module quality.
 
-Templates have been collaboratively developed with departments to apply the Site Design Principles to specific teaching needs whilst also ensuring broad consistency across the institution.
+Templates have been collaboratively developed with departments. These apply the [Site Design Principles](../ultra/site-design-principles.md) to specific teaching needs whilst also ensuring broad consistency across the institution.
 
 Each module site should use the provided template; this is key for supporting accessibility and improving wider student experience.
 
 ## Current report
 
 !!! tip
-    The report is a snapshot of templating compliance and Ally data available on 06/05/2026. It does not automatically update to reflect site changes made after this point.
+    The dashboard is only available to users logged into a UoY Google account.    
 
-The current report is available in the dashboard below (UoY only), including:
+The current report is a snapshot of templating compliance and Ally data available on **06/05/2026**. The report dashboard is embedded below, including:
 
 - Page 1 - Templating & Ally: faculty overview
 - Page 2 - Templating: Faculty & department summary
 - Page 3 - Templating & Ally: Site details
 
-There are filters in the top bar and buttons to move between pages in the bottom right. 
-
-To see detail more clearly, you can [open the dashboard in a new window](https://datastudio.google.com/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d). There is also use a bottom panel to open the report in full screen or navigate through pages.
+There are filters in the top bar and buttons to move between pages in the bottom right. To view detail more clearly, you can [open the report dashboard in a new window](https://datastudio.google.com/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d). There is also use a bottom panel within the embed to navigate through pages or open the report in full screen.
 
 <iframe width="100%" min-width="600px" height="350px" src="https://datastudio.google.com/embed/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
