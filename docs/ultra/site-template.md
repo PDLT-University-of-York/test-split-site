@@ -139,3 +139,5 @@ These metrics are calculated based on three broad compliance areas:
     The report matches item names in the site to a list of possible names for each required item. We have included a long list of reasonable matches for each required item, but if items are named differently they ay not be identified. If an item name matches multiple items, only one match is applied. For consistency, it's best practice to **use the item names from the template**.
 
     The report also only identifies **required pages within the Module Information or Assessment section or at the top-level of the site**. For example, if the assessment criteria is included but within a weekly section, it will not be picked up by the report. This reflects the need for students to be able to easily locate key items.
+
+For further questions or feedback relating to the dashboard, reporting methodology or interpreting outcomes, please [contact our team](../help/contact-us.md) for assistance. 
