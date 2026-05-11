@@ -12,7 +12,7 @@ tags:
 # VLE site design principles
 
 !!! summary
-    These principles highlight best design practice to guide staff in developing effective VLE sites and minimise workload. [Ultra module site templates](../ultra/site-template.md) align with these principles.
+    These principles highlight best design practice to guide staff in developing effective VLE sites and minimise workload. Ultra module site templates align with these principles.
 
 Benefits of the principles include:
 
@@ -21,7 +21,7 @@ Benefits of the principles include:
 - **assisting staff** in developing effective sites through guidance on implementing principles.
 - informing **VLE site templates**, which reduce staff workload and cognitive effort to set up sites.
 
-***
+---
 
 Principles are categorised as essential or recommended:
 
@@ -36,13 +36,14 @@ Principles are categorised as essential or recommended:
 
 ??? recommended "Recommended principles: aim to meet"
 
-    Recommended principles help to **implement good design practice** and give a **good student experience**.
+    Recommended principles help to **implement good design practice** and facilitate a **good student experience**.
     Sites should aim to meet these principles.
 
 **It is the module convener's responsibility to apply these design principles in their site** or ensure that other staff working on the site do so.
 
+At the end of each semester, we produce a [templating compliance report](../ultra/site-template.md). This gives a measure of how well each site is applying the template, and therefore the Site Design Principles.
 
-***
+---
 
 Click each principle to show details, examples and guidance on implementing the principle in sites.
 
