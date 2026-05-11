@@ -28,9 +28,12 @@ The current report is a snapshot of templating compliance and Ally data availabl
 
 There are filters in the top bar and buttons to move between pages in the bottom right. To view detail more clearly, you can [open the report dashboard in a new window](https://datastudio.google.com/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d). There is also use a bottom panel within the embed to navigate through pages or open the report in full screen.
 
-<iframe width="100%" min-width="600px" height="350px" src="https://datastudio.google.com/embed/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+<iframe width="100%" min-width="600px" height="400px" src="https://datastudio.google.com/embed/reporting/aeddd47e-f614-4a0f-aa48-1aa9dc1a3ab3/page/p_1oclt0g92d" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 ## Report methodology
+
+!!! tip
+    Reporting methodology has been extensively updated and improved for 2025/26.
 
 The report performs a series of automatic checks against site content and compares this to the relevant departmental template. This produces two metrics which can be used to identify sites where the template (and therefore the Site Design Principles) may not be applied appropriately:
 
@@ -59,13 +62,28 @@ The report performs a series of automatic checks against site content and compar
 
 </div>
 
-These metrics are calculated based on three broad compliance areas:
+These metrics are computed based on three broad compliance areas:
 
 ??? Abstract "Structure"
 
     The Site Design Principles require content to be organised in a way that guides students through the module; in most cases a sequential weekly organisation (or unit, block etc.) is expected to support this. This could be separate sequential sections or sequential pages within a single module content section.
 
-    The compliance reporting uses section and item naming and locations to attempt to classify the *visible* content structure. This is then evaluated based on how well it aligns with the expected template structure.
+    The compliance reporting uses section and item naming, location and content types to attempt to classify the *visible* overall content structure:
+
+    - sections and/or items
+    - materials container with sub-sections and/or items
+    - lecture series (Chemistry only)
+    - block (Psychology core only)
+    - not classifiable
+     
+    The organisation of items within this overall structure is also classified based on item naming and location:
+
+    - sequential (eg. folders for Week 1, Week 2 etc.)
+    - format-based (eg. separate folders for lectures, workshops etc.)
+    - mix of sequential and format
+    - not classifiable
+    
+    The overall structure and item organisation of the site is then evaluated based on how well it aligns with the expected template structure.
 
     **Site structure evaluation**
 
@@ -104,7 +122,7 @@ These metrics are calculated based on three broad compliance areas:
 
 ??? Abstract "Other factors"
 
-    The compliance reporting also identifies other content features that can suggest wider issues in terms of site organisation and template adherence. These include:
+    The compliance report also identifies other content features that may suggest wider issues in terms of site organisation and template adherence. These include:
 
     - items that may suggest the Reading List is not being used appropriately (medium issue)
     - summative assessments located outside the assessment section (medium issue)
@@ -136,8 +154,14 @@ These metrics are calculated based on three broad compliance areas:
 
 ??? Question "Why is a required item shown as missing when it is present in the site?"
 
-    The report matches item names in the site to a list of possible names for each required item. We have included a long list of reasonable matches for each required item, but if items are named differently they ay not be identified. If an item name matches multiple items, only one match is applied. For consistency, it's best practice to **use the item names from the template**.
+    The report matches item names in the site to a list of possible names for each required item. We have included a long list of reasonable matches for each required item, but items with unexpected names may not be identified. Also, if an item name matches for multiple item types, only one match is applied. For consistency, it's best practice to **use the item names from the template**.
 
     The report also only identifies **required pages within the Module Information or Assessment section or at the top-level of the site**. For example, if the assessment criteria is included but within a weekly section, it will not be picked up by the report. This reflects the need for students to be able to easily locate key items.
+
+??? Question "Why does a site have a very different score to 2024/25?"
+
+    Reporting methodology has been extensively updated and improved for 2025/26. It is now much more robust and better able to automatically classify site structure and content.
+    
+    This means that scores from 2024/25 with the first reporting method may not be directly comparable to scores with the new reporting method. The new methodology will be used from 2025/26, so in future it will be possible to compare compliance year-on-year. 
 
 For further questions or feedback relating to the dashboard, reporting methodology or interpreting outcomes, please [contact our team](../help/contact-us.md) for assistance. 
