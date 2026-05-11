@@ -12,7 +12,7 @@ tags:
 # VLE site design principles
 
 !!! summary
-    These principles highlight best design practice to guide staff in developing effective VLE sites and minimise workload. Ultra module site templates align with these principles.
+    These principles highlight best design practice to guide staff in developing effective VLE sites and minimise workload. [Ultra module site templates](../ultra/site-template.md) align with these principles.
 
 Benefits of the principles include:
 
