@@ -20,7 +20,7 @@ Each module site should use the provided template; this is key for supporting ac
 !!! tip
     The dashboard is only available to users logged into a UoY Google account.    
 
-The current report is a snapshot of templating compliance and Ally data available on **06/05/2026**. The report dashboard is embedded below, including:
+The current report is a snapshot of templating compliance and Ally data available on **13/05/2026**. The report dashboard is embedded below, including:
 
 - Page 1 - Templating & Ally: faculty overview
 - Page 2 - Templating: Faculty & department summary
