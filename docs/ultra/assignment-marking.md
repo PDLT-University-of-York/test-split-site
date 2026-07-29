@@ -18,6 +18,8 @@ For student Assignment submission instructions, see our [student guides to submi
 
 Use the video demonstrations here for a quick start on accessing and marking submissions, or for more detail see the in-depth written guidance below.
 
+<!-- VIDEO 1 NOW OBSOLETE -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XGuTT5hnLAY?si=W37HgVuhz36hOaeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Marking Ultra Assignments: accessing submissions [YouTube]](https://www.youtube.com/watch?v=XGuTT5hnLAY)
 
@@ -26,29 +28,27 @@ Use the video demonstrations here for a quick start on accessing and marking sub
 
 ## Marking process
 
+It is possible to [add and edit marks directly in the Gradebook Grid View](../ultra/gradebook.md#edit-marks-directly-in-the-gradebook), but this has some implications for how marks may appear, so we recommend all edits are done in the main marking interface.
+
 ### 1. Open a submission
 
 A counter displays on the Gradebook tab when there are submissions that need marking. 
 
-![Top navigation bar with Gradebook tab displaying '6' icon](images/assignment-marking-counter.png)
+![Top navigation bar with Gradebook tab displaying '13' counter icon](images/gradebook-nav-bar.jpg)
 
-There are various ways to open submissions. Ultimately they all have the same outcome, so you can use whichever you prefer.
+There are various ways to open a submission. There is only one marking interface though, so you can use whichever you prefer.
 
-!!! Tip 
-
-    If your Assignment has marking groups set up (eg. for seminar groups), you can filter for your assigned group using the **Gradebook Marks tab**.
-
-=== "Submissions tab"
+=== "Assignment Submissions tab"
 
     **Use for**: direct access to an Assignment's Submissions tab
 
-    In the Course Content area, open the **Assignment** then select the **Submissions** tab. Click on a student's row to open their submission.
+    In the Course Content area, open the Assignment then select the **Submissions** tab. Click on a student's row to open their submission.
 
-    This also shows the numbers of submissions made, to mark and to post, and the date(s) that students made their submission(s). Grades also display here once work is marked.
+    The table also shows the numbers of attempts made by each student and the date of the last submission. Grades also display here once work is marked.
 
-    ![decorative](images/assignment-marking-submissions.png)
+    ![decorative](images/assignment-marking-submissions.jpg)
 
-=== "Marks tab"
+=== "Gradebook: Grid View"
 
     **Use for**: filtering for a specific marking group or assessment, or for quick access to a particular submission. 
     
@@ -56,35 +56,27 @@ There are various ways to open submissions. Ultimately they all have the same ou
         
         This tab may not be available on very small screens (eg. a mobile phone). 
 
-    Click **Gradebook**, then select the **Marks** tab. This displays a grid of students (rows) and assessment items (columns). 
+    Click **Gradebook** in the top navigation bar. The Grid View is the default view, but can be selected specifically using the **Grid View icon** (small squares in a 2x2 block). This displays a grid of students enrolled on the site (rows) and assessment items (columns).
 
-    To filter for marking groups, click **Filter**. Open the **Groups** dropdown, select your marking group (and/or apply other filters) and click **Apply**. 
+    To filter for a marking group, click the **Filter icon** (three stracked horizontal sliders) above the grid to open the *Filters and Views* panel. Open the **Groups dropdown** and select the relevant group (and/or select ofther filters) then click **Apply**.
 
-    ![decorative](images/assignment-marking-marks-filter-groups.png)
+    ![decorative](images/gradebook-filter.jpg)
 
-    To open a submission, click the relevant student/assessment cell and select **View**.
+    To open a specific student's submission, click the relevant cell to open the *Mark details* panel, then click **Mark submission** (for ungraded submissions) or **View submission** (for graded submissions).
 
-    ![decorative](images/gradebook-tab-marks-view.png)
+    ![decorative](images/gradebook-grid-mark-specific-submission.jpg)
 
-=== "Overview tab"
-
-    **Use for**: quick access to Assignments with submissions that *Needs Marking*.
-
-    Click **Gradebook**, then select the **Overview** tab. Under **Needs Marking**, find the relevant Assignment and click:
-
-    - the Assignment name to open its Submissions tab with the *Needs Marking* filter applied.
-    - the **Mark now** button to go straight to the marking interface with the *Needs Marking* filter applied.
-
-    ![decorative](images/gradebook-tab-overview.png)
-
-=== "Markable items tab"
+=== "Gradebook: List View"
 
     **Use for**: a summary of marking status for all assessment items.
 
-    Click **Gradebook**, then select the **Markable items** tab. This displays all assessment items and the number still to mark. Click the relevant Assignment to open its Submissions tab.
+    Click **Gradebook**, then select the **List View icon** (three stacked horizontal lines). This displays all assessment items in the site with the due date and number of submissions left to mark or post. 
 
-    ![decorative](images/gradebook-tab-markable-items.png)
+    Click the title of an assessment (or the number in the Marking Status column) to open its Submissions tab.
 
+    ![decorative](images/gradebook-list-view.jpg)
+
+    
 ### 2. Late submissions: check for previous submissions
 
 !!! Tip
@@ -321,35 +313,37 @@ You can also select another submission using any of the [methods to open a submi
 
 ### 6. Manually post marks
 
-!!! Tip
+!!! Warning
 
-    **Post marks** means to release marks and feedback to students. They will receive a notification that the marks are available. Marks cannot be unposted.
+    **Post marks** means to release marks and feedback to students. They will receive a notification that the marks are available. **Once posted, this cannot be undone**
 
-    Your department may have guidelines on whether module staff or administrators post marks and when.
+    For summative assessment, generally assessment administrators will post all marks for the cohort simultaneously. 
 
-An Assignment can be set to automatically post marks after marking, or to manually post marks. If a marking rubric is used, marks must be posted manually. 
+An Assignment can be set to automatically post marks immdiately after marking , or to manually post marks. If a marking rubric is used, marks *must* be posted manually. 
+
+There are varius ways to post marks manually:
 
 === "Post individual marks"
 
-    There are various ways to manually post marks and feedback for a specific submission:
+    **Use to**: post marks and release feedback for specific submissions.
 
     - In the **marking interface**, select the three dots icon next to the mark pill and select **Post mark**.
     </br>![decorative](images/assignment-marking-post-individual-interface.png)
     - In the **submissions list**, click the **Post 1 mark** button in the relevant student's row (the value shows the number of attempts marked).
     </br>![decorative](images/assignment-marking-post-individual-submissions.png)
-    - In the **Gradebook Marks tab**, click the student/assessment cell and click **Post**.
-    </br>![decorative](images/assignment-marking-post-individual-marks-tab.png)
+    - In the **Gradebook Grid View**, click the student/assessment cell to open the *Marking details panel*, then click **Post individual mark**.
+    </br>![decorative](images/assignment-marking-post-individual-grid-view-mark-panel.jpg)
 
 === "Post marks for a cohort"
 
-    There are various ways to manually post marks and feedback for all submissions at once:
+    **Use to**: post marks and release feedback to the whole cohort simultaneously.
 
     - In the **marking interface**, click the **Post marks** button at the bottom of the left Students panel.
     </br>![decorative](images/assignment-marking-post-cohort-interface.png)
     - In the **submissions list**, click the **Post all marks** button in the summary bar
     </br>![decorative](images/assignment-marking-post-cohort-submissions.png)
     - In the **Gradebook Marks tab**, click the Assignment column header and click **Post**.
-    </br>![decorative](images/assignment-marking-post-cohort-marks-tab.png)
+    </br>![decorative](images/assignment-marking-post-cohort-marks-grid-view.jpg)
 
 ## Practice the marking workflow
 
@@ -373,8 +367,9 @@ Use the Student Preview function to submit a file which you can then mark:
 
 ## Monitor student review of feedback
 
-The student overview page in the Gradebook allows you to see if a particular student has reviewed their posted mark and feedback.
+Use the feedback review label to monitor whether students have reviewed their mark and feedback for the Assignment.
 
-See our [Gradebook guide](../ultra/gradebook.md#monitor-student-review-of-feedback) for more details.
-
-![Not reviewed/reviewed label shown next to Assignment mark](images/assignment-marking-review-feedback.png)
+1. Click a student's name on the **Grid View** to open the student overview page.
+2. Locate the relevant Assignment in the list.
+3. Once Assigment marks have been posted (ie. made available to students), the *Status column* indicates if a student had reviewed their feedback or not.
+</br>![Review label shown next to mark in assessment row](images/gradeboook-review-feedback.jpg)
