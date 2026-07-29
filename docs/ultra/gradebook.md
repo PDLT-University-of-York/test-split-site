@@ -59,7 +59,7 @@ A purple dot shows an unmarked submission from that student for the relevant ass
 
 ![decorative](images/gradebook-grid-view.jpg)
 
-### Access submissions
+### Open submissions
 
 To open the general marking interface for an assessment, click the **page and pencil icon** in the column header. The number next to the icon shows the number of unmarked submissions.
 
@@ -75,6 +75,8 @@ To sort by scores, click the **arrow icons** to the right of the assessment titl
 
 ![decorative](images/gradebook-grid-view-sort.jpg)
 
+To sort by name or student ID, click the **arrow icons** at the top of the column. You can change whether to sort by first/given name or last/family name in the [Student Options Settings](#student-options).  
+
 ### Filter
 
 Click the **Filter icon** (three stracked horizontal sliders) above the grid to open the *Filters and Views* panel. Filter by any of: Students, Groups, Category, Types or specific Markable items, then click **Apply**.
@@ -89,11 +91,19 @@ Click an item in the drop down to show only that row/column as relevant. Click t
 
 ![decorative](images/gradebook-search.png)
 
-!!! Note
-
-    Currently, searching on a submission receipt returns the full column for the assessment, not the specific submission (we have passed on feedback that this is not ideal). 
+Currently, searching on a submission receipt returns the full column for the assessment, not the specific submission (we have passed on feedback that this is not ideal). 
     
-    To locate a *non-anonymous* submission by its receipt code, the simplest way is to download the Mark history for that specific assessment. This contains submission receipt codes and the relevant student name, which you can then search for in the Grid View.
+To locate a *non-anonymous* submission by its receipt code, the simplest way is to download the Mark history for that specific assessment. This contains submission receipt codes and the relevant student name, which you can then search for in the Grid View.
+
+### Edit marks directly in the Gradebook
+
+!!! Tip
+
+    It is possible to add and edit marks directly in the Grid View, but this has some implications for how marks may appear, so **we recommend all edits are done in the main marking interface**.
+
+To edit marks directly in the Grid View column, hover at the bottom on the column's header cell. Click on the **purple pen icon** that appears and make changes as needed in the cells. When you are finished, click the **purple tick icon** to save the edits.
+
+![Adding a mark directly into a cell](images/gradebook-grid-edit-mark.png)
 
 ### Assessment details panel
 
@@ -122,7 +132,6 @@ If no submissions have been marked yet, the **Post all marks button** will be gr
 ![decorative](images/gradebook-assessment-details-panel.png)
 </div>
 
-
 #### Task icons
 
 - **Send Reminder** (bell icon): click to send a reminder to students that have not made a submission.
@@ -148,7 +157,6 @@ Lists various assessment settings (these can't be edited here):
     If an assessment item is deleted, this **cannot be undone**. If you want to delete an assessment item, discuss this with your departmental administrative team.
 
 Click this button and follow the prompts to delete the item and all submissions made and marks/feedback given. 
-
 
 ### Mark details panel
 
@@ -227,11 +235,36 @@ Any [course-level accommodations](../ultra/accommodations.md) for the student ar
 ![decorative](images/gradebook-mark-details-panel-accommodations.png)
 </div>
 
-## Assessment settings and resources
+### Student overview panel
 
-On either Gradebook view, click the **cog** icon on the right of the Gradebook navigation bar to open site-wide Settings.
+In Grid View, click a student's name to open their overview panel. This summarises all of the student's information relating to the site, including:
+
+- Submission details and marks for each assessment and [whether they have reviewed feedback](#monitor-student-review-of-feedback)
+- [Course-level accommodations](../ultra/accommodations.md)
+- Various activity logs
+- Opportunity to send a personal [Message](../ultra/messages.md) (if enabled in the site)
+
+![decorative](images/gradebook-student-overview-panel.png)
+
+## Gradebook settings and assessment resources
+
+On either Gradebook view, click the **cog** icon on the right of the Gradebook navigation bar to open site-wide *Gradebook Settings panel*.
 
 ![decorative](images/gradebook-settings-icon.jpg)
+
+### Student options
+
+<div markdown class="grid">
+<div markdown>
+Select how to display student names:
+
+- First name last name (sorts on first/given name)
+- Last name, first name (sorts on last/family name)
+
+You can also toggle the Student ID display on or off; this may help view assessment columns more comfortably on a smaller screen.
+</div>
+![decorative](images/gradebook-settings-student-options.png)
+</div>
 
 ### Automatic zeroes
 
@@ -355,5 +388,6 @@ Use the feedback review label to monitor whether students have reviewed their ma
 This only relates to Ultra assessments: Assignment, Test etc.
 
 1. Click a student's name on the **Grid View** to open the student overview page.
-2. For Ultra Tests and Assignments where marks have been posted (ie. made available to students), the *Status column* indicates if a student had reviewed their feedback or not.
+2. Locate the relevant Assessment in the list.
+3. For Ultra Tests and Assignments where marks have been posted (ie. made available to students), the *Status column* indicates if a student had reviewed their feedback or not.
 </br>![Review label shown next to mark in assessment row](images/gradeboook-review-feedback.jpg)
