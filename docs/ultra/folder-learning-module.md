@@ -8,24 +8,12 @@ tags:
 
 !!! Summary
 
-    Learning Modules and Folders are containers for organising course content.
-
+    Learning Modules and Folders are containers for organising course content. They function similarly; where the same guidance applies to both, *container* is used here for simplicity.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
     - 3.1 Essential: Organise module materials in sections that support student progress through the module.
     - 3.4 Essential: Site and materials content is accessible.
-
-<figure markdown>
-![Learning Module container in Course Content area, and opened to show content items](images/folder-learning-module-overview.png)
-<figcaption>Learning Module container for organising content items</figcaption>
-</figure>
-
-## Overview
-
-!!! Tip
-    
-    Learning Modules and Folders are very similar; where the same guidance applies to both, *container* is used here for simplicity.
 
 Learning Modules and Folders are containers for other site content, helping to organise your site and make it easier for users to find what they need. Module site templates contain pre-built Learning Modules for key site content.
 
@@ -68,13 +56,9 @@ To add content to a container, drag in an existing item or hover where you want 
 
 ### Navigation & Table of Contents
 
-!!! Tip
+Navigate between items within a Learning Module using the *Contents panel* or *Previous*/*Next* buttons above the item content.
 
-    The Table of Contents and navigation within Learning Modules is available from 5th December.
-
-Navigate between items within a Learning Module using the **table of contents panel** or the **next / previous item buttons** above the item content.
-
-For Ultra Assignments, Test, Discussions and some other items, the **settings** summary panel may not appear inside Learning Modules on smaller screens, such as laptops. Instead, click the *cog ion* in the header to access the full settings. 
+For Ultra Assignments, Test, Discussions and some other items, the *Settings* summary panel may not appear inside Learning Modules on smaller screens, such as laptops. Instead, click the **cog ion** in the header to access the full settings. 
 
 ![Decorative](images/folder-learning-module-toc-detail.png)
 
