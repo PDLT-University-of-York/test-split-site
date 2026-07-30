@@ -55,7 +55,7 @@ For more detail, see our guide to [Course Groups](../ultra/course-groups.md).
 4. Add the assessment **Instructions**, either by adding text directly in the box or by uploading a file. These will only show once students open the Assignment.
 5. When ready for students to access the Assignment, set the submission point to [Visible to students](../ultra/content-visibility.md#showhide-a-single-item).
 
-![Decorative](images/assignment-set-up.png)
+![Decorative](images/assignment-create.png)
 
 ### 3. Adjust general settings
 
@@ -188,7 +188,7 @@ For student Assignment submission instructions, see our [student guides to submi
 
 !!! Warning
 
-   Practice any Assignment workflow in your personal Ultra sandpit site to avoid:
+    Practice any Assignment workflow in your personal Ultra sandpit site to avoid:
 
     - 'locking in' live Assignment settings after a submission is made.
     - allowing students early access to the Assignment or sending them unnecessary or confusing notifications.
