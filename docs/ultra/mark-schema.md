@@ -82,8 +82,8 @@ So if this mark schema is applied to an assessment, a raw score of 55% is displa
 
 Set up and edit Mark Schemas in the Gradebook.
 
-1. Open the **Gradebook** tab in the top navigation bar in the site. Any tab within the Gradebook is fine.
-2. Click the **Settings (cog) icon** in the top right of the Gradebook, then click **Manage mark schemas** on the overlaid Settings menu.
+1. Open the **Gradebook** , then click the **cog icon** in the top right to open the course-level *Gradebook settings panel*.
+2. Scroll down to the *Mark Schemas* setting and click **Manage mark schemas**.
 </br>![decorative](images/mark-schema-access-mark-schemas.png)
 3. The Mark Schemas page lists all the site's mark schemas.
     - To add a new mark schema: click the **Plus icon**, then enter a name and click **Add**
