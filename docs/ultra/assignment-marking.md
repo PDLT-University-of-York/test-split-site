@@ -342,7 +342,7 @@ There are varius ways to post marks manually:
     </br>![decorative](images/assignment-marking-post-cohort-interface.png)
     - In the **submissions list**, click the **Post all marks** button in the summary bar
     </br>![decorative](images/assignment-marking-post-cohort-submissions.png)
-    - In the **Gradebook Marks tab**, click the Assignment column header and click **Post**.
+    - In the **Gradebook Marks tab**, click the Assignment column header and click **Post all marks**.
     </br>![decorative](images/assignment-marking-post-cohort-marks-grid-view.jpg)
 
 ## Practice the marking workflow

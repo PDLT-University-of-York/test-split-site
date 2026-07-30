@@ -372,9 +372,9 @@ You can also toggle the Student ID display on or off; this may help view assessm
 
 1. Open the assessment **Statistics** panel:
     - *Grid View*: Click an assessment's title in its column header to open the *Assessment details* panel. Click the **statistics icon** (document with a bar graph on it) and select **Statistics** from the drop-down.
-    <br>![decorative](images/gradebook-download-results-grid-view.png)
+    <br>![decorative](images/gradebook-statistics-grid-view.jpg)
     - *List View*: Click the three dot menu at the far right of the assessment’s row and select **Statistics** from the drop-down.
-    <br>![decorative](images/gradebook-download-results-list-view.png)
+    <br>![decorative](images/gradebook-statistics-list-view.jpg)
 3. Review the statistics. Note that these include any automatic zeroes assigned for non-submission.
     - Grade Statistics: count (of different grades awarded), min, max, range, average, median, sd, variance
     - Marking Status: count of submissions completed, still to mark etc.
