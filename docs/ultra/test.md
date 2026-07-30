@@ -20,7 +20,7 @@ tags:
     - 4.2 Essential: Assessment instructions are clearly labelled and explain the task and requirements.
 
 <figure markdown>
-![Example Test within a Learning Module showing a matching question, cog to access settings and tab to access student submissions](images/test-example.png)
+![Example Test within a Learning Module showing a matching question, cog to access settings, summary of key settings and tabs to access student submissions, activity and question analysis](images/test-example.png)
 <figcaption>Test: staff view of interface</figcaption>
 </figure>
 
@@ -377,9 +377,9 @@ You can build and trial the Test in your personal Ultra sandpit site, and when i
 
 ## Questions
 
-!!! Tip
+!!! Warning 
 
-    Don't use Essay type questions for practice quizzes or other Tests that need automatic mark return. Essay questions must be manually marked before scores are visible for any question in the Test.
+    Essay-type questions must be manually marked before students can view *any* results or feedback, regardless of when they are set to be released. **Don't use Essay questions if the Test won't be manually marked** and you want to automatically release results and feedback.
 
 ### Question types
 
@@ -394,40 +394,6 @@ Key question types are summarised below. See [Blackboard's Question Types guide]
 | [Calculated Formula](https://help.anthology.com/blackboard/instructor/en/assessments/questions/question-types/calculated-formula-questions.html)  | Calculate the answer to a given formula (eg. 3x + 4y = ?). Values (x/y) are randomly generated so each student has a different question.| auto graded | manual only |
 | [Calculated Numeric](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Calculated_Numeric_Questions)  | Similar to Fill in the Blank questions, but for numeric answers. Answer can be exact number or within a range.| auto graded | manual only |
 | [Essay](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Hotspot_Questions) | Enter a text response (of any length). Can provide a model answer to help grading or as feedback. | **manually graded** | can be auto-generated |
-
-### January 2026 update: multiple choice options
-
-#### **New feature**: limit the number of selectable options
-
-- Some example uses:
-    - if one correct answer: limit to selecting only one option
-    - if multiple correct answers: limit to the number of correct answers and prevent selecting all options
-- Default values for existing questions:
-    - 1 correct answer: select up to *1 option*
-    - 2+ correct answers: select up to the *total number of options*
-- Default value for new questions: select up to *4 options*
-
-#### **Changes to option presentation**: options will not be labelled A/B/C/D etc.
-
-Instead of A/B/C/D labels, multiple choice options have a clickable button depending on how many options can be selected:
-
-- select up to 1 option: radio button
-- select up to 2+ options: check box
-
-<div markdown class="grid">
-<figure markdown>
-![Multiple choice question with one correct answer, four options in total](images/test-multiple-choice-radio-button.png)
-<figcaption>
-Radio button: select only one
-</figcaption>
-</figure>
-<figure markdown>
-![Multiple answer question with two correct answers, four options in total](images/test-multiple-choice-check-box.png)
-<figcaption>
-Check boxes: can select multiple options
-</figcaption>
-</figure>
-</div>
 
 ### Add questions
 
@@ -450,7 +416,6 @@ There are multiple ways to add questions to a Test. Which method is most appropr
         - set the question as [extra credit](https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Question_Types/Extra_Credit_Questions)
         - add automated feedback (auto-marked types) or example correct answer (Essay type only)
         - change the points awarded (default = 1 point)
-        </br>![Multiple choice question manually built in the editor, highlighting optional features listed.](images/test-question-options.png)
     5. Click **Save**.
     6. Repeat for all questions.
 
@@ -783,11 +748,11 @@ Unless stated, these settings **cannot** be updated after students have started 
 
 ### Extensions and extra time
 
-For Tests with a **deadline** (eg. submit by 15/05/2026 14:00), liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension).
+For Tests with a **deadline** (eg. submit by 15/05/2027 14:00), liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension).
 
 <div markdown class="grid">
 <div markdown>
-For Tests with a clear pedagogical for a **time limit** (eg. complete within 2 hours), extra time accommodations must be set for students with a relevant SSP (eg. 25% extra time). This must be set in each site for each student. See our [Accommodations for SSPs guide](../ultra/accommodations.md) for details.
+For Tests with a clear pedagogical need for a **time limit** (eg. complete within 2 hours), extra time accommodations must be set for students with a relevant SSP (eg. 25% extra time). This must be set in each site for each student. See our [Accommodations for SSPs guide](../ultra/accommodations.md) for details.
 </div>
 <figure markdown>
 ![Purple flag icon next to student name in class register](images/accommodations-flag.png)
@@ -807,17 +772,17 @@ For fully auto-marked Tests, no manual marking is required. You can review the m
 
 !!! Tip
 
+    Manual marking is required if a Test includes any Essay type questions.
+
     Make sure that the Test is Hidden from students to prevent accidentally releasing marks early. If using a separate exam site, also make sure the [site is Closed](../ultra/course-access.md).
 
-If a Test contains Essay type questions, these must be manually marked. This **must occur before scores or feedback for auto-marked questions can be released**, so Essay questions should be avoided in most cases.
-
 1. To open a Test submission, click the *Submissions* tab within the Test and select an attempt from the list. For other methods to access submissions, see our [guide to open Ultra Assignment submissions](../ultra/assignment-marking.md#1-open-a-submission).
-</br>![](images/test-marking-open-submission.png)
+</br>![decorative](images/test-marking-open-submission.png)
 2. If a Due Date was set and a student has made a late submission, the correct attempt to mark may not be the default attempt presented, so you will need to check which attempt to mark. See our [Assignment marking guide](../ultra/assignment-marking.md#2-late-submissions-check-for-previous-submissions) for details.
 3. Marking methods:
-    - **Anonymous: mark by student**. If anonymous marking is on, Essay type questions must be marked within the full attempt. If randomisation was used, question order will differ between attempts.
+    - **Mark by student**: The default method. Mark each student's exam as a whole. If randomisation was used, question order will differ between attempts.
     </br>![One attempt highlighted in left panel attempt list, with essay question and other questions from that attempt.](images/test-marking-by-student.png)
-    - **Non-anonymous: mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. The question text is shown above the responses. This is not affected by randomisation.
+    - **Mark by question**. Click the **Questions** tab above the student list to group all the responses for each question. This is useful to focus on Essay questions that require manual marking. The question text is shown above the responses.
     </br>![One question highlighted in left panel question list, with collated answers for the same essay question from all students](images/test-marking-by-question.png)
 4. Review each essay question response. If an *example correct response* has been provided, click the chevron icon in the bottom right to show/hide it. Enter a score in the *mark pill* in the top right.
 ![Essay question and student response with example answer text and mark entered](images/test-marking-essay-question.png)
@@ -958,7 +923,7 @@ After marks are released, students can view various aspects of assessment result
 
     An anonymously marked Test must be de-anonymised (by posting all marks) before results can be downloaded.
 
-After marking is complete, you can also download overall results or by-question scores. See our [guide to downloading Gradebook data](../ultra/gradebook.md#download-gradebook-data) for details.
+After marking is complete, you can also [download overall marks](../ultra/gradebook.md#download-overall-marks) or [responses and marks for each question](../ultra/gradebook.md#download-results-test-question-responses-and-scores).
 
 ### Question Analysis
 
