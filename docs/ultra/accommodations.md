@@ -5,15 +5,17 @@ tags:
     - Ultra
 ---
 
-# Accommodations (SSP extensions)
+# Accommodations 
 
 !!! Summary
 
-    Set accommodations in a site to automatically apply SSP extensions to Test time limits.
+    Set accommodations in a site to apply SSP extra time or deadline extensions etc.
 
-Accommodations are adaptations to assessment settings for students with an SSP. Ultra offers two types of accommodation:
+## Course-level accommodations
 
-## Time limit accommodation
+These are general accommodations that apply across the site.
+
+### Time limit
 
 !!! Tip
 
@@ -30,14 +32,13 @@ The time limit accommodation extends the time allowed for timed assessments. For
 
 Time limit accommodations can be applied and updated while a student has in-progress Test attempts. The time limit will update immediately, but the student may need to refresh the page to display this correctly.
 
-To apply accommodations, Start by accessing the accommodations panel using your preferred method:
+There are multiple ways to access the *Accommodations panel*:
 
-- *Via the Gradebook*: open the Gradebook and select the **Students tab**. Locate the relevant student then click the **three dots icon** and select **Accommodations**.
+- *Via the Gradebook*: Click **Gradebook**. The Grid View is the default view, but can be selected specifically using the **Grid View icon** (small squares in a 2x2 block).
+</br>Click the relevant student's name to open the *Student overview panel* and click **Accommodations** in the menu bar (behind three dots icon on small screens).
 </br>![decorative](images/accommodations-via-gradebook.png)
 - *Via the Class Register*: on the main Content page and in the **Details & Actions** panel, click the **Class Register**. Locate the relevant student then click the **three dots icon** and select **Accommodations**.
 </br>![decorative](images/accommodations-via-register.png)
-- *Click the student's name*: this opens a summary of the student's activity. Click **Accommodations** in the menu bar to open the Accommodations panel.
-</br>![decorative](images/accommodations-via-student-page.png)
 
 <div markdown class="grid">
 <div markdown>
@@ -52,7 +53,7 @@ To set the relevant time limit extension:
 ![decorative](images/accommodations-timelimit-set.png)
 </div>
 
-## Due date accommodation
+### Due date
 
 !!! Warning
 
@@ -65,4 +66,25 @@ The due date accommodation means submissions are never marked as late. It does n
 **Do not apply this accommodation**. There are various methods to manage deadline extensions for SSPs and ECAs etc. Liaise with your departmental assessment administration team to set up the relevant method for your assessment.
 </div>
 ![Accommodations panel: Students with a time limit accommodation have more time to finish their work during timed assessments.](images/accommodations-duedate-intro.png)
+</div>
+
+## Assessment-level accommodations
+
+These are accommodations that apply only to specific assessment items.
+
+<div markdown class="grid">
+<div markdown>
+
+You can:
+
+- exempt the student from needing to submit.
+- add a personal extension to the main assessment due date.
+- provide a personal access window using *Access from* and/or *Access until* release conditions.
+- limit or extend the number of attempts the student is allowed to make for the assessment.
+
+Set these accommodations via the **Gradebook Grid View**. Click the relevant cell for that student and assessment to open the *Marks detail panel*, then open the **Accomodations** section and enter the settings.
+
+Any course-level accommodations for the student are also shown here, but can't be edited.
+</div>
+![decorative](images/gradebook-mark-details-panel-accommodations.png)
 </div>

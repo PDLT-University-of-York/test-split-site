@@ -111,6 +111,7 @@ Click an item's title in the column header to open the *Assessment details* pane
 
 <div markdown class="grid">
 <div markdown>
+
 #### Navigation
 
 Use the **left/right arrows** to move between assessments.
@@ -164,6 +165,7 @@ Click on a cell to open the *Mark details* panel for a submission. This contains
 
 <div markdown class="grid">
 <div markdown>
+
 #### Navigation
 Use the **up/down arrows** to move between students within the same assessment and the **left/right arrows** to move between assessments for the same student.
 
@@ -185,6 +187,7 @@ After marking, the **Post individual mark** button becomes available; this relea
 
 <div markdown class="grid">
 <div markdown>
+
 #### Submission details
 
 This shows details of the student's submission and also a summary of the assessment marking settings:
@@ -199,6 +202,7 @@ This shows details of the student's submission and also a summary of the assessm
 
 <div markdown class="grid">
 <div markdown>
+
 #### Assessment feedback
 
 This shows any feedback given within the marking interface. This will be shown to students after marks are posted.
@@ -210,6 +214,7 @@ This shows *Overall feedback* and any specific *Attempt feedback* for multiple a
 
 <div markdown class="grid">
 <div markdown>
+
 #### Marker notes
 
 This is a ‘staff-eyes-only’ field and can be used similarly to feedback fields discussed above. This will **not** be shown to students after marks are posted.
@@ -221,6 +226,7 @@ Notes here may be useful for moderation purposes or in cases of academic miscond
 
 <div markdown class="grid">
 <div markdown>
+
 #### Accommodations
 
 This section is for setting assessment-specific accommodations for individual students. You can:
