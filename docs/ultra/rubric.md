@@ -104,16 +104,16 @@ There are various rubric types available, which differ in terms of how the mark 
 
 The simplest way to access rubrics is through the Gradebook.
 
-1. Open the **Gradebook** then click the **Settings (cog) icon** in the top right.
-</br>![decorative](images/rubric-gradebook-settings.png)
-2. In the Gradebook Settings menu, scroll down to the *Course Rubrics* section. Here you can add new rubrics and manage existing ones.
-</br>![List of rubrics with additional buttons to Create and Generate new rubrics](images/rubric-gradebook-course-rubrics.png)
+1. In the **Gradebook**, click the **cog icon** on the right of the navigation bar to open site-wide *Gradebook Settings panel*.
+</br>![decorative](images/rubric-gradebook-settings-icon.jpg)
+2. Scroll down to the *Course Rubrics* section.
 3. To create a new rubric:
     - click **Create** to [manually build a rubric](#build-manually)
     - click **Generate** to use the [AI Design Assistant](#generate-using-ai) as a starting point for building the rubric.
 4. To manage an existing rubric:
     - to view or edit: click the **rubric name** to open it and edit content
     - to duplicate or delete: click the **three dots icon** next to the name and choose the relevant option
+</br>![decorative](images/rubric-gradebook-settings-panel.png)
 
 !!! Tip
     <div markdown class="grid">
@@ -278,8 +278,8 @@ There are different methods to override rubric marks, with slightly different vi
 
     **Override visibility**
     
-    - Staff: mark labelled as an override within the submission and in the Gradebook
-    - Students: mark labelled as an override within the submission
+    - Staff: mark **not** labelled as an override in the Gradebook Grid View, but **is labelled** within the submission
+    - Students: mark **labelled** as an override within the submission
     - All: original rubric mark and criterion marks are always visible within the submission
 
     ---
@@ -302,21 +302,21 @@ There are different methods to override rubric marks, with slightly different vi
     3. If you need to remove the override, click the three dots again and select **Remove Override**. Deleting the mark just in the override mark pill will still show as an Override.
     </br>![decorative](images/rubric-override-final-mark-remove.png)
 
-=== "Gradebook Marks tab"
+=== "Gradebook Grid View"
 
     **Override visibility**
     
-    - Staff: mark **not** labelled as an override within the submission or the Gradebook
-    - Students: mark **not** labelled as an override within the submission
+    - Staff: mark **not** labelled as an override in the Gradebook Grid View, but **is labelled** within the submission
+    - Students: mark **labelled** as an override within the submission
     - All: original rubric mark and criterion marks are always visible within the submission
 
     ---
 
     This method is useful when the work has already been marked using the rubric and is being adjusted afterwards.
 
-    1. Open the [Gradebook](../ultra/gradebook.md#view-gradebook-data-and-submissions) Marks tab. This shows a grid of students and assessments.
-    2. Click the cell for the relevant student and assignment. Delete the mark shown and enter the new mark.
-    </br>![Marks tab grid of students and assessments. Original score of 69.6 in cell overridden to 68. No override label shown.](images/rubric-override-gradebook-marks-tab.png)
+    1. Open the **Gradebook Grid View**. This is the default view, but can be selected specifically using the **Grid View icon** (small squares in a 2x2 block).
+    2. Hover at the bottom on the relevant assessment column's header cell. Click on the **purple pen icon** that appears and make changes as needed in the student cells. When you are finished, click the **purple tick icon** to save the edits.
+    ![Decorative](images/rubric-gradebook-grid-edit-mark.png)
     3. If you need to remove the override, manually re-enter the original rubric mark. This can be seen within the submission if needed.
 
 === "Assignment Submissions tab"

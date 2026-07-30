@@ -82,7 +82,7 @@ You can:
 - provide a personal access window using *Access from* and/or *Access until* release conditions.
 - limit or extend the number of attempts the student is allowed to make for the assessment.
 
-Set these accommodations via the **Gradebook Grid View**. Click the relevant cell for that student and assessment to open the *Marks detail panel*, then open the **Accomodations** section and enter the settings.
+Set these accommodations via the **Gradebook Grid View**. Click the relevant cell for that student and assessment to open the *Marks detail panel*, then click the **Accomodations** section and enter the settings.
 
 Any course-level accommodations for the student are also shown here, but can't be edited.
 </div>
