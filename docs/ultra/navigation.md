@@ -9,40 +9,9 @@ tags:
 
 !!! Summary
 
-    An introduction to navigating the Ultra system and within sites.
+    An introduction to navigating the Ultra system and within Course and Community sites.
 
-## Updated navigation: January 2026
-
-An updated navigation system is coming in January 2026. This will make it easier to move around the Ultra system and between sites, and makes better use of screen space.
-
-### System-level changes
-
-![Updated navigation menu, described in text](images/navigation-new-system.png)
-
-Small changes to system-level navigation:
-
-- more compact navigation menu
-- **Sign out** moved to the bottom of the screen
-- profile avatar shown in the navigation menu (if you have set one)
-
-### Site-level changes
-
-!!! Tip
-
-    This applies to Course and Community sites.
-
-![Updated site navigation, largely in the appearance of the header / menu section. Further described in text.](images/navigation-new-site.png)
-
-Cosmetic changes and some additional functionality for site-level navigation:
-
-- Sites open **full-width**, rather than as an overlaid panel - return to the Home page using the **Home** icon.
-- The Course Image (banner) becomes full width, with the site name overlaid. This frees up more screen space for content.
-- Top menu and header bars changes from white to a dark colour.
-- Move between sites using the **Course** switcher feature.
-
-## Navigating the Ultra system
-
-### Navigation menu
+## System navigation
 
 The main site navigation bar appears on the left hand side on a larger screen, or can be accessed through the three lines icon in the top left on a smaller screen.
 
@@ -77,14 +46,6 @@ When you log into Ultra, you will land on the Home page, which contains:
     - details of any system issues
 - **Department-specific links**: mostly student-facing; handbooks, student support sites etc.
 
-Within a site, click the **purple cross** icon in the top left of the page panel to return to the Home page.
-
-![Decorative](images/navigation-home-return-cross.png)
-
-From January 2026, sites will open as full-width pages. Click the **Home** icon to return to the Home page.
-
-![Decorative](images/navigation-home-return.png)
-
 ### Courses & Communities
 
 <figure markdown>
@@ -92,19 +53,23 @@ From January 2026, sites will open as full-width pages. Click the **Home** icon 
 <figcaption>Courses page</figcaption>
 </figure>
 
-- **Courses** page: lists all your module sites. You can browse, filter and search for sites. Favourite key sites by clicking the **star** icon to pin them to the top of list.
+- **Courses** page: lists all your module sites. You can browse, filter and search for sites. Favourite key sites by clicking the **star** icon to pin them to the top of list. For more details, see the [Courses list](../ultra/courses-list.md) guide.
 - **Communities** page: lists any non-academic sites. Use it in the the same way as the Courses page.
 
-For more details, see the [Courses list](../ultra/courses-list.md) guide.
+Within a site, click the **Home** icon to return to the Courses page.
+
+![Decorative](images/navigation-home-return.png)
 
 ## Navigating sites
 
-<figure markdown>
-![Module site: top menu, site banner with overlaid site name. Main section has the content area and Details & Actions menu](images/navigation-site.png)
-<figcaption>Module site (from January 2026)</figcaption>
-</figure>
+!!! Tip
 
-Courses and Community sites are navigated in the same way.
+    Courses (module sites) and Community sites are navigated in the same way.
+
+<figure markdown>
+![Module site: top menu with close, course switcher and course settings buttons, site banner with overlaid site name. Main section has the content area and Details & Actions menu](images/navigation-site.png)
+<figcaption>Module site</figcaption>
+</figure>
 
 ### Top menu
 
@@ -123,8 +88,8 @@ Within sites, navigate between parts of the site using the top menu. The menu ta
 
 The top menu banner also includes:
 
-- **Home**: to close the site and return to the Home page (from January 2026).
-- **Courses**: to move between recently-visited course sites, or to go to the Courses page (from January 2026).
+- **Home**: to close the site and return to the **Courses** page.
+- **Courses**: course switcher to quickly move between recently-visited or favourited sites.
 - **Course Settings**: to manage [site availability](../ultra/course-access.md) and other site-wide settings.
 - **Student Preview**: to check how content appears to students.
 
@@ -137,3 +102,17 @@ The Content tab is the main area of the site, and acts as the site's home page. 
     - **Class Register**: set the [Primary Instructor](../ultra/course-staff.md#primary-instructor) and [enrol users](../ultra/user-management.md#enrol-individual-users) if needed.
     - [**Course Image**](../ultra/course-image.md): update the site banner.
     - **Books & Tools**: for integrated tools, particularly the [Ally accessibility report](../ultra/ally-accessibility-report.md).
+
+### Navigating within pages
+
+Content items within the site open as full-screen pages. The navigation bar at the top contains:
+
+- **X** button to close the page/item and return to your previous location.
+- Navigation breadcrumbs showing the item's location in the site. Note: Learning Module or Folder links are *not* clickable.
+- **Previous** and **Next** arrows to move between items (Learning Module only)
+
+For Learning Modules only, there is also a collapsable **Contents panel** on the left for quick access to all items within the Learning Module. See our [Learning Modules guide](../ultra/folder-learning-module.md#navigation--table-of-contents) for more details.
+
+*Page content* appears in the main section of the page.
+
+![Decorative](images/navigation-site-page.png)
