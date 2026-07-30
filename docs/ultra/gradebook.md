@@ -120,6 +120,8 @@ Use the **left/right arrows** to move between assessments.
 
 If submissions need marking, click the **Mark** button to open the marking interface. The number of submissions that still need marking is displayed on the button in brackets. If marking is complete the button will read **View submissions** instead.
 
+If the assessment is marked anonymously, this is the only way to open the marking interface via the Grid View.
+
 #### Post all marks
 
 If *any* submissions have been marked, it is possible to click **Post all marks button** to release marks and feedback to students. If the assessment was set up to be anonymous then posting de-anonymises the submission point. **Once posted, this cannot be undone.**
@@ -172,6 +174,8 @@ Use the **up/down arrows** to move between students within the same assessment a
 #### Mark/View submission
 
 Click the **Mark submission** (for ungraded submissions) or **View submission** (for graded submissions) button to open it in the marking interface.
+
+If the assessment is anonymously marked, these options are not available. Instead. open the marking interface for all subvmissions via the *Assessment details panel*.
 
 #### Post individual mark
 
