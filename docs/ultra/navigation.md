@@ -60,7 +60,7 @@ Within a site, click the **Home** icon to return to the Courses page.
 
 ![Decorative](images/navigation-home-return.png)
 
-## Navigating sites
+## Site navigation
 
 !!! Tip
 
