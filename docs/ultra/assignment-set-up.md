@@ -87,6 +87,9 @@ Appropriate settings will depend on your particular assignment, but here are our
         - tick *No due date* or set a *Due date* (this must be within working hours)
         - do **not** tick *Prohibit late submissions* or *Prohibit new attempts after due date*
         - leave all other options unticked
+    - **Submission details**
+        - leave *Online submissions* selected unless no work is submitted online
+        - leave *File upload* ticked, consider unticking *Text entry*
     - **Formative Tools**
         - tick *Formative assessment*
         - leave *Display formative label to students* ticked
@@ -115,6 +118,9 @@ Appropriate settings will depend on your particular assignment, but here are our
         - set a *Due date* (this must be within working hours)
         - do **not** tick *Prohibit late submissions* or *Prohibit new attempts after due date*
         - leave all other options unticked
+    - **Submission details**
+        - leave *Online submissions* selected
+        - leave *File upload* ticked, consider unticking *Text entry*
     - **Formative Tools**
         - leave unticked
     - **Marking & Submissions**
@@ -157,6 +163,20 @@ These settings **can** be updated after students have started their submissions.
 - *Collect submissions offline*: for marking physical submissions or performances. Unlikely to be necessary.
 </div>
 ![Details & Information settings panel: described in text](images/assignment-settings-details-and-information.png)
+</div>
+
+### Submission details
+
+These settings can be **partially** updated after students have started their submissions; additional formats can be added, but not removed.
+
+<div markdown class="grid">
+<div markdown>
+
+- *Submission method*: select *Offline submissions* for work that is not submitted via the VLE (eg. a physical product), otherwise leave as *Online submissions*.
+- *Allowed format for online submissions*: Leave *File upload* entry checked. *Text entry* allows students to type/paste their submission directly into the VLE.
+
+</div>
+![Submission details settings panel: described in text](images/assignment-settings-submission-details.png)
 </div>
 
 ### Formative Tools
