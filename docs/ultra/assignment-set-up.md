@@ -20,7 +20,7 @@ tags:
     - 4.3 Essential: Provide marking criteria or other grading policies showing how work is marked.
 
 <figure markdown>
-![Example Assignment within a Learning Module showing text box to add instructions, cog to access settings and tab to access student submissions](images/assignment-example.png)
+![Example Assignment within a Learning Module showing text box to add instructions, cog to access settings, summary of key settings and tabs to access student submissions and activity](images/assignment-example.png)
 <figcaption>Assignment: staff view of interface</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Appropriate settings will depend on your particular assignment, but here are our
 
 !!! Question "Key consideration: Does your Assignment need a due date?"
 
-    Setting a due date/deadline (eg. submit by 15/05/2026 14:00) is only recommended for summative tasks. Formative tasks may be easier to manage without a deadline.
+    Setting a due date/deadline (eg. submit by 15/05/2027 14:00) is only recommended for summative tasks. Formative tasks may be easier to manage without a deadline.
     
     If required, set a due date and time during core work hours and liaise with your departmental assessment administration team to manage deadline extensions for SSPs, ECAs etc (eg. 3 day extension). **Students must be able to start and submit late attempts.**
     
