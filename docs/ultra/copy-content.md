@@ -15,7 +15,7 @@ tags:
 Within a site, you can quickly make a copy of an item:
 
 1. Locate the item to copy, click the **three dots icon** on the right, then **Duplicate**.
-2. Move the duplicated item to the relevant new location.
+2. Move the new duplicated item to the relevant location.
 
 ![Decorative](images/copy-content-duplicate.png)
 
