@@ -11,7 +11,7 @@ tags:
 
 !!! Tip
 
-    The export .zip file is a specific format that can only be used to restore a complete VLE site. To copy specific content between sites, use the [Copy Content tool](../ultra/copy-content.md) instead.
+    The export .zip file is a specific format that can only be used to restore a complete VLE site. To copy specific content between sites, use the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) instead.
 
 ## Manual backup
 

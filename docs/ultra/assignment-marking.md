@@ -357,7 +357,7 @@ There are varius ways to post marks manually:
 Use the Student Preview function to submit a file which you can then mark:
 
 1. Make sure you are working in your personal Ultra sandpit site.
-2. Create an **Assignment** with the same settings as your 'live' Assignment (eg. with or without a rubric, marks posted manually/automatically). Alternatively, use the [Copy Content tool](../ultra/copy-content.md) to copy an Assignment from your live module site. 
+2. Create an **Assignment** with the same settings as your 'live' Assignment (eg. with or without a rubric, marks posted manually/automatically). Alternatively, use the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) to copy an Assignment from your live module site. 
 3. Make sure your test Assignment is **Visible to students**.
 4. Click **Student Preview** in the top right, then click **Start Preview**.
 5. Open the Assignment and click **View Instructions**.

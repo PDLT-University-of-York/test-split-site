@@ -4,15 +4,26 @@ tags:
     - Ultra
 ---
 
-# Copy content tool
+# Copy and duplicate content
 
 !!! Summary
 
-    Use the Copy Content tool to copy items from another Ultra site or duplicate items within the same site.
+    Copy items from another Ultra site or duplicate items within the same site.
+
+## Duplicate items
+
+Within a site, you can quickly make a copy of an item:
+
+1. Locate the item to copy, click the **three dots icon** on the right, then **Duplicate**.
+2. Move the duplicated item to the relevant new location.
+
+![Decorative](images/copy-content-duplicate.png)
+
+## Copy content tool
 
 ![decorative](images/copy-content-terminology.png)
 
-The Copy Content tool allows you to easily copy existing Ultra content into your site, such as content items, marking rubrics, questions banks and more.
+The Copy Content tool allows you to easily copy existing Ultra content from another site, such as content items, marking rubrics, questions banks and more.
 
 Some terminology that we'll use in this guide:
 
@@ -25,8 +36,6 @@ You must be enrolled as an Instructor on the origin *and* destination sites.
 
     The copies are static. Later changes to content items in the origin site **do not update** in copied items in the destination site.
 
-## Best practices
-
 ### Organise copied content
 
 Make sure to organise the copied content items into your site structure so that students can find them easily. Don't copy items into the top level and leave them there.
@@ -38,20 +47,7 @@ There are two ways to do this:
 
 ![Well organised: copied items within a folder. Not organised: items at the top level outside the folder](images/copy-content-organised.png)
 
-### Avoid copying from Original sites
-
-<div markdown class="grid">
-<div markdown> 
-In most cases, we don't recommend using the Copy Content tool if the origin site is an Original ('old style') site.
-
-Ultra and Original sites are structured differently, so content doesn't copy well and needs a lot of tidying up. It's likely easier to recreate it directly the Ultra destination site.
-
-However, Questions Banks do usually copy well from Original to Ultra sites.
-</div>
-![decorative](images/copy-content-no-original.png)
-</div>
-
-## Using the Copy Content tool
+### Using the Copy Content tool
 
 1. Open the **destination site**.
 2. Hover in the location where you want to copy the content to. Click the **plus icon** then select **Copy Content** in the menu that appears.

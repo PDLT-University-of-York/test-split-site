@@ -202,7 +202,7 @@ If you haven't already created your Student preview user in this site, do that f
 You can then use Student Preview to test the group Assignment and marking workflow:
 
 1. Create a **group set** and assign your Student preview user to a group. Make the group set visible to students.
-2. Create an **Assignment** with the same settings as your 'live' Assignment or use the [Copy Content tool](../ultra/copy-content.md) to copy an Assignment from your module site. Assign it to groups and make it visible to students.
+2. Create an **Assignment** with the same settings as your 'live' Assignment or use the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) to copy an Assignment from your module site. Assign it to groups and make it visible to students.
 4. Click **Student Preview** in the top right, then click **Start Preview**.
 5. Open the Assignment. Check that the group shows as expected, then click **Start attempt 1** (or **View instructions**).
 6. To make a submission, drag and drop to upload a file, set the file display name, and then **Submit**.

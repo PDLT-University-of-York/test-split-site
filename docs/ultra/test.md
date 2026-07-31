@@ -371,7 +371,7 @@ To create a Test:
 
 ![decorative](images/test-create.png)
 
-You can build and trial the Test in your personal Ultra sandpit site, and when it is ready use the [Copy Content tool](../ultra/copy-content.md) to add it to your module/exam site in the relevant location.
+You can build and trial the Test in your personal Ultra sandpit site, and when it is ready use the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) to add it to your module/exam site in the relevant location.
 
 --- 
 

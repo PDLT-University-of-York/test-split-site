@@ -68,7 +68,7 @@ To create an assignment:
 
 ![Decorative](images/assignment-create.png)
 
-You may like to set up and preview the Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md) to copy it into your module site. 
+You may like to set up and preview the Assignment in your personal sandpit site (especially if you are new to setting up submission points). You can then use the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) to copy it into your module site. 
 
 ## Settings
 
@@ -277,7 +277,7 @@ You can check how the Assignment appears to students using the **Student Preview
 
 !!! Warning
 
-    To preview the Assignment, it must be **Visible to students**. To prevent students seeing the submission point before it is ready, use the [Copy Content tool](../ultra/copy-content.md) to copy it to your personal sandpit site for previewing.
+    To preview the Assignment, it must be **Visible to students**. To prevent students seeing the submission point before it is ready, use the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) to copy it to your personal sandpit site for previewing.
 
 1. In editing mode, set the Assignment availability as **Visible to students**.
 2. Click **Student Preview** in the top right, then **Start Preview**.
@@ -286,4 +286,4 @@ Check that the group shows as expected, then click **Start attempt 1** (or **Vie
 4. To trial making a submission, drag and drop to upload a file, set the file display name, and then **Submit**. *Not recommended in a live module site!*
 5. Click **Exit** in the top right to close Student Preview. When prompted, click **Save** to retain your submission (eg. to [practice the marking workflow](../ultra/assignment-marking.md#practice-the-marking-workflow) or **Discard** to remove your preview activity.
 8. Back in editing mode, adjust any settings as needed and preview again until you are satisfied.
-7. In your module site, use the the [Copy Content tool](../ultra/copy-content.md) to copy the final Assignment version from your sandpit site, or update the settings as needed if it was set up there originally.
+7. In your module site, use the the [Copy Content tool](../ultra/copy-content.md#copy-content-tool) to copy the final Assignment version from your sandpit site, or update the settings as needed if it was set up there originally.

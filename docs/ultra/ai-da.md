@@ -25,7 +25,7 @@ AI-DA tools are available in many items within your course, shown by the 'magic'
 
 ![Discussion showing the small magic icon and also on a larger screen with icon and text](images/aida-magic-icon.png)
 
-We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. You can then use the [Copy Content](../ultra/copy-content.md) tool to insert any materials that you want to use for teaching into your module site. ([Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.)
+We recommend exploring AI-DA tools in your personal Ultra sandpit site rather than a module site to avoid generating clutter make sure that students won't see any content until it's ready. You can then use the [Copy Content](../ultra/copy-content.md#copy-content-tool) tool to insert any materials that you want to use for teaching into your module site. ([Contact us](mailto:vle-support@york.ac.uk) if you need a sandpit site.)
 
 ## Tips for generating appropriate output
 
@@ -173,5 +173,5 @@ See our Marking Rubric guide for details of [how to auto-generate rubrics using 
 AI-DA doesn't automate repetitive tasks such as updating multiple due dates. However, there are other Ultra features that may be useful:
 
 - [Batch Edit](../ultra/batch-edit.md): change due dates, set release conditions and delete items in bulk
-- [Copy Content](../ultra/copy-content.md): copy items from within the current site or from another site
+- [Copy Content](../ultra/copy-content.md#copy-content-tool): copy items from within the current site or from another site
 - Upload Test questions: upload existing Test questions from a .csv file. See our guide to [adding Test questions](../ultra/test.md#add-questions) for more details.

@@ -172,7 +172,7 @@ Add your module content within these sections. Tools available include:
 3. If reusing content or materials from previous years:
     - Ensure all **content and files are up to date**. Don't add any old material.
     - **Check links and embedded content** are shared correctly for the new cohort. For example, update links to yearly handbook documents and check any re-used Panopto videos are shared correctly (see [Replay Lecture Capture (Panopto) section](#replay-lecture-capture-panopto) for details).
-    - The [Copy Content tool](../ultra/copy-content.md) can be used to copy materials from other Ultra sites that you have Instructor access to.
+    - The [Copy Content tool](../ultra/copy-content.md#copy-content-tool) can be used to copy materials from other Ultra sites that you have Instructor access to.
 
 The case studies below demonstrate how advanced tools and features have been applied in module sites across the University. You can also browse our [full set of case studies](../training/case-studies/index.md) for more examples.
 
