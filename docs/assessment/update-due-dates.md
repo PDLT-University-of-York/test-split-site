@@ -37,8 +37,8 @@ Here are steps to update assessment item due dates via the Markable Items list. 
 
 ### Ultra Assignment or Test
 
-1. Click **Gradebook** in the top horizontal menu, then **List View**.
-2. Locate the relevant assessment item and click the **three dots icon** to the right of the Ultra Assignment submission point, 
+1. Click **Gradebook** in the top horizontal menu, then the **List View** icon (three stacked horizontal lines).
+2. Locate the relevant assessment item and click the **three dots icon** to the right of the Ultra Assignment submission point. 
 3. Click **Edit**, update the due date, then **Save**.
 
 ![decorative](images/update-due-date-ultra-native.png)
@@ -47,19 +47,12 @@ Here are steps to update assessment item due dates via the Markable Items list. 
 
 Make sure to check and update the due date in both Ultra and TurnItIn.
 
-1. Click **Gradebook** in the top horizontal menu, then **Markable Items**.
-2. Update in TurnItIn: click the **name of submission point**, click **Cog icon** in top right to open Settings, update start and release dates as needed, then **Save**.
-**Important Note:** Make sure the Feedback Release Date is set for AFTER the Due Date you intend to set via the Ultra interface (otherwise you can invalidate the submission point).
-3. Update in Ultra: Locate the TurnItIn submission point in the Content area of the site and click on its three dot icon (“...”) to the right of the submission point, click **Edit**, update the due date, then **Save**.
-
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d0be933e-058e-4e2b-ad0c-b1e700b94cb5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="315" width="560" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="TurnItIn Assignment - Changing Due Date" ></iframe>
-[Panopto: TurnItIn Assignment - Changing Due Date (UoY login required)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d0be933e-058e-4e2b-ad0c-b1e700b94cb5)
+1. Click **Gradebook** in the top horizontal menu, then the **List View** icon (three stacked horizontal lines).
+2. Locate the relevant assessment item and click the **three dots icon** to the right of the TurnItIn submission points row. 
+3. Click **Edit**, update the due date, then **Save**. This can also be done via the Content area of the site; locate the TurnItIn submission point and click on its three dot icon (“...”) to the right of the submission point, click **Edit**, update the due date, then click **Save**.
 
 ### Gradescope
 
-1. Click **Gradebook** in the top horizontal menu, then **Markable Items**.
+1. Click **Gradebook** in the top horizontal menu, then the **List View** icon (three stacked horizontal lines).
 2. There will not be a due date shown, as dates are only shown within the Gradescope item.
-3. Click on Gradescope submission point name, click **Settings**, update the dates, then **Save**.
-
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ca23eeb6-c5d9-4475-85b7-b1e700bafcca&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="315" width="560" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Gradescope Assignment - Changing Due Date" ></iframe>
-[Panopto: Gradescope Assignment - Changing Due Date (UoY login required)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ca23eeb6-c5d9-4475-85b7-b1e700bafcca)
+3. Click on the Gradescope submission point name, select **Settings** from the left menu and update the date settings. Click **Save Assignment**.
