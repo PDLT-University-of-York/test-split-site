@@ -45,14 +45,13 @@ Here are steps to update assessment item due dates via the Markable Items list. 
 
 ### TurnItIn Feedback Studio
 
-Make sure to check and update the due date in both Ultra and TurnItIn.
-
 1. Click **Gradebook** in the top horizontal menu, then the **List View** icon (three stacked horizontal lines).
-2. Locate the relevant assessment item and click the **three dots icon** to the right of the TurnItIn submission points row. 
-3. Click **Edit**, update the due date, then **Save**. This can also be done via the Content area of the site; locate the TurnItIn submission point and click on its three dot icon (“...”) to the right of the submission point, click **Edit**, update the due date, then click **Save**.
+2. Click the name of the submission point then click the Cog icon in top right to open TurnItIn's Settings. IMPORTANT: Make sure the Feedback Release Date is set for AFTER the Due Date you intend to set via the Ultra interface in the next step (otherwise you can invalidate the submission point).
+3. Go back to the Gradebook List View and locate the submisison point again. Click the **three dots icon** to the right of the TurnItIn submission points row. 
+4. Click **Edit**, update the due date, then **Save**. Note that this can also be done via the Content area of the site; locate the TurnItIn submission point and click on its three dot icon (“...”) to the right of the submission point, click **Edit**, update the due date, then click **Save**.
 
 ### Gradescope
 
 1. Click **Gradebook** in the top horizontal menu, then the **List View** icon (three stacked horizontal lines).
 2. There will not be a due date shown, as dates are only shown within the Gradescope item.
-3. Click on the Gradescope submission point name, select **Settings** from the left menu and update the date settings. Click **Save Assignment**.
+3. Click on the Gradescope submission point name, select **Settings** from the left menu and update the date settings. Click **Save Assignment**. Note that this can also be done via the Content area of the site by locating the Gradescope submission point and clicking on its name.
