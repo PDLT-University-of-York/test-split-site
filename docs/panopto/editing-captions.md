@@ -47,19 +47,23 @@ Panopto provides auto-captioning for recordings, but [automatic captions alone a
 3. In the editing screen, click the **Captions** tab in the left-hand menu.
 </br>![Captions is third in the menu list](images/captions-tab.png)
 4. Click any caption text to make corrections. Type in the box to modify the text for accuracy, clarity, and punctuation.
-</br>![Decorative](images/edit-captions.png)
+</br>![Decorative](images/captions-edit-captions.png)
 5. To synchronize captions with audio, click the **three dots icon** then **Edit** to manually enter the time, or adjust the start and end times by dragging the handles.
-</br>![Decorative](images/edit-time-stamp.png)
+</br>![Decorative](images/captions-edit-time-stamp.png)
 6. **Preview captions** by playing the video to ensure edits are correct and properly timed.
 7. Click **Apply** in the top-right corner to save your edits. Choose whether to replace the existing session or create a new version.
 
 You can also download the captions, edit the caption file offline and re-upload if you prefer.
 
-## Download captions
+## Download and upload captions
 
 1. Locate the relevant video. Hover over the thumbnail, then click the **Settings icon**.
+</br>![Decorative](images/captions-settings.png)
 2. In the left-hand options list, select **Captions**.
-3. Click the **arrow icon** next to *English (United Kingdom)* (or another captions option if available), then click **Download file**.
+3. Choose the relavant task:
+    - To download: Under *Available Captions*, click the **arrow icon** next to the relevant captions option, then click **Download file**.
+    - To upload: Under *Upload Captions*, select the relevant file and cilck **Upload Captions**
+</br>![Decorative](images/captions-download-upload.png)
 
 ## Create Transcript
 
