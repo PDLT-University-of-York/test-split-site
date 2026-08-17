@@ -309,7 +309,7 @@ plugins:
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
         'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
-        'panopto/editing-captions.md': 'panopto/captions.md'
+        #'panopto/editing-captions.md': 'panopto/captions.md'
         'contact-us/index.md': 'help/contact-us.md'
         'updates/index.md': 'help/updates-issues.md'
         'updates/suggestions.md': 'help/contact-us.md'
