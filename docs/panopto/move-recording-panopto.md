@@ -34,14 +34,14 @@ Below is an embedded video detailing how to DO THE THING. Alternatively, you can
 1. Log into the [Learn ULtra VLE](https://www.vle.york.ac.uk).
 2. Locate the site where your recording is hosted.
 3. **Click** on the Panopto folder on your site titled 'Replay Lecture Capture (Panopto)'
-![View of Panopto folder in a VLE site](Images/lecture-capture-vle.png)
+![View of Panopto folder in a VLE site](images/lecture-capture-vle.png)
 4. Locate the video you want to move.
 5. Hover your cursor over the video thumbnail and click the check box that appears in the top left-hand corner of the video thumbnail.
-![A recording selected in Panopto](Images/thumnail-check.png)
+![A recording selected in Panopto](images/thumnail-check.png)
 6. Above the video list, click **Move**.
-![Move option in Panopto selected](Images/move-button.png)
+![Move option in Panopto selected](images/move-button.png)
 7. In the window that appears, use the search box to search for the folder destination, either by VLE site code, SITS module code, module name, or by manually searching for the folder using the drop-down box.
-![Annotated screenshot of video timeline with slides](Images/search-box.png)
+![Annotated screenshot of video timeline with slides](images/search-box.png)
 8. Click the folder to select. 
 9. Click **Move**.
 10. Once your upload is finished **click 'X**' to close the window.

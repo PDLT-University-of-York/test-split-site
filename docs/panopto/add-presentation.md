@@ -17,19 +17,19 @@ Adding the slides into a lecture capture recording can make it more accessible a
 appear along with the time that it appears inside your video. If you'd like to add
 slides to your video, click **Add a presentation** above and select your slide deck from
 your computer.
-</br>![Decorative](Images/add-presentation-step-1.png)
+</br>![Decorative](images/add-presentation-step-1.png)
 3. To **add a presentation**, locate and select the PowerPoint you wish to add to your
 video. Panopto will upload all slides in the presentation and allow you to preview
 them once processed.
-</br>![Decorative](Images/add-presentation-step-2.png)
+</br>![Decorative](images/add-presentation-step-2.png)
 4. To add a slide to the video, click in the timeline to move the red line to the exact spot
 you want to add the slide.
 5. Select the **Plus icon** next to the slide to add it. Repeat this step to add additional
 slides.
-</br>![Decorative](Images/add-presentation-step-3.png)
+</br>![Decorative](images/add-presentation-step-3.png)
 6. A new stream appears within the timeline and your slides will now appear in the video
 stream.
-</br>![Decorative](Images/add-presentation-step-6.png)
+</br>![Decorative](images/add-presentation-step-6.png)
 7. To edit where a slide appears, select the **three dots** next to the slide and then select
 **Edit**.
 8. On the **Edit Table of Contents** entry page, you can manually type in the time you

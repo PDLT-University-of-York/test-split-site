@@ -57,7 +57,7 @@ This is used widely for:
 - recording short 'at-desk' videos (resources for module VLE sites or other uses).
 </div>
 
-![Decorative](../panopto/Images/index-panopto.png)
+![Decorative](../panopto/images/index-panopto.png)
 
 </div>
 

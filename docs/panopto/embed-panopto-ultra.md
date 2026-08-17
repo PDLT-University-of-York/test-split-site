@@ -30,12 +30,12 @@ Lecture capture recordings are available though the LTI link to the module's Pan
 1. From your VLE Ultra course, click the **plus** icon wherever you wish to add this content.
 2. Select **Content Market** from the pop-up menu as shown below.
 3. From the listed available tools, select **Panopto**. 
-</br>![Decorative](Images/embed-video-2.png)
+</br>![Decorative](images/embed-video-2.png)
 4. You will see listed any video content already uploaded to your course’s folder. Select the video you wish to embed. You can also upload and record new content directly in to this folder. 
     - **Note**: You can also use the search box in the top left of this window to search for and access an Ongoing Media folder if you have one (just search for "Ongoing Media").
 5. Click **Insert**. 
 6. Should you wish to apply further embed options, click the downward facing arrow next to **Video Embed Options**. Choose the options you wish to apply to your video. 
-</br>![Decorative](Images/embed-video-7.png)
+</br>![Decorative](images/embed-video-7.png)
 
 ## Embed a video in an Ultra Document 
 

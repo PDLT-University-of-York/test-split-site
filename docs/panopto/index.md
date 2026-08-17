@@ -16,7 +16,7 @@ At UoY, Panopto...
 - lets all users download transcripts
 </div>
 
-![Decorative](Images/index-panopto.png)
+![Decorative](images/index-panopto.png)
 
 </div>
 

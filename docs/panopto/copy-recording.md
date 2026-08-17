@@ -20,15 +20,15 @@ Below is an embedded video detailing how to copy a recording Alternatively, you 
 
 1. Go to your module site in **Blackboard Ultra**.
 2. Click on the **Replay Lecture Capture (Panopto)** link on your VLE **Course Content** page.
-</br>![Decorative](Images/copy-video-step-0.png)
+</br>![Decorative](images/copy-video-step-0.png)
 3. In the Panopto folder, **hover** your cursor over the recording you want to copy.
 4. **Check** the box that appears in the top-left hand corner of the video thumbnail as shown below (A).
-</br>![Decorative](Images/copy-video-step-1.png)
+</br>![Decorative](images/copy-video-step-1.png)
 5. To select multiple videos, **check** the **select-all/none** check box as shown above (B).
 6. Click **Copy**.
-</br>![Decorative](Images/copy-video-step-2.png)
+</br>![Decorative](images/copy-video-step-2.png)
 7. **Search** for the module code (eg: ENG00001I) or VLE site code (eg: Y2023-000001), or navigate through the folders using the dropdown menu. 
-</br>![Decorative](Images/copy-video-step-3.png)
+</br>![Decorative](images/copy-video-step-3.png)
 8. Click **Copy**. 
 9. Your video(s) will then be copied over to the associated VLE module site. 
 10. To copy recordings to multiple sites, **repeat** the above steps as many times as needed.
@@ -41,11 +41,11 @@ Below is an embedded video detailing how to copy a recording Alternatively, you 
 To make a reference copy independent (standalone):
 
 1. Go to the folder with the reference copy (as indicated by the reference copy icon shown below)
-</br>![Decorative](Images/ref-copy-icon.png)
+</br>![Decorative](images/ref-copy-icon.png)
 2. Click on **Edit**
-</br>![Decorative](Images/edit-icon.png)
+</br>![Decorative](images/edit-icon.png)
 3. Select **Unlink and Edit**. The copy is now separate, allowing unique edits that won’t affect the original or other reference copies.
-</br>![Decorative](Images/unlink.png)
+</br>![Decorative](images/unlink.png)
 
 
 ## More Details and Troubleshooting 

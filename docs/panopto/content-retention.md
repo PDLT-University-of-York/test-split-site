@@ -20,7 +20,7 @@ Any recording that belongs to a taught module and is scheduled to be recorded fa
 - Videos that were created more than 1 year ago will be archived when they have not been viewed for at least 3 months.
 - Videos that were created more than 6 years ago will be deleted if they are in the archive.
 
-</br>![Decorative](Images/content-retention-timeline.jpg)
+</br>![Decorative](images/content-retention-timeline.jpg)
 
 ## "My Folder"
 All staff have a personal folder, labelled “My Folder”. Videos should never be shared from these folders. The following policies apply to all content in “My Folder”.
@@ -41,7 +41,7 @@ For Panopto to recognise a “view”, a video needs to be opened and played for
 Videos can be moved into an Ongoing Media folder, but only if a valid use case for this is provided. Exceptions from archiving will only be considered in exceptional cases. 
 
 ## How do I restore a video from the archive?
-1. Folders which contain archived videos have the option to show “ready to view” videos, or to show “archived” videos.</br>![Decorative](Images/content-retention-restore-1.png)
-2. Hovering over an archived video brings up the option to “restore from archive”. Selecting this will begin the process.</br>![Decorative](Images/content-retention-restore-2.png)
-3. Opening the video will show when it was archived, and an alternative button to “restore from archive”. </br>![Decorative](Images/content-retention-restore-3.png)
-4. Once the request has been made, a message will state “Restore from archive process has been initiated”. This will show in both the folder view and the opened video. It can take up to 72 hours for videos to be restored, and nothing can be done to restore videos faster.</br>![Decorative](Images/content-retention-restore-4a.png)</br>![Decorative](Images/content-retention-restore-4b.png)
+1. Folders which contain archived videos have the option to show “ready to view” videos, or to show “archived” videos.</br>![Decorative](images/content-retention-restore-1.png)
+2. Hovering over an archived video brings up the option to “restore from archive”. Selecting this will begin the process.</br>![Decorative](images/content-retention-restore-2.png)
+3. Opening the video will show when it was archived, and an alternative button to “restore from archive”. </br>![Decorative](images/content-retention-restore-3.png)
+4. Once the request has been made, a message will state “Restore from archive process has been initiated”. This will show in both the folder view and the opened video. It can take up to 72 hours for videos to be restored, and nothing can be done to restore videos faster.</br>![Decorative](images/content-retention-restore-4a.png)</br>![Decorative](images/content-retention-restore-4b.png)

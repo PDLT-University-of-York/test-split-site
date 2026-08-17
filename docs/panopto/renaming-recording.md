@@ -30,12 +30,12 @@ Below is an embedded video detailing how to rename a recording. Alternatively, y
 1. Open your Panopto folder in the VLE site and find the recording you wish to rename.
 2. Hover your mouse over the video thumbnail.
 3. Click on **Settings** that appears above the thumbnail.
-</br>![Decorative](Images/settings-menu.png)
+</br>![Decorative](images/settings-menu.png)
 4. At the top of the settings screen, click **Edit** next to the current name.
-</br>![Decorative](Images/edit-link.png)
+</br>![Decorative](images/edit-link.png)
 5. Enter the new name for the recording.
 6. Click **Save** to confirm the new name.
-</br>![Decorative](Images/save-link.png)
+</br>![Decorative](images/save-link.png)
 7. Close the settings window. The updated name should now be visible.
 
 

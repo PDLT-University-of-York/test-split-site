@@ -4,7 +4,7 @@ tags:
     - Panopto 
 ---
 
-# Editing captions in Panopto
+# Captions
 
 !!! Summary
 
@@ -39,19 +39,39 @@ Panopto provides auto-captioning for recordings, but [automatic captions alone a
 - **Consistency**: Use consistent capitalization and formatting across captions.
 - [More detail on subtitles and transcripts](https://subjectguides.york.ac.uk/media/subtitles) (including on YouTube and other platforms) is available on the Practical Guide to media editing.
 
-## Editing captions in Panopto
+## Edit captions
 
 1. Sign into [Panopto](https://york.cloud.panopto.eu/) with your University of York credentials, or access the Panopto folder within your VLE site.
 2. Locate the video to edit. Hover over the thumbnail, then click the **Edit icon**.
-</br>![Edit icon appears on hover](Images/launch-editor.png)
+</br>![Edit icon appears on hover](images/launch-editor.png)
 3. In the editing screen, click the **Captions** tab in the left-hand menu.
-</br>![Captions is third in the menu list](Images/captions-tab.png)
+</br>![Captions is third in the menu list](images/captions-tab.png)
 4. Click any caption text to make corrections. Type in the box to modify the text for accuracy, clarity, and punctuation.
-</br>![Decorative](Images/edit-captions.png)
+</br>![Decorative](images/edit-captions.png)
 5. To synchronize captions with audio, click the **three dots icon** then **Edit** to manually enter the time, or adjust the start and end times by dragging the handles.
-</br>![Decorative](Images/edit-time-stamp.png)
+</br>![Decorative](images/edit-time-stamp.png)
 6. **Preview captions** by playing the video to ensure edits are correct and properly timed.
 7. Click **Apply** in the top-right corner to save your edits. Choose whether to replace the existing session or create a new version.
+
+You can also download the captions, edit the caption file offline and re-upload if you prefer.
+
+## Download captions
+
+1. Locate the relevant video. Hover over the thumbnail, then click the **Settings icon**.
+2. In the left-hand options list, select **Captions**.
+3. Click the **arrow icon** next to *English (United Kingdom)* (or another captions option if available), then click **Download file**.
+
+## Create Transcript
+
+Captions can be converted to a transcript to provide a text-based alternative. To do this, remove timestamps from the downloaded caption file and format the captions into coherent paragraphs.
+
+You can do this efficiently using Gemini Notebook:
+
+1. Log into [Gemini Notebook](https://notebook.google.com/) using your UoY account (this prevents your materials being used to train the underlying model).
+2. Upload your caption file as a Source.
+3. In the main **Chat** function, request the transcript using following prompt:
+</br>"Please convert the provided caption file into a clean transcript. Remove all timestamps and index numbers, and format the text into coherent paragraphs. Keep the text verbatim, but strip out all vocal fillers (such as 'um', 'uh', and 'you know') and ensure the final text is grammatically correct while preserving the original meaning."
+4. Copy/paste the output into a file and provide as needed.
 
 ## Troubleshooting
 

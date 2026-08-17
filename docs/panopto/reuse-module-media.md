@@ -30,17 +30,17 @@ The most appropriate method to reuse recordings depnds on your situation:
 
 1. Locate the Panopto folder from last year either from the old module site in Blackboard **or** directly via the folder in Panopto.
 2. **Hover** your cursor over the recording you wish to copy. 
-![Annotated screenshot showing video in Panopto](Images/reuse-module-media-1.png)
+![Annotated screenshot showing video in Panopto](images/reuse-module-media-1.png)
 3. **Select** the check box that appears in the left-hand corner of your video. Follow this step to select multiple videos.
-![Annotated screenshot showing video selected for copying](Images/reuse-module-media-2.png)
+![Annotated screenshot showing video selected for copying](images/reuse-module-media-2.png)
 4. To select all videos click the check box above the video list.
-![Annotated screenshot showing multiple videos selected](Images/reuse-module-media-3.png)
+![Annotated screenshot showing multiple videos selected](images/reuse-module-media-3.png)
 5. Select **Copy** from the options which appear.
-![Annotated screenshot showing searching for Panopto video](Images/reuse-module-media-4.png)
+![Annotated screenshot showing searching for Panopto video](images/reuse-module-media-4.png)
 6. Use the drop-down menu to search for the **current** module site folder, by selecting from the list of folders or typing the folder name. Folders can be searched by module code (eg. MAN00001H), by the current year's VLE site code (eg. Y2023-000001) or by module name.
-![Annotated screenshot showing module folders in Panopto](Images/reuse-module-media-9.png)
+![Annotated screenshot showing module folders in Panopto](images/reuse-module-media-9.png)
 7. Click **Copy**.
-![Annotated screenshot showing copy option](Images/reuse-module-media-6.png)
+![Annotated screenshot showing copy option](images/reuse-module-media-6.png)
 
 !!! Tip
      If you are unsure of the folder name, search for your current module in Blackboard for reference. Your Panopto folder will have the same name as your site.
