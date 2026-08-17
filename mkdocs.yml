@@ -68,7 +68,7 @@ nav:
       - Replay Lecture Capture in Teaching Rooms: panopto/lecture-capture.md
     - Editing Content in Panopto:
       - Basic editing: panopto/basic-editing.md
-      - Editing Captions in Panopto: panopto/editing-captions.md
+      - Captions: panopto/editing-captions.md
       - Add presentation slides: panopto/add-presentation.md
     - Managing video content: 
       - Copy a recording: panopto/copy-recording.md     
@@ -309,6 +309,7 @@ plugins:
         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
         'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
+        'panopto/editing-captions.md': 'panopto/captions.md'
         'contact-us/index.md': 'help/contact-us.md'
         'updates/index.md': 'help/updates-issues.md'
         'updates/suggestions.md': 'help/contact-us.md'
