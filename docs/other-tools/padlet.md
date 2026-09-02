@@ -8,7 +8,7 @@ tags:
 
 !!! failure "Padlet has been retired"
 
-    Due to unexpected licensing changes leading to rising costs, **Padlet has now been withdrawn from the University’s offering of supported platforms**.
+    **Padlet has now been withdrawn from the University’s offering of supported platforms**.
 
 
 !!! tip "Training session: Exploring alternatives to Padlet"
@@ -17,6 +17,20 @@ tags:
 
      - [Recording: Exploring alternatives to Padlet (Panopto viewer)](https://york.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=174d4b6d-880c-4fbb-ad9f-b35a010d8e54)
      - [Resources: Mentimeter presentation](https://www.mentimeter.com/app/presentation/alf35e2y3yp2sajoxv8a25dsvtjxfie4/edit?source=share-modal)
+
+## What will happen to my account and boards?
+
+You may still be able to login, but your account and all associated Padlet boards will be “read only”, and you will not be able to make new boards or edit existing boards.
+
+You will still be able to transfer boards from your university account to a personal account. See [Padlet's guidance on transferring Padlets](https://padlet.help/l/en/article/sc0nse96r7-transfer-padlets) for help with this process.
+
+## Personal Accounts
+
+If you are planning to use a personal account to teach with, please be aware of the [University's guidance on use of third-party tools that are not covered by a university licence](https://vle-support.york.ac.uk/other-tools/#externalnon-supported-tools), as there may be data protection issues which warrant a review. 
+
+We are also aware that a personal account will give you access to AI functionality that has not been cleared for usage by our IT department, and consequently has been blocked off for our University service. **We strongly recommend that these AI tools are not used with students on a personal account**. 
+
+If you do intend to use these tools, you will need to ensure that any AI usage complies with the [University’s guidelines on Generative AI Tools](https://www.york.ac.uk/it-services/tools/generative-ai-tools/).
 
 
 ## Alternative tools to replace Padlet
