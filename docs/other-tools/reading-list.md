@@ -8,7 +8,7 @@ tags:
 # Reading List
 
 !!! Summary
-    Module readings (eg. book chapters, journal papers) must be provided using the Leganto Reading List tool. This is included in site templates.
+    Module readings (eg. book chapters, journal papers) must be provided using the Leganto Reading List tool. This is University policy. A Reading List link is included in site templates.
 
 !!! principle "Relevant [VLE site design principles](../ultra/site-design-principles.md)"
 
@@ -25,26 +25,20 @@ Use the Reading List so that:
 
 ## Set up your Reading List
 
-- See [Reading Lists: a Practical Guide](https://subjectguides.york.ac.uk/readinglists) for details of setting up and using Reading Lists, and where to get help.
+- See [Reading Lists: a Practical Guide](https://subjectguides.york.ac.uk/readinglists) for details of setting up and using Reading Lists, and where to get help. Your [Faculty Librarian](https://subjectguides.york.ac.uk/subjectguides) can also offer guidance on planning your reading materials.
 - Structure the Reading List using weekly sections (or other sections matching module site structure) to aid navigation.
-- Label each item as Essential, Recommended or Background to help students plan workload and help the Library maintain appropriate stock.
-For advice on setting up your Reading List or using third-party materials appropriately, contact the Reading List team or your Faculty Librarian.
+- Label each item as Essential, Recommended or Background so the Library can source appropriate stock and to help students mange their workload.
 
 ## Troubleshooting
 
 ### The reading list link is not visible in the content area of my module site
-1. Select the area you want the Reading List icon to appear and click on the pink '+'
-2. Click 'create'
-3. Select the Content Market
-4. Hover over the Reading List option and click on the '+' next to it.
-5. The reading list icon should now apear in the content area. You can drag and drop the icon to move it to the desired location.
+
+1. Select the area you want the Reading List icon to appear and click on the **purple + icon**
+2. Click **Create** then select **Content Market**.
+3. Hover over the Reading List option and click the **+ icon** next to it.
+4. Ensure teh new Reading List link is *Visible to students*.
 
 ### My colleague can see the reading list but I cannot
-1. Check you are an instructor on the VLE site
-2. You will also need appropriate access on the reading list itself. Your module convenor should be able to make you a 'collaborator' on the reading list. [Additional info on how add Collaborators](https://subjectguides.york.ac.uk/c.php?g=641292&p=5084780#s-lg-box-wrapper-18929951)
-3. Ensure the reading list is published, so it is visible to all staff and students enrolled on the module VLE site.
 
-## Further help
-
-- For help with planning your reading materials: contact [your Faculty Librarian](https://subjectguides.york.ac.uk/subjectguides)
-- For technical help with setting up your Reading List: [contact the Library's Reading List Team](mailto:lib-readinglists@york.ac.uk)
+1. Check you are an instructor on the VLE site and that you are a 'collaborator' on the reading list. [Additional info on how to add Collaborators](https://subjectguides.york.ac.uk/c.php?g=641292&p=5084780#s-lg-box-wrapper-18929951)
+2. Ensure the reading list is published, so it is visible to all staff and students enrolled on the module VLE site.
