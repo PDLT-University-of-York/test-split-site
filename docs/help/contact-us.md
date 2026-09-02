@@ -46,13 +46,12 @@ Many general errors or issues with our systems (particularly **Learn Ultra** and
 Contact the relevant team for help with tools that we don't support.
 
 <div class="grid cards" markdown>
-<!-- renders in Live as a grid of index cards -->
 
 -   **IT Support**
 
     ---
 
-    - []:octicons-arrow-right-24: Contact IT Support](https://www.york.ac.uk/it-services/contact/)
+    - [:octicons-arrow-right-24: Contact IT Support](https://www.york.ac.uk/it-services/contact/)
     - [:octicons-arrow-right-24: Google tools](https://subjectguides.york.ac.uk/google)
     - [:octicons-arrow-right-24: Google Gemini](https://www.york.ac.uk/it-services/tools/google-gemini/)
     - [:octicons-arrow-right-24: Duo 2-factor authentication](https://www.york.ac.uk/it-services/services/duo/)
@@ -63,7 +62,7 @@ Contact the relevant team for help with tools that we don't support.
 
     ---
     
-    - :octicons-arrow-right-24: Team email: lib-readinglists@york.ac.uk
+    - [:octicons-arrow-right-24: Team email](reading-lists-support@york.ac.uk) 
     - [:octicons-arrow-right-24: Leganto Reading List](https://subjectguides.york.ac.uk/readinglists/)
     - [:octicons-arrow-right-24: Kortext](https://docs.google.com/document/d/1Pg0Vq-qcEnJ-MqwQZQoI4YMZTWlUHqYUtiv4f7Xha1c)
 
@@ -80,7 +79,7 @@ Contact the relevant team for help with tools that we don't support.
 
     - [:octicons-arrow-right-24: Timetabling](https://timetable.york.ac.uk/help)
     - [:octicons-arrow-right-24: SITS](https://www.york.ac.uk/about/departments/support-and-admin/student-systems/systems/sits-faq/)
-    - :octicons-arrow-right-24: Academic Integrity: contact integrity@york.ac.uk
+    - [:octicons-arrow-right-24: Academic Integrity](integrity@york.ac.uk)
 
 </div>
 
