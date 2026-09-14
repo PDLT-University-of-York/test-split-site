@@ -94,15 +94,6 @@ markdown_extensions: # allow various extra jazzy stuff
 extra:
   generator: false
   social: # links on the right side of the footer
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/UoYVLE
-      name: DET on Twitter (X)
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/uoyvle/
-      name: DET on Instagram
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCNRdi4ySV6gnXOojwv-xa5g
-      name: DET on YouTube
     - icon: simple/linktree
       link: https://linktr.ee/uoyvle
       name: DET's linktree
