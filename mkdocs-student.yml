@@ -1,0 +1,131 @@
+# Howdy! This is the config file that powers the site.
+# Any line with # at the start is "commented out"/hidden - used for instructions, details or draft stuff.
+
+####   WHITE SPACE IS IMPORTANT!   ###
+
+# Navigation 
+nav:
+  - Blog:
+    - blog/index.md
+  - Learn Ultra VLE:
+    - ultra/index.md
+    - Navigation: ultra/navigation.md
+    - Blackboard app: ultra/blackboard-app.md
+  - Panopto Videos:
+    - panopto/index.md
+    - Study with Lecture Capture: panopto/study-with-lecture-capture.md
+  - Assessment:
+    - assessment/index.md
+    - Anonymising work: assessment/anonymising-your-work.md
+    - Submitting assignments: assessment/submitting-assignments.md
+  - Accessibility: accessibility.md
+  - Help:
+    - Site index: ../help/site-index.md
+  
+# Site-wide settings
+
+site_name: Student Knowledge Hub - University of York
+site_url: https://vle-support.york.ac.uk/student/
+docs_dir: docs/student
+site_dir: site/student
+
+# info on left of footer
+copyright: <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
+
+theme:
+  name: material # DO NOT CHANGE
+  custom_dir: overrides # Where custom HTML pages, icons etc. live
+  extra_docs_dir:
+    - ../blog
+  font:
+    text: Inter
+  icon:
+    logo: octicons/home-16
+  palette: # Colour schemes
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom #UoY branding - dark blue
+      accent: custom #UoY branding - purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey #UoY branding-ish
+      accent: yellow #UoY branding-ish
+      toggle: 
+        icon: material/brightness-7
+        name: Switch to light mode
+  features:
+    - navigation.tabs # pulls top level sections into top nav bar
+    - navigation.tabs.sticky # top nav bar always visible (doesn't disappear on scroll)
+    # - navigation.sections # on = pages all shown, off = toggle to show/hide section pages
+    - navigation.indexes # attach a page to a section header directly (instead of appearing within  it) 
+    - navigation.path # in dev: adds breadcrumbs above page title
+    - navigation.footer # adds previous/next page links in footer
+    - navigation.top # adds Return to Top button
+    - navigation.tracking # adds current heading into page URL
+    - search.suggest # Suggest pages before 'hard' search
+    - content.tabs.link # linked content tabs
+
+markdown_extensions: # allow various extra jazzy stuff 
+  - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true # set up content tabs
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - attr_list
+  - md_in_html
+  - tables
+  - toc: # Within page Table of Contents (right hand nav bar)
+      permalink: false # adds an anchor link at end of each header (shown on hover)
+      title: In this guide # ToC title. Can't contain :
+      toc_depth: 3 # Heading level to go down to. heading 2 = main sections
+
+extra:
+  generator: false
+  social: # links on the right side of the footer
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/UoYVLE
+      name: DET on Twitter (X)
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/uoyvle/
+      name: DET on Instagram
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCNRdi4ySV6gnXOojwv-xa5g
+      name: DET on YouTube
+    - icon: simple/linktree
+      link: https://linktr.ee/uoyvle
+      name: DET's linktree
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:vle-support@york.ac.uk
+      name: Contact Support Desk
+  analytics:
+    provider: google
+    property: G-Q6B3RZT1K0
+
+extra_css:
+  - ../css/extra.css # our custom CSS styles
+
+extra_javascript:
+  - ../javascripts/extra.js # our custom Javascript
+
+plugins:
+  - blog:
+      blog_dir: blog
+      post_date_format: "medium"
+      pagination_per_page: 5
+  - search
