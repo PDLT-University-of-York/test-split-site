@@ -8,25 +8,25 @@ nav:
   - Blog:
     - blog/index.md
   - Learn Ultra VLE:
-    - ultra/index.md
-    - Navigation: ultra/navigation.md
-    - Blackboard app: ultra/blackboard-app.md
+    - student/ultra/index.md
+    - Navigation: student/ultra/navigation.md
+    - Blackboard app: student/ultra/blackboard-app.md
   - Panopto Videos:
-    - panopto/index.md
-    - Study with Lecture Capture: panopto/study-with-lecture-capture.md
+    - student/panopto/index.md
+    - Study with Lecture Capture: student/panopto/study-with-lecture-capture.md
   - Assessment:
-    - assessment/index.md
-    - Anonymising work: assessment/anonymising-your-work.md
-    - Submitting assignments: assessment/submitting-assignments.md
-  - Accessibility: accessibility.md
+    - student/assessment/index.md
+    - Anonymising work: student/assessment/anonymising-your-work.md
+    - Submitting assignments: student/assessment/submitting-assignments.md
+  - Accessibility: student/accessibility.md
   - Help:
-    - Site index: ../help/site-index.md
+    - Site index: help/site-index.md
   
 # Site-wide settings
 
 site_name: Student Knowledge Hub - University of York
 site_url: https://vle-support.york.ac.uk/student/
-docs_dir: docs/student
+docs_dir: docs
 site_dir: site/student
 
 # info on left of footer
@@ -35,8 +35,6 @@ copyright: <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 Uni
 theme:
   name: material # DO NOT CHANGE
   custom_dir: overrides # Where custom HTML pages, icons etc. live
-  extra_docs_dir:
-    - ../blog
   font:
     text: Inter
   icon:
@@ -118,10 +116,10 @@ extra:
     property: G-Q6B3RZT1K0
 
 extra_css:
-  - ../css/extra.css # our custom CSS styles
+  - css/extra.css # our custom CSS styles
 
 extra_javascript:
-  - ../javascripts/extra.js # our custom Javascript
+  - javascripts/extra.js # our custom Javascript
 
 plugins:
   - blog:
