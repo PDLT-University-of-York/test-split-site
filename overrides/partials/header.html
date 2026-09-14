@@ -1,0 +1,15 @@
+{% extends "partials/header.html" %}
+
+{% block header %}
+  {{ super() }}
+  
+  <!-- Audience Switcher Toggle -->
+  <div class="md-header__option audience-switcher">
+    <a href="https://vle-support.york.ac.uk/" class="audience-btn staff-btn" title="Switch to Staff Portal">
+      Staff
+    </a>
+    <a href="https://vle-support.york.ac.uk/student/" class="audience-btn student-btn" title="Switch to Student Hub">
+      Student
+    </a>
+  </div>
+{% endblock %}
