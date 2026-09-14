@@ -1,3 +1,44 @@
+/* Audience Switcher Container in Header */
+.audience-switcher {
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  padding: 2px;
+  margin-left: 0.8rem;
+}
+
+/* Base button styling */
+.audience-btn {
+  color: #ffffff !important;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 14px;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, opacity 0.2s ease;
+  opacity: 0.85;
+}
+
+.audience-btn:hover {
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+/* Highlights "Staff" when on root staff site */
+body:not([data-md-scrollfix*="student"]) .audience-btn.staff-btn {
+  background-color: #ffffff;
+  color: var(--md-primary-bg-color, #0f2b48) !important;
+  opacity: 1;
+}
+
+/* Highlights "Student" when under /student/ sub-site */
+body[data-md-scrollfix*="student"] .audience-btn.student-btn {
+  background-color: #ffffff;
+  color: var(--md-primary-bg-color, #0f2b48) !important;
+  opacity: 1;
+}
+
 /*** ----- adjust colours for UoY branding colour pallette */
 
 :root {
