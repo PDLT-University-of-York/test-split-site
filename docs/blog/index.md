@@ -1,3 +1,5 @@
-# Digital Education Team Blog
+# News & updates
 
-posts should go here
+Follow for system updates, help with preparing for annual tasks and more.
+
+---

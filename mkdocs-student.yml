@@ -5,32 +5,31 @@
 
 # Navigation 
 nav:
-  - Blog:
-    - blog/index.md
   - Learn Ultra VLE:
-    - student/ultra/index.md
-    - Navigation: student/ultra/navigation.md
-    - Blackboard app: student/ultra/blackboard-app.md
+    - Getting started: ultra/ultra-getting-started.md
+    - Navigation: ultra/navigation.md
+    - Blackboard app: ultra/blackboard-app.md
   - Panopto Videos:
-    - student/panopto/index.md
-    - Study with Lecture Capture: student/panopto/study-with-lecture-capture.md
+    - Getting started: panopto/panopto-getting-started.md
+    - Study with Lecture Capture: panopto/study-with-lecture-capture.md
   - Assessment:
-    - student/assessment/index.md
-    - Anonymising work: student/assessment/anonymising-your-work.md
-    - Submitting assignments: student/assessment/submitting-assignments.md
-  - Accessibility: student/accessibility.md
+    - Anonymising your work: assessment/anonymising-your-work.md
+    - Submitting assignments: assessment/submitting-assignments.md
+  - Accessibility: accessibility.md
   - Help:
-    - Site index: help/site-index.md
+    - blog/index.md # renders in nav as H1 of page (Updates & tips)
+    - Troubleshooting: help/troubleshooting.md
+  - "← To Staff Hub": https://vle-support.york.ac.uk # staff landing page
   
 # Site-wide settings
 
 site_name: Student Knowledge Hub - University of York
 site_url: https://vle-support.york.ac.uk/student/
-docs_dir: docs
+docs_dir: docs/student
 site_dir: site/student
 
 # info on left of footer
-copyright: <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
+copyright: <a href="https://vle-support.york.ac.uk">← To Staff Hub</a> | Copyright &copy; 2026 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
 
 theme:
   name: material # DO NOT CHANGE
@@ -57,11 +56,10 @@ theme:
         icon: material/brightness-7
         name: Switch to light mode
   features:
-    - navigation.tabs # pulls top level sections into top nav bar
-    - navigation.tabs.sticky # top nav bar always visible (doesn't disappear on scroll)
-    # - navigation.sections # on = pages all shown, off = toggle to show/hide section pages
-    - navigation.indexes # attach a page to a section header directly (instead of appearing within  it) 
-    - navigation.path # in dev: adds breadcrumbs above page title
+    # - navigation.tabs # pulls top level sections into top nav bar
+    # - navigation.tabs.sticky # top nav bar always visible (doesn't disappear on scroll)
+    - navigation.sections # on = pages all shown, off = toggle to show/hide section pages
+    # - navigation.indexes # attach a page to a section header directly (instead of appearing within  it) 
     - navigation.footer # adds previous/next page links in footer
     - navigation.top # adds Return to Top button
     - navigation.tracking # adds current heading into page URL
@@ -116,14 +114,28 @@ extra:
     property: G-Q6B3RZT1K0
 
 extra_css:
-  - css/extra.css # our custom CSS styles
+  - css/extra.css # our custom CSS styles (in overrides)
 
 extra_javascript:
-  - javascripts/extra.js # our custom Javascript
+  - ../javascripts/extra.js # our custom Javascript (in overrides)
 
 plugins:
   - blog:
-      blog_dir: blog
+      blog_dir: blog # name of blog folder
       post_date_format: "medium"
-      pagination_per_page: 5
+      pagination_per_page: 10
+      post_url_date_format: yyyy/MMM/dd
+      blog_toc: true
+      # post authors
+      authors: false
+      # authors_file: "blog/.authors.yml"
+      # post categories
+      categories_allowed:
+        - Ultra VLE
+        - Lecture Capture
+        - York Online
+        - Top tips
+        - System updates
+      archive: false # suppress separate sub-section
+      categories: false # suppress separate sub-section
   - search
