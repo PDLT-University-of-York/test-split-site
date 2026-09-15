@@ -24,4 +24,5 @@ jobs:
       - run: python scripts/pre-run-student.py
       - run: mkdocs build -f mkdocs-student.yml -d site/student
       # deploy final combined site
-      - run: mkdocs gh-deploy --force --site-dir site
+      ## --dirty = do not rebuild from mkdocs.yml
+      - run: mkdocs gh-deploy --force --dirty --site-dir site
