@@ -319,8 +319,7 @@ plugins:
         'tags-index.md': 'help/site-index.md'
         'assessment/group-assignment.md' : 'ultra/assignment-groups.md'
         'training/workshops-resources/index.md': 'training/index.md'
-  - search:
-    indexing: nav
+  - search
   # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit, IT WILL BREAK THINGS)
   # - unused_files
   - tags:
