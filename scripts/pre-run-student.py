@@ -35,7 +35,7 @@ def sync_mapped_files():
 
 # 2b. REMOVE SEARCH EXCLUSION FOR STUDENT SITE
 # added in staff build - this resets for student search
- def remove_search_exclusions():
+def remove_search_exclusions():
     """Removes search exclusions so Student pages are searchable in Student Hub."""
     student_dir = PROJECT_ROOT / "docs/student"
     
