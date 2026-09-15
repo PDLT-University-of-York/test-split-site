@@ -14,14 +14,14 @@ jobs:
       # install dependencies
       - run: pip install mkdocs-material
       - run: pip install mkdocs-redirects
-      # STUENT SITE
+      # STUDENT SITE
       # build student site into subfolder
-      - run: python scripts/pre-run-student.py
-      - run: mkdocs build -f mkdocs-student.yml -d site/student
-      # STAFF SITE 
-      # run python pre-build script
-      - run: python scripts/pre-run-staff.py
-      # build staff site into main output folder ('site')
-      - run: mkdocs build -f mkdoc-staff.yml -d site
+      # - run: python scripts/pre-run-student.py
+      # - run: mkdocs build -f mkdocs-student.yml -d site/student
+      # # STAFF SITE 
+      # # run python pre-build script
+      # - run: python scripts/pre-run-staff.py
+      # # build staff site into main output folder ('site')
+      # - run: mkdocs build -f mkdoc-staff.yml -d site
       # deploy final combined site
       - run: mkdocs gh-deploy --force
