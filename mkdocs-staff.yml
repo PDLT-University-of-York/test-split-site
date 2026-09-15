@@ -152,7 +152,6 @@ nav:
   - Help:
     - help/index.md
     - Troubleshooting common issues: help/troubleshooting.md
-    - News: help/news.md
     - System updates & issues: help/updates-issues.md
     - Contact us: help/contact-us.md
     - Taking screenshots: help/screenshots.md
@@ -163,7 +162,7 @@ nav:
     - Site index: help/site-index.md
   - News & updates:
     - blog/index.md
-  - "← To Student Hub": https://vle-support.york.ac.uk/student/
+  - "To Student Hub ➔": https://vle-support.york.ac.uk/student/
   
 # Site-wide settings
 
@@ -293,6 +292,7 @@ plugins:
       # authors_file: "blog/.authors.yml"
       # post categories
       categories_allowed:
+        - Monthly newsletter
         - System updates
         - Preparation
         - Training
