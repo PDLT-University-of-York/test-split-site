@@ -20,8 +20,8 @@ jobs:
       - run: mkdocs build -f mkdocs-student.yml -d site/student
       # # STAFF SITE 
       # # run python pre-build script
-      # - run: python scripts/pre-run-staff.py
+      - run: python scripts/pre-run-staff.py
       # # build staff site into main output folder ('site')
-      # - run: mkdocs build -f mkdoc-staff.yml -d site
+      - run: mkdocs build -f mkdoc-staff.yml -d site
       # deploy final combined site
       - run: mkdocs gh-deploy --force
