@@ -1,0 +1,343 @@
+# # Howdy! This is the config file that powers the site.
+# # Any line with # at the start is "commented out"/hidden - used for instructions, details or draft stuff.
+
+# ####   WHITE SPACE IS IMPORTANT!   ###
+
+# # Navigation 
+# nav:
+#   - Learn Ultra VLE:
+#     - ultra/index.md
+#     - VLE site design principles: ultra/site-design-principles.md
+#     - Template compliance reporting: ultra/site-template.md
+#     - Navigation | system & sites: ultra/navigation.md
+#     - Prepare sites for teaching: ultra/prepare-site.md
+#     - Site content:
+#       - Learning Modules & Folders: ultra/folder-learning-module.md
+#       - Document | pages: ultra/documents.md
+#       - Link: ultra/links.md
+#       - Test | quizzes & exams: ultra/test.md
+#       - Assignment | set up: ultra/assignment-set-up.md
+#       - Form | survey: ultra/form.md
+#       - Discussion: ultra/discussions.md
+#       - Journal | reflection: ultra/journal.md
+#       - Accessible Ultra sites: ultra/accessible-sites.md
+#       - Ally | accessibility tool: ultra/ally-tool.md
+#       - Ultra accessibility report: ultra/ally-accessibility-report.md
+#       - AI conversation: ultra/ai-conversation.md
+#       - AI Design Assistant: ultra/ai-da.md
+#       - Upload Files: ultra/files.md
+#       - Upload HTML: ultra/html-objects.md
+#       - Maths content: ultra/maths.md
+#       - Gradebook: ultra/gradebook.md
+#       - Course image (site banner): ultra/course-image.md
+#       - Content visibility & release conditions: ultra/content-visibility.md
+#       - Copy and duplicate content: ultra/copy-content.md
+#       - Batch edit: ultra/batch-edit.md
+#       - Export course package: ultra/export-course-package.md
+#       - Standard Ultra site names: ultra/site-name.md
+#       # - Manage content in shared sites: ultra/content-shared-sites.md
+#     - Communication & interaction:
+#       - Announcements: ultra/announcements.md
+#       # - Facilitate groupwork: ultra/groupwork.md
+#       - Course Groups: ultra/course-groups.md
+#       - Discussion: ultra/discussions.md
+#       - Messages: ultra/messages.md
+#       - Notifications: ultra/notifications.md
+#     - Assessment tools:
+#       - Gradebook: ultra/gradebook.md
+#       - Accommodations for SSPs: ultra/accommodations.md
+#       - Mark Schema: ultra/mark-schema.md
+#       - Marking Rubric: ultra/rubric.md
+#       - Assignment | set up: ultra/assignment-set-up.md
+#       - Assignment | marking: ultra/assignment-marking.md
+#       - Assignment | groupwork : ultra/assignment-groups.md
+#       - Test | quizzes & exams: ultra/test.md
+#       - Journal | reflection: ultra/journal.md
+#     - Site access & users:
+#       - Courses list: ultra/courses-list.md
+#       - Course access | site availability: ultra/course-access.md
+#       - Course staff: ultra/course-staff.md
+#       - User management: ultra/user-management.md
+#       - Rollover: ultra/rollover.md
+#     - Troubleshooting common issues: help/troubleshooting.md
+#   - Panopto Videos:
+#     - panopto/index.md
+#     - Getting started with Panopto: 
+#       - Logging into Panopto: panopto/log-in.md
+#       - Embedding Panopto Videos in Blackboard Ultra: panopto/embed-panopto-ultra.md
+#       - Replay Lecture Capture in Teaching Rooms: panopto/lecture-capture.md
+#     - Editing Content in Panopto:
+#       - Basic editing: panopto/basic-editing.md
+#       - Captions: panopto/captions.md
+#       - Add presentation slides: panopto/add-presentation.md
+#     - Managing video content: 
+#       - Copy a recording: panopto/copy-recording.md     
+#       - Moving a Recording: panopto/move-recording-ultra.md
+#       - Sharing a Recording: panopto/sharing-recordings.md
+#       - Renaming a Recording: panopto/renaming-recording.md
+#       - Reusing module media: panopto/reuse-module-media.md
+#       - Changing Video Availability: panopto/change-availability.md
+#       - Content Retention: panopto/content-retention.md
+#       # - Panopto Video Assessments: panopto/panopto-vid-assessment.md
+#       # - Adding Table of Contents and Using Smart Chapters: panopto/table-of-contents.md
+#       # - Adding Additional Streams: panopto/add-streams.md
+#       # - Assessment submissions: panopto/submissions.md
+#     # - Advanced Editing:
+#       # - Creating a Manual Recording (Windows): panopto/manual-recording-win.md
+#       # - Creating a Manual Recording (Mac): panopto/manual-recording-mac.md
+#       # - Making a Recording via Web Browser (Panopto Capture): panopto/panopto-capture.md
+#       # - Student Access to Panopto videos
+#   - Accessibility:
+#     - accessibility/index.md
+#     - Ally | accessibility tool: ultra/ally-tool.md
+#     - Ultra accessibility report: ultra/ally-accessibility-report.md
+#     - Accessible Ultra sites: ultra/accessible-sites.md
+#     - Accommodations for SSPs: ultra/accommodations.md
+#     - Practical Guide to Digital Accessibility: https://subjectguides.york.ac.uk/accessibility/home
+#     - Reading List | Accessibility: https://subjectguides.york.ac.uk/readinglists/accessibility 
+#     # - Accessible maths: accessibility/accessible-maths.md
+#   - Assessment:
+#     - assessment/index.md 
+#     - Which assessment tool?: assessment/which-assessment-tool.md
+#     - TurnItIn Feedback Studio:
+#       - assessment/tfs/index.md
+#       - TFS | set up: assessment/tfs/set-up.md
+#       - TFS | marking: assessment/tfs/marking.md
+#       - TFS & E:Vision | manage feedback & marks: assessment/tfs/feedback-marks.md
+#     - Ultra assessment tools:
+#       - Gradebook: ultra/gradebook.md
+#       - Accommodations for SSPs: ultra/accommodations.md
+#       - Mark Schema: ultra/mark-schema.md
+#       - Marking Rubric: ultra/rubric.md
+#       - Assignment | set up: ultra/assignment-set-up.md
+#       - Assignment | marking: ultra/assignment-marking.md
+#       - Assignment | groupwork : ultra/assignment-groups.md
+#       - Test | quizzes & exams: ultra/test.md
+#       - Journal | reflection: ultra/journal.md
+#     # - Panopto assessment submissions: panopto/submissions.md
+#     - Assessed presentations: assessment/assessed-presentation.md
+#     - Resit considerations: assessment/resits.md
+#     - Update due dates: assessment/update-due-dates.md
+#     - Assessment & LoA: assessment/assessment-loa.md
+#   - Other Tools:
+#     - other-tools/index.md
+#     - AI tools for Learning Technology: other-tools/ai.md
+#     - Canvas | VLE for York Online: other-tools/canvas.md
+#     - Mentimeter | polling:
+#       - other-tools/mentimeter/index.md
+#       - Log in: other-tools/mentimeter/log-in.md
+#       - Create a presentation: other-tools/mentimeter/create-presentation.md
+#       - Question types:
+#         - Closed questions: other-tools/mentimeter/question-types-closed.md
+#         - Open questions: other-tools/mentimeter/question-types-open.md
+#         - Q&A and comments: other-tools/mentimeter/question-types-qa-comments.md
+#         - Other question types: other-tools/mentimeter/question-types-other.md
+#         - Safe anonymity for open responses: other-tools/mentimeter/safe-anonymity.md
+#       - Collaborate & share: other-tools/mentimeter/collaborate-share.md
+#       - Present with Mentimeter: other-tools/mentimeter/present.md
+#       - Use asynchronously: other-tools/mentimeter/asynchronous-use.md
+#       - Display & analyse results: other-tools/mentimeter/results.md
+#       - Start with AI: other-tools/mentimeter/start-with-ai.md 
+#       - Case studies: other-tools/mentimeter/case-studies.md
+#      # - Training | Mentimeter resources: training/workshops-resources/mentimeter.md
+#     - Padlet alternatives: other-tools/padlet.md
+#     - Reading List: other-tools/reading-list.md
+#     - System data & analytics: other-tools/analytics.md
+#     - Xerte | interactive content: other-tools/xerte.md
+#   - Training:
+#     - training/index.md
+#     - Webinars: training/webinars.md
+#     - Case studies: training/case-studies/index.md 
+#     - CMALT: training/cmalt.md
+#   - Help:
+#     - help/index.md
+#     - Troubleshooting common issues: help/troubleshooting.md
+#     - News: help/news.md
+#     - System updates & issues: help/updates-issues.md
+#     - Contact us: help/contact-us.md
+#     - Taking screenshots: help/screenshots.md
+#     - Finding Usernames: help/usernames.md
+#     - Finding YCodes: help/ycodes.md
+#     - Intro for new staff: help/new-staff.md
+#     - International access: help/international-access.md
+#     - Site index: help/site-index.md
+  
+# # Site-wide settings
+
+# site_name: Guides for Online Learning Tools at University of York, UK
+# site_author: University of York
+# # info on left of footer
+# copyright: <a href="/help/site-index">Site index</a> | Copyright &copy; 2024 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
+
+# theme:
+#   name: material # DO NOT CHANGE
+#   custom_dir: overrides # Where custom HTML pages, icons etc. live
+#   font:
+#     text: Inter
+#   icon:
+#     logo: octicons/home-16
+#     tag: # Shown in tag label at the top of pages
+#       KeyGuideTeaching: material/key-variant
+#       KeyGuideAdmin: material/key-variant
+#       Accessibility: octicons/accessibility-inset-16
+#       Assessment: octicons/check-circle-16
+#       Communication: octicons/megaphone-16
+#       InteractiveContent: material/cursor-default-click-outline
+#       Training: material/school
+#       Help: material/help-circle-outline
+#       Ultra: material/laptop
+#       Panopto: fontawesome/solid/video
+#       OtherTools: material/toolbox
+#       CaseStudy: material/account-voice
+#   palette: # Colour schemes
+#     # Palette toggle for light mode
+#     - media: "(prefers-color-scheme: light)"
+#       scheme: default
+#       primary: custom #UoY branding - dark blue
+#       accent: custom #UoY branding - purple
+#       toggle:
+#         icon: material/brightness-4
+#         name: Switch to dark mode
+#     # Palette toggle for dark mode
+#     - media: "(prefers-color-scheme: dark)"
+#       scheme: slate
+#       primary: blue grey #UoY branding-ish
+#       accent: yellow #UoY branding-ish
+#       toggle: 
+#         icon: material/brightness-7
+#         name: Switch to light mode
+#   features:
+#     - navigation.tabs # pulls top level sections into top nav bar
+#     - navigation.tabs.sticky # top nav bar always visible (doesn't disappear on scroll)
+#     # - navigation.sections # on = pages all shown, off = toggle to show/hide section pages
+#     - navigation.indexes # attach a page to a section header directly (instead of appearing within  it) 
+#     - navigation.path # in dev: adds breadcrumbs above page title
+#     - navigation.footer # adds previous/next page links in footer
+#     - navigation.top # adds Return to Top button
+#     - navigation.tracking # adds current heading into page URL
+#     - search.suggest # Suggest pages before 'hard' search
+#     - content.tabs.link # linked content tabs
+
+# markdown_extensions: # allow various extra jazzy stuff 
+#   - meta
+#   - admonition
+#   - pymdownx.details
+#   - pymdownx.superfences:
+#       custom_fences:
+#         - name: mermaid
+#           class: mermaid
+#           format: !!python/name:pymdownx.superfences.fence_code_format
+#   - pymdownx.tabbed:
+#       alternate_style: true # set up content tabs
+#   - pymdownx.emoji:
+#       emoji_index: !!python/name:material.extensions.emoji.twemoji
+#       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+#       options:
+#         custom_icons:
+#           - overrides/.icons
+#   - attr_list
+#   - md_in_html
+#   - tables
+#   - toc: # Within page Table of Contents (right hand nav bar)
+#       permalink: false # adds an anchor link at end of each header (shown on hover)
+#       title: In this guide # ToC title. Can't contain :
+#       toc_depth: 3 # Heading level to go down to. heading 2 = main sections
+
+# extra:
+#   generator: false
+#   social: # links on the right side of the footer
+#     - icon: fontawesome/brands/twitter 
+#       link: https://twitter.com/UoYVLE
+#       name: DET on Twitter (X)
+#     - icon: fontawesome/brands/instagram
+#       link: https://www.instagram.com/uoyvle/
+#       name: DET on Instagram
+#     - icon: fontawesome/brands/youtube
+#       link: https://www.youtube.com/channel/UCNRdi4ySV6gnXOojwv-xa5g
+#       name: DET on YouTube
+#     - icon: simple/linktree
+#       link: https://linktr.ee/uoyvle
+#       name: DET's linktree
+#     - icon: fontawesome/solid/paper-plane
+#       link: mailto:vle-support@york.ac.uk
+#       name: Contact Support Desk
+#   tags: # To link tag text to the icons in 'theme' section
+#     Key guide - teaching: KeyGuideTeaching
+#     Key guide - admin: KeyGuideAdmin
+#     Accessibility: Accessibility
+#     Assessment: Assessment
+#     Communication: Communication
+#     Interactive content: InteractiveContent
+#     Training: Training
+#     Help: Help
+#     Ultra: Ultra
+#     Panopto: Panopto
+#     Other tools: OtherTools
+#     Case study: CaseStudy
+#   analytics:
+#     provider: google
+#     property: G-Q6B3RZT1K0
+
+# extra_css:
+#   - css/extra.css # our custom CSS styles
+
+# extra_javascript:
+#   - javascripts/extra.js # our custom Javascript
+
+# plugins: 
+#   - redirects: # https://github.com/mkdocs/mkdocs-redirects 
+#       redirect_maps:
+#       # 'folder/old-page.md': 'folder/new-page.md'
+#         'ultra/access-sites.md': 'ultra/courses-list.md'
+#         'ultra/course-links.md': 'ultra/links.md#course-link'
+#         'ultra/course-roles.md' : 'ultra/user-management.md#user-roles'
+#         'ultra/embed-content.md': 'ultra/documents.md#block-html'
+#         'ultra/enrol-cohort.md' : 'ultra/user-management.md#enrol-a-cohort-or-user-group'
+#         'ultra/enrol-user.md' : 'ultra/user-management.md#enrol-individual-users'
+#         'ultra/external-users.md' : 'ultra/user-management.md#external-user-access'
+#         'ultra/images.md': 'ultra/documents.md#block-image'
+#         'ultra/navigate-ultra-site.md' : 'ultra/getting-started.md#ultra-site-structure--module-template'
+#         'ultra/prepare-module-site.md': 'ultra/prepare-site.md' # keep long term
+#         'ultra/release-conditions.md': 'ultra/content-visibility.md'
+#         'ultra/site-availability.md' : 'ultra/course-access.md'
+#         'ultra/text.md': 'ultra/documents.md'    
+#         'ultra/ultra-template.md': 'ultra/prepare-site.md'  # keep long term
+#         'ultra/getting-started.md': 'ultra/navigation.md'
+#         'ultra/unenrol-user.md' : 'ultra/user-management.md#unenrol-a-user'
+#         'ultra/workshop-ultra-essentials-teaching.md': 'training/index.md'
+#         'ultra/youtube.md': 'ultra/documents.md#videos'
+#         'panopto/logging-into-panopto.md': 'panopto/log-in.md'
+#         'panopto/panopto-basic-editing.md': 'panopto/basic-editing.md'
+#         'panopto/reusing-module-media.md': 'panopto/reuse-module-media.md'
+#         'panopto/editing-captions.md': 'panopto/captions.md'
+#         'contact-us/index.md': 'help/contact-us.md'
+#         'updates/index.md': 'help/updates-issues.md'
+#         'updates/suggestions.md': 'help/contact-us.md'
+#         'contact-us/usernames.md': 'help/usernames.md'
+#         'contact-us/ycodes.md': 'help/ycodes.md'
+#         'contact-us/screenshots.md': 'help/screenshots.md'
+#         'tags-index.md': 'help/site-index.md'
+#         'assessment/group-assignment.md' : 'ultra/assignment-groups.md'
+#         'training/workshops-resources/index.md': 'training/index.md'
+#   - search
+#   # Unused file checker - https://github.com/wilhelmer/mkdocs-unused-files (use only in command line, do not commit, IT WILL BREAK THINGS)
+#   # - unused_files
+#   - tags:
+#       tags_file: help/site-index.md
+#       tags_allowed:
+#         - Key guide - teaching
+#         - Key guide - admin
+#         - Accessibility
+#         - Assessment
+#         - Communication
+#         - Interactive content
+#         - Training
+#         - Help
+#         - Ultra
+#         - Panopto
+#         - Other tools
+#         - Case study
+
+# # Extra folders that the local server should watch for changes (always watches docs folder & mkdocs.yml)
+# watch:
+# - overrides
