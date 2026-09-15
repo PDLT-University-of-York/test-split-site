@@ -24,4 +24,4 @@ jobs:
       # # build staff site into main output folder ('site')
       - run: mkdocs build -f mkdocs-staff.yml -d site
       # deploy final combined site
-      - run: mkdocs gh-deploy --force --dir site
+      - run: mkdocs gh-deploy --force --site-dir site
