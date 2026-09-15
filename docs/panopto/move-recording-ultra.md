@@ -2,7 +2,6 @@
 tags:
 # Delete to leave only relevant tags
     - Panopto
-   
 ---
 
 # Moving a Recording in Ultra
