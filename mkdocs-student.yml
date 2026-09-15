@@ -16,7 +16,7 @@ nav:
   - Help:
     - blog/index.md # renders in nav as H1 of page (Updates & tips)
     - Troubleshooting: help/troubleshooting.md
-  - "To Staff Hub ➔": https://vle-support.york.ac.uk # staff landing page
+  - "To Staff Hub ➔": https://pdlt-university-of-york.github.io/test-split-site/ # staff landing page
   
 # Site-wide settings
 
