@@ -1,5 +1,10 @@
 #  STUDENT HUB
 
+# Basic site details
+site_name: Student Knowledge Hub - University of York
+site_description: Student-facing guides for the tools supported by the Digital Education Template
+site_url: https://pdlt-university-of-york.github.io/test-split-site/student/
+
 # Navigation 
 nav:
   - Learn Ultra VLE:
@@ -20,8 +25,6 @@ nav:
   
 # Site-wide settings
 
-site_name: Student Knowledge Hub - University of York
-site_url: https://vle-support.york.ac.uk/student/
 docs_dir: docs/student
 site_dir: site/student
 
@@ -126,4 +129,9 @@ plugins:
         - System updates
       archive: false # suppress separate sub-section
       categories: false # suppress separate sub-section
+  - rss:
+      match_path: "blog/posts/.*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
   - search

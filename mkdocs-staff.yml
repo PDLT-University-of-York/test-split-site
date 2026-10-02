@@ -1,5 +1,10 @@
 # STAFF HUB
 
+# Basic site details
+site_name: Guides for Online Learning Tools at University of York, UK
+site_description: Staff-facing guides for the tools supported by the Digital Education Template
+site_url: https://pdlt-university-of-york.github.io/test-split-site/
+
 # Navigation 
 nav:
   - Learn Ultra VLE:
@@ -162,8 +167,6 @@ nav:
   - "To Student Hub ➔": https://pdlt-university-of-york.github.io/test-split-site/student/
   
 # Site-wide settings
-
-site_name: Guides for Online Learning Tools at University of York, UK
 site_author: University of York
 # info on left of footer
 copyright: <a href="https://vle-support.york.ac.uk/student">← To Student Hub</a> | Copyright &copy; 2026 University of York, UK | <a href="https://www.york.ac.uk/about/legal-statements/#tab-1">Legal statements</a>
@@ -295,6 +298,13 @@ plugins:
         - Training
         - News and publications
         - Students
+  - rss:
+      match_path: "blog/posts/.*"
+      pretty_print: true
+      date_from_meta:
+        as_creation: "date"
+        datetime_format: "%Y-%m-%d"
+        default_timezone: "GMT"
   - redirects: # https://github.com/mkdocs/mkdocs-redirects 
       redirect_maps:
       # 'folder/old-page.md': 'folder/new-page.md'
