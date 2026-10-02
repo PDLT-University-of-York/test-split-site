@@ -14,6 +14,7 @@ jobs:
       # install dependencies
       - run: pip install mkdocs-material
       - run: pip install mkdocs-redirects
+      - run: pip install mkdocs-rss-plugin
       # # STAFF SITE 
       # # run python pre-build script
       - run: python scripts/pre-run-staff.py
