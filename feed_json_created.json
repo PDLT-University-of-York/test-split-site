@@ -1,0 +1,114 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Guides for Online Learning Tools at University of York, UK",
+    "home_page_url": "https://pdlt-university-of-york.github.io/test-split-site/",
+    "feed_url": "https://pdlt-university-of-york.github.io/test-split-site/feed_json_created.json",
+    "description": "Staff-facing guides for the tools supported by the Digital Education Template",
+    "icon": null,
+    "authors": [
+        {
+            "name": "University of York"
+        }
+    ],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Oct/02/staff-test-post-1/",
+            "url": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Oct/02/staff-test-post-1/",
+            "title": "STAFF Test post 1",
+            "content_html": "<h1>STAFF Test post 1</h1>\n<p>Even more key tips to make your life easier when using the Ultra VLE.</p>",
+            "image": null,
+            "date_modified": "2026-10-02T15:46:05+00:00",
+            "date_published": "2026-10-02T00:00:00+00:00",
+            "authors": [],
+            "tags": [
+                "Monthly newsletter"
+            ]
+        },
+        {
+            "id": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Sep/15/accessible-sites/",
+            "url": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Sep/15/accessible-sites/",
+            "title": "Accessible sites",
+            "content_html": "<h1>Accessible sites</h1>\n<p>Educational Adviser Gandalf gives some top tips for improving your site's accessibility.</p>",
+            "image": null,
+            "date_modified": "2026-10-02T15:46:05+00:00",
+            "date_published": "2026-09-15T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": null
+                }
+            ],
+            "tags": [
+                "Training"
+            ]
+        },
+        {
+            "id": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Sep/10/new-semester/",
+            "url": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Sep/10/new-semester/",
+            "title": "New Semester",
+            "content_html": "<h1>New Semester</h1>\n<p>Sort your sites out!</p>",
+            "image": null,
+            "date_modified": "2026-10-02T15:46:05+00:00",
+            "date_published": "2026-09-10T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": null
+                }
+            ],
+            "tags": [
+                "Preparation"
+            ]
+        },
+        {
+            "id": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Aug/28/new-ultra-vle-features-released/",
+            "url": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Aug/28/new-ultra-vle-features-released/",
+            "title": "New Ultra VLE Features Released",
+            "content_html": "<h1>New Ultra VLE Features Released</h1>\n<p>We have updated our guides for Blackboard Ultra to reflect the latest updates to the Gradebook and assignment tools.</p>",
+            "image": null,
+            "date_modified": "2026-10-02T15:46:05+00:00",
+            "date_published": "2026-08-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": null
+                }
+            ],
+            "tags": [
+                "System updates"
+            ]
+        },
+        {
+            "id": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Aug/20/new-semester/",
+            "url": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Aug/20/new-semester/",
+            "title": "New Semester",
+            "content_html": "<h1>New Semester</h1>\n<p>OL1 is starting this week. Sort your sites out!</p>",
+            "image": null,
+            "date_modified": "2026-10-02T15:46:05+00:00",
+            "date_published": "2026-08-20T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": null
+                }
+            ],
+            "tags": [
+                "Preparation"
+            ]
+        },
+        {
+            "id": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Aug/01/resit-cap-is-coming/",
+            "url": "https://pdlt-university-of-york.github.io/test-split-site/blog/2026/Aug/01/resit-cap-is-coming/",
+            "title": "Resit CAP is coming!",
+            "content_html": "<h1>Resit CAP is coming!</h1>\n<p>We have updated our guides for Blackboard Ultra to reflect the latest updates to the Gradebook and assignment tools.</p>",
+            "image": null,
+            "date_modified": "2026-10-02T15:46:05+00:00",
+            "date_published": "2026-08-01T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": null
+                }
+            ],
+            "tags": [
+                "Preparation"
+            ]
+        }
+    ]
+}
