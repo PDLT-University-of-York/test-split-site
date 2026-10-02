@@ -131,7 +131,11 @@ plugins:
       categories: false # suppress separate sub-section
   - rss:
       match_path: "blog/posts/.*"
+      pretty_print: true
       date_from_meta:
-        as_creation: date.created
-        as_update: date.updated
+        as_creation: "date"
+        datetime_format: "%Y-%m-%d"
+        default_timezone: "GMT"
+      categories:
+        - categories
   - search

@@ -305,6 +305,8 @@ plugins:
         as_creation: "date"
         datetime_format: "%Y-%m-%d"
         default_timezone: "GMT"
+      categories:
+        - categories
   - redirects: # https://github.com/mkdocs/mkdocs-redirects 
       redirect_maps:
       # 'folder/old-page.md': 'folder/new-page.md'
